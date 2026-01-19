@@ -11,15 +11,24 @@ _**Zeitan Sun, Dongfang Li, Baotian Hu, Min Zhang**_
 
 ## 🎏 Overview
 
-<div align=center><img src="https://github.com/HITsz-TMG/TMGNLP/tree/main/ComMCS/pics/intro.png" height="100%" width="78%"/></div>
+<div align=center><img src="./pics/intro.png" height="100%" width="78%"/></div>
 
 **ComMCS** tries to reduce the sampling variance without introducing additional LLM inference cost when optimizing value-based process verifiers. ComMCS reshapes the output of process verifier as the one-step value distribution, and achieve the variance reduction via variance expression, variance approximation and variance comparison.
 
 
-## 🌈 Visualization
+## 🌈 Results
+
+We perform experiments in GSM8K and MATH-500 on tasks including Best-of-N sampling and beam search.
+
+<div align=center><img src="./pics/result_bon.png" height="100%" width="78%"/></div>
+
+<div align=center><img src="./pics/result_bs.png" height="100%" width="78%"/></div>
 
 
 ## 🌟 Usage
+
+
+
 
 ## 📚 Citation
 If you find ComMCS useful for your research and applications, please cite using this BibTeX:
