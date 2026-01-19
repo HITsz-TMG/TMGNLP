@@ -1,11 +1,20 @@
-<h2 align="center"> <a href="https://github.com/HITsz-TMG/TMGNLP/ComMCS">Improving Value-based Process Verifier via Low-Cost Variance Reduction
-</a></h2>
+<div align="center">
+
+<h2><a href="https://arxiv.org/abs/2508.10539">Improving Value-based Process Verifier via Low-Cost Variance Reduction</a></h2>
+
+ <b> AAAI 2026 </b>
 
 <div align="center">
 
 <!-- **Affiliations:** -->
 
-_**Zeitan Sun, Dongfang Li, Baotian Hu, Min Zhang**_
+_**[Zeitan Sun](https://scholar.google.com/citations?user=ToBoU8UAAAAJ), [Dongfang Li](https://crazyofapple.github.io/), [Baotian Hu](https://scholar.google.com/citations?user=5NiJ1VoAAAAJ), [Min Zhang](https://scholar.google.com/citations?user=CncXH-YAAAAJ)**_
+
+Harbin Institute of Technology, Shenzhen
+
+🚀 Welcome to the repo of **ComMCS**.
+
+If you appreciate our project, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.</h2>
 
 </div>
 
@@ -18,6 +27,11 @@ _**Zeitan Sun, Dongfang Li, Baotian Hu, Min Zhang**_
 
 ## 🌈 Results
 
+The ComMCS method can approximately increase **25%** sampling efficiency.
+
+<div align=center><img src="./pics/result_estimation.png" height="100%" width="78%"/></div>
+
+
 We perform experiments in GSM8K and MATH-500 on tasks including Best-of-N sampling and beam search.
 
 <div align=center><img src="./pics/result_bon.png" height="100%" width="78%"/></div>
@@ -27,8 +41,23 @@ We perform experiments in GSM8K and MATH-500 on tasks including Best-of-N sampli
 
 ## 🌟 Usage
 
+<summary><h3>Prepare Environment</h3></summary>
+```bash
+conda create -n commce python=3.11
+pip install -r requirements.txt
+```
 
+<summary><h3>Train Verifier</h3></summary>
 
+```bash
+bash scripts/run_verifier.sh
+```
+
+<summary><h3>Evaluation</h3></summary>
+```bash
+cd best_of_n && bash select_top.sh # For best-of-n experiments
+cd beam_search && bash run_search.sh # For beam search experiments 
+```
 
 ## 📚 Citation
 If you find ComMCS useful for your research and applications, please cite using this BibTeX:
