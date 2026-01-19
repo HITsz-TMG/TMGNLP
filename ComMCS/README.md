@@ -28,14 +28,14 @@ If you appreciate our project, please consider giving us a star ⭐ on GitHub to
 
 The ComMCS method can approximately increase **25%** sampling efficiency.
 
-<div align=center><img src="./pics/result_estimation.png" height="100%" width="78%"/></div>
+<div align=center><img src="./pics/result_estimation.png" height="100%" width="45%"/></div>
 
 
 We perform experiments in GSM8K and MATH-500 on tasks including Best-of-N sampling and beam search.
 
 <div align=center><img src="./pics/result_bon.png" height="100%" width="78%"/></div>
 
-<div align=center><img src="./pics/result_bs.png" height="100%" width="78%"/></div>
+<div align=center><img src="./pics/result_bs.png" height="100%" width="45%"/></div>
 
 
 ## 🌟 Usage
