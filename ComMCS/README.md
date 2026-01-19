@@ -4,7 +4,6 @@
 
  <b> AAAI 2026 </b>
 
-<div align="center">
 
 <!-- **Affiliations:** -->
 
@@ -41,21 +40,24 @@ We perform experiments in GSM8K and MATH-500 on tasks including Best-of-N sampli
 
 ## 🌟 Usage
 
-<summary><h3>Prepare Environment</h3></summary>
+### Prepare Environment
+
 ```bash
 conda create -n commce python=3.11
+
 pip install -r requirements.txt
 ```
 
-<summary><h3>Train Verifier</h3></summary>
+### Train Verifier
 
 ```bash
 bash scripts/run_verifier.sh
 ```
 
-<summary><h3>Evaluation</h3></summary>
+### Evaluation
 ```bash
-cd best_of_n && bash select_top.sh # For best-of-n experiments
+cd best_of_n && python generate_samples.py && bash select_top.sh # For best-of-n experiments
+
 cd beam_search && bash run_search.sh # For beam search experiments 
 ```
 
