@@ -1,0 +1,2954 @@
+[
+  {
+    "idx": 0,
+    "title": "turn_0 (D1:1)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Hey Jon! Good to see you. What's up? Anything new?",
+    "session": "E1_session_1",
+    "dia_id": "D1:1",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 1,
+    "title": "turn_1 (D1:2)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] Hey Gina! Good to see you too. Lost my job as a banker yesterday, so I'm gonna take a shot at starting my own business.",
+    "session": "E1_session_1",
+    "dia_id": "D1:2",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 2,
+    "title": "turn_2 (D1:3)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Sorry about your job Jon, but starting your own business sounds awesome! Unfortunately, I also lost my job at Door Dash this month. What business are you thinking of?",
+    "session": "E1_session_1",
+    "dia_id": "D1:3",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 3,
+    "title": "turn_3 (D1:4)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] Sorry to hear that! I'm starting a dance studio 'cause I'm passionate about dancing and it'd be great to share it with others.",
+    "session": "E1_session_1",
+    "dia_id": "D1:4",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 4,
+    "title": "turn_4 (D1:5)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] That's cool, Jon! What got you into this biz?",
+    "session": "E1_session_1",
+    "dia_id": "D1:5",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 5,
+    "title": "turn_5 (D1:6)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] I've been into dancing since I was a kid and it's been my passion and escape. I wanna start a dance studio so I can teach others the joy that dancing brings me.",
+    "session": "E1_session_1",
+    "dia_id": "D1:6",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 6,
+    "title": "turn_6 (D1:7)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Wow Jon, same here! Dance is pretty much my go-to for stress relief. Got any fave styles?",
+    "session": "E1_session_1",
+    "dia_id": "D1:7",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 7,
+    "title": "turn_7 (D1:8)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] Cool, Gina! I love all dances, but contemporary is my top pick. It's so expressive and powerful! What's your fave?",
+    "session": "E1_session_1",
+    "dia_id": "D1:8",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 8,
+    "title": "turn_8 (D1:9)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Yeah, me too! Contemporary dance is so expressive and graceful - it really speaks to me.",
+    "session": "E1_session_1",
+    "dia_id": "D1:9",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 9,
+    "title": "turn_9 (D1:10)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] Wow, great idea! Let's go to a dance class, it'll be so much fun!",
+    "session": "E1_session_1",
+    "dia_id": "D1:10",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 10,
+    "title": "turn_10 (D1:11)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Yeah! Let's explore some new dance moves. We should plan a dance session soon!",
+    "session": "E1_session_1",
+    "dia_id": "D1:11",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 11,
+    "title": "turn_11 (D1:12)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] Yeah definitely! Wanna see my moves next Fri? Can't wait!",
+    "session": "E1_session_1",
+    "dia_id": "D1:12",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 12,
+    "title": "turn_12 (D1:13)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Sounds great, Jon! Next Friday works. Let's boogie!",
+    "session": "E1_session_1",
+    "dia_id": "D1:13",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 13,
+    "title": "turn_13 (D1:14)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] [Image: a photography of a man in a suit is performing a dance] Wow, I'm excited too! This is gonna be great!",
+    "session": "E1_session_1",
+    "dia_id": "D1:14",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 14,
+    "title": "turn_14 (D1:15)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Wow! What did you get?",
+    "session": "E1_session_1",
+    "dia_id": "D1:15",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 15,
+    "title": "turn_15 (D1:16)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] Woah, that pic's from when my dance crew took home first in a local comp last year. It was amazing up on that stage! I'm super keen to spread that intensity with other peeps. Gina, you ever been in any dance comps or shows?",
+    "session": "E1_session_1",
+    "dia_id": "D1:16",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 16,
+    "title": "turn_16 (D1:17)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] [Image: a photography of a couple of people standing next to each other] I used to compete in a few dance competitions and shows - my fav memory was when my team won first place at a regionals at age fifteen. It was an awesome feeling of accomplishment!",
+    "session": "E1_session_1",
+    "dia_id": "D1:17",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 17,
+    "title": "turn_17 (D1:18)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] Wow! Winning first place is amazing! What dance were you doing?",
+    "session": "E1_session_1",
+    "dia_id": "D1:18",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 18,
+    "title": "turn_18 (D1:19)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Thanks! We just did a contemporary piece called \"Finding Freedom.\" It was really emotional and powerful.",
+    "session": "E1_session_1",
+    "dia_id": "D1:19",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 19,
+    "title": "turn_19 (D1:20)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] [Image: a photography of a room with a view of the ocean and a few yoga mats] Wow, that must've been great! Check my ideal dance studio by the water.",
+    "session": "E1_session_1",
+    "dia_id": "D1:20",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 20,
+    "title": "turn_20 (D1:21)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Cool setup! Man, you can't deny that view! Got time to rehearse with a biz and a new store?",
+    "session": "E1_session_1",
+    "dia_id": "D1:21",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 21,
+    "title": "turn_21 (D1:22)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] Hopefully, we will find a place like this that will inspire us!",
+    "session": "E1_session_1",
+    "dia_id": "D1:22",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 22,
+    "title": "turn_22 (D1:23)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Wow, it looks great! What dances do you practice? Got any projects planned?",
+    "session": "E1_session_1",
+    "dia_id": "D1:23",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 23,
+    "title": "turn_23 (D1:24)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] [Image: a photo of a group of dancers in white dresses on a stage] Thanks! I rehearsed with a small group of dancers after work. We do all kinds of dances, from contemporary to hip-hop. We've got some cool projects in the works. Finishing up choreography to perform at a nearby festival next month. Can't wait!",
+    "session": "E1_session_1",
+    "dia_id": "D1:24",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 24,
+    "title": "turn_24 (D1:25)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Wow, it looks awesome! Are they yours at the festival? They're so graceful!",
+    "session": "E1_session_1",
+    "dia_id": "D1:25",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 25,
+    "title": "turn_25 (D1:26)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] Yeah, they're the ones performing at the festival! They've been practicing hard and will definitely impress with their grace and skill.",
+    "session": "E1_session_1",
+    "dia_id": "D1:26",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 26,
+    "title": "turn_26 (D1:27)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Gina] Wow, they look great! Can't wait to see them rock the festival. Gonna be awesome!",
+    "session": "E1_session_1",
+    "dia_id": "D1:27",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 27,
+    "title": "turn_27 (D1:28)",
+    "text": "[t=4:04 pm on 20 January, 2023, speaker=Jon] Yeah, awesome! Glad to be part of it.",
+    "session": "E1_session_1",
+    "dia_id": "D1:28",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 28,
+    "title": "turn_28 (D2:1)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Gina] Hey Jon! Long time no see! Things have been hectic lately. I just launched an ad campaign for my clothing store in hopes of growing the business. Starting my own store and taking risks is both scary and rewarding. I'm excited to see where it takes me!",
+    "session": "E1_session_2",
+    "dia_id": "D2:1",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 29,
+    "title": "turn_29 (D2:2)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Jon] Hey Gina! Whoa, your store looks great! All your hard work really paid off - congrats! Must be awesome to see your stuff on display.",
+    "session": "E1_session_2",
+    "dia_id": "D2:2",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 30,
+    "title": "turn_30 (D2:3)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Gina] Thanks a bunch! It's awesome seeing my vision happen. How's the dance studio going? Did you find the right spot?",
+    "session": "E1_session_2",
+    "dia_id": "D2:3",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 31,
+    "title": "turn_31 (D2:4)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Jon] [Image: a photo of a bathroom with a blue floor and a pink wall] Hey Gina! Thanks for asking. I'm on the hunt for the ideal spot for my dance studio and it's been quite a journey! I've been looking at different places and picturing how the space would look. I even found a place with great natural light! Oh, I've been to Paris yesterday! It was sooo cool.",
+    "session": "E1_session_2",
+    "dia_id": "D2:4",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 32,
+    "title": "turn_32 (D2:5)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Gina] Wow, nice spot! Where is it? Got any other features you want to think about before you decide? Paris?! That is really great Jon! Never had a chance to visit it. Been only to Rome once.",
+    "session": "E1_session_2",
+    "dia_id": "D2:5",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 33,
+    "title": "turn_33 (D2:6)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Jon] It's downtown which is awesome cuz it's easy to get to. Plus the natural light! Gotta check the size & floor quality too. We need a good dance floor with enough bounce for me & my students to dance safely.",
+    "session": "E1_session_2",
+    "dia_id": "D2:6",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 34,
+    "title": "turn_34 (D2:7)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Gina] Definitely! Dance floors help avoid injuries and make dancing more enjoyable. You thinking about it is great. Any particular type of flooring you like?",
+    "session": "E1_session_2",
+    "dia_id": "D2:7",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 35,
+    "title": "turn_35 (D2:8)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Jon] Yeah, good flooring's crucial. I'm after Marley flooring, which is what dance studios usually use. It's great 'cause it's grippy but still lets you move, plus it's tough and easy to keep clean.",
+    "session": "E1_session_2",
+    "dia_id": "D2:8",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 36,
+    "title": "turn_36 (D2:9)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Gina] Sounds great! Marley's perfect; it's got the right amount of grip and movement. Can't wait to see your dance studio done!",
+    "session": "E1_session_2",
+    "dia_id": "D2:9",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 37,
+    "title": "turn_37 (D2:10)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Jon] Yeah, can't wait to see it done! Looking for the right place and getting everything ready has been a mix of exciting and nerve-wracking, but I'm determined to make it work. It'll be worth it!",
+    "session": "E1_session_2",
+    "dia_id": "D2:10",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 38,
+    "title": "turn_38 (D2:11)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Gina] Believe in yourself, Jon! The process may be tough, but you got this. Push through and it'll be worth it. Don't forget to take breaks and dance it out when you need to destress!",
+    "session": "E1_session_2",
+    "dia_id": "D2:11",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 39,
+    "title": "turn_39 (D2:12)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Jon] Glad I have you in my corner! Gotta make time to dance and vent, that's for sure. We'll make it through this - hang in there!",
+    "session": "E1_session_2",
+    "dia_id": "D2:12",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 40,
+    "title": "turn_40 (D2:13)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Gina] Thanks, Jon! Appreciate your support!",
+    "session": "E1_session_2",
+    "dia_id": "D2:13",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 41,
+    "title": "turn_41 (D2:14)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Jon] Let's keep going and chase our dreams!",
+    "session": "E1_session_2",
+    "dia_id": "D2:14",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 42,
+    "title": "turn_42 (D2:15)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Gina] Yeah! We've done so much, and there's nothing but good stuff coming. Let's keep going after our goals and making them happen.",
+    "session": "E1_session_2",
+    "dia_id": "D2:15",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 43,
+    "title": "turn_43 (D2:16)",
+    "text": "[t=2:32 pm on 29 January, 2023, speaker=Jon] Success is almost here. We got this!",
+    "session": "E1_session_2",
+    "dia_id": "D2:16",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 44,
+    "title": "turn_44 (D3:1)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Jon] Hey Gina, hope you're doing ok! Still following my passion for dance. It's been bumpy, but I'm determined to make it work. I'm still searching for a place to open my dance studio.",
+    "session": "E1_session_3",
+    "dia_id": "D3:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 45,
+    "title": "turn_45 (D3:2)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Gina] [Image: a photography of a shopping mall with a glass entrance and a sign] Hi Jon! So happy you're pushing forward with dancing! Inspiring 💪 I emailed some wholesalers and one replied and said yes today! I'm over the moon because now I can expand my clothing store and get closer to my customers. Check it out - here's a pic!",
+    "session": "E1_session_3",
+    "dia_id": "D3:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 46,
+    "title": "turn_46 (D3:3)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Jon] Wow, Gina! You found the perfect spot for your store. Way to go, hard work's paying off!",
+    "session": "E1_session_3",
+    "dia_id": "D3:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 47,
+    "title": "turn_47 (D3:4)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Gina] [Image: a photography of a clothing store with a lot of clothes on display] Thanks! Glad you like it. Yeah, it's a great spot. Here's a peek at the space I designed. Cozy and inviting - perfect for customers to check out all the trendy pieces.",
+    "session": "E1_session_3",
+    "dia_id": "D3:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 48,
+    "title": "turn_48 (D3:5)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Jon] Wow, it looks great! Must've taken you ages to design it. What made you pick out the furniture and decor?",
+    "session": "E1_session_3",
+    "dia_id": "D3:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 49,
+    "title": "turn_49 (D3:6)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Gina] Thanks! It took a bit of time but I wanted to make the place look like my own style and make my customers feel cozy. I chose furniture that looks great and is comfy too. The chandelier adds a nice glam feel while matching the style of the store.",
+    "session": "E1_session_3",
+    "dia_id": "D3:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 50,
+    "title": "turn_50 (D3:7)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Jon] Your store looks great - your customers will be so comfy.",
+    "session": "E1_session_3",
+    "dia_id": "D3:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 51,
+    "title": "turn_51 (D3:8)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Gina] Thanks! Making my spot comfortable and inviting for my customers is key. I want 'em to feel like they're in a cool oasis. Just creating an experience that'll make 'em wanna come back.",
+    "session": "E1_session_3",
+    "dia_id": "D3:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 52,
+    "title": "turn_52 (D3:9)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Jon] That's a great goal! Creating a special experience for customers is the key to making them feel welcome and coming back. I think you can create that space you're imagining.",
+    "session": "E1_session_3",
+    "dia_id": "D3:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 53,
+    "title": "turn_53 (D3:10)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Gina] Thanks. Your support means a lot. I'm sure with my hard work and effort, I can make a special shopping experience for my customers. It's tough but I'm up for the challenge!",
+    "session": "E1_session_3",
+    "dia_id": "D3:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 54,
+    "title": "turn_54 (D3:11)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Jon] I'm always here to support you! Go create something awesome with your store. Keep it up!",
+    "session": "E1_session_3",
+    "dia_id": "D3:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 55,
+    "title": "turn_55 (D3:12)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Gina] Thanks, Jon! I'll try my best. You're gonna do great with your dance studio, just keep going and stay positive! We'll get through this!",
+    "session": "E1_session_3",
+    "dia_id": "D3:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 56,
+    "title": "turn_56 (D3:13)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Jon] Thanks! Your words mean a lot. I'm staying positive and pushing forward. We've put our hearts into our dreams and I'm sure we'll make it.",
+    "session": "E1_session_3",
+    "dia_id": "D3:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 57,
+    "title": "turn_57 (D3:14)",
+    "text": "[t=12:48 am on 1 February, 2023, speaker=Gina] Sure thing, Jon! Stay motivated and keep going. Hard work pays off eventually. We can do this!",
+    "session": "E1_session_3",
+    "dia_id": "D3:14",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 58,
+    "title": "turn_58 (D4:1)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Jon] Hey Gina! What's up? How's the store going? I gotta tell you about this thing with my biz.",
+    "session": "E1_session_4",
+    "dia_id": "D4:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 59,
+    "title": "turn_59 (D4:2)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Gina] Hey Jon! The store's doing great! It's a wild ride. How's the biz?",
+    "session": "E1_session_4",
+    "dia_id": "D4:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 60,
+    "title": "turn_60 (D4:3)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Jon] Hey Gina! I'm putting in a lot of work on my business even with the obstacles. I'm gonna make it happen!",
+    "session": "E1_session_4",
+    "dia_id": "D4:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 61,
+    "title": "turn_61 (D4:4)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Gina] Wow! You've got drive! Keep it up and you'll definitely make a splash.",
+    "session": "E1_session_4",
+    "dia_id": "D4:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 62,
+    "title": "turn_62 (D4:5)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Jon] Thanks Gina! Your help really means a lot. Sometimes it's hard when things don't go my way, but I'm sure if I keep pushing, I'll reach my dreams!",
+    "session": "E1_session_4",
+    "dia_id": "D4:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 63,
+    "title": "turn_63 (D4:6)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Gina] Understand where you're at, Jon. Setbacks are just opportunities for comebacks. You got the skills, passion, and drive. Plus my full support. Don't give up, buddy!",
+    "session": "E1_session_4",
+    "dia_id": "D4:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 64,
+    "title": "turn_64 (D4:7)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Jon] Thanks! Setbacks can be tough, but with your support, I can handle anything. Appreciate you having my back!",
+    "session": "E1_session_4",
+    "dia_id": "D4:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 65,
+    "title": "turn_65 (D4:8)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Gina] I'm here for you no matter what! Anything you want to say about your biz?",
+    "session": "E1_session_4",
+    "dia_id": "D4:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 66,
+    "title": "turn_66 (D4:9)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Jon] Searching for a dance studio location has been tricky, but I'm determined to find the right spot - when I do, I'm sure the rest will follow!",
+    "session": "E1_session_4",
+    "dia_id": "D4:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 67,
+    "title": "turn_67 (D4:10)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Gina] Searching for the perfect dance studio's a tough job, Jon. Hang in there and you'll find it soon!",
+    "session": "E1_session_4",
+    "dia_id": "D4:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 68,
+    "title": "turn_68 (D4:11)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Jon] Thanks! Appreciate your encouragement - it means a lot! I'm working on my business and some new dance routines - rehearsing hard for an upcoming show. I'm passionate about dancing and it brings me so much joy and fulfillment.",
+    "session": "E1_session_4",
+    "dia_id": "D4:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 69,
+    "title": "turn_69 (D4:12)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Gina] Wow, Jon! You're so talented! What show ya got planned?",
+    "session": "E1_session_4",
+    "dia_id": "D4:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 70,
+    "title": "turn_70 (D4:13)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Jon] I'm getting ready for a dance comp near me next month. It's a great chance for me to show my skillz and, hopefully, get some props from the dance fam. Super stoked!",
+    "session": "E1_session_4",
+    "dia_id": "D4:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 71,
+    "title": "turn_71 (D4:14)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Gina] Wow Jon, you're gonna kill it in that competition. Your hard work and talent will pay off! Good luck.",
+    "session": "E1_session_4",
+    "dia_id": "D4:14",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 72,
+    "title": "turn_72 (D4:15)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Jon] Thanks! Your help means a lot. I'll do my best to make you proud!",
+    "session": "E1_session_4",
+    "dia_id": "D4:15",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 73,
+    "title": "turn_73 (D4:16)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Gina] No doubt, Jon you've got this. Your passion and commitment are awesome! Keep it up!",
+    "session": "E1_session_4",
+    "dia_id": "D4:16",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 74,
+    "title": "turn_74 (D4:17)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Jon] Thanks! I'm going for my dreams!",
+    "session": "E1_session_4",
+    "dia_id": "D4:17",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 75,
+    "title": "turn_75 (D4:18)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Gina] Absolutely Jon. I'm always here to cheer you on. Make your dreams happen - keep going and believe in yourself. You got this!",
+    "session": "E1_session_4",
+    "dia_id": "D4:18",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 76,
+    "title": "turn_76 (D4:19)",
+    "text": "[t=10:43 am on 4 February, 2023, speaker=Jon] Thanks, Gina! Your kind words mean a lot. I won't give up!",
+    "session": "E1_session_4",
+    "dia_id": "D4:19",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 77,
+    "title": "turn_77 (D5:1)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] Hey Jon! Great hearing from you again. How have you been? BTW, I found a cool new fashion piece for my store. Can't wait to share with my customers.",
+    "session": "E1_session_5",
+    "dia_id": "D5:1",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 78,
+    "title": "turn_78 (D5:2)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Jon] Hey Gina! Congrats on the new fashion piece! Looks like your store is growing. Remenber the festival I told you about? Had that performance and it was awesome - so many people there complementing my dance moves. Dancing brings me joy and it was nice to be reminded why I'm passionate about it.",
+    "session": "E1_session_5",
+    "dia_id": "D5:2",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 79,
+    "title": "turn_79 (D5:3)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] Wow! That looks great. You look badass on stage. BTW, what's your favorite part of running your own studio?",
+    "session": "E1_session_5",
+    "dia_id": "D5:3",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 80,
+    "title": "turn_80 (D5:4)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Jon] Thanks, Gina! I love running my own studio. It's great having the freedom to create a space and help dancers of all ages and levels express themselves. I'm super thrilled about dancing each day and seeing my students progress. It's so fulfilling.",
+    "session": "E1_session_5",
+    "dia_id": "D5:4",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 81,
+    "title": "turn_81 (D5:5)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] [Image: a photo of a rack of clothes with a coat and a dress] That's awesome! I'm sure you feel great knowing your students are doing so well with dance. It's amazing what it can do for people! Oh, and btw - I've been working hard on my online store and just teamed up with a local artist for some cool designs. Check 'em out!",
+    "session": "E1_session_5",
+    "dia_id": "D5:5",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 82,
+    "title": "turn_82 (D5:6)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Jon] It looks awesome. Your commitment and creativity in your business really stands out. How'd you come up with these cool designs?",
+    "session": "E1_session_5",
+    "dia_id": "D5:6",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 83,
+    "title": "turn_83 (D5:7)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] Thanks Jon! I got the idea from a fashion mag and saw there wasn't much around like it. So I worked with the artist to make it happen - it's all about being ahead of the game and giving my customers something different.",
+    "session": "E1_session_5",
+    "dia_id": "D5:7",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 84,
+    "title": "turn_84 (D5:8)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Jon] Nice one, Gina! You never shy away from a challenge and always try something new. I'm impressed by your willingness to take risks - it's really inspiring.",
+    "session": "E1_session_5",
+    "dia_id": "D5:8",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 85,
+    "title": "turn_85 (D5:9)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] Thanks! Taking risks is scary but it's the only way to grow, right? Just part of the journey to success.",
+    "session": "E1_session_5",
+    "dia_id": "D5:9",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 86,
+    "title": "turn_86 (D5:10)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Jon] Yeah, I totally agree - taking risks is key for success. It's made me grow, and even got me out of my secure 9-5 as a banker. Now, I'm aiming to turn my dancing passion into a business. I'm determined to make it work, I just know it! That being said, I definitely don't underestimate the difficulties - it ain't been a walk in the park, that's for sure.",
+    "session": "E1_session_5",
+    "dia_id": "D5:10",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 87,
+    "title": "turn_87 (D5:11)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] It's tough starting a biz, but don't let it get you down. You can make your studio work, I'm sure. And remember, I'm always here for you.",
+    "session": "E1_session_5",
+    "dia_id": "D5:11",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 88,
+    "title": "turn_88 (D5:12)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Jon] [Image: a photography of a cartoon character with a quote about fear] Thanks, Gina. Your help means a lot. I'll keep plugging away and stay optimistic.",
+    "session": "E1_session_5",
+    "dia_id": "D5:12",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 89,
+    "title": "turn_89 (D5:13)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] This quote kept me positive through tough times. We all need a push sometimes, right? Even made a tattoo to remind myself about it.",
+    "session": "E1_session_5",
+    "dia_id": "D5:13",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 90,
+    "title": "turn_90 (D5:14)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Jon] Love the tattoo, did you just get it?",
+    "session": "E1_session_5",
+    "dia_id": "D5:14",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 91,
+    "title": "turn_91 (D5:15)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] Thanks! Got the tattoo a few years ago, it stands for freedom - dancing without worrying what people think. A reminder to follow my passions and express myself.",
+    "session": "E1_session_5",
+    "dia_id": "D5:15",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 92,
+    "title": "turn_92 (D5:16)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Jon] Nice reminder, Gina! It's so important to have freedom and express ourselves without worry. Dance gives me an escape to be myself.",
+    "session": "E1_session_5",
+    "dia_id": "D5:16",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 93,
+    "title": "turn_93 (D5:17)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] Totally agree, Jon. Dancing lets us be ourselves and ain't nothing like the feeling it gives us. You're so dedicated to your studio, it's inspiring. Chase those dreams, buddy!",
+    "session": "E1_session_5",
+    "dia_id": "D5:17",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 94,
+    "title": "turn_94 (D5:18)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Jon] Thanks, Gina! Your support means so much. I'm gonna keep chasing after those dreams. Dance is my passion, and I'm gonna keep working hard to make it a success!",
+    "session": "E1_session_5",
+    "dia_id": "D5:18",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 95,
+    "title": "turn_95 (D5:19)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] This is the right attitude! How have you been juggling dance and business goals?",
+    "session": "E1_session_5",
+    "dia_id": "D5:19",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 96,
+    "title": "turn_96 (D5:20)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Jon] Thanks! Juggling both my passions can be tricky, but so rewarding. Dancing and running my biz need hard work, plus they give me energy for each other. My dance moves get me pumped to tackle my business goals, and successes there boost my drive to keep dreaming on the dance floor. It's a balancing act, but fun.",
+    "session": "E1_session_5",
+    "dia_id": "D5:20",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 97,
+    "title": "turn_97 (D5:21)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] Wow, Jon! You're amazing at juggling both your passions. Finding that happy medium is key - keep going and don't stop dreaming, buddy!",
+    "session": "E1_session_5",
+    "dia_id": "D5:21",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 98,
+    "title": "turn_98 (D5:22)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Jon] Thanks, Gina! Your pep-talk really meant a lot. I'm not gonna give up on my dreams - my dance studio and biz ventures need the hard work I'm putting in. Love having you in my corner, thanks for always being there!",
+    "session": "E1_session_5",
+    "dia_id": "D5:22",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 99,
+    "title": "turn_99 (D5:23)",
+    "text": "[t=9:32 am on 8 February, 2023, speaker=Gina] Yeah Jon, I'm here for you! Chasing our dreams and helping each other out. Let's keep movin' forward!",
+    "session": "E1_session_5",
+    "dia_id": "D5:23",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 100,
+    "title": "turn_100 (D6:1)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Jon] Hi Gina! Been hectic for me lately. Started hitting the gym last week to stay on track with the venture. Gotta figure out how to balance it all, but it's going well. How about you?",
+    "session": "E1_session_6",
+    "dia_id": "D6:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 101,
+    "title": "turn_101 (D6:2)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Gina] Hey Jon! Great to hear from you. Been having some tough times lately.",
+    "session": "E1_session_6",
+    "dia_id": "D6:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 102,
+    "title": "turn_102 (D6:3)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Jon] Oof, sorry to hear that. What's up? Is there anything I can do to help?",
+    "session": "E1_session_6",
+    "dia_id": "D6:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 103,
+    "title": "turn_103 (D6:4)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Gina] Thanks, Jon! Appreciate your offer. Since I lost my job at Door Dash, things have been tough. But here's some good news - I've got something to share!",
+    "session": "E1_session_6",
+    "dia_id": "D6:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 104,
+    "title": "turn_104 (D6:5)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Jon] Wow, that's awesome! Can't wait to hear it!",
+    "session": "E1_session_6",
+    "dia_id": "D6:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 105,
+    "title": "turn_105 (D6:6)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Gina] [Image: a photo of a computer screen showing a book and a pair of shoes] Yay! My online clothes store is open! I've been dreaming of this for a while now - can't wait to see what happens!",
+    "session": "E1_session_6",
+    "dia_id": "D6:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 106,
+    "title": "turn_106 (D6:7)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Jon] Congrats! That's awesome! What gave you the idea to start the online store?",
+    "session": "E1_session_6",
+    "dia_id": "D6:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 107,
+    "title": "turn_107 (D6:8)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Gina] Thanks! I'm passionate about fashion trends and finding unique pieces. Plus, I wanted to blend my love for dance and fashion, so it was a perfect match.",
+    "session": "E1_session_6",
+    "dia_id": "D6:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 108,
+    "title": "turn_108 (D6:9)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Jon] Wow, that's awesome! Combining your two interests into a store is super cool. Best of luck with it!",
+    "session": "E1_session_6",
+    "dia_id": "D6:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 109,
+    "title": "turn_109 (D6:10)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Gina] Thanks! How is biz going? I hope it's going well!",
+    "session": "E1_session_6",
+    "dia_id": "D6:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 110,
+    "title": "turn_110 (D6:11)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Jon] Thanks for askin', Gina! Losing my job was hard, but I'm livin' my dreams now. Startin' my biz has been tough but I'm gonna make it! I keep facing new challenges, but I'm sure it'll be worth it in the end.",
+    "session": "E1_session_6",
+    "dia_id": "D6:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 111,
+    "title": "turn_111 (D6:12)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Gina] Yeah, starting and running my own biz has had its ups and downs - but it's been an amazing ride!",
+    "session": "E1_session_6",
+    "dia_id": "D6:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 112,
+    "title": "turn_112 (D6:13)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Jon] Yeah, it's been a rollercoaster. But your success really inspires me to keep pushing forward. Your determination is awesome!",
+    "session": "E1_session_6",
+    "dia_id": "D6:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 113,
+    "title": "turn_113 (D6:14)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Gina] Thanks, Jon! Your words are really encouraging. Glad my journey is inspiring others.",
+    "session": "E1_session_6",
+    "dia_id": "D6:14",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 114,
+    "title": "turn_114 (D6:15)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Jon] Yeah, totally! It's great we both face the same challenges, it motivates us and it's like having a partner to dance with!",
+    "session": "E1_session_6",
+    "dia_id": "D6:15",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 115,
+    "title": "turn_115 (D6:16)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Gina] Yep! We're both on different paths, but it's nice to have someone to root for us. We can do it!",
+    "session": "E1_session_6",
+    "dia_id": "D6:16",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 116,
+    "title": "turn_116 (D6:17)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Jon] Definitely! Having someone back us up is great. Let's keep going and reach success together!",
+    "session": "E1_session_6",
+    "dia_id": "D6:17",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 117,
+    "title": "turn_117 (D6:18)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Gina] Let's keep chasing our dreams, supporting each other, and celebrating achievements. We can do great things together!",
+    "session": "E1_session_6",
+    "dia_id": "D6:18",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 118,
+    "title": "turn_118 (D6:19)",
+    "text": "[t=2:35 pm on 16 March, 2023, speaker=Jon] [Image: a photo of two glasses of champagne with a bottle of wine in the background] Yeah, Gina, thanks for having my back. Here's to taking on new heights, and all the trials that come with it. Cheers!",
+    "session": "E1_session_6",
+    "dia_id": "D6:19",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 119,
+    "title": "turn_119 (D7:1)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Jon] Hey Gina, how's it going?",
+    "session": "E1_session_7",
+    "dia_id": "D7:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 120,
+    "title": "turn_120 (D7:2)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Gina] Hey Jon, my online clothing store has been a roller coaster but rewarding. Starting a business takes courage - you hang in there too!",
+    "session": "E1_session_7",
+    "dia_id": "D7:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 121,
+    "title": "turn_121 (D7:3)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Jon] Thanks Gina! It's been tough, but I'm gonna make it happen. It's been great! And hey, you're awesome with your store. How's it going?",
+    "session": "E1_session_7",
+    "dia_id": "D7:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 122,
+    "title": "turn_122 (D7:4)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Gina] Thanks! Appreciate your kind words. Store's going good, just been keeping up with fashion trends so I can offer the best pieces to customers. It's been a lot of work, but really enjoying it. Got any advice or tips on running a successful biz?",
+    "session": "E1_session_7",
+    "dia_id": "D7:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 123,
+    "title": "turn_123 (D7:5)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Jon] Yeah, brand identity is key. Make sure yours stands out. Also be sure to build relationships with your customers – let them know you care. And don't forget to stay positive and motivate others. Your energy will be contagious!",
+    "session": "E1_session_7",
+    "dia_id": "D7:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 124,
+    "title": "turn_124 (D7:6)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Gina] Thanks for the advice, Jon! Building relationships and creating a strong brand image for my store is something I'm always working on. You're right, staying positive is key. What helps you stay motivated with your dance studio business?",
+    "session": "E1_session_7",
+    "dia_id": "D7:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 125,
+    "title": "turn_125 (D7:7)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Jon] [Image: a photography of a group of women doing a dance routine] Seeing my students succeed motivates me. It's awesome to help them learn and reach their goals. Your support, Gina, means a lot too. Here's a photo of us after during one of the dance clases.",
+    "session": "E1_session_7",
+    "dia_id": "D7:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 126,
+    "title": "turn_126 (D7:8)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Gina] That's awesome, Jon! Seeing your students grow and succeed must be really fulfilling. Glad I can be part of this journey!",
+    "session": "E1_session_7",
+    "dia_id": "D7:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 127,
+    "title": "turn_127 (D7:9)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Jon] Thanks for being there for me! It's really made a huge difference and it feels great.",
+    "session": "E1_session_7",
+    "dia_id": "D7:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 128,
+    "title": "turn_128 (D7:10)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Gina] Glad I could help, Jon! It's nice to be part of something positive. Supporting your dreams is awesome!",
+    "session": "E1_session_7",
+    "dia_id": "D7:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 129,
+    "title": "turn_129 (D7:11)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Jon] Thanks for being there for me. Your help means a lot.",
+    "session": "E1_session_7",
+    "dia_id": "D7:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 130,
+    "title": "turn_130 (D7:12)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Gina] I'm here for you, rooting for you all the way.",
+    "session": "E1_session_7",
+    "dia_id": "D7:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 131,
+    "title": "turn_131 (D7:13)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Jon] Thanks, I'm really grateful for your help with staying motivated.",
+    "session": "E1_session_7",
+    "dia_id": "D7:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 132,
+    "title": "turn_132 (D7:14)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Gina] Glad to cheer you on. Keep going and never give up!",
+    "session": "E1_session_7",
+    "dia_id": "D7:14",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 133,
+    "title": "turn_133 (D7:15)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Jon] Thanks, Gina! I won't quit - your words motivate me to keep going!",
+    "session": "E1_session_7",
+    "dia_id": "D7:15",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 134,
+    "title": "turn_134 (D7:16)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Gina] Believe in yourself. Even when it's tough, you got this! Keep going!",
+    "session": "E1_session_7",
+    "dia_id": "D7:16",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 135,
+    "title": "turn_135 (D7:17)",
+    "text": "[t=7:28 pm on 23 March, 2023, speaker=Jon] I'm gonna keep on believing in myself. Thanks for the kind words!",
+    "session": "E1_session_7",
+    "dia_id": "D7:17",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 136,
+    "title": "turn_136 (D8:1)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] Hey Gina, I had to shut down my bank account. It was tough, but I needed to do it for my biz.",
+    "session": "E1_session_8",
+    "dia_id": "D8:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 137,
+    "title": "turn_137 (D8:2)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Oh no, Jon! Sorry to hear that. Tough decision for you? How're you handling the changes?",
+    "session": "E1_session_8",
+    "dia_id": "D8:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 138,
+    "title": "turn_138 (D8:3)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] It was a tough call, but I thought it'd help my biz grow. Handling changes has been hard, but I'm staying positive and looking ahead. Anything new for you?",
+    "session": "E1_session_8",
+    "dia_id": "D8:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 139,
+    "title": "turn_139 (D8:4)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Oof, that's tough, Jon. I got some new offers and promotions going on my online store to try and bring in new customers. It's been a wild ride starting my business, but I'm not giving up!",
+    "session": "E1_session_8",
+    "dia_id": "D8:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 140,
+    "title": "turn_140 (D8:5)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] Nice one, Gina! Love how you never give up. What helps you stay motivated?",
+    "session": "E1_session_8",
+    "dia_id": "D8:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 141,
+    "title": "turn_141 (D8:6)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] [Image: a photo of a man and woman doing a yoga pose] Thanks Jon! Dance is my stress relief and fashion fuels my creativity. I love finding new trends for my store. It keeps me motivated to keep growing. Check out this pic of my fave dance session!",
+    "session": "E1_session_8",
+    "dia_id": "D8:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 142,
+    "title": "turn_142 (D8:7)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] Wow, that's great! What made you combine clothing biz and dance?",
+    "session": "E1_session_8",
+    "dia_id": "D8:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 143,
+    "title": "turn_143 (D8:8)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Thanks! I'm passionate about dance and fashion so combining them lets me show my creativity and share my love with others. Plus, I can add dance-inspired items to my store!",
+    "session": "E1_session_8",
+    "dia_id": "D8:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 144,
+    "title": "turn_144 (D8:9)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] Nice work! Combining passions is always cool. How's it going?",
+    "session": "E1_session_8",
+    "dia_id": "D8:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 145,
+    "title": "turn_145 (D8:10)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Thanks! So far, so good - customers love the new offers and promotions, which means I'm seeing more sales. People seem to really like my designs, so I'm always on the hunt for unique, trendy pieces. Growing my customer base is the main focus right now.",
+    "session": "E1_session_8",
+    "dia_id": "D8:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 146,
+    "title": "turn_146 (D8:11)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] Sounds like all your effort's paying off. Anything planned to grow your customer base?",
+    "session": "E1_session_8",
+    "dia_id": "D8:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 147,
+    "title": "turn_147 (D8:12)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Yeah, I have a few plans. I'm thinking of working with some fashion bloggers and influencers in the next few months to get more attention for my store. Plus, I'm going to do more ads so I can reach more people. I'm really focused on building my customer base and making my store a top destination for fashion fans. It's awesome to see it all coming together! You, Jon? What do you have going for your dance studio?",
+    "session": "E1_session_8",
+    "dia_id": "D8:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 148,
+    "title": "turn_148 (D8:13)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] Thanks, Gina! I'm expanding my dance studio's social media presence and offering workshops and classes to local schools and centers. I'm also hosting a dance competition next month to showcase local talent and bring more attention to my studio. All the work's paying off - I'm seeing progress and the dancers are so excited. It's such a great feeling to give a place where people can express themselves through dance!",
+    "session": "E1_session_8",
+    "dia_id": "D8:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 149,
+    "title": "turn_149 (D8:14)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Wow! That's fantastic that your studio's expanding and giving dancers an outlet. So proud of the progress you've made - keep it up!",
+    "session": "E1_session_8",
+    "dia_id": "D8:14",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 150,
+    "title": "turn_150 (D8:15)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] [Image: a photo of a group of people on a stage with a projector screen] Thanks! Your backing means a lot. I'm trying to make my plan work, even though it's been tough. Your encouragement really helps. Are you coming to the event next month? Love to have you there!",
+    "session": "E1_session_8",
+    "dia_id": "D8:15",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 151,
+    "title": "turn_151 (D8:16)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Woah, cool event! What's gonna be happening? I'd love to join in and show my support!",
+    "session": "E1_session_8",
+    "dia_id": "D8:16",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 152,
+    "title": "turn_152 (D8:17)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] [Image: a photo of a group of dancers on a stage with a man in the middle of the group] Thanks, Gina! My dance studio and some other schools are bringing their best moves for an awesome night of performances and judging. It'll be super creative and fun. Come join us!",
+    "session": "E1_session_8",
+    "dia_id": "D8:17",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 153,
+    "title": "turn_153 (D8:18)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Sounds great! I'm definitely in for the show.",
+    "session": "E1_session_8",
+    "dia_id": "D8:18",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 154,
+    "title": "turn_154 (D8:19)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] Cool! Can't wait to see you!",
+    "session": "E1_session_8",
+    "dia_id": "D8:19",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 155,
+    "title": "turn_155 (D8:20)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Thanks, Jon! See you at the event!",
+    "session": "E1_session_8",
+    "dia_id": "D8:20",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 156,
+    "title": "turn_156 (D8:21)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] Gina, good luck with your store!",
+    "session": "E1_session_8",
+    "dia_id": "D8:21",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 157,
+    "title": "turn_157 (D8:22)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Thanks, Jon! Appreciate the kind words. <3",
+    "session": "E1_session_8",
+    "dia_id": "D8:22",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 158,
+    "title": "turn_158 (D8:23)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] Sure, I am always there for you!",
+    "session": "E1_session_8",
+    "dia_id": "D8:23",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 159,
+    "title": "turn_159 (D8:24)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Thanks! Your support means a lot. I'm gonna keep pursuing my goals and I hope you do too!",
+    "session": "E1_session_8",
+    "dia_id": "D8:24",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 160,
+    "title": "turn_160 (D8:25)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Jon] Thanks! I won't quit on my dreams. Your words really motivate me. Bye!",
+    "session": "E1_session_8",
+    "dia_id": "D8:25",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 161,
+    "title": "turn_161 (D8:26)",
+    "text": "[t=1:26 pm on 3 April, 2023, speaker=Gina] Bye Jon! You got this! Believe in yourself and keep pushing. Take care!",
+    "session": "E1_session_8",
+    "dia_id": "D8:26",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 162,
+    "title": "turn_162 (D9:1)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Jon] [Image: a photo of a group of dancers on a stage with a red background] Hey Gina! I'm turning my loves of dance into a business. I'm sunk tons of time into the studio lately, and look at my students - they're already killing it. I'm even learning with them!",
+    "session": "E1_session_9",
+    "dia_id": "D9:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 163,
+    "title": "turn_163 (D9:2)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Gina] Hey Jon! Wow, way to take your passion and make it into a biz! The dance studio looks awesome.",
+    "session": "E1_session_9",
+    "dia_id": "D9:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 164,
+    "title": "turn_164 (D9:3)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Jon] Thanks, Gina! I'm determined to make this studio work. Losing my job was tough but it gave me the push I needed to do what I love.",
+    "session": "E1_session_9",
+    "dia_id": "D9:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 165,
+    "title": "turn_165 (D9:4)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Gina] Woah, Jon! Tough times can be a gateway to awesome things. Glad you worked up the courage to go after your dreams!",
+    "session": "E1_session_9",
+    "dia_id": "D9:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 166,
+    "title": "turn_166 (D9:5)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Jon] Yeah, Gina! It's been tough, but I'm living my true self. Dancing makes me so happy, and now I get to share that with other people. Seeing my students get better at it brings me such joy.",
+    "session": "E1_session_9",
+    "dia_id": "D9:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 167,
+    "title": "turn_167 (D9:6)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Gina] Wow Jon, you look so happy when you dance! Show the world your true self and keep dancing!",
+    "session": "E1_session_9",
+    "dia_id": "D9:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 168,
+    "title": "turn_168 (D9:7)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Jon] Thanks a bunch, Gina! You seriously rock. Dancing for me is like a way to express myself and find my happy place. I used to be scared to death of what people would think, but I learnt that my own happiness is the most important thing. It's been tough but also the best thing ever!",
+    "session": "E1_session_9",
+    "dia_id": "D9:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 169,
+    "title": "turn_169 (D9:8)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Gina] [Image: a photo of a group of young women in ballet attire] Yeah, I do remember those dance classes! I used to love spending time in the studio. That photo looks awesome, brings back lots of memories. It's nice to know, dance is still your happy place.",
+    "session": "E1_session_9",
+    "dia_id": "D9:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 170,
+    "title": "turn_170 (D9:9)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Jon] Nice, Gina! I'm happy that dance has such a special meaning to both of us. It's a really cool way to express ourselves. I loved taking lessons with my friends when I was younger. Those memories are so precious. So glad I can still enjoy it with my own studio. Thanks for always being there for me.",
+    "session": "E1_session_9",
+    "dia_id": "D9:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 171,
+    "title": "turn_171 (D9:10)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Gina] [Image: a photo of a trophy with a glass globe on top] Hey Jon! Got your back - dance is awesome for expressing yourself and finding happiness. Here's one of my trophies from a dance contest, nice reminder of the hard work, dedication and joy it brings.",
+    "session": "E1_session_9",
+    "dia_id": "D9:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 172,
+    "title": "turn_172 (D9:11)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Jon] Wow! It looks awesome! Thanks for the support, it really means a lot.",
+    "session": "E1_session_9",
+    "dia_id": "D9:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 173,
+    "title": "turn_173 (D9:12)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Gina] No prob, Jon! You earned all the kudos for your hard work. Keep it up!",
+    "session": "E1_session_9",
+    "dia_id": "D9:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 174,
+    "title": "turn_174 (D9:13)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Jon] Thanks! Gonna keep pushing and working hard. Won't let anything hold me back!",
+    "session": "E1_session_9",
+    "dia_id": "D9:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 175,
+    "title": "turn_175 (D9:14)",
+    "text": "[t=10:33 am on 9 April, 2023, speaker=Gina] Way to go, Jon! Keep it up, you're almost there!",
+    "session": "E1_session_9",
+    "dia_id": "D9:14",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 176,
+    "title": "turn_176 (D10:1)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Jon] [Image: a photo of a group of women performing a dance on a stage] Hi Gina! I just wanted to fill you in on my business. Yesterday, I went to a fair to show off my studio, it was both stressful and great! I got some possible leads, so that was awesome. But overall, I've learned that this biz is no cakewalk and having confidence in yourself is important for making it successful!",
+    "session": "E1_session_10",
+    "dia_id": "D10:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 177,
+    "title": "turn_177 (D10:2)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Gina] [Image: a photography of a laptop with a sale ad on the screen] Hey Jon, congrats on the fair! It's awesome to see your hard work paying off. Keep on pushing, pal, you're headed for greatness. Oh, and BTW, I started my own online clothing store not so long ago - pretty cool, huh?",
+    "session": "E1_session_10",
+    "dia_id": "D10:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 178,
+    "title": "turn_178 (D10:3)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Jon] Thanks, Gina! Appreciate your support. Your store looks great, I remember it!",
+    "session": "E1_session_10",
+    "dia_id": "D10:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 179,
+    "title": "turn_179 (D10:4)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Gina] Thanks, Jon! After losing my job, I wanted to take control of my own destiny and this seemed like the perfect way to do it. It's been a tough journey, but very rewarding.",
+    "session": "E1_session_10",
+    "dia_id": "D10:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 180,
+    "title": "turn_180 (D10:5)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Jon] Wow, you're awesome for going for it! Setbacks can help us reach our potential, right? I'm having trouble with my business project. Any advice on staying motivated even when times are tough?",
+    "session": "E1_session_10",
+    "dia_id": "D10:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 181,
+    "title": "turn_181 (D10:6)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Gina] Yeah Jon! Challenges are awesome for learning and growth. To stay motivated, I think of the big goal and why I'm doing it. I also get help from people who support me. And of course, I dance it out. Do you need advice on anything in particular?",
+    "session": "E1_session_10",
+    "dia_id": "D10:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 182,
+    "title": "turn_182 (D10:7)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Jon] I've been feeling kinda low on confidence lately. It's hard to run a business when you don't have faith in yourself. Any tips on how you stay confident in your business?",
+    "session": "E1_session_10",
+    "dia_id": "D10:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 183,
+    "title": "turn_183 (D10:8)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Gina] I get it, Jon. Confidence is important in business. I stay motivated by reminding myself of my successes and progress. It also helps to have a good support system. Just focus on why you started this – because you love it! Have faith in yourself, Jon. I do!",
+    "session": "E1_session_10",
+    "dia_id": "D10:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 184,
+    "title": "turn_184 (D10:9)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Jon] Thanks! Your words mean a lot. Gotta focus on success and why I started. You're right, I love it and that'll keep my confidence up.",
+    "session": "E1_session_10",
+    "dia_id": "D10:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 185,
+    "title": "turn_185 (D10:10)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Gina] No worries, Jon! Sounds like what I said was helpful. You're incredibly talented and passionate about dance. Don't forget, believe in yourself and your abilities. Tackle any obstacle that comes your way and keep shining!",
+    "session": "E1_session_10",
+    "dia_id": "D10:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 186,
+    "title": "turn_186 (D10:11)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Jon] Thanks! Your support means a lot. I'm gonna keep going and reach my dreams no matter what.",
+    "session": "E1_session_10",
+    "dia_id": "D10:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 187,
+    "title": "turn_187 (D10:12)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Gina] Go for it, Jon! You got this! Don't let anything stop you. We're in this together!",
+    "session": "E1_session_10",
+    "dia_id": "D10:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 188,
+    "title": "turn_188 (D10:13)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Jon] Appreciate your encouragement. We'll keep pushing each other on this path.",
+    "session": "E1_session_10",
+    "dia_id": "D10:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 189,
+    "title": "turn_189 (D10:14)",
+    "text": "[t=11:24 am on 25 April, 2023, speaker=Gina] Yeah! Let's keep each other going. We can do it!",
+    "session": "E1_session_10",
+    "dia_id": "D10:14",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 190,
+    "title": "turn_190 (D11:1)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Jon] Hi! Since we last spoke I am still working on the dance studio and things are looking up!",
+    "session": "E1_session_11",
+    "dia_id": "D11:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 191,
+    "title": "turn_191 (D11:2)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Gina] Hi! You're so inspiring taking it on and opening your own studio!",
+    "session": "E1_session_11",
+    "dia_id": "D11:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 192,
+    "title": "turn_192 (D11:3)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Jon] Thanks! Losing my job gave me the push to finally start my dream business: my own dance studio! Now I'm stepping into the unknown and hoping for the best.",
+    "session": "E1_session_11",
+    "dia_id": "D11:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 193,
+    "title": "turn_193 (D11:4)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Gina] It must be scary stepping into the unknown but I know you can do it, Jon. With your determination and drive, your dance studio will be a huge success. Keep that positive outlook and keep going!",
+    "session": "E1_session_11",
+    "dia_id": "D11:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 194,
+    "title": "turn_194 (D11:5)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Jon] Thanks! It's a bit scary, but I just think about my love for dance and how it makes me feel. It's been my stress-buster since childhood!",
+    "session": "E1_session_11",
+    "dia_id": "D11:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 195,
+    "title": "turn_195 (D11:6)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Gina] Gotcha, Jon! Dance is my stress fix too. As soon as I start, all my worries vanish. It's amazing what we can do for our own mental health with something we enjoy.",
+    "session": "E1_session_11",
+    "dia_id": "D11:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 196,
+    "title": "turn_196 (D11:7)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Jon] Yeah, Gina! Dancing helps me de-stress. It's where I'm most alive. It's a must-have in my life.",
+    "session": "E1_session_11",
+    "dia_id": "D11:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 197,
+    "title": "turn_197 (D11:8)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Gina] I get it, Jon. Dance is just me -- I can't picture life without it. It's like air.",
+    "session": "E1_session_11",
+    "dia_id": "D11:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 198,
+    "title": "turn_198 (D11:9)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Jon] Yep! Dancing is like second nature to me. I'm living my dream by having my own dance studio and teaching others.",
+    "session": "E1_session_11",
+    "dia_id": "D11:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 199,
+    "title": "turn_199 (D11:10)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Gina] You're living the dream and inspiring others too! Your studio will totally change things for lots of folks.",
+    "session": "E1_session_11",
+    "dia_id": "D11:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 200,
+    "title": "turn_200 (D11:11)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Jon] I hope so, Gina. I want to create a place for people to dance and express themselves - it's been a dream of mine.",
+    "session": "E1_session_11",
+    "dia_id": "D11:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 201,
+    "title": "turn_201 (D11:12)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Gina] That's a great dream, Jon! Giving people a place to express themselves with dance is really important. Your studio is gonna make a huge difference. Can't wait to see it happen!",
+    "session": "E1_session_11",
+    "dia_id": "D11:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 202,
+    "title": "turn_202 (D11:13)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Jon] Thanks! Your help means a lot. Keep you posted on the dance studio progress.",
+    "session": "E1_session_11",
+    "dia_id": "D11:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 203,
+    "title": "turn_203 (D11:14)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Gina] Thanks! Really appreciate you keeping me in the loop on this cool project. Can't wait to hear more and watch it come to life! Oh, btw, I had an interview for a design internship yesterday! It was so cool.",
+    "session": "E1_session_11",
+    "dia_id": "D11:14",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 204,
+    "title": "turn_204 (D11:15)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Jon] Wow, Gina, I'm stoked about this! Taking a risk is scary, but I'm sure following my dreams will pay off in the end. How did the interview go?",
+    "session": "E1_session_11",
+    "dia_id": "D11:15",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 205,
+    "title": "turn_205 (D11:16)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Gina] It was great!",
+    "session": "E1_session_11",
+    "dia_id": "D11:16",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 206,
+    "title": "turn_206 (D11:17)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Jon] Glad to hear it. Been practicing dance routines lately, it keeps my mind focused and motivated.",
+    "session": "E1_session_11",
+    "dia_id": "D11:17",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 207,
+    "title": "turn_207 (D11:18)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Gina] Wow! That's great. Dancing is awesome for staying focused. Wanna show me a routine sometime?",
+    "session": "E1_session_11",
+    "dia_id": "D11:18",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 208,
+    "title": "turn_208 (D11:19)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Jon] Sure, Gina! Wanna see one of my routines? Lemme know when you got time and I'll send you a vid.",
+    "session": "E1_session_11",
+    "dia_id": "D11:19",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 209,
+    "title": "turn_209 (D11:20)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Gina] Yeah, Jon, I'll watch your routine! So proud of you!",
+    "session": "E1_session_11",
+    "dia_id": "D11:20",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 210,
+    "title": "turn_210 (D11:21)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Jon] Thanks a lot! Your help really means a lot. I'll get the video to you soon!",
+    "session": "E1_session_11",
+    "dia_id": "D11:21",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 211,
+    "title": "turn_211 (D11:22)",
+    "text": "[t=3:14 pm on 11 May, 2023, speaker=Gina] No prob! Always here to help. Can't wait to see the vid!",
+    "session": "E1_session_11",
+    "dia_id": "D11:22",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 212,
+    "title": "turn_212 (D12:1)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Gina] Hey Jon! Long time no talk! A lot's happened - I just got accepted for a fashion internship!",
+    "session": "E1_session_12",
+    "dia_id": "D12:1",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 213,
+    "title": "turn_213 (D12:2)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Jon] Congrats, Gina! That's awesome news about the fashion internship. 🎉 So stoked for you. Where is the internship and how're you feelin' about it?",
+    "session": "E1_session_12",
+    "dia_id": "D12:2",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 214,
+    "title": "turn_214 (D12:3)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Gina] Thanks! I'm excited and kinda nervous. Gonna be a big change. It's part-time position in the fashion department of an international company.",
+    "session": "E1_session_12",
+    "dia_id": "D12:3",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 215,
+    "title": "turn_215 (D12:4)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Jon] Way to go, Gina! You really stepped up. What's your plan for the future?",
+    "session": "E1_session_12",
+    "dia_id": "D12:4",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 216,
+    "title": "turn_216 (D12:5)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Gina] Thanks! I'm a mix of excited and scared to get into fashion, but I'm trying to stay upbeat and learn as much as I can. What about you? Got something new?",
+    "session": "E1_session_12",
+    "dia_id": "D12:5",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 217,
+    "title": "turn_217 (D12:6)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Jon] I'm currently reading \"The Lean Startup\" and hoping it'll give me tips for my biz.",
+    "session": "E1_session_12",
+    "dia_id": "D12:6",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 218,
+    "title": "turn_218 (D12:7)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Gina] It sounds great! Could it spark any ideas for your dance studio?",
+    "session": "E1_session_12",
+    "dia_id": "D12:7",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 219,
+    "title": "turn_219 (D12:8)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Jon] [Image: a photo of a white board with a list of dates on it] Yeah, the book got me thinking about building a focused and efficient business. Adapting and tweaking from customer feedback is important too, so I'm gonna try it out!",
+    "session": "E1_session_12",
+    "dia_id": "D12:8",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 220,
+    "title": "turn_220 (D12:9)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Gina] Woah, Jon, that whiteboard's got a bunch of good ideas! How you gonna keep track and stay on schedule with those dates?",
+    "session": "E1_session_12",
+    "dia_id": "D12:9",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 221,
+    "title": "turn_221 (D12:10)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Jon] Thanks, Gina! It helps me keep track of ideas and milestones. Gives me a visual of my progress and keeps me organized.",
+    "session": "E1_session_12",
+    "dia_id": "D12:10",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 222,
+    "title": "turn_222 (D12:11)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Gina] Nice idea! Having something visual can help with organizing and motivation. What're you working on currently?",
+    "session": "E1_session_12",
+    "dia_id": "D12:11",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 223,
+    "title": "turn_223 (D12:12)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Jon] I'm wrapping up the business plan and looking for investors. My passion for the project and belief in its success are driving me.",
+    "session": "E1_session_12",
+    "dia_id": "D12:12",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 224,
+    "title": "turn_224 (D12:13)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Gina] Wow, Jon! Impressed by your commitment. How's the hunt for investors going?",
+    "session": "E1_session_12",
+    "dia_id": "D12:13",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 225,
+    "title": "turn_225 (D12:14)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Jon] Thanks! Searching for investors has been tough, but I'm staying hopeful. It's all a process and I'm learning a ton.",
+    "session": "E1_session_12",
+    "dia_id": "D12:14",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 226,
+    "title": "turn_226 (D12:15)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Gina] Yeah Jon, you've got the right attitude! Keep learning and growing through it all. Keep going!",
+    "session": "E1_session_12",
+    "dia_id": "D12:15",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 227,
+    "title": "turn_227 (D12:16)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Jon] Thanks! I really appreciate your help. I'm gonna keep on going and never quit.",
+    "session": "E1_session_12",
+    "dia_id": "D12:16",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 228,
+    "title": "turn_228 (D12:17)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Gina] Keep it up!",
+    "session": "E1_session_12",
+    "dia_id": "D12:17",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 229,
+    "title": "turn_229 (D12:18)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Jon] Thanks! Your words really mean a lot. Don't worry, I won't let anything get me down.",
+    "session": "E1_session_12",
+    "dia_id": "D12:18",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 230,
+    "title": "turn_230 (D12:19)",
+    "text": "[t=7:18 pm on 27 May, 2023, speaker=Gina] Go Jon! Obstacles are inevitable, but you can do awesome things. Keep going!",
+    "session": "E1_session_12",
+    "dia_id": "D12:19",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 231,
+    "title": "turn_231 (D13:1)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] Hey Gina, thanks for being there for me and believing in me. It means a lot.",
+    "session": "E1_session_13",
+    "dia_id": "D13:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 232,
+    "title": "turn_232 (D13:2)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Gina] Sure, Jon! I'm always around for you. How've you been since we caught up?",
+    "session": "E1_session_13",
+    "dia_id": "D13:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 233,
+    "title": "turn_233 (D13:3)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] I'm prepping for my dance studio more than ever!",
+    "session": "E1_session_13",
+    "dia_id": "D13:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 234,
+    "title": "turn_234 (D13:4)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Gina] Proud of you for starting your own business! It takes strength to stay hopeful. What are you doing to prep for your dance studio? I have developed a video presentation to teach how to style my fashion pieces, btw.",
+    "session": "E1_session_13",
+    "dia_id": "D13:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 235,
+    "title": "turn_235 (D13:5)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] Thanks, Gina! It's been so inspiring to work with our young dancers, seeing their passion and commitment. Opening the dance studio's been a great experience - I want it to be a place of support and encouragement for all our dancers. Will you show me this presentation?",
+    "session": "E1_session_13",
+    "dia_id": "D13:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 236,
+    "title": "turn_236 (D13:6)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Gina] Shure, I will send it to you later. Starting this studio isn't just a business, it's a place for dancers to grow. What support are you offering them?",
+    "session": "E1_session_13",
+    "dia_id": "D13:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 237,
+    "title": "turn_237 (D13:7)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] Besides the dance classes and workshops, I'm offering one-on-one mentoring and training to help dancers reach their full potential.",
+    "session": "E1_session_13",
+    "dia_id": "D13:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 238,
+    "title": "turn_238 (D13:8)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Gina] [Image: a photo of a group of people in a dance class] Your one-on-one mentoring and training will really push dancers to reach their goals. I totally get it, I had a mentor too when I was learning how to dance.",
+    "session": "E1_session_13",
+    "dia_id": "D13:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 239,
+    "title": "turn_239 (D13:9)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] [Image: a photo of a clipboard with a notepad attached to it] Yeah, a mentor can do wonders. Guidance and support can help dancers really shine.",
+    "session": "E1_session_13",
+    "dia_id": "D13:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 240,
+    "title": "turn_240 (D13:10)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Gina] Nice one, Jon! How've you been using it?",
+    "session": "E1_session_13",
+    "dia_id": "D13:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 241,
+    "title": "turn_241 (D13:11)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] I'm using it to stay organized and motivated. It sets goals, tracks my achievements and helps me find areas to improve.",
+    "session": "E1_session_13",
+    "dia_id": "D13:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 242,
+    "title": "turn_242 (D13:12)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Gina] Really cool system! Being organized sure is key for getting stuff done. How do you keep up with your goals and progress?",
+    "session": "E1_session_13",
+    "dia_id": "D13:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 243,
+    "title": "turn_243 (D13:13)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] I also use whiteboard to stay on track, visualize goals and tokenize successes. It keeps me motivated and focused.",
+    "session": "E1_session_13",
+    "dia_id": "D13:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 244,
+    "title": "turn_244 (D13:14)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Gina] Cool! Are you using different colors?",
+    "session": "E1_session_13",
+    "dia_id": "D13:14",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 245,
+    "title": "turn_245 (D13:15)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] Yes. I color-code achievements so I can easily track my progress and stay motivated.",
+    "session": "E1_session_13",
+    "dia_id": "D13:15",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 246,
+    "title": "turn_246 (D13:16)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Gina] Wow, color-coding is a great way to track your progress & stay motivated. Keep it up!",
+    "session": "E1_session_13",
+    "dia_id": "D13:16",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 247,
+    "title": "turn_247 (D13:17)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] Thanks! It helps me stay motivated and reminds me why I'm doing this.",
+    "session": "E1_session_13",
+    "dia_id": "D13:17",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 248,
+    "title": "turn_248 (D13:18)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Gina] Yeah, its a great idea!",
+    "session": "E1_session_13",
+    "dia_id": "D13:18",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 249,
+    "title": "turn_249 (D13:19)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] Thanks!",
+    "session": "E1_session_13",
+    "dia_id": "D13:19",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 250,
+    "title": "turn_250 (D13:20)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Gina] Remember that staying positive is very important.  Rock on!",
+    "session": "E1_session_13",
+    "dia_id": "D13:20",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 251,
+    "title": "turn_251 (D13:21)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] Thanks, Gina! Your support's really been awesome.",
+    "session": "E1_session_13",
+    "dia_id": "D13:21",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 252,
+    "title": "turn_252 (D13:22)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Gina] Thanks! Keep going for your dreams and don't quit!",
+    "session": "E1_session_13",
+    "dia_id": "D13:22",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 253,
+    "title": "turn_253 (D13:23)",
+    "text": "[t=8:29 pm on 13 June, 2023, speaker=Jon] I won't give up, Gina! I'll keep pushing and working to make my dreams happen. Thanks for the support!",
+    "session": "E1_session_13",
+    "dia_id": "D13:23",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 254,
+    "title": "turn_254 (D14:1)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Jon] Gina, you won't believe it - I got mentored by this amazing business dude yesterday! It was really inspiring and now I'm even more pumped to chase my dreams. What's been up with you lately?",
+    "session": "E1_session_14",
+    "dia_id": "D14:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 255,
+    "title": "turn_255 (D14:2)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Gina] Wow, Jon! Mentors can really help. I'm working on my online store, growing the customer base. It's tough but I'm determined. How about you? Any new things happening?",
+    "session": "E1_session_14",
+    "dia_id": "D14:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 256,
+    "title": "turn_256 (D14:3)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Jon] Been doing some promotion for my business. Crazy ride so far, but I'm hanging in there. Got any tips for marketing?",
+    "session": "E1_session_14",
+    "dia_id": "D14:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 257,
+    "title": "turn_257 (D14:4)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Gina] Awesome! Marketing is key. Use social media channels and work with influencers for bigger reach.",
+    "session": "E1_session_14",
+    "dia_id": "D14:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 258,
+    "title": "turn_258 (D14:5)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Jon] Thanks for the advice, Gina! I already started doing what you said about social media and posted some of my dance videos. It's creating a bit of a stir.",
+    "session": "E1_session_14",
+    "dia_id": "D14:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 259,
+    "title": "turn_259 (D14:6)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Gina] Nice! Glad your dance vids are doing well online. Keep it up!",
+    "session": "E1_session_14",
+    "dia_id": "D14:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 260,
+    "title": "turn_260 (D14:7)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Jon] Your help really helps. Hey, have you thought about being an entrepreneur?",
+    "session": "E1_session_14",
+    "dia_id": "D14:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 261,
+    "title": "turn_261 (D14:8)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Gina] Ha, yeah, Jon. I've been one 'cause I lost my job. I opened an online clothing store and it's been great! Being my own boss and doing something I love is awesome.",
+    "session": "E1_session_14",
+    "dia_id": "D14:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 262,
+    "title": "turn_262 (D14:9)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Jon] Wow, Gina! You did great taking that leap. Congrats! Got any advice for someone just starting out?",
+    "session": "E1_session_14",
+    "dia_id": "D14:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 263,
+    "title": "turn_263 (D14:10)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Gina] Thanks, Jon! It was a huge jump, but totally worth it. My advice: stay passionate, focused and resilient. Challenges will come, but believe in yourself and keep going. And stay open to learning and improving.",
+    "session": "E1_session_14",
+    "dia_id": "D14:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 264,
+    "title": "turn_264 (D14:11)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Jon] Appreciate your advice. Gotta stay resilient and focused, that's key!",
+    "session": "E1_session_14",
+    "dia_id": "D14:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 265,
+    "title": "turn_265 (D14:12)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Gina] Yep Jon, staying resilient and focused is key for any entrepreneur. Keep going and don't give up! You got this!",
+    "session": "E1_session_14",
+    "dia_id": "D14:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 266,
+    "title": "turn_266 (D14:13)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Jon] Thanks! I won't quit, no matter what. Your encouragement really motivates me to keep going.",
+    "session": "E1_session_14",
+    "dia_id": "D14:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 267,
+    "title": "turn_267 (D14:14)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Gina] [Image: a photo of a group of young women posing for a picture] Way to go, Jon! Don't quit, remember, failures lead you closer to success. Here's a pic from when I was dancing - it was a tough road, but it was worth it!",
+    "session": "E1_session_14",
+    "dia_id": "D14:14",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 268,
+    "title": "turn_268 (D14:15)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Jon] Wow, that's an awesome pic! You guys look great and passionate about dancing. Reminds me how much I love performing. Thanks for sharing!",
+    "session": "E1_session_14",
+    "dia_id": "D14:15",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 269,
+    "title": "turn_269 (D14:16)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Gina] Thanks! I'm glad the pic reminded you of your love for dancing. Keep going after your dreams!",
+    "session": "E1_session_14",
+    "dia_id": "D14:16",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 270,
+    "title": "turn_270 (D14:17)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Jon] Sure thing, Gina! Your help means a lot to me. I'm not giving up.",
+    "session": "E1_session_14",
+    "dia_id": "D14:17",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 271,
+    "title": "turn_271 (D14:18)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Gina] Go, Jon! I'm here for you. Keep going!",
+    "session": "E1_session_14",
+    "dia_id": "D14:18",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 272,
+    "title": "turn_272 (D14:19)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Jon] Knowing you've got my back really helps keep me going. I won't let you down!",
+    "session": "E1_session_14",
+    "dia_id": "D14:19",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 273,
+    "title": "turn_273 (D14:20)",
+    "text": "[t=9:38 pm on 16 June, 2023, speaker=Gina] No worries, Jon! You're really inspiring with your determination and passion for dance. Keep it up!",
+    "session": "E1_session_14",
+    "dia_id": "D14:20",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 274,
+    "title": "turn_274 (D15:1)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Jon] Hey Gina, hope you're doing great! Still working on my biz. Took a short trip last week to Rome to clear my mind a little.",
+    "session": "E1_session_15",
+    "dia_id": "D15:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 275,
+    "title": "turn_275 (D15:2)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Gina] Hi! Good for you! It definitely will help you to concentrate on your biz better.",
+    "session": "E1_session_15",
+    "dia_id": "D15:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 276,
+    "title": "turn_276 (D15:3)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Jon] Thanks, Gina. Still working on opening a dance studio.",
+    "session": "E1_session_15",
+    "dia_id": "D15:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 277,
+    "title": "turn_277 (D15:4)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Gina] When are you opening the studio?",
+    "session": "E1_session_15",
+    "dia_id": "D15:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 278,
+    "title": "turn_278 (D15:5)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Jon] [Image: a photo of a group of young dancers in a dance studio] The official opening night is tomorrow. I'm working hard to make everything just right. Can't wait to see it all come together!",
+    "session": "E1_session_15",
+    "dia_id": "D15:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 279,
+    "title": "turn_279 (D15:6)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Gina] Congrats, Jon! The studio looks amazing. You've put a lot of work into this and I'm so pumped for the launch tomorrow. Don't miss a beat!",
+    "session": "E1_session_15",
+    "dia_id": "D15:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 280,
+    "title": "turn_280 (D15:7)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Jon] Thanks, Gina! I'm excited! It's been a wild ride, but I'm feeling good and ready to give it my best.",
+    "session": "E1_session_15",
+    "dia_id": "D15:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 281,
+    "title": "turn_281 (D15:8)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Gina] Wow, Jon, you must be so excited! You've come so far since we last talked, and tomorrow's gonna be a blast! All those long nights were worth it - so take some time to savor it. Capture the joy and thrill that dance brings - it's magical!",
+    "session": "E1_session_15",
+    "dia_id": "D15:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 282,
+    "title": "turn_282 (D15:9)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Jon] Tomorrow's gonna be an awesome night and I'm not gonna forget a second of it. I put so much into this and I want to savor all the good vibes. Thanks for always having my back. You're the best!",
+    "session": "E1_session_15",
+    "dia_id": "D15:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 283,
+    "title": "turn_283 (D15:10)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Gina] I'm always proud of you. Enjoy the good feels tomorrow, you earned it!",
+    "session": "E1_session_15",
+    "dia_id": "D15:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 284,
+    "title": "turn_284 (D15:11)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Jon] Thanks! Your pride and support mean a lot. Looking forward to enjoying the moment with you.",
+    "session": "E1_session_15",
+    "dia_id": "D15:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 285,
+    "title": "turn_285 (D15:12)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Gina] I'll be right by your side, Jon. Let's live it up and make some great memories tomorrow. So excited!",
+    "session": "E1_session_15",
+    "dia_id": "D15:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 286,
+    "title": "turn_286 (D15:13)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Jon] Yeah! Let's make some awesome memories tomorrow at the grand opening!",
+    "session": "E1_session_15",
+    "dia_id": "D15:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 287,
+    "title": "turn_287 (D15:14)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Gina] Can't wait to make more memories at your dance studio!",
+    "session": "E1_session_15",
+    "dia_id": "D15:14",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 288,
+    "title": "turn_288 (D15:15)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Jon] Looking forward to more cool memories!",
+    "session": "E1_session_15",
+    "dia_id": "D15:15",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 289,
+    "title": "turn_289 (D15:16)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Gina] I love being around friends and having such a great time. Can't wait to have fun at your dance studio!",
+    "session": "E1_session_15",
+    "dia_id": "D15:16",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 290,
+    "title": "turn_290 (D15:17)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Jon] Agreed!",
+    "session": "E1_session_15",
+    "dia_id": "D15:17",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 291,
+    "title": "turn_291 (D15:18)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Gina] Can't wait for tomorrow's grand opening!",
+    "session": "E1_session_15",
+    "dia_id": "D15:18",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 292,
+    "title": "turn_292 (D15:19)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Jon] Woohoo! Tomorrow's opening will be so much fun. Can't wait for it - and for you to be there!",
+    "session": "E1_session_15",
+    "dia_id": "D15:19",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 293,
+    "title": "turn_293 (D15:20)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Gina] Can't wait too!",
+    "session": "E1_session_15",
+    "dia_id": "D15:20",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 294,
+    "title": "turn_294 (D15:21)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Jon] Definitely! Let's make tomorrow unforgettable, Gina. See you there! Bye!",
+    "session": "E1_session_15",
+    "dia_id": "D15:21",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 295,
+    "title": "turn_295 (D15:22)",
+    "text": "[t=10:04 am on 19 June, 2023, speaker=Gina] See you tomorrow. Bye!",
+    "session": "E1_session_15",
+    "dia_id": "D15:22",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 296,
+    "title": "turn_296 (D16:1)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Gina] [Image: a photo of a woman in a black hoodie posing for a picture] Hey Jon, what's been up? Some pretty cool stuff happened since we talked. I have acquired some new unique pieces for my store.",
+    "session": "E1_session_16",
+    "dia_id": "D16:1",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 297,
+    "title": "turn_297 (D16:2)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Jon] Congrats on your store, Gina! Happy for you! It looks sick - is it a unique piece you're selling?",
+    "session": "E1_session_16",
+    "dia_id": "D16:2",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 298,
+    "title": "turn_298 (D16:3)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Gina] Thanks! This hoodie isn't for sale, it's from my own collection. I made a limited edition line last week to show off my style and creativity - it was tough but worth it!",
+    "session": "E1_session_16",
+    "dia_id": "D16:3",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 299,
+    "title": "turn_299 (D16:4)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Jon] What gave you the idea?",
+    "session": "E1_session_16",
+    "dia_id": "D16:4",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 300,
+    "title": "turn_300 (D16:5)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Gina] This design reminds me of the grit it takes to stand out and face challenges.",
+    "session": "E1_session_16",
+    "dia_id": "D16:5",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 301,
+    "title": "turn_301 (D16:6)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Jon] That's awesome, Gina! Yesterday I chose to go to networking events to make things happen. It's been tough but I'm staying determined and focused.",
+    "session": "E1_session_16",
+    "dia_id": "D16:6",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 302,
+    "title": "turn_302 (D16:7)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Gina] Way to go, Jon! Attending those networking events takes guts and drive. Keep it up!",
+    "session": "E1_session_16",
+    "dia_id": "D16:7",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 303,
+    "title": "turn_303 (D16:8)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Jon] Thanks! It's been tough going since I lost my job, but I'm sure investing my time in my business will pay off eventually. I really appreciate your help.",
+    "session": "E1_session_16",
+    "dia_id": "D16:8",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 304,
+    "title": "turn_304 (D16:9)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Gina] No worries, Jon! You got this! Let me know if you need anything.",
+    "session": "E1_session_16",
+    "dia_id": "D16:9",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 305,
+    "title": "turn_305 (D16:10)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Jon] Your help matters to me. I am writing all my plans down.",
+    "session": "E1_session_16",
+    "dia_id": "D16:10",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 306,
+    "title": "turn_306 (D16:11)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Gina] Nice work! Tracking your plans and goals is key. It's like a picture of all your progress.",
+    "session": "E1_session_16",
+    "dia_id": "D16:11",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 307,
+    "title": "turn_307 (D16:12)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Jon] Thanks, Gina! Seeing my goals written down on paper really helps keep me motivated and focused on what I have to do. I know it won't be easy, but I'm sure it'll pay off. Thanks for the support!",
+    "session": "E1_session_16",
+    "dia_id": "D16:12",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 308,
+    "title": "turn_308 (D16:13)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Gina] [Image: a photo of a sign that says never give up never give up never] No worries, Jon! When things get rough, keep persevering and keep working hard. You'll get there! Don't quit!",
+    "session": "E1_session_16",
+    "dia_id": "D16:13",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 309,
+    "title": "turn_309 (D16:14)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Jon] Thanks, Gina! That sign reminds me to never give up, however hard things get. I'll keep going!",
+    "session": "E1_session_16",
+    "dia_id": "D16:14",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 310,
+    "title": "turn_310 (D16:15)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Gina] Believe in yourself and keep going. You can do it!",
+    "session": "E1_session_16",
+    "dia_id": "D16:15",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 311,
+    "title": "turn_311 (D16:16)",
+    "text": "[t=2:15 pm on 21 June, 2023, speaker=Jon] Thanks! I'm feeling confident and won't give up. Your support means a ton to me.",
+    "session": "E1_session_16",
+    "dia_id": "D16:16",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 312,
+    "title": "turn_312 (D17:1)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Gina] Hey Jon! Long time no chat! How's the dance studio? Last week was wild, I got noticed by fashion editors and it's been amazing but kinda scary. Everything's exciting but it's a lot of pressure to keep going up!",
+    "session": "E1_session_17",
+    "dia_id": "D17:1",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 313,
+    "title": "turn_313 (D17:2)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Jon] Hey Gina! Congrats on the fashion editors reach-out, that's awesome! Dance practice has been fun and exhausting. I'm gonna stay determined and make my own path by going full-time with my biz idea.",
+    "session": "E1_session_17",
+    "dia_id": "D17:2",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 314,
+    "title": "turn_314 (D17:3)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Gina] Just remember that sometimes stumbling blocks can be opened doors. Keep going!",
+    "session": "E1_session_17",
+    "dia_id": "D17:3",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 315,
+    "title": "turn_315 (D17:4)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Jon] Thanks! Your support and encouragement means a lot. Losing my job was a bummer, but it pushed me to take the plunge and go for my biz dreams. Started to learn all these marketing and analytics tools to push the biz forward today. It's been tricky, but I'm up for the challenge and I'm gonna make this work!",
+    "session": "E1_session_17",
+    "dia_id": "D17:4",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 316,
+    "title": "turn_316 (D17:5)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Gina] Go get 'em, Jon!",
+    "session": "E1_session_17",
+    "dia_id": "D17:5",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 317,
+    "title": "turn_317 (D17:6)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Jon] I'm also excited to guide and mentor aspiring dancers on their dreams.",
+    "session": "E1_session_17",
+    "dia_id": "D17:6",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 318,
+    "title": "turn_318 (D17:7)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Gina] Wow, Jon! That's awesome. Loving what you do and bringing joy to others is so rewarding. You're definitely the perfect mentor & guide. Your positivity and determination will make your dance studio a hit!",
+    "session": "E1_session_17",
+    "dia_id": "D17:7",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 319,
+    "title": "turn_319 (D17:8)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Jon] Thanks, Gina - really appreciate your words and encouragement! Dance has the power to bring us together and create sweet moments. Moments like this remind me why I'm chasing my dream and keep me pushing through any struggles.",
+    "session": "E1_session_17",
+    "dia_id": "D17:8",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 320,
+    "title": "turn_320 (D17:9)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Gina] Take comfort in knowing you've got a solid community cheering you on, me included. Keep on pushing!",
+    "session": "E1_session_17",
+    "dia_id": "D17:9",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 321,
+    "title": "turn_321 (D17:10)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Jon] Feeling supported by all of you means so much. It gives me the oomph to keep chasing my dreams. Your faith in me is priceless - I won't let you down!",
+    "session": "E1_session_17",
+    "dia_id": "D17:10",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 322,
+    "title": "turn_322 (D17:11)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Gina] Don't let anything stop you. You have potential!",
+    "session": "E1_session_17",
+    "dia_id": "D17:11",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 323,
+    "title": "turn_323 (D17:12)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Jon] Thanks, Gina! Your faith in me is a real boost. I'm gonna make my dreams come true!",
+    "session": "E1_session_17",
+    "dia_id": "D17:12",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 324,
+    "title": "turn_324 (D17:13)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Gina] Keep pushing and you'll get there. Your dreams are so close!",
+    "session": "E1_session_17",
+    "dia_id": "D17:13",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 325,
+    "title": "turn_325 (D17:14)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Jon] Thanks, Gina! I won't quit, even when it's hard. I'm gonna make it!",
+    "session": "E1_session_17",
+    "dia_id": "D17:14",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 326,
+    "title": "turn_326 (D17:15)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Gina] You got this, Jon! Don't let the bumps in the road bring you down. Keep going and make your dreams a reality! I'm rooting for you!",
+    "session": "E1_session_17",
+    "dia_id": "D17:15",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 327,
+    "title": "turn_327 (D17:16)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Jon] Thanks, Gina! Your belief in me means the world. I'm not gonna let anything or anyone stop me. I'll keep pushing and make my dreams come true. Thanks for being a great friend. You rock!",
+    "session": "E1_session_17",
+    "dia_id": "D17:16",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 328,
+    "title": "turn_328 (D17:17)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Gina] Hey Jon, glad I could help! Always here to cheer you on.",
+    "session": "E1_session_17",
+    "dia_id": "D17:17",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 329,
+    "title": "turn_329 (D17:18)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Jon] [Image: a photo of a drawing of a smiley face floating in the water] Thanks! Glad that you are on my side.",
+    "session": "E1_session_17",
+    "dia_id": "D17:18",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 330,
+    "title": "turn_330 (D17:19)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Gina] Sure, see ya. Bye!",
+    "session": "E1_session_17",
+    "dia_id": "D17:19",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 331,
+    "title": "turn_331 (D17:20)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Jon] Bye!",
+    "session": "E1_session_17",
+    "dia_id": "D17:20",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 332,
+    "title": "turn_332 (D17:21)",
+    "text": "[t=1:25 pm on 9 July, 2023, speaker=Gina] ;)",
+    "session": "E1_session_17",
+    "dia_id": "D17:21",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 333,
+    "title": "turn_333 (D18:1)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Gina] Hey Jon! Long time no talk! Last week, I built a new website for customers to make orders. It's been a wild ride but I'm loving it. What's up with you? How's the dance studio?",
+    "session": "E1_session_18",
+    "dia_id": "D18:1",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 334,
+    "title": "turn_334 (D18:2)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Jon] Hey Gina, congrats on the clothing store! The dance studio is on tenuous grounds right now, but I'm staying positive. I got a temp job to help cover expenses while I look for investors. It's tough, but I'm sure it'll be worth it.",
+    "session": "E1_session_18",
+    "dia_id": "D18:2",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 335,
+    "title": "turn_335 (D18:3)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Gina] Thanks, Jon! Appreciate the kind words. Sorry to hear about the studio, but glad to see the positivity. Not easy facing setbacks but I believe in you. Finding investors can be tough, but you've got the passion and experience to make it happen. Rome wasn't built in a day so keep pushing on!",
+    "session": "E1_session_18",
+    "dia_id": "D18:3",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 336,
+    "title": "turn_336 (D18:4)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Jon] Thanks for the support. Running a business isn't easy, but I'm determined to make it work. How have you tackled challenges in your business? Got any advice?",
+    "session": "E1_session_18",
+    "dia_id": "D18:4",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 337,
+    "title": "turn_337 (D18:5)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Gina] I've had some tough times with my business, Jon. Sourcing trendy pieces for my store was a big hurdle. I had to do a lot of research and networking. My advice? Don't be scared to reach out to people in your field for help and contacts. Networking was a lifesaver for me and opened me up to amazing products that I might not have found otherwise.",
+    "session": "E1_session_18",
+    "dia_id": "D18:5",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 338,
+    "title": "turn_338 (D18:6)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Jon] [Image: a photography of a group of people standing in a room] Awesome advice! Lately I've been networking and it's gotten me some good stuff. Really can't beat what connections can do. Check this pic I got from the last networking event!",
+    "session": "E1_session_18",
+    "dia_id": "D18:6",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 339,
+    "title": "turn_339 (D18:7)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Gina] Nice one, Jon! Networking really pays off. Connecting with like-minded people is key. How was the event?",
+    "session": "E1_session_18",
+    "dia_id": "D18:7",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 340,
+    "title": "turn_340 (D18:8)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Jon] [Image: a photo of a man signing a card at a table] Thanks! The event was awesome. I met some investors and got some good advice. The energy was really motivating, it gave me a boost to go after my goals.",
+    "session": "E1_session_18",
+    "dia_id": "D18:8",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 341,
+    "title": "turn_341 (D18:9)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Gina] Wow, Jon! Congrats on the successful night! What are your plans now with the advice you got?",
+    "session": "E1_session_18",
+    "dia_id": "D18:9",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 342,
+    "title": "turn_342 (D18:10)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Jon] Taking your advice, I'm sprucing up my biz plan and tweaking my pitch to investors. I'm also working on an online platform to show off the dance studio's stuff.",
+    "session": "E1_session_18",
+    "dia_id": "D18:10",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 343,
+    "title": "turn_343 (D18:11)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Gina] Sounds like a great plan, Jon! An online platform can really show off your studio and get investors. Need help with anything?",
+    "session": "E1_session_18",
+    "dia_id": "D18:11",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 344,
+    "title": "turn_344 (D18:12)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Jon] Thanks, Gina! Appreciate the offer. Need help with marketing strategies - any advice on reaching my target audience and raising awareness for the dance studio?",
+    "session": "E1_session_18",
+    "dia_id": "D18:12",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 345,
+    "title": "turn_345 (D18:13)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Gina] Yeah Jon, marketing is key for getting your dance studio noticed. Instagram and TikTok can help you reach a younger crowd. Posting dance clips or content related to dance can help. You could also collaborate with local influencers or dance communities. I could help you with making content or even managing your accounts if you want.",
+    "session": "E1_session_18",
+    "dia_id": "D18:13",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 346,
+    "title": "turn_346 (D18:14)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Jon] Sounds great. I'd really appreciate your help with making content and managing my social media. Let's get together and make the dance studio look awesome!",
+    "session": "E1_session_18",
+    "dia_id": "D18:14",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 347,
+    "title": "turn_347 (D18:15)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Gina] Let's create some cool content and manage your social media accounts.",
+    "session": "E1_session_18",
+    "dia_id": "D18:15",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 348,
+    "title": "turn_348 (D18:16)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Jon] Thanks for the support. You rock!",
+    "session": "E1_session_18",
+    "dia_id": "D18:16",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 349,
+    "title": "turn_349 (D18:17)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Gina] Thanks, Jon! You're awesome. Let's get to work and make your studio shine!",
+    "session": "E1_session_18",
+    "dia_id": "D18:17",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 350,
+    "title": "turn_350 (D18:18)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Jon] Definitely, Gina! Let's make our collaboration awesome and bring some dance magic to the world. Can't wait to see what we can do together!",
+    "session": "E1_session_18",
+    "dia_id": "D18:18",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 351,
+    "title": "turn_351 (D18:19)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Gina] Definitely, Jon! I'm pumped to collaborate with you and make some sweet moves. Together, we can make a difference and show the world what we can do. Let's go for it!",
+    "session": "E1_session_18",
+    "dia_id": "D18:19",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 352,
+    "title": "turn_352 (D18:20)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Jon] Yeah, Gina! We'll rock the dance floor and teach others to chase their dreams. Let's go for it and make an impact!",
+    "session": "E1_session_18",
+    "dia_id": "D18:20",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 353,
+    "title": "turn_353 (D18:21)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Gina] Yeah Jon! Let's make a difference and show 'em what we got. We can do amazing things together!",
+    "session": "E1_session_18",
+    "dia_id": "D18:21",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 354,
+    "title": "turn_354 (D18:22)",
+    "text": "[t=5:44 pm on 21 July, 2023, speaker=Jon] Thanks for having my back.",
+    "session": "E1_session_18",
+    "dia_id": "D18:22",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 355,
+    "title": "turn_355 (D19:1)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Jon] Hey Gina! We haven't talked in a few days. Been rehearsing hard and working on business plans. It's been stressful, but dancing has kept me going.",
+    "session": "E1_session_19",
+    "dia_id": "D19:1",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 356,
+    "title": "turn_356 (D19:2)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Gina] Hey Jon! Remember, just do it! You should get to the point where anyone else would quit and you're not going to stop there. No, what are you waiting for? Do it! Just do it!",
+    "session": "E1_session_19",
+    "dia_id": "D19:2",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 357,
+    "title": "turn_357 (D19:3)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Jon] Ha, ha! Thanks, Gina. Sounds familiar, who do those words belong to?",
+    "session": "E1_session_19",
+    "dia_id": "D19:3",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 358,
+    "title": "turn_358 (D19:4)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Gina] It's Shia Labeouf!",
+    "session": "E1_session_19",
+    "dia_id": "D19:4",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 359,
+    "title": "turn_359 (D19:5)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Jon] Ahhahha, really!? Yea, that definitely him.",
+    "session": "E1_session_19",
+    "dia_id": "D19:5",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 360,
+    "title": "turn_360 (D19:6)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Gina] Hah, yeah!) But really having a creative space for dancers is so important. Last Friday at dance class with a group of friends I felt it. Your studio will be a go-to spot for self-expression. Keep up the good work and don't forget your passion for dance.",
+    "session": "E1_session_19",
+    "dia_id": "D19:6",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 361,
+    "title": "turn_361 (D19:7)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Jon] Thanks, Gina! Your words of encouragement keep me motivated. Can't wait 'til my studio starts welcoming dancers of all ages and backgrounds!",
+    "session": "E1_session_19",
+    "dia_id": "D19:7",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 362,
+    "title": "turn_362 (D19:8)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Gina] I'm so happy to see my words motivating you, Jon. <3",
+    "session": "E1_session_19",
+    "dia_id": "D19:8",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 363,
+    "title": "turn_363 (D19:9)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Jon] Thanks a ton, Gina! Your help and encouragement mean a lot. Your support will help me make it happen.",
+    "session": "E1_session_19",
+    "dia_id": "D19:9",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 364,
+    "title": "turn_364 (D19:10)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Gina] You're welcome, Jon! I'm here to support you. Every step's getting you closer to your dream. Never give up! You're doing great.",
+    "session": "E1_session_19",
+    "dia_id": "D19:10",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 365,
+    "title": "turn_365 (D19:11)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Jon] Thanks, Gina! I won't quit. I'm gonna keep going, whatever comes my way.",
+    "session": "E1_session_19",
+    "dia_id": "D19:11",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 366,
+    "title": "turn_366 (D19:12)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Gina] Remember Jon, Just do it!",
+    "session": "E1_session_19",
+    "dia_id": "D19:12",
+    "speaker": "Gina"
+  },
+  {
+    "idx": 367,
+    "title": "turn_367 (D19:13)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Jon] Ah ha ha, yeah, JUST DOING IT!",
+    "session": "E1_session_19",
+    "dia_id": "D19:13",
+    "speaker": "Jon"
+  },
+  {
+    "idx": 368,
+    "title": "turn_368 (D19:14)",
+    "text": "[t=6:46 pm on 23 July, 2023, speaker=Gina] That's the spirit! Bye!",
+    "session": "E1_session_19",
+    "dia_id": "D19:14",
+    "speaker": "Gina"
+  }
+]

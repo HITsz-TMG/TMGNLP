@@ -1,0 +1,22 @@
+[
+  {
+    "id": "longmemeval_s_465",
+    "question_id": "71a3fd6b",
+    "question": "I'm planning my trip to Speyer again and I wanted to confirm, what's the phone number of the Speyer tourism board that you provided me earlier?",
+    "answer": [
+      "+49 (0) 62 32 / 14 23 - 0"
+    ],
+    "answerable": true,
+    "question_date": "2023/05/30 (Tue) 21:38",
+    "question_type": "single-session-assistant",
+    "paragraphs": [
+      {
+        "title": "Session_answer_ultrachat_417348",
+        "text": "[Date: 2023/05/29 (Mon) 09:40]\nUser: Are there any upcoming sporting events in Speyer that visitors can attend or participate in?\n\nAssistant: I do not have access to real-time information about events or functions happening in speyer. however, visitors can check local event calendars, sports club websites or consult with the tourism board of speyer to know about any upcoming sporting events. additionally, major sporting events in germany such as the bundesliga, triathlon events, or marathon races might feature speyer as a destination, and visitors can participate in those.\n\nUser: Can you provide me with the contact details of the local tourism board of Speyer?\n\nAssistant: Certainly! You can contact the tourism board of Speyer using the following details:\n\nSpeyer Tourismus Marketing GmbH\nMaximilianstraße 13\n67346 Speyer\nPhone: +49 (0) 62 32 / 14 23 - 0\nEmail: info@speyer.de\nWebsite: https://www.speyer.de/\n\nUser: Thanks for providing me with the contact details of the tourism board of Speyer. Can you tell me how I can get to Speyer from Frankfurt?\n\nAssistant: Yes, there are several ways to get to Speyer from Frankfurt. Here are some options:\n\n1. By car: Speyer is about 1 hour and 10 minutes drive from Frankfurt. You can rent a car at Frankfurt airport or in the city and drive to Speyer on the A67 and A61 highways.\n\n2. By train: The train is a convenient way to get to Speyer from Frankfurt. You can take a train from Frankfurt's main train station Frankfurt am Main Hauptbahnhof to Speyer Hauptbahnhof. The journey takes around 1 hour and 20 minutes, and there are several direct and indirect trains available throughout the day.\n\n3. By bus: You can also take a bus from Frankfurt to Speyer. There are several bus companies that operate between the two cities, and the journey takes around 1 hour and 30 minutes.\n\n4. By taxi: You can take a taxi from Frankfurt Airport or the city center to Speyer. The journey takes around 1 hour and can be quite expensive.\n\nI hope this information helps you!",
+        "is_supporting": true,
+        "idx": 36,
+        "date": "2023/05/29 (Mon) 09:40"
+      }
+    ]
+  }
+]

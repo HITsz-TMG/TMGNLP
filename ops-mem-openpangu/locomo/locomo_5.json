@@ -1,0 +1,3203 @@
+[
+  {
+    "id": "locomo_5_0",
+    "question": "Which year did Audrey adopt the first three of her dogs?",
+    "answer": [
+      "2020"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_6 (D1:7)",
+        "text": "[t=1:10 pm on 27 March, 2023, speaker=Audrey] I've had them for 3 years! Their names are Pepper, Precious and Panda. I can't live without my little ones!",
+        "is_supporting": true,
+        "idx": 6
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_1",
+    "question": "When did Andrew start his new job as a financial analyst?",
+    "answer": [
+      "The week before March 27, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_1 (D1:2)",
+        "text": "[t=1:10 pm on 27 March, 2023, speaker=Andrew] Hey Audrey! So, I started a new job as a Financial Analyst last week - it's been quite a change from my previous job. How about you? Anything interesting happening?",
+        "is_supporting": true,
+        "idx": 1
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_2",
+    "question": "What kind of indoor activities has Andrew pursued with his girlfriend?",
+    "answer": [
+      "boardgames, volunteering at pet shelter, wine tasting, growing flowers"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_301 (D13:1)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Andrew] Hey Audrey! How are you? My GF and I just had a great experience volunteering at a pet shelter on Monday - it was so rewarding! We loved spending time with those cute animals and it gave us so much joy. It was so rewarding, it reminded me just how much I love them!",
+        "is_supporting": true,
+        "idx": 301
+      },
+      {
+        "title": "turn_439 (D19:15)",
+        "text": "[t=5:53 pm on 24 September, 2023, speaker=Andrew] [Image: a photo of a balcony with a bunch of flowers on it] Yeah! They really do bring so much into our lives - it's amazing to watch them interact. Here's something I've been taking care of lately. Look at those flowers!",
+        "is_supporting": true,
+        "idx": 439
+      },
+      {
+        "title": "turn_526 (D23:1)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Andrew] [Image: a photography of a dog sitting at a chess board with a chess set in front of him] Hey Audrey, it's been a busy week for me. Last Tuesday, my gf, Toby, and I had a really awesome night playing board games. It was really nice. What's been up with you lately?",
+        "is_supporting": true,
+        "idx": 526
+      },
+      {
+        "title": "turn_576 (D25:1)",
+        "text": "[t=10:14 am on 24 October, 2023, speaker=Andrew] Hi Audrey! How have you been lately? My girlfriend and I went to this awesome wine tasting last weekend. It was great! We tried so many unique wines and learned a lot. I was surprised at how much I enjoyed it. A reminder to step out of the comfort zone!",
+        "is_supporting": true,
+        "idx": 576
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_3",
+    "question": "What kind of places have Andrew and his girlfriend checked out around the city?",
+    "answer": [
+      "cafes, new places to eat, open space for hikes, pet shelter, wine tasting event, park"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_301 (D13:1)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Andrew] Hey Audrey! How are you? My GF and I just had a great experience volunteering at a pet shelter on Monday - it was so rewarding! We loved spending time with those cute animals and it gave us so much joy. It was so rewarding, it reminded me just how much I love them!",
+        "is_supporting": true,
+        "idx": 301
+      },
+      {
+        "title": "turn_528 (D23:3)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Andrew] [Image: a photo of a group of people sitting at a table in a room] Friday night's board game session was a nice break. This weekend, I'm planning to check out this cozy cafe and hang out there.",
+        "is_supporting": true,
+        "idx": 528
+      },
+      {
+        "title": "turn_576 (D25:1)",
+        "text": "[t=10:14 am on 24 October, 2023, speaker=Andrew] Hi Audrey! How have you been lately? My girlfriend and I went to this awesome wine tasting last weekend. It was great! We tried so many unique wines and learned a lot. I was surprised at how much I enjoyed it. A reminder to step out of the comfort zone!",
+        "is_supporting": true,
+        "idx": 576
+      },
+      {
+        "title": "turn_639 (D27:1)",
+        "text": "[t=7:59 pm on 4 November, 2023, speaker=Andrew] [Image: a photo of two people riding bikes on a paved path] Hey Audrey, had a great weekend! My girlfriend and I went on a bike ride and stumbled upon a cool park outside of town. It was awesome to get away from the city and be surrounded by nature.",
+        "is_supporting": true,
+        "idx": 639
+      },
+      {
+        "title": "turn_50 (D3:1)",
+        "text": "[t=4:19 pm on 16 April, 2023, speaker=Andrew] Hey Audrey! What's up? Missed chatting with ya! Check it out, my girl & I tried out that new cafe scene in the city last weekend! Super fun but kinda sad not being out in nature - that's when I feel like I'm really thriving. Oh man, I miss the peacefulness of being out on a hike.",
+        "is_supporting": true,
+        "idx": 50
+      },
+      {
+        "title": "turn_60 (D3:11)",
+        "text": "[t=4:19 pm on 16 April, 2023, speaker=Andrew] My girlfriend and I love to discover new places to eat around town. It's a great way to try something new and wind down after a long week.",
+        "is_supporting": true,
+        "idx": 60
+      },
+      {
+        "title": "turn_82 (D4:2)",
+        "text": "[t=5:41 pm on 3 May, 2023, speaker=Andrew] [Image: a photo of a view of a lake and mountains at sunset] Hey Audrey! Glad to hear from you. That hummingbird was awesome! Nature's the best. Remember I was feeling down because I couldn't get out more? Well, good news - I found a new open space to hike nearby - feels so refreshing!",
+        "is_supporting": true,
+        "idx": 82
+      },
+      {
+        "title": "turn_133 (D6:1)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Andrew] [Image: a photography of a dirt path leading to a grassy hill] Hi Audrey! I had a great hike last weekend with some friends and my girlfriend at the spot we found recently. Nature was so peaceful – it was so nice to just relax and take it in. How's your week been? Anything exciting going on lately?",
+        "is_supporting": true,
+        "idx": 133
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_4",
+    "question": "When did Audrey make muffins for herself?",
+    "answer": [
+      "The week of April 3rd to 9th"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_67 (D3:18)",
+        "text": "[t=4:19 pm on 16 April, 2023, speaker=Audrey] [Image: a photo of a muffin pan filled with blueberries and muffins] Wow, sounds amazing! Glad you got to enjoy them. Since you metioned pastries, I made some of my favorite treats last week. Let's have a pastry party sometime!",
+        "is_supporting": true,
+        "idx": 67
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_5",
+    "question": "When did Audrey see a hummingbird?",
+    "answer": [
+      "first week of May 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_81 (D4:1)",
+        "text": "[t=5:41 pm on 3 May, 2023, speaker=Audrey] [Image: a photography of a hummingbird sitting on a branch with its wings spread] Hey Andrew! Long time no talk! Last week I finally went on a hike and had this amazing experience with a hummingbird. It was so cool watching it dart around with its wings! Nature is so beautiful.",
+        "is_supporting": true,
+        "idx": 81
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_6",
+    "question": "When did Audrey adopt Pixie?",
+    "answer": [
+      "around April 2, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_24 (D2:1)",
+        "text": "[t=2:42 pm on 2 April, 2023, speaker=Audrey] [Image: a photo of a small white dog sitting on a carpet] Hey Andrew, I got a surprise for you! We adopted another puppy called Pixie. She's SO cute! Isn't she just the cutest?",
+        "is_supporting": true,
+        "idx": 24
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_7",
+    "question": "How many years passed between Audrey adopting Pixie and her other three dogs?",
+    "answer": [
+      "three years"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_6 (D1:7)",
+        "text": "[t=1:10 pm on 27 March, 2023, speaker=Audrey] I've had them for 3 years! Their names are Pepper, Precious and Panda. I can't live without my little ones!",
+        "is_supporting": true,
+        "idx": 6
+      },
+      {
+        "title": "turn_24 (D2:1)",
+        "text": "[t=2:42 pm on 2 April, 2023, speaker=Audrey] [Image: a photo of a small white dog sitting on a carpet] Hey Andrew, I got a surprise for you! We adopted another puppy called Pixie. She's SO cute! Isn't she just the cutest?",
+        "is_supporting": true,
+        "idx": 24
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_8",
+    "question": "Did Andrew have a pet dog during March 2023?",
+    "answer": [
+      "No"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_31 (D2:8)",
+        "text": "[t=2:42 pm on 2 April, 2023, speaker=Andrew] That's great to hear! I'm considering getting a dog too, but it can be challenging finding a dog-friendly place in the city. Do you have any tips on finding such a place?",
+        "is_supporting": true,
+        "idx": 31
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_9",
+    "question": "What kind of classes or groups has Audrey joined to take better care of her dogs?",
+    "answer": [
+      "positive reinforcement training workshop to bond with pets, dog training course, agility training course, grooming course, dog-owners group"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_217 (D10:1)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Audrey] Hey! It's been a while. I'm taking a dog training course and it's challenging but rewarding. My dogs are doing better already. What's new with you?",
+        "is_supporting": true,
+        "idx": 217
+      },
+      {
+        "title": "turn_318 (D14:2)",
+        "text": "[t=11:05 am on 4 August, 2023, speaker=Audrey] [Image: a photo of a dog in a field of flowers and grass] That's awesome! That must be fun! I just started agility classes with my pups at a dog park. It's awesome to watch them learn and build relationships with other dogs. Seeing them face and conquer challenges really warms my heart.",
+        "is_supporting": true,
+        "idx": 318
+      },
+      {
+        "title": "turn_368 (D16:6)",
+        "text": "[t=9:19 pm on 19 August, 2023, speaker=Audrey] I took a dog grooming course and learned lots of techniques. Would you like to hear some tips?",
+        "is_supporting": true,
+        "idx": 368
+      },
+      {
+        "title": "turn_640 (D27:2)",
+        "text": "[t=7:59 pm on 4 November, 2023, speaker=Audrey] [Image: a photo of a group of people and dogs in a park] That's cool! I love checking out new parks with my four pups. Last weekend was so fun - our dogs were able to run around and get some fresh air. On top of that, I recently joined a dog owners group to learn how to better take care of them.",
+        "is_supporting": true,
+        "idx": 640
+      },
+      {
+        "title": "turn_134 (D6:2)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] [Image: a photography of a group of dogs with a yellow circle] Hey Andrew! That hike sounds great. Nature is good for the soul, right? My week's been good - taking care of my four doggies and making sure they're happy and healthy took up most of my free time. Also, exciting news! I signed up for a workshop about bonding with my pet next month. Can't wait to learn new stuff and strengthen my bond with my pets. What's up with you?",
+        "is_supporting": true,
+        "idx": 134
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_10",
+    "question": "When did Audrey's positive reinforcement training course for dogs take place?",
+    "answer": [
+      "June, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_134 (D6:2)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] [Image: a photography of a group of dogs with a yellow circle] Hey Andrew! That hike sounds great. Nature is good for the soul, right? My week's been good - taking care of my four doggies and making sure they're happy and healthy took up most of my free time. Also, exciting news! I signed up for a workshop about bonding with my pet next month. Can't wait to learn new stuff and strengthen my bond with my pets. What's up with you?",
+        "is_supporting": true,
+        "idx": 134
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_11",
+    "question": "When did Andrew go rock climbing?",
+    "answer": [
+      "June 11, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_162 (D8:1)",
+        "text": "[t=5:23 pm on 13 June, 2023, speaker=Andrew] Hey! Long time no chat. Last Sunday was awesome - my friends and I took a rock climbing class and I made it to the top! It was a fantastic experience and now I'm hooked. Think I'm going to try to do more outdoor activities like this every week!",
+        "is_supporting": true,
+        "idx": 162
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_12",
+    "question": "What outdoor activities has Andrew done other than hiking in nature?",
+    "answer": [
+      "rock climbing, fishing, camping"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_317 (D14:1)",
+        "text": "[t=11:05 am on 4 August, 2023, speaker=Andrew] [Image: a photo of a woman setting up a tent on a rocky hill] Hey, Audrey! I can't wait for the weekend. My girlfriend, Toby and I are going camping. It's been forever since I've been in nature.",
+        "is_supporting": true,
+        "idx": 317
+      },
+      {
+        "title": "turn_382 (D17:1)",
+        "text": "[t=12:24 am on 24 August, 2023, speaker=Andrew] Hey Audrey! What's up? Last weekend my girlfriend and I went fishing in one of the nearby lakes. It was so nice. We got a few fish and had a blast. Have you ever gone fishing before?",
+        "is_supporting": true,
+        "idx": 382
+      },
+      {
+        "title": "turn_162 (D8:1)",
+        "text": "[t=5:23 pm on 13 June, 2023, speaker=Andrew] Hey! Long time no chat. Last Sunday was awesome - my friends and I took a rock climbing class and I made it to the top! It was a fantastic experience and now I'm hooked. Think I'm going to try to do more outdoor activities like this every week!",
+        "is_supporting": true,
+        "idx": 162
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_13",
+    "question": "When did Audrey move to a new place?",
+    "answer": [
+      "June 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_190 (D9:1)",
+        "text": "[t=1:51 pm on 26 June, 2023, speaker=Audrey] [Image: a photography of two dogs sitting on the grass in front of a house] Woohoo! I got a new place with a bigger backyard for the pooches! Take a look!",
+        "is_supporting": true,
+        "idx": 190
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_14",
+    "question": "What is something that Andrew really misses while working in the city?",
+    "answer": [
+      "being in nature"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_56 (D3:7)",
+        "text": "[t=4:19 pm on 16 April, 2023, speaker=Andrew] I hear ya. Can’t do that here unfortunately, city living makes it hard. Really miss that connection and companionship.",
+        "is_supporting": true,
+        "idx": 56
+      },
+      {
+        "title": "turn_209 (D9:20)",
+        "text": "[t=1:51 pm on 26 June, 2023, speaker=Andrew] Haven't gone through the photos yet. Maybe soon! It was lovely being out in the open, hearing the bird songs and smelling the trees. Lately, I've been really missing that connection with nature and the peace it brings. I'm definitely looking forward to exploring more!",
+        "is_supporting": true,
+        "idx": 209
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_15",
+    "question": "What is a shared frustration regarding dog ownership for Audrey and Andrew?",
+    "answer": [
+      "Not being able to find pet friendly spots."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_221 (D10:5)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Audrey] [Image: a photo of two dogs running in a field with a ball in their mouth] Seeing them do well is super rewarding! They give me so much love and happiness. I get how frustrating it can be not to find pet-friendly spots. Nature is so calming and restorative with them around. See how happy they are when they're out.",
+        "is_supporting": true,
+        "idx": 221
+      },
+      {
+        "title": "turn_156 (D7:8)",
+        "text": "[t=11:27 am on 2 June, 2023, speaker=Andrew] I'm still on the hunt, but it's tough finding a pet-friendly spot in the city. Been checking out some places, but no luck so far. A bit discouraged but I'm determined to find the right place and dog.",
+        "is_supporting": true,
+        "idx": 156
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_16",
+    "question": "When is Andrew going to go hiking with Audrey?",
+    "answer": [
+      "August"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_252 (D11:7)",
+        "text": "[t=9:48 am on 8 July, 2023, speaker=Andrew] [Image: a photo of a woman walking up a steep hill with a view of the ocean] Yeah definitely ! I'm down for a hike with you and your furry friends. Let's do it next month when the weather is more pleasant. Here's the trail that I think it'd be great for the dogs.",
+        "is_supporting": true,
+        "idx": 252
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_17",
+    "question": "How many times did Audrey and Andew plan to hike together?",
+    "answer": [
+      "three times"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_252 (D11:7)",
+        "text": "[t=9:48 am on 8 July, 2023, speaker=Andrew] [Image: a photo of a woman walking up a steep hill with a view of the ocean] Yeah definitely ! I'm down for a hike with you and your furry friends. Let's do it next month when the weather is more pleasant. Here's the trail that I think it'd be great for the dogs.",
+        "is_supporting": true,
+        "idx": 252
+      },
+      {
+        "title": "turn_566 (D24:13)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Audrey] I can't wait for our hike with the furry friends next month - it's gonna be awesome!",
+        "is_supporting": true,
+        "idx": 566
+      },
+      {
+        "title": "turn_611 (D26:20)",
+        "text": "[t=2:36 pm on 28 October, 2023, speaker=Andrew] Yay! Does Saturday sound good? We can grab some snacks and have a blast exploring. Because on Sunday I am going on a picnic date with my girlfriend.",
+        "is_supporting": true,
+        "idx": 611
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_18",
+    "question": "Where did Audrey get Pixie from?",
+    "answer": [
+      "breeder"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_249 (D11:4)",
+        "text": "[t=9:48 am on 8 July, 2023, speaker=Audrey] Thanks! I got lucky finding a breeder nearby that has the dogs I wanted. Yeah places that allows dogs are really hard to find unfortunately .",
+        "is_supporting": true,
+        "idx": 249
+      },
+      {
+        "title": "turn_24 (D2:1)",
+        "text": "[t=2:42 pm on 2 April, 2023, speaker=Audrey] [Image: a photo of a small white dog sitting on a carpet] Hey Andrew, I got a surprise for you! We adopted another puppy called Pixie. She's SO cute! Isn't she just the cutest?",
+        "is_supporting": true,
+        "idx": 24
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_19",
+    "question": "What is an indoor activity that Andrew would enjoy doing while make his dog happy?",
+    "answer": [
+      "cook dog treats"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_228 (D10:12)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Andrew] Lately I've been finding new hobbies since I can't hike. I've been getting into cooking more and trying out new recipes - it's been enjoyable. Do you enjoy cooking? Any favorite recipes?",
+        "is_supporting": true,
+        "idx": 228
+      },
+      {
+        "title": "turn_284 (D12:1)",
+        "text": "[t=10:05 am on 11 July, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a leash in a room] Hey! So much has changed since last time we talked - meet Toby, my puppy. He's a bundle of joy and I couldn't resist taking him home, city living and all. How've you been?",
+        "is_supporting": true,
+        "idx": 284
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_5_20",
+    "question": "Which meat does Audrey prefer eating more than others?",
+    "answer": [
+      "chicken"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_229 (D10:13)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Audrey] [Image: a photo of a pie on a wooden board with a knife] I love cooking! My favorite recipe is Chicken Pot Pie. It's so cozy and delicious, especially on a cold day. If you want, I can share the recipe with you.",
+        "is_supporting": true,
+        "idx": 229
+      },
+      {
+        "title": "turn_239 (D10:23)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Audrey] [Image: a photography of a pan of chicken and potatoes on a stove] Sure! Roasted Chicken is one of my favorites - sure I'll send you the recipe in a bit.",
+        "is_supporting": true,
+        "idx": 239
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_5_21",
+    "question": "What are the classes that Audrey took for her dogs to?",
+    "answer": [
+      "Positive reinforcement training class for bonding, dog training course, agility class"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_217 (D10:1)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Audrey] Hey! It's been a while. I'm taking a dog training course and it's challenging but rewarding. My dogs are doing better already. What's new with you?",
+        "is_supporting": true,
+        "idx": 217
+      },
+      {
+        "title": "turn_318 (D14:2)",
+        "text": "[t=11:05 am on 4 August, 2023, speaker=Audrey] [Image: a photo of a dog in a field of flowers and grass] That's awesome! That must be fun! I just started agility classes with my pups at a dog park. It's awesome to watch them learn and build relationships with other dogs. Seeing them face and conquer challenges really warms my heart.",
+        "is_supporting": true,
+        "idx": 318
+      },
+      {
+        "title": "turn_136 (D6:4)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] I know right? I saw this workshop flyer at my local pet store. It was a positive reinforcement training class and I wanted to give it a shot. The volunteer in the store was nice enough to let me meet their dog – he was so friendly and playful!",
+        "is_supporting": true,
+        "idx": 136
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_22",
+    "question": "Where did Andrew go during the first weekend of August 2023?",
+    "answer": [
+      "camping with girlfriend"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_317 (D14:1)",
+        "text": "[t=11:05 am on 4 August, 2023, speaker=Andrew] [Image: a photo of a woman setting up a tent on a rocky hill] Hey, Audrey! I can't wait for the weekend. My girlfriend, Toby and I are going camping. It's been forever since I've been in nature.",
+        "is_supporting": true,
+        "idx": 317
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_23",
+    "question": "What are some problems that Andrew faces before he adopted Toby?",
+    "answer": [
+      "Finding the right dog and pet-friendly apartments close to open spaces"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_35 (D2:12)",
+        "text": "[t=2:42 pm on 2 April, 2023, speaker=Andrew] Thanks! Fingers crossed for the apartment and that furry friend.",
+        "is_supporting": true,
+        "idx": 35
+      },
+      {
+        "title": "turn_113 (D5:3)",
+        "text": "[t=10:47 am on 6 May, 2023, speaker=Andrew] Meeting all these adorable pups has been awesome! For those considering getting a pup, the size of living space and the exercise needs of the breed are important. For me, a person living in an apartment, a smaller dog would be best, but if one is active, consider getting one that loves to play and run.",
+        "is_supporting": true,
+        "idx": 113
+      },
+      {
+        "title": "turn_115 (D5:5)",
+        "text": "[t=10:47 am on 6 May, 2023, speaker=Andrew] Yeah! Finding a pet-friendly place to live has been tough too. I'm contacting landlords and checking out neighborhoods to find the perfect spot.",
+        "is_supporting": true,
+        "idx": 115
+      },
+      {
+        "title": "turn_117 (D5:7)",
+        "text": "[t=10:47 am on 6 May, 2023, speaker=Andrew] I'm looking for a place near a park or woods, so I can stay close to nature and give the dog a large open space to run around",
+        "is_supporting": true,
+        "idx": 117
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_24",
+    "question": "Did Audrey and Andrew grow up with a pet dog?",
+    "answer": [
+      "Yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_310 (D13:10)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Audrey] Max and I would take long walks in the neighborhood when I was a kid. We explored new paths, him sniffing and marking his territory. We grew really close, and I shared my worries and hopes with him. He was a great listener, always there for me. Those days are some of my favorite memories.",
+        "is_supporting": true,
+        "idx": 310
+      },
+      {
+        "title": "turn_39 (D2:16)",
+        "text": "[t=2:42 pm on 2 April, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a couch in a living room] It'd be so great to have a furry buddy to cuddle and hang with. Here's a photo of my family's dog on a couch.",
+        "is_supporting": true,
+        "idx": 39
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_25",
+    "question": "When did Andrew and his girlfriend go fishing?",
+    "answer": [
+      "weekend before August 24, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_382 (D17:1)",
+        "text": "[t=12:24 am on 24 August, 2023, speaker=Andrew] Hey Audrey! What's up? Last weekend my girlfriend and I went fishing in one of the nearby lakes. It was so nice. We got a few fish and had a blast. Have you ever gone fishing before?",
+        "is_supporting": true,
+        "idx": 382
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_26",
+    "question": "What is the biggest stressor in Andrew's life besides not being able to hike frequently?",
+    "answer": [
+      "work"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_232 (D10:16)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Andrew] Thanks! I'll give it a try. Cooking has been helping me de-stress and be creative. I'm still a rookie, but I'm having fun experimenting. So what makes you like cooking so much?",
+        "is_supporting": true,
+        "idx": 232
+      },
+      {
+        "title": "turn_286 (D12:3)",
+        "text": "[t=10:05 am on 11 July, 2023, speaker=Andrew] Haha yeah! Toby's definitely bringing a lot of joy. Since we last talked, work has been piling up and I've been stuck inside. I miss the peace and feeling of freedom that comes with going for a hike.",
+        "is_supporting": true,
+        "idx": 286
+      },
+      {
+        "title": "turn_363 (D16:1)",
+        "text": "[t=9:19 pm on 19 August, 2023, speaker=Andrew] [Image: a photo of a sunset over a mountain with a church on top] Hey Audrey, hope you're doing good! So I've decided to take a break from work yesterday and check out a new cafe. It was a nice change and reminded me of how the great outdoors is always there to offer you peace. Here's a photo from my last hike - so serene! How's your month been so far?",
+        "is_supporting": true,
+        "idx": 363
+      },
+      {
+        "title": "turn_403 (D18:1)",
+        "text": "[t=7:49 pm on 6 September, 2023, speaker=Andrew] Hey Audrey, how's it going? Since we last talked, a few new things have come up in my life. Work's been tough and stressful, so my outdoor activities have taken a backseat. Finding balance has been challenging.",
+        "is_supporting": true,
+        "idx": 403
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_27",
+    "question": "How does Andrew feel about his current work?",
+    "answer": [
+      "Stressful"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_232 (D10:16)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Andrew] Thanks! I'll give it a try. Cooking has been helping me de-stress and be creative. I'm still a rookie, but I'm having fun experimenting. So what makes you like cooking so much?",
+        "is_supporting": true,
+        "idx": 232
+      },
+      {
+        "title": "turn_286 (D12:3)",
+        "text": "[t=10:05 am on 11 July, 2023, speaker=Andrew] Haha yeah! Toby's definitely bringing a lot of joy. Since we last talked, work has been piling up and I've been stuck inside. I miss the peace and feeling of freedom that comes with going for a hike.",
+        "is_supporting": true,
+        "idx": 286
+      },
+      {
+        "title": "turn_363 (D16:1)",
+        "text": "[t=9:19 pm on 19 August, 2023, speaker=Andrew] [Image: a photo of a sunset over a mountain with a church on top] Hey Audrey, hope you're doing good! So I've decided to take a break from work yesterday and check out a new cafe. It was a nice change and reminded me of how the great outdoors is always there to offer you peace. Here's a photo from my last hike - so serene! How's your month been so far?",
+        "is_supporting": true,
+        "idx": 363
+      },
+      {
+        "title": "turn_403 (D18:1)",
+        "text": "[t=7:49 pm on 6 September, 2023, speaker=Andrew] Hey Audrey, how's it going? Since we last talked, a few new things have come up in my life. Work's been tough and stressful, so my outdoor activities have taken a backseat. Finding balance has been challenging.",
+        "is_supporting": true,
+        "idx": 403
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_28",
+    "question": "What is something that Audrey often dresses up her dogs with?",
+    "answer": [
+      "Hats"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_430 (D19:6)",
+        "text": "[t=5:53 pm on 24 September, 2023, speaker=Audrey] [Image: a photography of three dogs wearing birthday hats and sitting next to each other] Building trust with them needs patience and regular training. Give them time and love, and praise their successes.",
+        "is_supporting": true,
+        "idx": 430
+      },
+      {
+        "title": "turn_103 (D4:23)",
+        "text": "[t=5:41 pm on 3 May, 2023, speaker=Audrey] [Image: a photo of a dog wearing a party hat sitting on a couch] They absolutely adore it! They have tons of energy and love meeting new pals at playdates. Plus, they always get excited when I bring those out.",
+        "is_supporting": true,
+        "idx": 103
+      },
+      {
+        "title": "turn_105 (D4:25)",
+        "text": "[t=5:41 pm on 3 May, 2023, speaker=Audrey] [Image: a photography of a dog jumping through a ring in a park] The hats don't bother them, they just put them on for fun and treats. And the dog park is great place to start! They can run and mingle with other pooches. It's such a fun spot for playdates!",
+        "is_supporting": true,
+        "idx": 105
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_29",
+    "question": "What are the names of Audrey's dogs?",
+    "answer": [
+      "Pepper, Precious, Panda, and Pixie"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_436 (D19:12)",
+        "text": "[t=5:53 pm on 24 September, 2023, speaker=Audrey] [Image: a photography of a group of dogs tied to a leash on a brick walkway] They're all mutts. Two of them are Jack Russell mixes and the other two are Chihuahua mixes. And yea, I believe so! Some dog breeds do bond better than others.",
+        "is_supporting": true,
+        "idx": 436
+      },
+      {
+        "title": "turn_6 (D1:7)",
+        "text": "[t=1:10 pm on 27 March, 2023, speaker=Audrey] I've had them for 3 years! Their names are Pepper, Precious and Panda. I can't live without my little ones!",
+        "is_supporting": true,
+        "idx": 6
+      },
+      {
+        "title": "turn_24 (D2:1)",
+        "text": "[t=2:42 pm on 2 April, 2023, speaker=Audrey] [Image: a photo of a small white dog sitting on a carpet] Hey Andrew, I got a surprise for you! We adopted another puppy called Pixie. She's SO cute! Isn't she just the cutest?",
+        "is_supporting": true,
+        "idx": 24
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_30",
+    "question": "When is Andrew planning to go to the beach with his girlfriend?",
+    "answer": [
+      "November 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_455 (D20:1)",
+        "text": "[t=7:09 pm on 1 October, 2023, speaker=Andrew] [Image: a photo of a sunset over the ocean with waves] Hey wassup? Got some great news - the gf and I are hitting the beach next month with Toby!",
+        "is_supporting": true,
+        "idx": 455
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_31",
+    "question": "What has Andrew done with his dogs?",
+    "answer": [
+      "Taking walks and hiking"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_343 (D14:27)",
+        "text": "[t=11:05 am on 4 August, 2023, speaker=Andrew] Thanks! Gotta take Toby out for a small hike at the local trail. Ttyl!",
+        "is_supporting": true,
+        "idx": 343
+      },
+      {
+        "title": "turn_561 (D24:8)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Andrew] Yeah, Buddy and I have a great time doing walks. It's a nice way to spend time together and get some fresh air.",
+        "is_supporting": true,
+        "idx": 561
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_32",
+    "question": "What kind of tattoo does Audrey have on her arm?",
+    "answer": [
+      "Tattoos of her four dogs."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_344 (D15:1)",
+        "text": "[t=9:58 pm on 16 August, 2023, speaker=Audrey] [Image: a photo of a person with a tattoo on their hand] Hey Andrew, since we last spoke I got another tattoo of my four dogs on my arm! They really mean a lot to me so I thought it'd be nice to have them with me wherever I go. What've you been up to?",
+        "is_supporting": true,
+        "idx": 344
+      },
+      {
+        "title": "turn_545 (D23:20)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] Thanks! I think right now its enough. Unless someday I decide to get another dog. Maybe I'll get another tattoo when that happens.",
+        "is_supporting": true,
+        "idx": 545
+      },
+      {
+        "title": "turn_75 (D3:26)",
+        "text": "[t=4:19 pm on 16 April, 2023, speaker=Audrey] [Image: a photo of a woman with a tattoo of a dog and sunflowers] I know right? They mean the world to me. So much that I got tattoos of them on my arm.",
+        "is_supporting": true,
+        "idx": 75
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_33",
+    "question": "What can Andrew potentially do to improve his stress and accomodate his living situation with his dogs?",
+    "answer": [
+      "Change to a hybrid or remote job so he can move away from the city to the suburbs to have a larger living space and be closer to nature."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_286 (D12:3)",
+        "text": "[t=10:05 am on 11 July, 2023, speaker=Andrew] Haha yeah! Toby's definitely bringing a lot of joy. Since we last talked, work has been piling up and I've been stuck inside. I miss the peace and feeling of freedom that comes with going for a hike.",
+        "is_supporting": true,
+        "idx": 286
+      },
+      {
+        "title": "turn_403 (D18:1)",
+        "text": "[t=7:49 pm on 6 September, 2023, speaker=Andrew] Hey Audrey, how's it going? Since we last talked, a few new things have come up in my life. Work's been tough and stressful, so my outdoor activities have taken a backseat. Finding balance has been challenging.",
+        "is_supporting": true,
+        "idx": 403
+      },
+      {
+        "title": "turn_499 (D21:5)",
+        "text": "[t=4:18 pm on 4 October, 2023, speaker=Andrew] Haven't been to the beach in a while. Miss being outdoors. It's hard to find open spaces in the city. Used to hike a lot, but it's more challenging now with my work life balance.",
+        "is_supporting": true,
+        "idx": 499
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_5_34",
+    "question": "How many months passed between Andrew adopting Toby and Buddy?",
+    "answer": [
+      "three months"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_284 (D12:1)",
+        "text": "[t=10:05 am on 11 July, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a leash in a room] Hey! So much has changed since last time we talked - meet Toby, my puppy. He's a bundle of joy and I couldn't resist taking him home, city living and all. How've you been?",
+        "is_supporting": true,
+        "idx": 284
+      },
+      {
+        "title": "turn_555 (D24:2)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a couch with a bowl of food] Hi Audrey! Pets really can make our lives better, huh? Speaking of which, I've got some awesome news -- I recently adopted another pup from a shelter. He's the best.",
+        "is_supporting": true,
+        "idx": 555
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_35",
+    "question": "What are the names of Andrew's dogs?",
+    "answer": [
+      "Toby, Scout, Buddy"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_284 (D12:1)",
+        "text": "[t=10:05 am on 11 July, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a leash in a room] Hey! So much has changed since last time we talked - meet Toby, my puppy. He's a bundle of joy and I couldn't resist taking him home, city living and all. How've you been?",
+        "is_supporting": true,
+        "idx": 284
+      },
+      {
+        "title": "turn_559 (D24:6)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Andrew] I named him Buddy because he's my buddy and I hope him and Toby become buddies!",
+        "is_supporting": true,
+        "idx": 559
+      },
+      {
+        "title": "turn_664 (D28:8)",
+        "text": "[t=9:02 am on 22 November, 2023, speaker=Andrew] It took us a while to decide, but we ended up going with 'Scout' for our pup - it seemed perfect for their adventurous spirit.",
+        "is_supporting": true,
+        "idx": 664
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_36",
+    "question": "What are some foods that Audrey likes eating?",
+    "answer": [
+      "chicken pot pie, chicken roast, blueberry muffins, sushi"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_229 (D10:13)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Audrey] [Image: a photo of a pie on a wooden board with a knife] I love cooking! My favorite recipe is Chicken Pot Pie. It's so cozy and delicious, especially on a cold day. If you want, I can share the recipe with you.",
+        "is_supporting": true,
+        "idx": 229
+      },
+      {
+        "title": "turn_239 (D10:23)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Audrey] [Image: a photography of a pan of chicken and potatoes on a stove] Sure! Roasted Chicken is one of my favorites - sure I'll send you the recipe in a bit.",
+        "is_supporting": true,
+        "idx": 239
+      },
+      {
+        "title": "turn_581 (D25:6)",
+        "text": "[t=10:14 am on 24 October, 2023, speaker=Audrey] [Image: a photo of a plate of sushi and vegetables on a table] Yess! Sushi is delicious! I love them! There are so many types and flavors to try. Definitely give it a go and try different things! Don't limit yourself in your comofort zone!",
+        "is_supporting": true,
+        "idx": 581
+      },
+      {
+        "title": "turn_67 (D3:18)",
+        "text": "[t=4:19 pm on 16 April, 2023, speaker=Audrey] [Image: a photo of a muffin pan filled with blueberries and muffins] Wow, sounds amazing! Glad you got to enjoy them. Since you metioned pastries, I made some of my favorite treats last week. Let's have a pastry party sometime!",
+        "is_supporting": true,
+        "idx": 67
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_37",
+    "question": "When did Audrey get into an accident in the park?",
+    "answer": [
+      "between October 19 and 24, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_577 (D25:2)",
+        "text": "[t=10:14 am on 24 October, 2023, speaker=Audrey] [Image: a photo of a person with a cast on their arm and arm in a cast] Hey! Ha, glad you had fun at the wine tasting. Yeah, trying new things can be cool. By the way, I had an unexpected adventure last week. I had an accident while playing with my pups at the park. Taking care of them with one arm has been tricky but we're managing. What's been up with you? Any new interests?",
+        "is_supporting": true,
+        "idx": 577
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_38",
+    "question": "When did Andrew and his girlfriend go on a wine tasting trip?",
+    "answer": [
+      "the weekend before October 24, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_576 (D25:1)",
+        "text": "[t=10:14 am on 24 October, 2023, speaker=Andrew] Hi Audrey! How have you been lately? My girlfriend and I went to this awesome wine tasting last weekend. It was great! We tried so many unique wines and learned a lot. I was surprised at how much I enjoyed it. A reminder to step out of the comfort zone!",
+        "is_supporting": true,
+        "idx": 576
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_39",
+    "question": "What did Audrey get wtih having so many dogs?",
+    "answer": [
+      "Companionship"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_543 (D23:18)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] [Image: a photo of a tattoo of a flower on a wrist] I think i've said this so many times, but I really can't imagine my life without them - my little family. They always make me smile and give lots of love and companionship. Remember I had a tattoo of my four dogs? So I went to the tattoo parlor and got some more drawings on the tattoo.",
+        "is_supporting": true,
+        "idx": 543
+      },
+      {
+        "title": "turn_38 (D2:15)",
+        "text": "[t=2:42 pm on 2 April, 2023, speaker=Audrey] You'll love them! They're great for cuddles and companionship.",
+        "is_supporting": true,
+        "idx": 38
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_40",
+    "question": "What is a good place for dogs to run around freely and meet new friends?",
+    "answer": [
+      "The dog park"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_318 (D14:2)",
+        "text": "[t=11:05 am on 4 August, 2023, speaker=Audrey] [Image: a photo of a dog in a field of flowers and grass] That's awesome! That must be fun! I just started agility classes with my pups at a dog park. It's awesome to watch them learn and build relationships with other dogs. Seeing them face and conquer challenges really warms my heart.",
+        "is_supporting": true,
+        "idx": 318
+      },
+      {
+        "title": "turn_535 (D23:10)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] [Image: a photo of two dogs playing with a frisbee in a field] The dog park is like paradise for them! They love socializing with the other pups and getting lots of exercise. It's so cute to watch them running around and smelling all the stuff. Do you have any funny stories about your pup at the dog park?",
+        "is_supporting": true,
+        "idx": 535
+      },
+      {
+        "title": "turn_105 (D4:25)",
+        "text": "[t=5:41 pm on 3 May, 2023, speaker=Audrey] [Image: a photography of a dog jumping through a ring in a park] The hats don't bother them, they just put them on for fun and treats. And the dog park is great place to start! They can run and mingle with other pooches. It's such a fun spot for playdates!",
+        "is_supporting": true,
+        "idx": 105
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_41",
+    "question": "What are the breeds of Audrey's dogs?",
+    "answer": [
+      "Mongrel mixed with Lab for Pepper and Panda. Mongrel mixed with Chihuahua for Precious and Pixie."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_436 (D19:12)",
+        "text": "[t=5:53 pm on 24 September, 2023, speaker=Audrey] [Image: a photography of a group of dogs tied to a leash on a brick walkway] They're all mutts. Two of them are Jack Russell mixes and the other two are Chihuahua mixes. And yea, I believe so! Some dog breeds do bond better than others.",
+        "is_supporting": true,
+        "idx": 436
+      },
+      {
+        "title": "turn_604 (D26:13)",
+        "text": "[t=2:36 pm on 28 October, 2023, speaker=Audrey] Thanks! They're all mutts, but Pepper and Panda are Lab mixes, and Precious and Pixie are Chihuahua mixes. I really need that. I can't wait the day they're all back to normal.",
+        "is_supporting": true,
+        "idx": 604
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_42",
+    "question": "What technique is Audrey using to discipline her dogs?",
+    "answer": [
+      "Positive reinforcement"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_596 (D26:5)",
+        "text": "[t=2:36 pm on 28 October, 2023, speaker=Audrey] The behaviorist gave me tips on how to handle it and suggested some changes in their routine. I'm using positive reinforcement techniques and it's still a work in progress, but I'm hopeful it'll help.",
+        "is_supporting": true,
+        "idx": 596
+      },
+      {
+        "title": "turn_136 (D6:4)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] I know right? I saw this workshop flyer at my local pet store. It was a positive reinforcement training class and I wanted to give it a shot. The volunteer in the store was nice enough to let me meet their dog – he was so friendly and playful!",
+        "is_supporting": true,
+        "idx": 136
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_43",
+    "question": "Which US state do Audrey and Andrew potentially live in?",
+    "answer": [
+      "Minnesota"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_254 (D11:9)",
+        "text": "[t=9:48 am on 8 July, 2023, speaker=Andrew] [Image: a photo of a map of a park with a lot of trees] Looking forward to seeing them have fun hiking. Let's get planning for next month! Here's the map for the trail.",
+        "is_supporting": true,
+        "idx": 254
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_5_44",
+    "question": "Which national park could Audrey and Andrew be referring to in their conversations?",
+    "answer": [
+      "Voyageurs National Park"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_254 (D11:9)",
+        "text": "[t=9:48 am on 8 July, 2023, speaker=Andrew] [Image: a photo of a map of a park with a lot of trees] Looking forward to seeing them have fun hiking. Let's get planning for next month! Here's the map for the trail.",
+        "is_supporting": true,
+        "idx": 254
+      },
+      {
+        "title": "turn_118 (D5:8)",
+        "text": "[t=10:47 am on 6 May, 2023, speaker=Audrey] [Image: a photography of three dogs running through a field of grass] That's a good plan! I'm lucky to have a park near me - it's great for my pup's walks. Last Friday we took a road trip - we went to a beautiful national park and my dogs had a blast! It was an awesome trip!",
+        "is_supporting": true,
+        "idx": 118
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_5_45",
+    "question": "How many pets will Andrew have, as of December 2023?",
+    "answer": [
+      "three"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_284 (D12:1)",
+        "text": "[t=10:05 am on 11 July, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a leash in a room] Hey! So much has changed since last time we talked - meet Toby, my puppy. He's a bundle of joy and I couldn't resist taking him home, city living and all. How've you been?",
+        "is_supporting": true,
+        "idx": 284
+      },
+      {
+        "title": "turn_555 (D24:2)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a couch with a bowl of food] Hi Audrey! Pets really can make our lives better, huh? Speaking of which, I've got some awesome news -- I recently adopted another pup from a shelter. He's the best.",
+        "is_supporting": true,
+        "idx": 555
+      },
+      {
+        "title": "turn_662 (D28:6)",
+        "text": "[t=9:02 am on 22 November, 2023, speaker=Andrew] [Image: a photo of a woman feeding a dog hay in a barn] No, we haven't got the chance to take them to the groomer yet. But will do that soon! So guess what, I can't help myself but to adpot another dog the other day. Here's a photo of the doggo!",
+        "is_supporting": true,
+        "idx": 662
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_46",
+    "question": "How many pets did Andrew have, as of September 2023?",
+    "answer": [
+      "one"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_284 (D12:1)",
+        "text": "[t=10:05 am on 11 July, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a leash in a room] Hey! So much has changed since last time we talked - meet Toby, my puppy. He's a bundle of joy and I couldn't resist taking him home, city living and all. How've you been?",
+        "is_supporting": true,
+        "idx": 284
+      },
+      {
+        "title": "turn_555 (D24:2)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a couch with a bowl of food] Hi Audrey! Pets really can make our lives better, huh? Speaking of which, I've got some awesome news -- I recently adopted another pup from a shelter. He's the best.",
+        "is_supporting": true,
+        "idx": 555
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_47",
+    "question": "How many months passed between Andrew adopting Buddy and Scout",
+    "answer": [
+      "one month"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_555 (D24:2)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a couch with a bowl of food] Hi Audrey! Pets really can make our lives better, huh? Speaking of which, I've got some awesome news -- I recently adopted another pup from a shelter. He's the best.",
+        "is_supporting": true,
+        "idx": 555
+      },
+      {
+        "title": "turn_662 (D28:6)",
+        "text": "[t=9:02 am on 22 November, 2023, speaker=Andrew] [Image: a photo of a woman feeding a dog hay in a barn] No, we haven't got the chance to take them to the groomer yet. But will do that soon! So guess what, I can't help myself but to adpot another dog the other day. Here's a photo of the doggo!",
+        "is_supporting": true,
+        "idx": 662
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_48",
+    "question": "What does Andrew view his pets as?",
+    "answer": [
+      "Family"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_357 (D15:14)",
+        "text": "[t=9:58 pm on 16 August, 2023, speaker=Andrew] [Image: a photo of a man laying on a couch with a dog] Totally get it, pets bring such joy and feel like family. I can't imagine life without them.",
+        "is_supporting": true,
+        "idx": 357
+      },
+      {
+        "title": "turn_674 (D28:18)",
+        "text": "[t=9:02 am on 22 November, 2023, speaker=Andrew] Yeah, it's great! Dogs are always there for us. We should count ourselves lucky to have such amazing furry friends as family member.",
+        "is_supporting": true,
+        "idx": 674
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_49",
+    "question": "What does Audrey view her pets as?",
+    "answer": [
+      "Family"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_358 (D15:15)",
+        "text": "[t=9:58 pm on 16 August, 2023, speaker=Audrey] [Image: a photography of a woman sitting in a field with two dogs] Yep, pets are family. It's so sweet to see the connection between them. Here's a photo of me lying on the grass with them.",
+        "is_supporting": true,
+        "idx": 358
+      },
+      {
+        "title": "turn_543 (D23:18)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] [Image: a photo of a tattoo of a flower on a wrist] I think i've said this so many times, but I really can't imagine my life without them - my little family. They always make me smile and give lots of love and companionship. Remember I had a tattoo of my four dogs? So I went to the tattoo parlor and got some more drawings on the tattoo.",
+        "is_supporting": true,
+        "idx": 543
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_50",
+    "question": "What is a skill that Audrey learned to take care of her dogs?",
+    "answer": [
+      "Grooming"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_364 (D16:2)",
+        "text": "[t=9:19 pm on 19 August, 2023, speaker=Audrey] Hi Andrew! The cafe sounds great, and the hike pic's great! August's been eventful - I learned a new skill! It was really awesome, making sure they were pampered and happy. I've always loved caring for my pups, and now taking care of their grooming myself makes me closer to them. They look so cute post-grooming!",
+        "is_supporting": true,
+        "idx": 364
+      },
+      {
+        "title": "turn_385 (D17:4)",
+        "text": "[t=12:24 am on 24 August, 2023, speaker=Audrey] Yeah they really do enjoy the mountain life. Regular grooming is essential to keep them looking good. Daily brushing, regular baths, nail trims, and lots of love is what helps them stay healthy and happy. It's all about keeping them in good shape.",
+        "is_supporting": true,
+        "idx": 385
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_51",
+    "question": "What items has Audrey bought or made for her dogs?",
+    "answer": [
+      "dog tags, toys, dog beds, collars"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_412 (D18:10)",
+        "text": "[t=7:49 pm on 6 September, 2023, speaker=Audrey] I'm so happy seeing them have a great time. Last week I even got some new beds for them, just to give them some extra comfort now the weather's cooling down and they were happy! It's incredible how such a simple thing can bring them so much happiness.",
+        "is_supporting": true,
+        "idx": 412
+      },
+      {
+        "title": "turn_1 (D1:2)",
+        "text": "[t=1:10 pm on 27 March, 2023, speaker=Andrew] Hey Audrey! So, I started a new job as a Financial Analyst last week - it's been quite a change from my previous job. How about you? Anything interesting happening?",
+        "is_supporting": true,
+        "idx": 1
+      },
+      {
+        "title": "turn_554 (D24:1)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Audrey] [Image: a photography of a box filled with toys and other items] Hey Andrew, hope you're doing ok. I recently had a good week - I went to a pet store last Monday to buy toys for my dogs and it was great seeing them so excited when I got them home. It made me realize how much I love them and how much joy they bring me.",
+        "is_supporting": true,
+        "idx": 554
+      },
+      {
+        "title": "turn_194 (D9:5)",
+        "text": "[t=1:51 pm on 26 June, 2023, speaker=Audrey] Yep, I set up a doggy play area in the backyard with agility stuff and toys - they're loving it!",
+        "is_supporting": true,
+        "idx": 194
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_52",
+    "question": "What is something that Andrew could do to make birdwatching hobby to fit in his city schedule?",
+    "answer": [
+      "Install a bird feeder outside where he can see the birds without going outdoors."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_13 (D1:14)",
+        "text": "[t=1:10 pm on 27 March, 2023, speaker=Andrew] I've always been awed by birds. Their power to soar and explore new spots is amazing.",
+        "is_supporting": true,
+        "idx": 13
+      },
+      {
+        "title": "turn_475 (D20:21)",
+        "text": "[t=7:09 pm on 1 October, 2023, speaker=Andrew] [Image: a photography of a pen and a notebook with a pen and a camera] Nice! Looks like you're prepared. I'll bring my binos and a notebook to log them at the trip.",
+        "is_supporting": true,
+        "idx": 475
+      },
+      {
+        "title": "turn_459 (D20:5)",
+        "text": "[t=7:09 pm on 1 October, 2023, speaker=Andrew] Aww, they look so cute! That spot looks ideal for them to play. Where did you take them?",
+        "is_supporting": true,
+        "idx": 459
+      },
+      {
+        "title": "turn_526 (D23:1)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Andrew] [Image: a photography of a dog sitting at a chess board with a chess set in front of him] Hey Audrey, it's been a busy week for me. Last Tuesday, my gf, Toby, and I had a really awesome night playing board games. It was really nice. What's been up with you lately?",
+        "is_supporting": true,
+        "idx": 526
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_5_53",
+    "question": "What is a career that Andrew could potentially pursue with his love for animals and nature?",
+    "answer": [
+      "Park ranger or a similar position working for the National Park Services."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_41 (D2:18)",
+        "text": "[t=2:42 pm on 2 April, 2023, speaker=Andrew] [Image: a photo of a man walking a dog on a trail] That pic is so cute! It would be fun to hang out with a dog, cuddling away. Got me thinking of my old hiking pics and how much I miss exploring nature trails with my family's dog. Ah, the peaceful moments out in nature!",
+        "is_supporting": true,
+        "idx": 41
+      },
+      {
+        "title": "turn_50 (D3:1)",
+        "text": "[t=4:19 pm on 16 April, 2023, speaker=Andrew] Hey Audrey! What's up? Missed chatting with ya! Check it out, my girl & I tried out that new cafe scene in the city last weekend! Super fun but kinda sad not being out in nature - that's when I feel like I'm really thriving. Oh man, I miss the peacefulness of being out on a hike.",
+        "is_supporting": true,
+        "idx": 50
+      },
+      {
+        "title": "turn_117 (D5:7)",
+        "text": "[t=10:47 am on 6 May, 2023, speaker=Andrew] I'm looking for a place near a park or woods, so I can stay close to nature and give the dog a large open space to run around",
+        "is_supporting": true,
+        "idx": 117
+      },
+      {
+        "title": "turn_188 (D8:27)",
+        "text": "[t=5:23 pm on 13 June, 2023, speaker=Andrew] Agreed! It's great for refreshing the mind and giving a different outlook. Whenever I'm in need of a reset, I turn to nature.",
+        "is_supporting": true,
+        "idx": 188
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_5_54",
+    "question": "What activity do Audrey's dogs like to do in the dog park?",
+    "answer": [
+      "Play fetch with ball and frisbee, run around and meet other dogs"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_223 (D10:7)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Audrey] [Image: a photo of two dogs curled up in a dog bed] They're all mutts. Two of them are Jack Russell mixes and the other two are Chihuahua mixes. They love running and playing fetch, you should see them sometimes.",
+        "is_supporting": true,
+        "idx": 223
+      },
+      {
+        "title": "turn_308 (D13:8)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Audrey] Thanks! That one is Max, my childhood dog. He had lots of energy and loved a game of fetch. I have lots of great memories with him. Pets sure bring a lot of joy.",
+        "is_supporting": true,
+        "idx": 308
+      },
+      {
+        "title": "turn_539 (D23:14)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] My dogs go crazy for Fetch and Frisbee, and they love to run around and meet other pups. They could keep running for hours!",
+        "is_supporting": true,
+        "idx": 539
+      },
+      {
+        "title": "turn_650 (D27:12)",
+        "text": "[t=7:59 pm on 4 November, 2023, speaker=Audrey] [Image: a photography of a dog running with a tennis ball in its mouth] You got it! There are lots of ways to keep them happy in the city. Make sure to socialize and exercise them daily. Get creative and add some mental stimulation too. Here's a pic of them playing fetch in the park - they love it!",
+        "is_supporting": true,
+        "idx": 650
+      },
+      {
+        "title": "turn_101 (D4:21)",
+        "text": "[t=5:41 pm on 3 May, 2023, speaker=Audrey] [Image: a photography of a dog catching a frisbee in a field] When I take them out, we usually play fetch with a ball or frisbee. They love chasing it! We also meet other dog owners in the park and have a doggie playdate. It's a great way for me to chat with people and for them to make new friends.",
+        "is_supporting": true,
+        "idx": 101
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_55",
+    "question": "When did Andrew make his dogs a fun indoor area?",
+    "answer": [
+      "few days before November 22, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_668 (D28:12)",
+        "text": "[t=9:02 am on 22 November, 2023, speaker=Andrew] Yeah, safety first! For now, we're keeping the new addition on a leash while they get used to being outside. That pic you of your dog at the park is so cute. So we got some essentials for their comfort and entertainment, like a bed, toys, and some puppy pads just in case. It's like their own little safe haven.",
+        "is_supporting": true,
+        "idx": 668
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_56",
+    "question": "Has Andrew moved into a new apartment for his dogs?",
+    "answer": [
+      "No"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_668 (D28:12)",
+        "text": "[t=9:02 am on 22 November, 2023, speaker=Andrew] Yeah, safety first! For now, we're keeping the new addition on a leash while they get used to being outside. That pic you of your dog at the park is so cute. So we got some essentials for their comfort and entertainment, like a bed, toys, and some puppy pads just in case. It's like their own little safe haven.",
+        "is_supporting": true,
+        "idx": 668
+      },
+      {
+        "title": "turn_115 (D5:5)",
+        "text": "[t=10:47 am on 6 May, 2023, speaker=Andrew] Yeah! Finding a pet-friendly place to live has been tough too. I'm contacting landlords and checking out neighborhoods to find the perfect spot.",
+        "is_supporting": true,
+        "idx": 115
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_57",
+    "question": "When did Andrew adopt Scout?",
+    "answer": [
+      "few days before November 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_662 (D28:6)",
+        "text": "[t=9:02 am on 22 November, 2023, speaker=Andrew] [Image: a photo of a woman feeding a dog hay in a barn] No, we haven't got the chance to take them to the groomer yet. But will do that soon! So guess what, I can't help myself but to adpot another dog the other day. Here's a photo of the doggo!",
+        "is_supporting": true,
+        "idx": 662
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_58",
+    "question": "What did Audrey eat for dinner on October 24, 2023?",
+    "answer": [
+      "sushi"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_589 (D25:14)",
+        "text": "[t=10:14 am on 24 October, 2023, speaker=Audrey] Enjoy! Now I'm gonna order some sushi for tonight. Thanks!",
+        "is_supporting": true,
+        "idx": 589
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_59",
+    "question": "How long has it been since Andrew adopted his first pet, as of November 2023?",
+    "answer": [
+      "4 months"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_284 (D12:1)",
+        "text": "[t=10:05 am on 11 July, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a leash in a room] Hey! So much has changed since last time we talked - meet Toby, my puppy. He's a bundle of joy and I couldn't resist taking him home, city living and all. How've you been?",
+        "is_supporting": true,
+        "idx": 284
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_5_60",
+    "question": "How many dogs does Andrew have?",
+    "answer": [
+      "3"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_284 (D12:1)",
+        "text": "[t=10:05 am on 11 July, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a leash in a room] Hey! So much has changed since last time we talked - meet Toby, my puppy. He's a bundle of joy and I couldn't resist taking him home, city living and all. How've you been?",
+        "is_supporting": true,
+        "idx": 284
+      },
+      {
+        "title": "turn_555 (D24:2)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Andrew] [Image: a photo of a dog sitting on a couch with a bowl of food] Hi Audrey! Pets really can make our lives better, huh? Speaking of which, I've got some awesome news -- I recently adopted another pup from a shelter. He's the best.",
+        "is_supporting": true,
+        "idx": 555
+      },
+      {
+        "title": "turn_662 (D28:6)",
+        "text": "[t=9:02 am on 22 November, 2023, speaker=Andrew] [Image: a photo of a woman feeding a dog hay in a barn] No, we haven't got the chance to take them to the groomer yet. But will do that soon! So guess what, I can't help myself but to adpot another dog the other day. Here's a photo of the doggo!",
+        "is_supporting": true,
+        "idx": 662
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_5_61",
+    "question": "Which specific type of bird mesmerizes Andrew?",
+    "answer": [
+      "Eagles"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_15 (D1:16)",
+        "text": "[t=1:10 pm on 27 March, 2023, speaker=Andrew] [Image: a photo of two birds flying in the sky with a sun shining behind them] Eagles have always mesmerized me; they're so strong and graceful!",
+        "is_supporting": true,
+        "idx": 15
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_62",
+    "question": "What did Andrew express missing about exploring nature trails with his family's dog?",
+    "answer": [
+      "The peaceful moments"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_41 (D2:18)",
+        "text": "[t=2:42 pm on 2 April, 2023, speaker=Andrew] [Image: a photo of a man walking a dog on a trail] That pic is so cute! It would be fun to hang out with a dog, cuddling away. Got me thinking of my old hiking pics and how much I miss exploring nature trails with my family's dog. Ah, the peaceful moments out in nature!",
+        "is_supporting": true,
+        "idx": 41
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_63",
+    "question": "What kind of pastries did Andrew and his girlfriend have at the cafe?",
+    "answer": [
+      "croissants, muffins, and tarts"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_66 (D3:17)",
+        "text": "[t=4:19 pm on 16 April, 2023, speaker=Andrew] They taste great too! We had some delicious croissants, muffins, and tarts! It was amazing!",
+        "is_supporting": true,
+        "idx": 66
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_64",
+    "question": "What kind of flowers does Audrey have a tattoo of?",
+    "answer": [
+      "sunflowers"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_75 (D3:26)",
+        "text": "[t=4:19 pm on 16 April, 2023, speaker=Audrey] [Image: a photo of a woman with a tattoo of a dog and sunflowers] I know right? They mean the world to me. So much that I got tattoos of them on my arm.",
+        "is_supporting": true,
+        "idx": 75
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_65",
+    "question": "What does Audrey do during dog playdates in the park?",
+    "answer": [
+      "chat with people while dogs make new friends"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_101 (D4:21)",
+        "text": "[t=5:41 pm on 3 May, 2023, speaker=Audrey] [Image: a photography of a dog catching a frisbee in a field] When I take them out, we usually play fetch with a ball or frisbee. They love chasing it! We also meet other dog owners in the park and have a doggie playdate. It's a great way for me to chat with people and for them to make new friends.",
+        "is_supporting": true,
+        "idx": 101
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_66",
+    "question": "What type of dog was Andrew looking to adopt based on his living space?",
+    "answer": [
+      "smaller dog"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_113 (D5:3)",
+        "text": "[t=10:47 am on 6 May, 2023, speaker=Andrew] Meeting all these adorable pups has been awesome! For those considering getting a pup, the size of living space and the exercise needs of the breed are important. For me, a person living in an apartment, a smaller dog would be best, but if one is active, consider getting one that loves to play and run.",
+        "is_supporting": true,
+        "idx": 113
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_67",
+    "question": "Where does Andrew want to live to give their dog a large, open space to run around?",
+    "answer": [
+      "near a park or woods"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_117 (D5:7)",
+        "text": "[t=10:47 am on 6 May, 2023, speaker=Andrew] I'm looking for a place near a park or woods, so I can stay close to nature and give the dog a large open space to run around",
+        "is_supporting": true,
+        "idx": 117
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_68",
+    "question": "Why did Audrey sign up for a workshop about bonding with pets?",
+    "answer": [
+      "Strengthen the bond with her pets"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_134 (D6:2)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] [Image: a photography of a group of dogs with a yellow circle] Hey Andrew! That hike sounds great. Nature is good for the soul, right? My week's been good - taking care of my four doggies and making sure they're happy and healthy took up most of my free time. Also, exciting news! I signed up for a workshop about bonding with my pet next month. Can't wait to learn new stuff and strengthen my bond with my pets. What's up with you?",
+        "is_supporting": true,
+        "idx": 134
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_69",
+    "question": "How did Audrey hear about the workshop on bonding with pets?",
+    "answer": [
+      "Saw a workshop flyer at the local pet store"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_136 (D6:4)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] I know right? I saw this workshop flyer at my local pet store. It was a positive reinforcement training class and I wanted to give it a shot. The volunteer in the store was nice enough to let me meet their dog – he was so friendly and playful!",
+        "is_supporting": true,
+        "idx": 136
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_70",
+    "question": "What type of training was the workshop Audrey signed up for in May 2023?",
+    "answer": [
+      "Positive reinforcement training"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_136 (D6:4)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] I know right? I saw this workshop flyer at my local pet store. It was a positive reinforcement training class and I wanted to give it a shot. The volunteer in the store was nice enough to let me meet their dog – he was so friendly and playful!",
+        "is_supporting": true,
+        "idx": 136
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_71",
+    "question": "How did Audrey describe she dog he met at the pet store?",
+    "answer": [
+      "Friendly and playful"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_136 (D6:4)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] I know right? I saw this workshop flyer at my local pet store. It was a positive reinforcement training class and I wanted to give it a shot. The volunteer in the store was nice enough to let me meet their dog – he was so friendly and playful!",
+        "is_supporting": true,
+        "idx": 136
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_72",
+    "question": "Why did Audrey think positive reinforcement training is important for pets?",
+    "answer": [
+      "To have pets learn how to behave in a positive way"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_144 (D6:12)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] Haha, I just think its important to have pets learn how to behave on a positive reinforcement way. Punishment is never the proper way for pets ya know?",
+        "is_supporting": true,
+        "idx": 144
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_73",
+    "question": "What challenge is Andrew facing in their search for a pet?",
+    "answer": [
+      "Finding a pet-friendly spot in the city"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_156 (D7:8)",
+        "text": "[t=11:27 am on 2 June, 2023, speaker=Andrew] I'm still on the hunt, but it's tough finding a pet-friendly spot in the city. Been checking out some places, but no luck so far. A bit discouraged but I'm determined to find the right place and dog.",
+        "is_supporting": true,
+        "idx": 156
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_74",
+    "question": "How does Andrew feel about their search for a pet-friendly place?",
+    "answer": [
+      "Discouraged but determined"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_156 (D7:8)",
+        "text": "[t=11:27 am on 2 June, 2023, speaker=Andrew] I'm still on the hunt, but it's tough finding a pet-friendly spot in the city. Been checking out some places, but no luck so far. A bit discouraged but I'm determined to find the right place and dog.",
+        "is_supporting": true,
+        "idx": 156
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_75",
+    "question": "What outdoor activities does Andrew plan on trying after the rock climbing class?",
+    "answer": [
+      "kayaking and bungee jumping"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_168 (D8:7)",
+        "text": "[t=5:23 pm on 13 June, 2023, speaker=Andrew] Yeah, rock climbing was awesome - I felt so accomplished reaching the top. It has definitely encouraged me to try more outdoor activities like kayaking and maybe bungee jumping? Nature always pushes me out of my comfort zone!",
+        "is_supporting": true,
+        "idx": 168
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_76",
+    "question": "How long does Audrey typically walk her dogs for?",
+    "answer": [
+      "about an hour"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_175 (D8:14)",
+        "text": "[t=5:23 pm on 13 June, 2023, speaker=Audrey] Varies depending on the day, but usually for about an hour. We let them explore at their own pace.",
+        "is_supporting": true,
+        "idx": 175
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_77",
+    "question": "What did Audrey set up in the backyard for their dogs on June 26, 2023?",
+    "answer": [
+      "a doggy play area with agility stuff and toys"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_194 (D9:5)",
+        "text": "[t=1:51 pm on 26 June, 2023, speaker=Audrey] Yep, I set up a doggy play area in the backyard with agility stuff and toys - they're loving it!",
+        "is_supporting": true,
+        "idx": 194
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_78",
+    "question": "What did Audrey and her friends stumble across during a hike a few years back, as mentioned on June 26, 2023?",
+    "answer": [
+      "a stunning lake in the mountains"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_212 (D9:23)",
+        "text": "[t=1:51 pm on 26 June, 2023, speaker=Audrey] [Image: a photography of a person sitting on a rock overlooking a lake] So a few years back my friends and I went on a hike and stumbled across this stunning lake in the mountains. We sat by it, chat and admiring the peacefulness of nature. I'll never forget those moments.",
+        "is_supporting": true,
+        "idx": 212
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_79",
+    "question": "What is Audrey's favorite recipe that she shares with Andrew on 3 July, 2023?",
+    "answer": [
+      "Chicken Pot Pie"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_229 (D10:13)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Audrey] [Image: a photo of a pie on a wooden board with a knife] I love cooking! My favorite recipe is Chicken Pot Pie. It's so cozy and delicious, especially on a cold day. If you want, I can share the recipe with you.",
+        "is_supporting": true,
+        "idx": 229
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_80",
+    "question": "What dish is one of Audrey's favorite dishes that includes garlic and is shared with Andrew on 3 July, 2023?",
+    "answer": [
+      "Roasted Chicken"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_239 (D10:23)",
+        "text": "[t=8:32 pm on 3 July, 2023, speaker=Audrey] [Image: a photography of a pan of chicken and potatoes on a stove] Sure! Roasted Chicken is one of my favorites - sure I'll send you the recipe in a bit.",
+        "is_supporting": true,
+        "idx": 239
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_81",
+    "question": "What did Andrew and his GF do on the Monday before July 24, 2023?",
+    "answer": [
+      "volunteered at a pet shelter"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_301 (D13:1)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Andrew] Hey Audrey! How are you? My GF and I just had a great experience volunteering at a pet shelter on Monday - it was so rewarding! We loved spending time with those cute animals and it gave us so much joy. It was so rewarding, it reminded me just how much I love them!",
+        "is_supporting": true,
+        "idx": 301
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_82",
+    "question": "What is the name of Audrey's childhood dog?",
+    "answer": [
+      "Max"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_308 (D13:8)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Audrey] Thanks! That one is Max, my childhood dog. He had lots of energy and loved a game of fetch. I have lots of great memories with him. Pets sure bring a lot of joy.",
+        "is_supporting": true,
+        "idx": 308
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_83",
+    "question": "What special memories does Audrey have with her childhood dog, Max?",
+    "answer": [
+      "Long walks in the neighborhood, exploring new paths, sharing worries and hopes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_310 (D13:10)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Audrey] Max and I would take long walks in the neighborhood when I was a kid. We explored new paths, him sniffing and marking his territory. We grew really close, and I shared my worries and hopes with him. He was a great listener, always there for me. Those days are some of my favorite memories.",
+        "is_supporting": true,
+        "idx": 310
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_84",
+    "question": "What are some of the personalities of Audrey's four fur babies?",
+    "answer": [
+      "oldest is relaxed, second is playful, third can be naughty but loves cuddles, youngest is full of life"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_306 (D13:6)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Audrey] Well the oldest one is the most relaxed, like a wise old sage. The second one is always ready for a game. The third one can be naughty but loves a good cuddle. And the youngest one is full of life and always up for an adventure. They all have their own individual personalities and I adore them.",
+        "is_supporting": true,
+        "idx": 306
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_85",
+    "question": "What type of classes did Audrey start with her pups recently on 4 August, 2023?",
+    "answer": [
+      "Agility classes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_318 (D14:2)",
+        "text": "[t=11:05 am on 4 August, 2023, speaker=Audrey] [Image: a photo of a dog in a field of flowers and grass] That's awesome! That must be fun! I just started agility classes with my pups at a dog park. It's awesome to watch them learn and build relationships with other dogs. Seeing them face and conquer challenges really warms my heart.",
+        "is_supporting": true,
+        "idx": 318
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_86",
+    "question": "How often does Audrey take her pups to the park for practice?",
+    "answer": [
+      "Twice a week"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_320 (D14:4)",
+        "text": "[t=11:05 am on 4 August, 2023, speaker=Audrey] [Image: a photography of a group of dogs sitting on a dirt road] Thanks! They've come a long way. They have so much fun with it, it's a great physical and mental workout. I take them to the park twice a week for practice - it's been a great bonding experience.",
+        "is_supporting": true,
+        "idx": 320
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_87",
+    "question": "How long did the trail hike that Audrey went on with her pups take?",
+    "answer": [
+      "Two hours"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_324 (D14:8)",
+        "text": "[t=11:05 am on 4 August, 2023, speaker=Audrey] The hike took us two hours and it was stunning! We saw lots of amazing views and it was great to explore nature.",
+        "is_supporting": true,
+        "idx": 324
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_88",
+    "question": "What advice did Audrey give to Andrew regarding grooming Toby?",
+    "answer": [
+      "Grooming slowly and gently, paying attention to sensitive areas like ears and paws. And remember to stay patient and positive throughout the grooming process."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_370 (D16:8)",
+        "text": "[t=9:19 pm on 19 August, 2023, speaker=Audrey] Grooming slowly and gently, paying attention to sensitive areas like ears and paws. And remember to stay patient and positive throughout the grooming process.",
+        "is_supporting": true,
+        "idx": 370
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_89",
+    "question": "What is essential to keep the dogs looking good according to Audrey?",
+    "answer": [
+      "Daily brushing, regular baths, nail trims, and lots of love"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_385 (D17:4)",
+        "text": "[t=12:24 am on 24 August, 2023, speaker=Audrey] Yeah they really do enjoy the mountain life. Regular grooming is essential to keep them looking good. Daily brushing, regular baths, nail trims, and lots of love is what helps them stay healthy and happy. It's all about keeping them in good shape.",
+        "is_supporting": true,
+        "idx": 385
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_90",
+    "question": "What did Audrey organize with the neighbors' dogs?",
+    "answer": [
+      "a doggy playdate"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_408 (D18:6)",
+        "text": "[t=7:49 pm on 6 September, 2023, speaker=Audrey] That's great! Glad you found ways to relax. It's nice to have those little moments of joy. Something cool recently happened with my furry friends - I organized a doggy playdate with the neighbors' dogs. Seeing all those tails wagging was so sweet. They must have had so much fun!",
+        "is_supporting": true,
+        "idx": 408
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_91",
+    "question": "What did Audrey do to give her dogs extra comfort as the weather cooled down?",
+    "answer": [
+      "Got new beds for them"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_412 (D18:10)",
+        "text": "[t=7:49 pm on 6 September, 2023, speaker=Audrey] I'm so happy seeing them have a great time. Last week I even got some new beds for them, just to give them some extra comfort now the weather's cooling down and they were happy! It's incredible how such a simple thing can bring them so much happiness.",
+        "is_supporting": true,
+        "idx": 412
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_92",
+    "question": "How does Audrey describe the new beds for her dogs?",
+    "answer": [
+      "Super cozy and comfy"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_414 (D18:12)",
+        "text": "[t=7:49 pm on 6 September, 2023, speaker=Audrey] [Image: a photo of a dog laying on a dog bed in a living room] Sure! Here's a pic of them. Super cozy and comfy. My furry friends love them!",
+        "is_supporting": true,
+        "idx": 414
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_93",
+    "question": "How did Audrey calm down her dog after the leash incident?",
+    "answer": [
+      "Petted, hugged, spoke calmly and slowly walked the dog"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_428 (D19:4)",
+        "text": "[t=5:53 pm on 24 September, 2023, speaker=Audrey] [Image: a photo of a dog laying on a bed with its head on the pillow] I petted and hugged her, spoke calmly, and slowly walked her to relax. Our bond feels even stronger when moments like these show up.",
+        "is_supporting": true,
+        "idx": 428
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_94",
+    "question": "How often does Audrey take her dogs for walks?",
+    "answer": [
+      "Multiple times a day"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_434 (D19:10)",
+        "text": "[t=5:53 pm on 24 September, 2023, speaker=Audrey] [Image: a photo of two dogs sitting next to each other on a beach] Very often, multiple times a day even, it's a great exercise for them and great bonding time for us.",
+        "is_supporting": true,
+        "idx": 434
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_95",
+    "question": "What kind of flowers does Audrey take care of?",
+    "answer": [
+      "Peruvian Lilies"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_444 (D19:20)",
+        "text": "[t=5:53 pm on 24 September, 2023, speaker=Audrey] They're called Peruvian Lilies. They are so awesome - they have such bright colors and delicate petals.",
+        "is_supporting": true,
+        "idx": 444
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_96",
+    "question": "What did Andrew learn from reading books about ecological systems?",
+    "answer": [
+      "about animals, plants, and ecosystems and how they work together"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_479 (D20:25)",
+        "text": "[t=7:09 pm on 1 October, 2023, speaker=Andrew] I learned a lot about animals, plants, and ecosystems. It's fascinating to see how it all works together.",
+        "is_supporting": true,
+        "idx": 479
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_97",
+    "question": "What did Andrew suggest as a way to reduce carbon footprint?",
+    "answer": [
+      "biking or using public transport"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_487 (D20:33)",
+        "text": "[t=7:09 pm on 1 October, 2023, speaker=Andrew] How about reducing our carbon footprint by biking or using public transport?",
+        "is_supporting": true,
+        "idx": 487
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_98",
+    "question": "How does Andrew suggest helping the planet while also training the body?",
+    "answer": [
+      "by biking"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_489 (D20:35)",
+        "text": "[t=7:09 pm on 1 October, 2023, speaker=Andrew] [Image: a photo of a man riding a bike down a street] Yeah! It's a great way to help the planet and even train our body. Let's give it a try!",
+        "is_supporting": true,
+        "idx": 489
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_99",
+    "question": "What did Audrey do with her pups over the weekend before 4th October, 2023?",
+    "answer": [
+      "Took them to the beach"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_496 (D21:2)",
+        "text": "[t=4:18 pm on 4 October, 2023, speaker=Audrey] Hey Andrew! It's been a wild ride! I did something fun with my pups over the weekend, took them to the beach and it was so fun to see them playing in the ocean.",
+        "is_supporting": true,
+        "idx": 496
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_100",
+    "question": "What was the reason Audrey couldn't walk her dogs for a period of time?",
+    "answer": [
+      "Knee injury"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_513 (D22:1)",
+        "text": "[t=9:41 pm on 6 October, 2023, speaker=Audrey] [Image: a photo of two dogs running in a field with a ball in their mouth] Hey Andrew, I was thinking about what you said about missing nature the other day. It reminded me of when I couldn't walk my dogs because of a knee injury. It was tough 'cause they bring me so much joy. This pic was taken after I started walking again. It felt great to be able to get back out there!",
+        "is_supporting": true,
+        "idx": 513
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_101",
+    "question": "What type of jewelry does Audrey make?",
+    "answer": [
+      "Jewelry made from recycled objects"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_517 (D22:5)",
+        "text": "[t=9:41 pm on 6 October, 2023, speaker=Audrey] [Image: a photo of a woman with a colorful necklace and earrings] Oh yes! I love making jewelry out of recycled stuff. It's a great way to show my love of creativity and sustainability. I hunt down things like bottle caps, buttons, and broken jewelry, and then turn them into one-of-a-kind pieces. Here's a photo of one of my favorite necklaces. They all hold a special story and have their own appeal. Plus, it's a small step in reducing waste.",
+        "is_supporting": true,
+        "idx": 517
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_102",
+    "question": "Why does Audrey make jewelry out of recycled objects?",
+    "answer": [
+      "To show love for creativity and sustainability"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_517 (D22:5)",
+        "text": "[t=9:41 pm on 6 October, 2023, speaker=Audrey] [Image: a photo of a woman with a colorful necklace and earrings] Oh yes! I love making jewelry out of recycled stuff. It's a great way to show my love of creativity and sustainability. I hunt down things like bottle caps, buttons, and broken jewelry, and then turn them into one-of-a-kind pieces. Here's a photo of one of my favorite necklaces. They all hold a special story and have their own appeal. Plus, it's a small step in reducing waste.",
+        "is_supporting": true,
+        "idx": 517
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_103",
+    "question": "What organization does Audrey donate a portion of his profits to?",
+    "answer": [
+      "Animal shelter"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_519 (D22:7)",
+        "text": "[t=9:41 pm on 6 October, 2023, speaker=Audrey] Thanks! I started making jewelry as a hobby and then started selling it. I donate a portion of my profits to a cause that's close to my heart. It's a way to combine two of my passions - making jewelry and making a difference. It's great that customers not only enjoy my work but also support a cause!",
+        "is_supporting": true,
+        "idx": 519
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_104",
+    "question": "How does Audrey help out the animal shelter?",
+    "answer": [
+      "By donating a portion of his profits frmo selling jwelery"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_521 (D22:9)",
+        "text": "[t=9:41 pm on 6 October, 2023, speaker=Audrey] Definitely! Any hobby can have an impact when used right - I donate to an animal shelter. They do great work, so it's my way of helping out.",
+        "is_supporting": true,
+        "idx": 521
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_105",
+    "question": "What type of games do Audrey's dogs like to play at the park?",
+    "answer": [
+      "Fetch and Frisbee"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_539 (D23:14)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] My dogs go crazy for Fetch and Frisbee, and they love to run around and meet other pups. They could keep running for hours!",
+        "is_supporting": true,
+        "idx": 539
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_106",
+    "question": "What did Audrey make to thank her neighbors?",
+    "answer": [
+      "Goodies"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_527 (D23:2)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] [Image: a photo of a pan of cookies on a wooden table] Hey! Sounds like you've been busy! I made some goodies recently to thank my neighbors for their pup-friendly homes. It was a nice way to bring some joy around here. Any plans for the weekend?",
+        "is_supporting": true,
+        "idx": 527
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_107",
+    "question": "How do Audrey's dogs react to snow?",
+    "answer": [
+      "Confused"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_537 (D23:12)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] [Image: a photo of a dog wearing a shirt standing on a hardwood floor] Haha, that must've been hilarious! What breed is your pup again? He looks so fun! My dogs love running around the park. But one thing they hate is snow. I took them to a snowy one last winter and they were so confused! They definitely prefer nice, sunny days in the grass.",
+        "is_supporting": true,
+        "idx": 537
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_108",
+    "question": "How does Audrey describe her dogs' response to snow?",
+    "answer": [
+      "They definitely prefer nice, sunny days in the grass."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_537 (D23:12)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] [Image: a photo of a dog wearing a shirt standing on a hardwood floor] Haha, that must've been hilarious! What breed is your pup again? He looks so fun! My dogs love running around the park. But one thing they hate is snow. I took them to a snowy one last winter and they were so confused! They definitely prefer nice, sunny days in the grass.",
+        "is_supporting": true,
+        "idx": 537
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_109",
+    "question": "What kind of experiences are Audrey's dogs the best companions for?",
+    "answer": [
+      "Exploring the great outdoors"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_549 (D23:24)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] Yeah you're so right about needing nature time. Life's been crazy lately so it's been a while since I took my furry friends out for a walk. But those moments with them in nature are just so chill and happy! They're definitely the best companions for exploring the great outdoors.",
+        "is_supporting": true,
+        "idx": 549
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_110",
+    "question": "What activity do Andrew and Buddy enjoy doing together?",
+    "answer": [
+      "Walking"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_561 (D24:8)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Andrew] Yeah, Buddy and I have a great time doing walks. It's a nice way to spend time together and get some fresh air.",
+        "is_supporting": true,
+        "idx": 561
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_111",
+    "question": "What do Andrew and Buddy like doing on walks?",
+    "answer": [
+      "Checking out new hiking trails"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_563 (D24:10)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Andrew] Yep, he loves checking out new hiking trails with us. It's awesome to see him so stoked and interested in everything nature has to offer.",
+        "is_supporting": true,
+        "idx": 563
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_112",
+    "question": "What cuisine did Andrew recently try at a new spot in town?",
+    "answer": [
+      "sushi"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_578 (D25:3)",
+        "text": "[t=10:14 am on 24 October, 2023, speaker=Andrew] [Image: a photo of a plate of sushi and vegetables on a table] Ouch! Are you feeling better? Sending healing vibes to you and your pups. So I recently tried out this new spot in town that serves sushi and it was great. Do you have anything that you've been wanting to try lately?",
+        "is_supporting": true,
+        "idx": 578
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_113",
+    "question": "Which type of sushi did Audrey suggest trying first to someone new to sushi?",
+    "answer": [
+      "California or salmon roll"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_583 (D25:8)",
+        "text": "[t=10:14 am on 24 October, 2023, speaker=Audrey] [Image: a photo of a long plate of sushi with sauce on it] Definitely try a California or salmon roll first when trying sushi - they're easier. Mix it up with different sauces and dips too - it makes it more tasty. Enjoy and let me know how it goes!",
+        "is_supporting": true,
+        "idx": 583
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_114",
+    "question": "What type of date is Andrew going on Sunday?",
+    "answer": [
+      "picnic date"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_611 (D26:20)",
+        "text": "[t=2:36 pm on 28 October, 2023, speaker=Andrew] Yay! Does Saturday sound good? We can grab some snacks and have a blast exploring. Because on Sunday I am going on a picnic date with my girlfriend.",
+        "is_supporting": true,
+        "idx": 611
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_115",
+    "question": "What did Andrew and Audrey plan to do on the Saturday after October 28, 2023?",
+    "answer": [
+      "Go hiking"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_611 (D26:20)",
+        "text": "[t=2:36 pm on 28 October, 2023, speaker=Andrew] Yay! Does Saturday sound good? We can grab some snacks and have a blast exploring. Because on Sunday I am going on a picnic date with my girlfriend.",
+        "is_supporting": true,
+        "idx": 611
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_116",
+    "question": "What aspect of autumn does Andrew find beautiful?",
+    "answer": [
+      "The autumn colors"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_627 (D26:36)",
+        "text": "[t=2:36 pm on 28 October, 2023, speaker=Andrew] How about going there the next trip? The autumn colors are so beautiful!",
+        "is_supporting": true,
+        "idx": 627
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_117",
+    "question": "What did Audrey do in November 2023 to better take care of her dogs?",
+    "answer": [
+      "Joined a dog owners group"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_640 (D27:2)",
+        "text": "[t=7:59 pm on 4 November, 2023, speaker=Audrey] [Image: a photo of a group of people and dogs in a park] That's cool! I love checking out new parks with my four pups. Last weekend was so fun - our dogs were able to run around and get some fresh air. On top of that, I recently joined a dog owners group to learn how to better take care of them.",
+        "is_supporting": true,
+        "idx": 640
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_118",
+    "question": "How often does Audrey meet up with other dog owners for tips and playdates?",
+    "answer": [
+      "Once a week"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_642 (D27:4)",
+        "text": "[t=7:59 pm on 4 November, 2023, speaker=Audrey] Yeah, they're having a lot of fun. I try to meet up with other dog owners once a week for tips from other parents and so they can all play together. How about you? Have you ever thought about joining one?",
+        "is_supporting": true,
+        "idx": 642
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_119",
+    "question": "What did Audrey share to show ways to keep dogs active in the city?",
+    "answer": [
+      "photography of a basket full of stuffed animals"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_648 (D27:10)",
+        "text": "[t=7:59 pm on 4 November, 2023, speaker=Audrey] [Image: a photography of a basket full of stuffed animals on a wooden floor] Yeah I feel you. Taking care of a pup in the city is tough but doable with the right approach. Keeping them active is key. Here's a pic of how I entertain them in my house with toys and games.",
+        "is_supporting": true,
+        "idx": 648
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_120",
+    "question": "What type of activities does Audrey suggest for mental stimulation of the dogs?",
+    "answer": [
+      "puzzles, training, hide-and-seek"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_652 (D27:14)",
+        "text": "[t=7:59 pm on 4 November, 2023, speaker=Audrey] [Image: a photography of a dog playing with a frisbee in a room] We give them lots of activities to keep them busy - puzzles, training, hide-and-seek - they love it all!",
+        "is_supporting": true,
+        "idx": 652
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_121",
+    "question": "What is Andrew planning to do with Scout, Toby, and Buddy?",
+    "answer": [
+      "Take them to a nearby park"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_666 (D28:10)",
+        "text": "[t=9:02 am on 22 November, 2023, speaker=Andrew] Thanks! We're gonna take Scout, Toby, and Buddy to a nearby park. It's not big, but we can all have fun and get some fresh air!",
+        "is_supporting": true,
+        "idx": 666
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_122",
+    "question": "What did Andrew get for Scout to create a safe and fun space for them?",
+    "answer": [
+      "essentials like a bed, toys, and puppy pads"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_668 (D28:12)",
+        "text": "[t=9:02 am on 22 November, 2023, speaker=Andrew] Yeah, safety first! For now, we're keeping the new addition on a leash while they get used to being outside. That pic you of your dog at the park is so cute. So we got some essentials for their comfort and entertainment, like a bed, toys, and some puppy pads just in case. It's like their own little safe haven.",
+        "is_supporting": true,
+        "idx": 668
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_5_123",
+    "question": "Which specific type of bird mesmerizes Audrey?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_15 (D1:16)",
+        "text": "[t=1:10 pm on 27 March, 2023, speaker=Andrew] [Image: a photo of two birds flying in the sky with a sun shining behind them] Eagles have always mesmerized me; they're so strong and graceful!",
+        "is_supporting": true,
+        "idx": 15
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Eagles"
+  },
+  {
+    "id": "locomo_5_124",
+    "question": "What kind of flowers does Andrew have a tattoo of?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_75 (D3:26)",
+        "text": "[t=4:19 pm on 16 April, 2023, speaker=Audrey] [Image: a photo of a woman with a tattoo of a dog and sunflowers] I know right? They mean the world to me. So much that I got tattoos of them on my arm.",
+        "is_supporting": true,
+        "idx": 75
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "sunflowers"
+  },
+  {
+    "id": "locomo_5_125",
+    "question": "What type of dog was Audrey looking to adopt based on her living space?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_113 (D5:3)",
+        "text": "[t=10:47 am on 6 May, 2023, speaker=Andrew] Meeting all these adorable pups has been awesome! For those considering getting a pup, the size of living space and the exercise needs of the breed are important. For me, a person living in an apartment, a smaller dog would be best, but if one is active, consider getting one that loves to play and run.",
+        "is_supporting": true,
+        "idx": 113
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "smaller dog"
+  },
+  {
+    "id": "locomo_5_126",
+    "question": "Why did Audrey sign up for a workshop about car maintenance?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_134 (D6:2)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] [Image: a photography of a group of dogs with a yellow circle] Hey Andrew! That hike sounds great. Nature is good for the soul, right? My week's been good - taking care of my four doggies and making sure they're happy and healthy took up most of my free time. Also, exciting news! I signed up for a workshop about bonding with my pet next month. Can't wait to learn new stuff and strengthen my bond with my pets. What's up with you?",
+        "is_supporting": true,
+        "idx": 134
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Strengthen the bond with her pets"
+  },
+  {
+    "id": "locomo_5_127",
+    "question": "How did Andrew hear about the workshop on bonding with pets?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_136 (D6:4)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] I know right? I saw this workshop flyer at my local pet store. It was a positive reinforcement training class and I wanted to give it a shot. The volunteer in the store was nice enough to let me meet their dog – he was so friendly and playful!",
+        "is_supporting": true,
+        "idx": 136
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Saw a workshop flyer at the local pet store"
+  },
+  {
+    "id": "locomo_5_128",
+    "question": "What type of training was the workshop Andrew signed up for in May 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_136 (D6:4)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] I know right? I saw this workshop flyer at my local pet store. It was a positive reinforcement training class and I wanted to give it a shot. The volunteer in the store was nice enough to let me meet their dog – he was so friendly and playful!",
+        "is_supporting": true,
+        "idx": 136
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Positive reinforcement training"
+  },
+  {
+    "id": "locomo_5_129",
+    "question": "How did Andrew describe the dog he met at the pet store?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_136 (D6:4)",
+        "text": "[t=2:03 pm on 11 May, 2023, speaker=Audrey] I know right? I saw this workshop flyer at my local pet store. It was a positive reinforcement training class and I wanted to give it a shot. The volunteer in the store was nice enough to let me meet their dog – he was so friendly and playful!",
+        "is_supporting": true,
+        "idx": 136
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Friendly and playful"
+  },
+  {
+    "id": "locomo_5_130",
+    "question": "What challenge is Audrey facing in their search for a pet?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_156 (D7:8)",
+        "text": "[t=11:27 am on 2 June, 2023, speaker=Andrew] I'm still on the hunt, but it's tough finding a pet-friendly spot in the city. Been checking out some places, but no luck so far. A bit discouraged but I'm determined to find the right place and dog.",
+        "is_supporting": true,
+        "idx": 156
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Finding a pet-friendly spot in the city"
+  },
+  {
+    "id": "locomo_5_131",
+    "question": "What indoor activities does Andrew plan on trying after the rock climbing class?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_168 (D8:7)",
+        "text": "[t=5:23 pm on 13 June, 2023, speaker=Andrew] Yeah, rock climbing was awesome - I felt so accomplished reaching the top. It has definitely encouraged me to try more outdoor activities like kayaking and maybe bungee jumping? Nature always pushes me out of my comfort zone!",
+        "is_supporting": true,
+        "idx": 168
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "kayaking and bungee jumping"
+  },
+  {
+    "id": "locomo_5_132",
+    "question": "What did Andrew set up in the backyard for their dogs on June 26, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_194 (D9:5)",
+        "text": "[t=1:51 pm on 26 June, 2023, speaker=Audrey] Yep, I set up a doggy play area in the backyard with agility stuff and toys - they're loving it!",
+        "is_supporting": true,
+        "idx": 194
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "a doggy play area with agility stuff and toys"
+  },
+  {
+    "id": "locomo_5_133",
+    "question": "What did Audrey and her GF do on the Monday before July 24, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_301 (D13:1)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Andrew] Hey Audrey! How are you? My GF and I just had a great experience volunteering at a pet shelter on Monday - it was so rewarding! We loved spending time with those cute animals and it gave us so much joy. It was so rewarding, it reminded me just how much I love them!",
+        "is_supporting": true,
+        "idx": 301
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "volunteered at a pet shelter"
+  },
+  {
+    "id": "locomo_5_134",
+    "question": "What is the name of Andrew's childhood dog?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_308 (D13:8)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Audrey] Thanks! That one is Max, my childhood dog. He had lots of energy and loved a game of fetch. I have lots of great memories with him. Pets sure bring a lot of joy.",
+        "is_supporting": true,
+        "idx": 308
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Max"
+  },
+  {
+    "id": "locomo_5_135",
+    "question": "What special memories does Andrew have with his childhood dog, Max?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_310 (D13:10)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Audrey] Max and I would take long walks in the neighborhood when I was a kid. We explored new paths, him sniffing and marking his territory. We grew really close, and I shared my worries and hopes with him. He was a great listener, always there for me. Those days are some of my favorite memories.",
+        "is_supporting": true,
+        "idx": 310
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Long walks in the neighborhood, exploring new paths, sharing worries and hopes"
+  },
+  {
+    "id": "locomo_5_136",
+    "question": "What are some of the personalities of Andrew's four fur babies?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_306 (D13:6)",
+        "text": "[t=3:52 pm on 27 July, 2023, speaker=Audrey] Well the oldest one is the most relaxed, like a wise old sage. The second one is always ready for a game. The third one can be naughty but loves a good cuddle. And the youngest one is full of life and always up for an adventure. They all have their own individual personalities and I adore them.",
+        "is_supporting": true,
+        "idx": 306
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "oldest is relaxed, second is playful, third can be naughty but loves cuddles, youngest is full of life"
+  },
+  {
+    "id": "locomo_5_137",
+    "question": "What type of classes did Andrew start with his pups recently on 4 August, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_318 (D14:2)",
+        "text": "[t=11:05 am on 4 August, 2023, speaker=Audrey] [Image: a photo of a dog in a field of flowers and grass] That's awesome! That must be fun! I just started agility classes with my pups at a dog park. It's awesome to watch them learn and build relationships with other dogs. Seeing them face and conquer challenges really warms my heart.",
+        "is_supporting": true,
+        "idx": 318
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Agility classes"
+  },
+  {
+    "id": "locomo_5_138",
+    "question": "What is essential to keep the dogs looking good according to Andrew?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_385 (D17:4)",
+        "text": "[t=12:24 am on 24 August, 2023, speaker=Audrey] Yeah they really do enjoy the mountain life. Regular grooming is essential to keep them looking good. Daily brushing, regular baths, nail trims, and lots of love is what helps them stay healthy and happy. It's all about keeping them in good shape.",
+        "is_supporting": true,
+        "idx": 385
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Daily brushing, regular baths, nail trims, and lots of love"
+  },
+  {
+    "id": "locomo_5_139",
+    "question": "What did Audrey organize with the neighbors' cats?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_408 (D18:6)",
+        "text": "[t=7:49 pm on 6 September, 2023, speaker=Audrey] That's great! Glad you found ways to relax. It's nice to have those little moments of joy. Something cool recently happened with my furry friends - I organized a doggy playdate with the neighbors' dogs. Seeing all those tails wagging was so sweet. They must have had so much fun!",
+        "is_supporting": true,
+        "idx": 408
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "a doggy playdate"
+  },
+  {
+    "id": "locomo_5_140",
+    "question": "What did Andrew do to give his dogs extra comfort as the weather cooled down?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_412 (D18:10)",
+        "text": "[t=7:49 pm on 6 September, 2023, speaker=Audrey] I'm so happy seeing them have a great time. Last week I even got some new beds for them, just to give them some extra comfort now the weather's cooling down and they were happy! It's incredible how such a simple thing can bring them so much happiness.",
+        "is_supporting": true,
+        "idx": 412
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Got new beds for them"
+  },
+  {
+    "id": "locomo_5_141",
+    "question": "How does Andrew describe the new beds for his dogs?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_414 (D18:12)",
+        "text": "[t=7:49 pm on 6 September, 2023, speaker=Audrey] [Image: a photo of a dog laying on a dog bed in a living room] Sure! Here's a pic of them. Super cozy and comfy. My furry friends love them!",
+        "is_supporting": true,
+        "idx": 414
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Super cozy and comfy"
+  },
+  {
+    "id": "locomo_5_142",
+    "question": "How did Andrew calm down his dog after the leash incident?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_428 (D19:4)",
+        "text": "[t=5:53 pm on 24 September, 2023, speaker=Audrey] [Image: a photo of a dog laying on a bed with its head on the pillow] I petted and hugged her, spoke calmly, and slowly walked her to relax. Our bond feels even stronger when moments like these show up.",
+        "is_supporting": true,
+        "idx": 428
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Petted, hugged, spoke calmly and slowly walked the dog"
+  },
+  {
+    "id": "locomo_5_143",
+    "question": "How often does Andrew take his dogs for walks?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_434 (D19:10)",
+        "text": "[t=5:53 pm on 24 September, 2023, speaker=Audrey] [Image: a photo of two dogs sitting next to each other on a beach] Very often, multiple times a day even, it's a great exercise for them and great bonding time for us.",
+        "is_supporting": true,
+        "idx": 434
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Multiple times a day"
+  },
+  {
+    "id": "locomo_5_144",
+    "question": "What kind of vegetables does Audrey take care of?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_444 (D19:20)",
+        "text": "[t=5:53 pm on 24 September, 2023, speaker=Audrey] They're called Peruvian Lilies. They are so awesome - they have such bright colors and delicate petals.",
+        "is_supporting": true,
+        "idx": 444
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Peruvian Lilies"
+  },
+  {
+    "id": "locomo_5_145",
+    "question": "What did Andrew learn from reading books about economic systems?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_479 (D20:25)",
+        "text": "[t=7:09 pm on 1 October, 2023, speaker=Andrew] I learned a lot about animals, plants, and ecosystems. It's fascinating to see how it all works together.",
+        "is_supporting": true,
+        "idx": 479
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "about animals, plants, and ecosystems and how they work together"
+  },
+  {
+    "id": "locomo_5_146",
+    "question": "What was the reason Andrew couldn't walk his dogs for a period of time?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_513 (D22:1)",
+        "text": "[t=9:41 pm on 6 October, 2023, speaker=Audrey] [Image: a photo of two dogs running in a field with a ball in their mouth] Hey Andrew, I was thinking about what you said about missing nature the other day. It reminded me of when I couldn't walk my dogs because of a knee injury. It was tough 'cause they bring me so much joy. This pic was taken after I started walking again. It felt great to be able to get back out there!",
+        "is_supporting": true,
+        "idx": 513
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Knee injury"
+  },
+  {
+    "id": "locomo_5_147",
+    "question": "What type of jewelry does Andrew make?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_517 (D22:5)",
+        "text": "[t=9:41 pm on 6 October, 2023, speaker=Audrey] [Image: a photo of a woman with a colorful necklace and earrings] Oh yes! I love making jewelry out of recycled stuff. It's a great way to show my love of creativity and sustainability. I hunt down things like bottle caps, buttons, and broken jewelry, and then turn them into one-of-a-kind pieces. Here's a photo of one of my favorite necklaces. They all hold a special story and have their own appeal. Plus, it's a small step in reducing waste.",
+        "is_supporting": true,
+        "idx": 517
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Jewelry made from recycled objects"
+  },
+  {
+    "id": "locomo_5_148",
+    "question": "Why does Andrew make jewelry out of recycled objects?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_517 (D22:5)",
+        "text": "[t=9:41 pm on 6 October, 2023, speaker=Audrey] [Image: a photo of a woman with a colorful necklace and earrings] Oh yes! I love making jewelry out of recycled stuff. It's a great way to show my love of creativity and sustainability. I hunt down things like bottle caps, buttons, and broken jewelry, and then turn them into one-of-a-kind pieces. Here's a photo of one of my favorite necklaces. They all hold a special story and have their own appeal. Plus, it's a small step in reducing waste.",
+        "is_supporting": true,
+        "idx": 517
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "To show love for creativity and sustainability"
+  },
+  {
+    "id": "locomo_5_149",
+    "question": "What type of games do Andrew's dogs like to play at the park?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_539 (D23:14)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] My dogs go crazy for Fetch and Frisbee, and they love to run around and meet other pups. They could keep running for hours!",
+        "is_supporting": true,
+        "idx": 539
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Fetch and Frisbee"
+  },
+  {
+    "id": "locomo_5_150",
+    "question": "What did Andrew make to thank his neighbors?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_527 (D23:2)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] [Image: a photo of a pan of cookies on a wooden table] Hey! Sounds like you've been busy! I made some goodies recently to thank my neighbors for their pup-friendly homes. It was a nice way to bring some joy around here. Any plans for the weekend?",
+        "is_supporting": true,
+        "idx": 527
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Goodies"
+  },
+  {
+    "id": "locomo_5_151",
+    "question": "How do Andrew's dogs react to snow?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_537 (D23:12)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] [Image: a photo of a dog wearing a shirt standing on a hardwood floor] Haha, that must've been hilarious! What breed is your pup again? He looks so fun! My dogs love running around the park. But one thing they hate is snow. I took them to a snowy one last winter and they were so confused! They definitely prefer nice, sunny days in the grass.",
+        "is_supporting": true,
+        "idx": 537
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Confused"
+  },
+  {
+    "id": "locomo_5_152",
+    "question": "How does Andrew describe his dogs' response to snow?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_537 (D23:12)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] [Image: a photo of a dog wearing a shirt standing on a hardwood floor] Haha, that must've been hilarious! What breed is your pup again? He looks so fun! My dogs love running around the park. But one thing they hate is snow. I took them to a snowy one last winter and they were so confused! They definitely prefer nice, sunny days in the grass.",
+        "is_supporting": true,
+        "idx": 537
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "They definitely prefer nice, sunny days in the grass."
+  },
+  {
+    "id": "locomo_5_153",
+    "question": "What kind of experiences are Audrey's cats the best companions for?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_549 (D23:24)",
+        "text": "[t=4:22 pm on 13 October, 2023, speaker=Audrey] Yeah you're so right about needing nature time. Life's been crazy lately so it's been a while since I took my furry friends out for a walk. But those moments with them in nature are just so chill and happy! They're definitely the best companions for exploring the great outdoors.",
+        "is_supporting": true,
+        "idx": 549
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Exploring the great outdoors"
+  },
+  {
+    "id": "locomo_5_154",
+    "question": "What activity do Audrey and Buddy enjoy doing together?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_561 (D24:8)",
+        "text": "[t=6:12 pm on 19 October, 2023, speaker=Andrew] Yeah, Buddy and I have a great time doing walks. It's a nice way to spend time together and get some fresh air.",
+        "is_supporting": true,
+        "idx": 561
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Walking"
+  },
+  {
+    "id": "locomo_5_155",
+    "question": "What type of drink did Andrew recently try at a new spot in town?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_578 (D25:3)",
+        "text": "[t=10:14 am on 24 October, 2023, speaker=Andrew] [Image: a photo of a plate of sushi and vegetables on a table] Ouch! Are you feeling better? Sending healing vibes to you and your pups. So I recently tried out this new spot in town that serves sushi and it was great. Do you have anything that you've been wanting to try lately?",
+        "is_supporting": true,
+        "idx": 578
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "sushi"
+  },
+  {
+    "id": "locomo_5_156",
+    "question": "Which type of pizza did Audrey suggest trying first to someone new to Italian cuisine?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_583 (D25:8)",
+        "text": "[t=10:14 am on 24 October, 2023, speaker=Audrey] [Image: a photo of a long plate of sushi with sauce on it] Definitely try a California or salmon roll first when trying sushi - they're easier. Mix it up with different sauces and dips too - it makes it more tasty. Enjoy and let me know how it goes!",
+        "is_supporting": true,
+        "idx": 583
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "California or salmon roll"
+  },
+  {
+    "id": "locomo_5_157",
+    "question": "How often does Andrew meet up with other dog owners for tips and playdates?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_642 (D27:4)",
+        "text": "[t=7:59 pm on 4 November, 2023, speaker=Audrey] Yeah, they're having a lot of fun. I try to meet up with other dog owners once a week for tips from other parents and so they can all play together. How about you? Have you ever thought about joining one?",
+        "is_supporting": true,
+        "idx": 642
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Once a week"
+  }
+]

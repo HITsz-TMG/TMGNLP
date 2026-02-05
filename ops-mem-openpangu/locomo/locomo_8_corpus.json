@@ -1,0 +1,4074 @@
+[
+  {
+    "idx": 0,
+    "title": "turn_0 (D1:1)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Sam] Hey Evan, good to see you! What's new since we last met? Anything cool happening?",
+    "session": "E8_session_1",
+    "dia_id": "D1:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 1,
+    "title": "turn_1 (D1:2)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Evan] Hey Sam! Good to see you! Yeah, I just got back from a trip with my family in my new Prius.",
+    "session": "E8_session_1",
+    "dia_id": "D1:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 2,
+    "title": "turn_2 (D1:3)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Sam] Wow, not bad, what happened to the old one? Where'd you go, by the way?",
+    "session": "E8_session_1",
+    "dia_id": "D1:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 3,
+    "title": "turn_3 (D1:4)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Evan] [Image: a photo of a lake with rocks and mountains in the background] My old prius broke down, decided to get it repaired and sell it. Glad you asked, we went to Rockies, check it out.",
+    "session": "E8_session_1",
+    "dia_id": "D1:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 4,
+    "title": "turn_4 (D1:5)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Sam] Wow! Looks amazing. When did you get to go there?",
+    "session": "E8_session_1",
+    "dia_id": "D1:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 5,
+    "title": "turn_5 (D1:6)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Evan] We all hiked the trails last week - the views were amazing!",
+    "session": "E8_session_1",
+    "dia_id": "D1:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 6,
+    "title": "turn_6 (D1:7)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Sam] [Image: a photography of a man and a child walking through a forest] Wow, that's cool. I love hiking, but it's been ages since I've done it. I did this hike with my dad way back when I was ten. Going hiking together was great fun, and really special for us.",
+    "session": "E8_session_1",
+    "dia_id": "D1:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 7,
+    "title": "turn_7 (D1:8)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Evan] Aww, that's cute. How far did you two hike?",
+    "session": "E8_session_1",
+    "dia_id": "D1:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 8,
+    "title": "turn_8 (D1:9)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Sam] We hiked a good distance - quite a feat for me back then. It's definitely a great memory.",
+    "session": "E8_session_1",
+    "dia_id": "D1:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 9,
+    "title": "turn_9 (D1:10)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Evan] What other hobbies have you found for yourself?",
+    "session": "E8_session_1",
+    "dia_id": "D1:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 10,
+    "title": "turn_10 (D1:11)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Sam] [Image: a photo of a person holding a paint set in a store] Nothing so far, but I was thinking about trying painting. Do you have any hobbies you love?",
+    "session": "E8_session_1",
+    "dia_id": "D1:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 11,
+    "title": "turn_11 (D1:12)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Evan] Cool idea, Sam! I love it. Have you tried it before?",
+    "session": "E8_session_1",
+    "dia_id": "D1:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 12,
+    "title": "turn_12 (D1:13)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Sam] Not yet, but I'm keen to give it a go. It looks like a nice way to chill and get creative.",
+    "session": "E8_session_1",
+    "dia_id": "D1:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 13,
+    "title": "turn_13 (D1:14)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Evan] [Image: a photo of a painting of a cactus in the desert] Yep, it's a great stress-buster. I started doing this a few years back.",
+    "session": "E8_session_1",
+    "dia_id": "D1:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 14,
+    "title": "turn_14 (D1:15)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Sam] Wow, that's impressive! How did you get into watercolor painting?",
+    "session": "E8_session_1",
+    "dia_id": "D1:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 15,
+    "title": "turn_15 (D1:16)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Evan] My friend got me into it and gave me some advice, and I was hooked right away!",
+    "session": "E8_session_1",
+    "dia_id": "D1:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 16,
+    "title": "turn_16 (D1:17)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Sam] Wow! I hope I can find something I'm as passionate about as you are with watercolor painting.",
+    "session": "E8_session_1",
+    "dia_id": "D1:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 17,
+    "title": "turn_17 (D1:18)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Evan] You'll find it, just keep trying new things until something sparks your excitement.",
+    "session": "E8_session_1",
+    "dia_id": "D1:18",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 18,
+    "title": "turn_18 (D1:19)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Sam] Thanks, Evan! I'm excited to try new things, should be fun!",
+    "session": "E8_session_1",
+    "dia_id": "D1:19",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 19,
+    "title": "turn_19 (D1:20)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Evan] No worries, Sam! Super pumped for you! Let's catch up soon and see how you're enjoying your new hobbies!",
+    "session": "E8_session_1",
+    "dia_id": "D1:20",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 20,
+    "title": "turn_20 (D1:21)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Sam] Yeah, I'll keep you posted. See you soon!",
+    "session": "E8_session_1",
+    "dia_id": "D1:21",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 21,
+    "title": "turn_21 (D1:22)",
+    "text": "[t=1:47 pm on 18 May, 2023, speaker=Evan] Take it easy, Evan! Can't wait to see you. Have a good one!",
+    "session": "E8_session_1",
+    "dia_id": "D1:22",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 22,
+    "title": "turn_22 (D2:1)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Evan] [Image: a photo of a person holding a book in front of a lake] Hey Sam, good to hear from you! Since we last talked, lots has been happening! Last weekend, I took my family on a road trip to Jasper. It was amazing! We drove through the Icefields Parkway and the glaciers and lakes were gorgeous. I got a shot of a glacier, check it out!",
+    "session": "E8_session_2",
+    "dia_id": "D2:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 23,
+    "title": "turn_23 (D2:2)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Sam] Hey Evan, looks amazing! I've never been to Jasper, but it looks breathtaking. Tell me more about your road trip. Was it relaxing?",
+    "session": "E8_session_2",
+    "dia_id": "D2:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 24,
+    "title": "turn_24 (D2:3)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Evan] Hey Sam, thanks for asking! It was great - fresh air, peacefulness and a cozy cabin surrounded by mountains and forests made it feel like a real retreat.",
+    "session": "E8_session_2",
+    "dia_id": "D2:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 25,
+    "title": "turn_25 (D2:4)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Sam] That sounds great, Evan! It's so important to take time for ourselves and find peace, especially after a hard week. Mine's been tough.",
+    "session": "E8_session_2",
+    "dia_id": "D2:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 26,
+    "title": "turn_26 (D2:5)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Evan] Sorry to hear that, Sam. Is there anything I can do to help?",
+    "session": "E8_session_2",
+    "dia_id": "D2:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 27,
+    "title": "turn_27 (D2:6)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Sam] Thanks, Evan. Appreciate the offer, but had a check-up with my doctor a few days ago and, yikes, the weight wasn't great. It was pretty eye-opening.",
+    "session": "E8_session_2",
+    "dia_id": "D2:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 28,
+    "title": "turn_28 (D2:7)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Evan] That must have been a challenging experience, Sam. It's tough when we have to confront our own health challenges. Remember, it's never too late to make positive changes for a healthier lifestyle. Is there anything I can do to support you in this journey?",
+    "session": "E8_session_2",
+    "dia_id": "D2:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 29,
+    "title": "turn_29 (D2:8)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Sam] Thanks, Evan. Breaking old habits isn't easy. Do you have any tips for starting the process?",
+    "session": "E8_session_2",
+    "dia_id": "D2:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 30,
+    "title": "turn_30 (D2:9)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Evan] Yeah, what worked for me was finding a fitness routine I really enjoy. It's my go-to, I love the feeling of being healthy and strong. Making it fun and finding little ways to make smarter choices in my diet really added up. Don't forget, you got this!",
+    "session": "E8_session_2",
+    "dia_id": "D2:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 31,
+    "title": "turn_31 (D2:10)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Sam] Thanks, Evan. Like you said, I've been looking for a hobby to stay motivated. I've been thinking about trying painting. Do you think it will help me de-stress?",
+    "session": "E8_session_2",
+    "dia_id": "D2:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 32,
+    "title": "turn_32 (D2:11)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Evan] Of course, Sam! Painting is a great way to relieve stress and be creative. It gives you the freedom to explore colors and textures and express feelings. I've been doing it for a few years now and it helps me find peace. But unfortunately it won't help you with your weight problem, besides painting I recommend exercising!",
+    "session": "E8_session_2",
+    "dia_id": "D2:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 33,
+    "title": "turn_33 (D2:12)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Sam] Thanks, Evan! Appreciate the encouragement. I'll give it a go and let you know how it turns out.",
+    "session": "E8_session_2",
+    "dia_id": "D2:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 34,
+    "title": "turn_34 (D2:13)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Evan] Awesome, Sam! Have fun with it and don't put too much pressure on yourself. Can't wait to hear how it's going!",
+    "session": "E8_session_2",
+    "dia_id": "D2:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 35,
+    "title": "turn_35 (D2:14)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Sam] Cheers, Evan! I won't stress - just gonna enjoy it.",
+    "session": "E8_session_2",
+    "dia_id": "D2:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 36,
+    "title": "turn_36 (D2:15)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Evan] Alright Sam, have fun with it! Keep me updated!",
+    "session": "E8_session_2",
+    "dia_id": "D2:15",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 37,
+    "title": "turn_37 (D2:16)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Sam] Thanks, Evan! Will do. Bye for now.",
+    "session": "E8_session_2",
+    "dia_id": "D2:16",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 38,
+    "title": "turn_38 (D2:17)",
+    "text": "[t=7:11 pm on 24 May, 2023, speaker=Evan] Take care, Sam! I'll catch up with you later.",
+    "session": "E8_session_2",
+    "dia_id": "D2:17",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 39,
+    "title": "turn_39 (D3:1)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Evan] [Image: a photo of a person holding a bottle of medicine in their hand] Hey Sam! Long time no talk! How're you doing? Life's been quite the rollercoaster lately. I had a health scare last week – a sudden heart palpitation incident that really shook me up. It's been a serious wake-up call about my lifestyle.",
+    "session": "E8_session_3",
+    "dia_id": "D3:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 40,
+    "title": "turn_40 (D3:2)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Sam] [Image: a photo of a plate of vegetables and a glass of milk] Hey Evan, great hearing from you! Sorry about that, glad you're feeling better now. Trying to eat healthier these days.",
+    "session": "E8_session_3",
+    "dia_id": "D3:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 41,
+    "title": "turn_41 (D3:3)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Evan] That salad looks yummy! I'm being extra careful with my health lately. I'm trying to eat less processed food and sugary snacks, even though I love ginger snaps. Have you made any changes to your diet recently?",
+    "session": "E8_session_3",
+    "dia_id": "D3:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 42,
+    "title": "turn_42 (D3:4)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Sam] Nah, no changes for me. Still enjoying my soda and candy, although I know it's not the best habit to have.",
+    "session": "E8_session_3",
+    "dia_id": "D3:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 43,
+    "title": "turn_43 (D3:5)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Evan] Yeah, breaking habits can be tough. Making small changes can have a big impact later on. Have you considered swapping soda for flavored seltzer water? It's still bubbly and tasty, but without the sugar. And instead of candy, you could try dark chocolate with high cocoa content - it's a healthier option. What do you think?",
+    "session": "E8_session_3",
+    "dia_id": "D3:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 44,
+    "title": "turn_44 (D3:6)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Sam] Yeah, good idea! I'll give it a try.",
+    "session": "E8_session_3",
+    "dia_id": "D3:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 45,
+    "title": "turn_45 (D3:7)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Evan] Awesome, Sam! Let me know how it goes. Making small changes can really help you live a healthier life. Don't forget - every step matters!",
+    "session": "E8_session_3",
+    "dia_id": "D3:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 46,
+    "title": "turn_46 (D3:8)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Sam] Hey Evan, thanks! Appreciate it. I'll definitely keep you posted.",
+    "session": "E8_session_3",
+    "dia_id": "D3:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 47,
+    "title": "turn_47 (D3:9)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Evan] I'm here for you, Sam. Let's continue supporting each other on our health journeys. It's important to remember that progress takes time.",
+    "session": "E8_session_3",
+    "dia_id": "D3:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 48,
+    "title": "turn_48 (D3:10)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Sam] Yeah, you're right. It takes time, but I'm up for keep trying and making those tiny changes.",
+    "session": "E8_session_3",
+    "dia_id": "D3:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 49,
+    "title": "turn_49 (D3:11)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Evan] C'mon, keep it up! Every little bit counts, you'll get there!",
+    "session": "E8_session_3",
+    "dia_id": "D3:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 50,
+    "title": "turn_50 (D3:12)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Sam] Thanks, Evan! I appreciate your support, it means a lot to me to have you in my corner.",
+    "session": "E8_session_3",
+    "dia_id": "D3:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 51,
+    "title": "turn_51 (D3:13)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Evan] [Image: a photography of a man with a beard holding a dumbble] Yes, Sam! I'm here for you. Let's rock our workouts and reach our goals! Exercise clears the mind - it's amazing!",
+    "session": "E8_session_3",
+    "dia_id": "D3:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 52,
+    "title": "turn_52 (D3:14)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Sam] Wow, that's awesome! Could you give me a hand with getting started?",
+    "session": "E8_session_3",
+    "dia_id": "D3:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 53,
+    "title": "turn_53 (D3:15)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Evan] Sure Sam, I'd be glad to help. Let's get together and I'll show you some basic exercises. We'll reach our goals!",
+    "session": "E8_session_3",
+    "dia_id": "D3:15",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 54,
+    "title": "turn_54 (D3:16)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Sam] Cool, can't wait! Thank you. By the way, I'm coming from the shop and I had a frustrating issue at the supermarket. The self-checkout machines were all broken, my mood is terrible now!",
+    "session": "E8_session_3",
+    "dia_id": "D3:16",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 55,
+    "title": "turn_55 (D3:17)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Evan] Sorry you were in that situation, hopefully it won't happen again!",
+    "session": "E8_session_3",
+    "dia_id": "D3:17",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 56,
+    "title": "turn_56 (D3:18)",
+    "text": "[t=3:55 pm on 6 June, 2023, speaker=Sam] Yeah, I hope so, take care of yourself.",
+    "session": "E8_session_3",
+    "dia_id": "D3:18",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 57,
+    "title": "turn_57 (D4:1)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Sam] Hey Evan, I need to talk to you. My friends were mocking my weight last Friday and it hurt. That made me realize I need to make changes.",
+    "session": "E8_session_4",
+    "dia_id": "D4:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 58,
+    "title": "turn_58 (D4:2)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Evan] Hey Sam, sorry about that. Don't worry, progress takes time. Let's work on it together.",
+    "session": "E8_session_4",
+    "dia_id": "D4:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 59,
+    "title": "turn_59 (D4:3)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Sam] Thanks for the support, Evan. I'm working on my health and getting active!",
+    "session": "E8_session_4",
+    "dia_id": "D4:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 60,
+    "title": "turn_60 (D4:4)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Evan] [Image: a photo of a set of five cards with the words let it shine] That's great, Sam! I struggled with my health a few years ago, but stuck with it. Here's a reminder of my commitment - my gym membership card. It's not just about exercise, diet and lifestyle changes also play a big role.",
+    "session": "E8_session_4",
+    "dia_id": "D4:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 61,
+    "title": "turn_61 (D4:5)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Sam] That's awesome, Evan! What do you think made the biggest impact on your health journey?",
+    "session": "E8_session_4",
+    "dia_id": "D4:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 62,
+    "title": "turn_62 (D4:6)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Evan] [Image: a photo of a table full of fresh produce and vegetables] I made some dietary changes, like cutting down on sugary snacks and eating more veggies and fruit, and it made a big impact on my health. Have you considered any changes?",
+    "session": "E8_session_4",
+    "dia_id": "D4:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 63,
+    "title": "turn_63 (D4:7)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Sam] Yep, I'm reducing my soda and candy intake. It's tough, but I'm determined to make a change.",
+    "session": "E8_session_4",
+    "dia_id": "D4:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 64,
+    "title": "turn_64 (D4:8)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Evan] [Image: a photo of a table with a variety of sodas and water bottles] Go for it, Sam! It's tough at first, but you got this. Try flavored seltzer water instead. It can be a great alternative to soda. Btw I can't stop thinking about that new mystery novel I started. It's so gripping!",
+    "session": "E8_session_4",
+    "dia_id": "D4:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 65,
+    "title": "turn_65 (D4:9)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Sam] Sounds good, Evan. I've tried it before and it was nice. Do you have any ideas for low-calorie snacks to pair with it? And what's the novel?",
+    "session": "E8_session_4",
+    "dia_id": "D4:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 66,
+    "title": "turn_66 (D4:10)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Evan] [Image: a photo of a table with bowls of fruit and a bottle of alcohol] Definitely, how about some flavored seltzer with some air-popped popcorn or fruit? It's yum and healthy! The novel I'm reading is \"The Great Gatsby\".",
+    "session": "E8_session_4",
+    "dia_id": "D4:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 67,
+    "title": "turn_67 (D4:11)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Sam] Yum, that sounds good! Thanks! And I'll definitely read that novel sometime.",
+    "session": "E8_session_4",
+    "dia_id": "D4:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 68,
+    "title": "turn_68 (D4:12)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Evan] [Image: a photography of a book with a green apple next to it] No worries, Sam! Focus on healthy swaps and taking small steps. Stay upbeat!",
+    "session": "E8_session_4",
+    "dia_id": "D4:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 69,
+    "title": "turn_69 (D4:13)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Sam] That reminder is inspiring. Thanks for reminding me to focus on progress, not perfection.",
+    "session": "E8_session_4",
+    "dia_id": "D4:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 70,
+    "title": "turn_70 (D4:14)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Evan] By the way, have you thought about exercising? Trust me, it's just as important as eating right.",
+    "session": "E8_session_4",
+    "dia_id": "D4:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 71,
+    "title": "turn_71 (D4:15)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Sam] Starting tomorrow, I will go to the gym and exercise regularly. The sooner I start, the sooner I will see the rewards of this activity.",
+    "session": "E8_session_4",
+    "dia_id": "D4:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 72,
+    "title": "turn_72 (D4:16)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Evan] That's awesome, Sam! It's such a rewarding and tough activity - keep going and have fun!",
+    "session": "E8_session_4",
+    "dia_id": "D4:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 73,
+    "title": "turn_73 (D4:17)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Sam] Thanks, Evan! Your support means a lot. I really appreciate it.",
+    "session": "E8_session_4",
+    "dia_id": "D4:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 74,
+    "title": "turn_74 (D4:18)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Evan] No worries, you've got this!",
+    "session": "E8_session_4",
+    "dia_id": "D4:18",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 75,
+    "title": "turn_75 (D4:19)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Sam] Thanks, Evan. I really appreciate it.",
+    "session": "E8_session_4",
+    "dia_id": "D4:19",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 76,
+    "title": "turn_76 (D4:20)",
+    "text": "[t=10:52 am on 27 July, 2023, speaker=Evan] No worries, Sam. I'm here if you need me. Keep going!",
+    "session": "E8_session_4",
+    "dia_id": "D4:20",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 77,
+    "title": "turn_77 (D5:1)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] [Image: a photography of a couple walking through the snow holding hands] Hey Sam, how's it going? Last week I went on a trip to Canada and something unreal happened - I met this awesome Canadian woman and it was like something out of a movie. She's incredible and being with her makes me feel alive.",
+    "session": "E8_session_5",
+    "dia_id": "D5:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 78,
+    "title": "turn_78 (D5:2)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] [Image: a photo of a person walking on the beach with a surfboard] Congrats Evan! She must be something special! Being with someone who makes you feel alive is amazing. I'm sorry to hear that you're dealing with health issues lately, it can be really tough. It's hard to fully enjoy things sometimes.",
+    "session": "E8_session_5",
+    "dia_id": "D5:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 79,
+    "title": "turn_79 (D5:3)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] [Image: a photo of a container of cookies on a counter] Woah. such a nice view! Thanks, Sam! She's definitely great. Every moment with her is really fun and energizing. It's a nice change, especially after dealing with health issues. But you never know what life's gonna throw at you. Btw look what life has thrown for me right now haha.",
+    "session": "E8_session_5",
+    "dia_id": "D5:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 80,
+    "title": "turn_80 (D5:4)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] Looks good to eat! Dealing with health problems can be challenging and take away from enjoyable experiences.",
+    "session": "E8_session_5",
+    "dia_id": "D5:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 81,
+    "title": "turn_81 (D5:5)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] [Image: a photo of a woman and a child playing on a swing set] Ginger snaps are my weakness for sure! Dealing with health issues has been tough, but it's made me appreciate the good moments more. These are the ones who bring lots of joy even through the hard times.",
+    "session": "E8_session_5",
+    "dia_id": "D5:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 82,
+    "title": "turn_82 (D5:6)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] It looks like your kids are having a great time! And how long have you been prioritizing your health?",
+    "session": "E8_session_5",
+    "dia_id": "D5:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 83,
+    "title": "turn_83 (D5:7)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] [Image: a photo of a box with a fitness watch on it] Yes, they bring me such joy. My healthy road has been a long one. I've been working on it for two years now, so there have been ups and downs, but I'm doing my best.",
+    "session": "E8_session_5",
+    "dia_id": "D5:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 84,
+    "title": "turn_84 (D5:8)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] I wish your motivation never goes anywhere! I'm thinking of ordering myself some similar ones too, what do you think, are they worth it?",
+    "session": "E8_session_5",
+    "dia_id": "D5:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 85,
+    "title": "turn_85 (D5:9)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] [Image: a photo of a person's wrist with a smart watch on it] Thanks Sam! My family motivates me to stay healthy. Well, it helps a lot with my health goals. It tracks my progress really well and serves as a constant reminder to keep going.",
+    "session": "E8_session_5",
+    "dia_id": "D5:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 86,
+    "title": "turn_86 (D5:10)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] Cool! It sounds like a really good tool to stay on track. How has it been working out for you?",
+    "session": "E8_session_5",
+    "dia_id": "D5:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 87,
+    "title": "turn_87 (D5:11)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] It's been awesome, Sam! That visual reminder has been really motivating.",
+    "session": "E8_session_5",
+    "dia_id": "D5:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 88,
+    "title": "turn_88 (D5:12)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] Thanks for the recommendation, what else motivates you?",
+    "session": "E8_session_5",
+    "dia_id": "D5:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 89,
+    "title": "turn_89 (D5:13)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] [Image: a photo of a small island with a lone boat in the water] I'm motivated by a thirst for adventure on interesting hikes, that's pretty cool!",
+    "session": "E8_session_5",
+    "dia_id": "D5:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 90,
+    "title": "turn_90 (D5:14)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] What an amazing view! The key is to find something that keeps you motivated.",
+    "session": "E8_session_5",
+    "dia_id": "D5:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 91,
+    "title": "turn_91 (D5:15)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] [Image: a photo of a bonsai tree in a black vase on a wooden table] Yep, that's it. Find something that motivates you and makes you happy, whether it's large or tiny. It'll help us conquer the struggles we encounter.",
+    "session": "E8_session_5",
+    "dia_id": "D5:15",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 92,
+    "title": "turn_92 (D5:16)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] Nice! What made you decide to get that?",
+    "session": "E8_session_5",
+    "dia_id": "D5:16",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 93,
+    "title": "turn_93 (D5:17)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] I got this because it symbolizes strength and resilience. Taking care of it motivates me to keep going through tough times.",
+    "session": "E8_session_5",
+    "dia_id": "D5:17",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 94,
+    "title": "turn_94 (D5:18)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] Wow, it's amazing! So powerful yet so simple.",
+    "session": "E8_session_5",
+    "dia_id": "D5:18",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 95,
+    "title": "turn_95 (D5:19)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] Thanks, Sam. It's a reminder that even in little things, we can be tough.",
+    "session": "E8_session_5",
+    "dia_id": "D5:19",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 96,
+    "title": "turn_96 (D5:20)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] Little stuff matters - it builds our resilience over time.",
+    "session": "E8_session_5",
+    "dia_id": "D5:20",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 97,
+    "title": "turn_97 (D5:21)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] Yeah, every little thing we do for ourselves helps us in the long run.",
+    "session": "E8_session_5",
+    "dia_id": "D5:21",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 98,
+    "title": "turn_98 (D5:22)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] Yep, small steps add up. Stay consistent and don't give up!",
+    "session": "E8_session_5",
+    "dia_id": "D5:22",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 99,
+    "title": "turn_99 (D5:23)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] Yep, Sam! Consistency and perseverance will get us far. Great chat!",
+    "session": "E8_session_5",
+    "dia_id": "D5:23",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 100,
+    "title": "turn_100 (D5:24)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Sam] Great chatting with you, Sam! Take care, talk soon!",
+    "session": "E8_session_5",
+    "dia_id": "D5:24",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 101,
+    "title": "turn_101 (D5:25)",
+    "text": "[t=7:52 pm on 7 August, 2023, speaker=Evan] Catch ya later!",
+    "session": "E8_session_5",
+    "dia_id": "D5:25",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 102,
+    "title": "turn_102 (D6:1)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Evan] [Image: a photo of a tent pitched up in a grassy field] Hey Sam, long time no talk! Hope you're doing great. I just got back from a rad vacay with my new SO in Canada. Tried some awesome activities too - think hiking, biking... all that cool stuff. We loved exploring the outdoors together, it was so awesome!",
+    "session": "E8_session_6",
+    "dia_id": "D6:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 103,
+    "title": "turn_103 (D6:2)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Sam] Hey Evan! Good to hear from you. Wow, Canada sounds amazing! That photo looks stunning. Wish I could do something like that. Things have been a bit challenging for me lately; some stuff has been hard on my health.",
+    "session": "E8_session_6",
+    "dia_id": "D6:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 104,
+    "title": "turn_104 (D6:3)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Evan] Sorry to hear that things haven't been going well. Dealing with health issues can be tough. Is there anything I can do to help?",
+    "session": "E8_session_6",
+    "dia_id": "D6:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 105,
+    "title": "turn_105 (D6:4)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Sam] [Image: a photo of a notepad with a pen and a note] Thanks, Evan. Your support means a lot to me. It's tough staying positive, but knowing I have people like you in my corner makes it easier.",
+    "session": "E8_session_6",
+    "dia_id": "D6:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 106,
+    "title": "turn_106 (D6:5)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Evan] Glad to support you, Sam. Surrounding ourselves with people who care is key. What's on that note? A reminder or quote to stay motivated?",
+    "session": "E8_session_6",
+    "dia_id": "D6:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 107,
+    "title": "turn_107 (D6:6)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Sam] Yeah, it's actually a quote that's been helping me stay motivated. It reminds me that progress is more important than perfection. Taking small steps towards a healthier life is still progress.",
+    "session": "E8_session_6",
+    "dia_id": "D6:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 108,
+    "title": "turn_108 (D6:7)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Evan] Cool mindset, Sam! I totally agree, progress over perfection. Mind sharing the quote with me? I would love to get something out of it too.",
+    "session": "E8_session_6",
+    "dia_id": "D6:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 109,
+    "title": "turn_109 (D6:8)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Sam] \"Don't fear it, just take the first step. It's been helping me move forward to healthier habits!\"",
+    "session": "E8_session_6",
+    "dia_id": "D6:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 110,
+    "title": "turn_110 (D6:9)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Evan] Love the quote, Sam. That mindset really helps me too. Thanks!",
+    "session": "E8_session_6",
+    "dia_id": "D6:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 111,
+    "title": "turn_111 (D6:10)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Sam] You're welcome! Glad it helps. These times can be challenging.",
+    "session": "E8_session_6",
+    "dia_id": "D6:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 112,
+    "title": "turn_112 (D6:11)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Evan] They can be tough, but remember to celebrate the small wins - every step forward counts!",
+    "session": "E8_session_6",
+    "dia_id": "D6:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 113,
+    "title": "turn_113 (D6:12)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Sam] You're absolutely right! Celebrating those small wins is crucial. It's easy to get caught up in the challenges and setbacks, but those little victories are what keep me motivated. Thanks for the reminder, it's much appreciated.",
+    "session": "E8_session_6",
+    "dia_id": "D6:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 114,
+    "title": "turn_114 (D6:13)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Evan] Absolutely, Sam. Remember, every small victory is a step forward, so keep up the good work! I'm cheering for you! And hey, I could use some cheering too - I've been searching for my keys for the last half hour with no luck! I'm losing it every week..",
+    "session": "E8_session_6",
+    "dia_id": "D6:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 115,
+    "title": "turn_115 (D6:14)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Sam] Oh, I'll definitely be your cheerleader once I get some sleep, Evan! Funny you mention that, I had this amazing dream last night where I was soaring over skyscrapers. It felt incredible! Makes me wonder what it signifies...",
+    "session": "E8_session_6",
+    "dia_id": "D6:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 116,
+    "title": "turn_116 (D6:15)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Evan] That does sound like an amazing dream! Maybe you should check out a dream interpretation book; it could offer some insights. Sweet dreams, Sam!",
+    "session": "E8_session_6",
+    "dia_id": "D6:15",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 117,
+    "title": "turn_117 (D6:16)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Sam] Thanks for the suggestion, Evan. I'll look into it. This journey feels endless at times, but I'm convinced it's going to be rewarding in the end. So good luck with your keys, Evan!",
+    "session": "E8_session_6",
+    "dia_id": "D6:16",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 118,
+    "title": "turn_118 (D6:17)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Evan] I'll just keep going, step by step, and I'll definitely find those keys!",
+    "session": "E8_session_6",
+    "dia_id": "D6:17",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 119,
+    "title": "turn_119 (D6:18)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Sam] That's for sure!",
+    "session": "E8_session_6",
+    "dia_id": "D6:18",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 120,
+    "title": "turn_120 (D6:19)",
+    "text": "[t=4:09 pm on 13 August, 2023, speaker=Evan] Go to bed already, bud! And take care!",
+    "session": "E8_session_6",
+    "dia_id": "D6:19",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 121,
+    "title": "turn_121 (D7:1)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Evan] [Image: a photography of a person with a cast on their foot] Hey Sam, what's up? It's been a few days since we talked. How have you been? Life's been tough lately - my son had a soccer accident last Saturday and hurt his ankle, it was tough seeing him hurt! I just been looking after him and taking him to the doctor. As a dad, it's hard to watch your kid go through something like that.",
+    "session": "E8_session_7",
+    "dia_id": "D7:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 122,
+    "title": "turn_122 (D7:2)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Sam] Hey Evan, sorry to hear about what happened. I can imagine how hard it must have been for you. Things haven't been easy for me either. Had a tough week and a doc's appointment, so it was kinda like a wake-up call to take better care of myself. On a bright side, I'm taking a cooking class to learn how to make healthier meals.",
+    "session": "E8_session_7",
+    "dia_id": "D7:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 123,
+    "title": "turn_123 (D7:3)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Evan] Hey Sam, sorry to hear you had a rough week. At least it's forcing us both to take better care of ourselves, right? I hear the class you're taking is packed with healthy recipes. How's it been going? Have you picked up any yummy new meals?",
+    "session": "E8_session_7",
+    "dia_id": "D7:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 124,
+    "title": "turn_124 (D7:4)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Sam] [Image: a photo of a plate of food with a piece of salmon and some vegetables] The cooking class has been great, I've learned awesome recipes. Last night I made this yummy grilled dish, so good!",
+    "session": "E8_session_7",
+    "dia_id": "D7:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 125,
+    "title": "turn_125 (D7:5)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Evan] Mmm, it looks delicious! What did you put in it? I want to eat healthy, so what kind of recipes do you suggest?",
+    "session": "E8_session_7",
+    "dia_id": "D7:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 126,
+    "title": "turn_126 (D7:6)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Sam] Thanks, Evan! I marinated it with a few different ingredients and grilled it with some veggies. It turned out really flavorful! If you want, I can share more recipes from my cooking class. Just let me know what you're looking for!",
+    "session": "E8_session_7",
+    "dia_id": "D7:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 127,
+    "title": "turn_127 (D7:7)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Evan] That'd be great, Sam! I'm looking to add more vegetables to my meals. Do you have any recipes for that?",
+    "session": "E8_session_7",
+    "dia_id": "D7:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 128,
+    "title": "turn_128 (D7:8)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Sam] Yeah definitely, Evan. I have a tasty and easy roasted veg recipe that I can share with you. Oh, by the way, how have you been doing after the soccer incident? Must've been tough.",
+    "session": "E8_session_7",
+    "dia_id": "D7:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 129,
+    "title": "turn_129 (D7:9)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Evan] Thanks, Sam. His ankle is getting better, but still sore. It was rough at first, but thank goodness it was nothing serious.",
+    "session": "E8_session_7",
+    "dia_id": "D7:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 130,
+    "title": "turn_130 (D7:10)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Sam] Glad to hear his ankle is getting better. It's hard seeing someone we care about hurt. Look after yourself too, yeah? We gotta look after our health.",
+    "session": "E8_session_7",
+    "dia_id": "D7:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 131,
+    "title": "turn_131 (D7:11)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Evan] Yep, taking care of ourselves is a must. How have you been feeling lately?",
+    "session": "E8_session_7",
+    "dia_id": "D7:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 132,
+    "title": "turn_132 (D7:12)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Sam] I have been feeling a mix of emotions - somewhat concerned about my health but also motivated to make positive changes. Taking things one step at a time.",
+    "session": "E8_session_7",
+    "dia_id": "D7:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 133,
+    "title": "turn_133 (D7:13)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Evan] It's okay to feel overwhelmed, Sam. Just keep moving forward slowly and taking small steps. You're doing awesome.",
+    "session": "E8_session_7",
+    "dia_id": "D7:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 134,
+    "title": "turn_134 (D7:14)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Sam] Thanks, Evan, your encouragement means a lot to me. I'll keep going and take it one step at a time!",
+    "session": "E8_session_7",
+    "dia_id": "D7:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 135,
+    "title": "turn_135 (D7:15)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Evan] No worries, just keep going and taking it one step at a time! You'll get there.",
+    "session": "E8_session_7",
+    "dia_id": "D7:15",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 136,
+    "title": "turn_136 (D7:16)",
+    "text": "[t=4:20 pm on 15 August, 2023, speaker=Sam] Thanks, Evan. I really appreciate that. It means a lot.",
+    "session": "E8_session_7",
+    "dia_id": "D7:16",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 137,
+    "title": "turn_137 (D8:1)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] [Image: a photo of a bowl of spinach, avocado, and strawberries] Hey Evan, some big news: I'm on a diet and living healthier! Been tough, but I'm determined.",
+    "session": "E8_session_8",
+    "dia_id": "D8:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 138,
+    "title": "turn_138 (D8:2)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] Wow, Sam, that's great news! Making changes to live healthier can be challenging, how has it been going?",
+    "session": "E8_session_8",
+    "dia_id": "D8:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 139,
+    "title": "turn_139 (D8:3)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] It's tough, but I'm sticking with it.",
+    "session": "E8_session_8",
+    "dia_id": "D8:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 140,
+    "title": "turn_140 (D8:4)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] Nice work, Sam! Proud of you sticking to it. Have you noticed any positive changes?",
+    "session": "E8_session_8",
+    "dia_id": "D8:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 141,
+    "title": "turn_141 (D8:5)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Yes, there are many, such as more energy and less sluggishness after eating. This is really encouraging!",
+    "session": "E8_session_8",
+    "dia_id": "D8:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 142,
+    "title": "turn_142 (D8:6)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] Wow, Sam, that's great to hear! Feeling more energized after meals is such a positive change. Keep up the good work! And speaking of healthy meals, do you have any favorite recipes you'd like to share?",
+    "session": "E8_session_8",
+    "dia_id": "D8:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 143,
+    "title": "turn_143 (D8:7)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] [Image: a photo of two bowls of food with chopsticks and sauce] Sure, I'm loving this recipe I found. It's a flavorful and healthy grilled chicken and veggie stir-fry. Wanna give it a go?",
+    "session": "E8_session_8",
+    "dia_id": "D8:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 144,
+    "title": "turn_144 (D8:8)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] Mmm, looks yummy! Is the sauce a family secret? I'm always down to try new recipes!",
+    "session": "E8_session_8",
+    "dia_id": "D8:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 145,
+    "title": "turn_145 (D8:9)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Nah, it's just my homemade sauce. Want the recipe?",
+    "session": "E8_session_8",
+    "dia_id": "D8:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 146,
+    "title": "turn_146 (D8:10)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] Yeah, I'd love to! Thanks for sharing the recipe.",
+    "session": "E8_session_8",
+    "dia_id": "D8:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 147,
+    "title": "turn_147 (D8:11)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] [Image: a photography of a recipe card with a drawing of a vase of flowers] Sure thing! Here's the recipe. Let me know how it went!",
+    "session": "E8_session_8",
+    "dia_id": "D8:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 148,
+    "title": "turn_148 (D8:12)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] Thanks Sam! I'll give it a shot and let you know how it went. Trying out new recipes is a great way to stay busy and creative. By the way, I also started taking a painting classes few days ago and I'm really enjoying it. It's all about trying new things, right?",
+    "session": "E8_session_8",
+    "dia_id": "D8:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 149,
+    "title": "turn_149 (D8:13)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] You're already good at drawing, why did you decide to join a class? And why did you start painting then years ago anyway?",
+    "session": "E8_session_8",
+    "dia_id": "D8:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 150,
+    "title": "turn_150 (D8:14)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] [Image: a photo of a painting of a forest scene on a easel] Thanks, Sam! It all started when a friend of mine gave me this painting one day, it inspired me a lot and that's when I started painting. And I joined the classes to find like-minded people and show them what I can do, you can always improve your skills.",
+    "session": "E8_session_8",
+    "dia_id": "D8:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 151,
+    "title": "turn_151 (D8:15)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Wow, that's awesome! You're really talented. Did you take any other classes?",
+    "session": "E8_session_8",
+    "dia_id": "D8:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 152,
+    "title": "turn_152 (D8:16)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] [Image: a photo of a brush, pencil, and eyeliners on a cloth] Thanks, Sam! Just been painting with these for now, but might look into other classes. It's awesome for finding my peace and expressing myself!",
+    "session": "E8_session_8",
+    "dia_id": "D8:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 153,
+    "title": "turn_153 (D8:17)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Cool, Evan! What have you been learning in those classes?",
+    "session": "E8_session_8",
+    "dia_id": "D8:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 154,
+    "title": "turn_154 (D8:18)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] [Image: a photo of a table with a bunch of watercolors on it] In painting classes, we've been learning about watercolors. The instructor stresses observing nature and painting what we see. It's a relaxing way to take a break from everyday stress.",
+    "session": "E8_session_8",
+    "dia_id": "D8:18",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 155,
+    "title": "turn_155 (D8:19)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Wow, Evan! What type of nature do you enjoy painting the most?",
+    "session": "E8_session_8",
+    "dia_id": "D8:19",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 156,
+    "title": "turn_156 (D8:20)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] [Image: a photo of a painting of a sunset over the ocean] I love painting landscapes. Nature's beauty captivates me and brings me peace. Here's one of my recent works.",
+    "session": "E8_session_8",
+    "dia_id": "D8:20",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 157,
+    "title": "turn_157 (D8:21)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Wow, Evan! The colors are so bright. How do you capture the tranquil beauty of nature in your paintings?",
+    "session": "E8_session_8",
+    "dia_id": "D8:21",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 158,
+    "title": "turn_158 (D8:22)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] [Image: a photo of a tree with pink flowers in a field] Thanks Sam! I aim to capture the vibe of nature in my paintings, conveying the peacefulness of being outdoors.",
+    "session": "E8_session_8",
+    "dia_id": "D8:22",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 159,
+    "title": "turn_159 (D8:23)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Wow, that pic is great! Do you often spend time in places like this?",
+    "session": "E8_session_8",
+    "dia_id": "D8:23",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 160,
+    "title": "turn_160 (D8:24)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] [Image: a photography of a truck parked in the middle of a forest] Thanks! I love being in places like this - it brings back memories of road tripping in my trusty car.",
+    "session": "E8_session_8",
+    "dia_id": "D8:24",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 161,
+    "title": "turn_161 (D8:25)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Wow, that's cool! Have you been to any fun places in that ride?",
+    "session": "E8_session_8",
+    "dia_id": "D8:25",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 162,
+    "title": "turn_162 (D8:26)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] [Image: a photo of a person on skis on a snowy trail] Yep, last month I drove somewhere fun. The views were amazing!",
+    "session": "E8_session_8",
+    "dia_id": "D8:26",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 163,
+    "title": "turn_163 (D8:27)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Did you take advantage of the skiing opportunities in Banff? Sounds like it would have been a lot of fun!",
+    "session": "E8_session_8",
+    "dia_id": "D8:27",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 164,
+    "title": "turn_164 (D8:28)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] [Image: a photo of a group of people skiing down a snow covered slope] Yeah, it was great for skiing! The snow was amazing and I had a lot of fun. Can't wait to go back next year! Did you try any winter sports, Sam?",
+    "session": "E8_session_8",
+    "dia_id": "D8:28",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 165,
+    "title": "turn_165 (D8:29)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Ooh, skiing looks like a blast! I'd love to try it but I'm not sure my body can take it. What about you? What winter activities do you enjoy?",
+    "session": "E8_session_8",
+    "dia_id": "D8:29",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 166,
+    "title": "turn_166 (D8:30)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] Skiing, snowboarding, and ice skating are all fun winter activities I enjoy.",
+    "session": "E8_session_8",
+    "dia_id": "D8:30",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 167,
+    "title": "turn_167 (D8:31)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Wish I could join in on the fun! It sounds awesome.",
+    "session": "E8_session_8",
+    "dia_id": "D8:31",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 168,
+    "title": "turn_168 (D8:32)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Evan] I'd like you to join me, too. Winter activities are a blast - hopefully someday you will!",
+    "session": "E8_session_8",
+    "dia_id": "D8:32",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 169,
+    "title": "turn_169 (D8:33)",
+    "text": "[t=6:17 pm on 19 August, 2023, speaker=Sam] Yeah, maybe. It's hard with that, you know. But who knows? Thanks for the understanding, Evan - it really means a lot.",
+    "session": "E8_session_8",
+    "dia_id": "D8:33",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 170,
+    "title": "turn_170 (D9:1)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Sam] Hey Evan! Exciting news: I started a new diet and exercise routine last Monday and it's made a huge difference. I feel great! What about you, what changes have you made recently?",
+    "session": "E8_session_9",
+    "dia_id": "D9:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 171,
+    "title": "turn_171 (D9:2)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Evan] Wow, Sam, great! Glad your new diet/exercise is going well. As for me, I've hit a sore spot lately. Twisted my knee last Friday and it's really painful, so it's been tough to stay consistent with my usual fitness routine. It's really frustrating because staying active is like, mega-important to me.",
+    "session": "E8_session_9",
+    "dia_id": "D9:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 172,
+    "title": "turn_172 (D9:3)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Sam] Oh no, sorry to hear about that, Evan. It's frustrating when our bodies don't cooperate, isn't it? Is there anything I can do to help?",
+    "session": "E8_session_9",
+    "dia_id": "D9:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 173,
+    "title": "turn_173 (D9:4)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Evan] Thanks, Sam. I appreciate the concern. Life throws us curveballs - that's life, right? By the way, remember that book I was talking about? It just gets better with every page, can't let it out of my hands!",
+    "session": "E8_session_9",
+    "dia_id": "D9:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 174,
+    "title": "turn_174 (D9:5)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Sam] Life sure can be unpredictable and tough. Being adaptable and finding other ways to stay active is key when you're facing an obstacle. Maybe look into low-impact exercises or physical therapy to help with that? And damn, you really got me interested in this book haha!",
+    "session": "E8_session_9",
+    "dia_id": "D9:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 175,
+    "title": "turn_175 (D9:6)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Evan] Yeah, PT for my knee is on the cards. Hopefully I'll get an appointment soon. Till then, just keeping it low-key and swimming to stay active.",
+    "session": "E8_session_9",
+    "dia_id": "D9:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 176,
+    "title": "turn_176 (D9:7)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Sam] Swimming is a good choice, Evan. It's low-impact and easy on the joints, plus it's refreshing. Keep up with the active lifestyle!",
+    "session": "E8_session_9",
+    "dia_id": "D9:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 177,
+    "title": "turn_177 (D9:8)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Evan] [Image: a photography of a car is parked near a lake with mountains in the background] Yeah, thanks for the push, Sam. Oh, hey, I came across this pic when I was tidying up. I took a road trip last month - the scenery was stunning and nature really chilled me out.",
+    "session": "E8_session_9",
+    "dia_id": "D9:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 178,
+    "title": "turn_178 (D9:9)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Sam] Wow, looks great! Where did you go? Bet it was nice to get away.",
+    "session": "E8_session_9",
+    "dia_id": "D9:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 179,
+    "title": "turn_179 (D9:10)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Evan] Thanks! I went up to the Rocky Mountains, it was so refreshing! The views were stunning and I felt so relaxed. Do you enjoy road trips and exploring nature?",
+    "session": "E8_session_9",
+    "dia_id": "D9:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 180,
+    "title": "turn_180 (D9:11)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Sam] I haven't gone on a road trip in ages, but I love being surrounded by nature. It's so tranquil and refreshing. I'd love to go hiking more, but it can be a bit challenging sometimes. However, I am working on becoming healthier, so maybe a road trip and a hike will be possible soon.",
+    "session": "E8_session_9",
+    "dia_id": "D9:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 181,
+    "title": "turn_181 (D9:12)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Evan] [Image: a photo of a lake with a mountain in the background] That's cool, Sam. Nature can be really peaceful. I'd suggest going for more hikes, like I do. It's always been calming and fun. We should definitely do one together sometime.",
+    "session": "E8_session_9",
+    "dia_id": "D9:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 182,
+    "title": "turn_182 (D9:13)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Sam] Sounds like fun! Which lake do you recommend? I'd love to explore some of the local trails.",
+    "session": "E8_session_9",
+    "dia_id": "D9:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 183,
+    "title": "turn_183 (D9:14)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Evan] [Image: a photo of a lake with a mountain in the background] Check out this one! It's gorgeous and there are lots of trails nearby. You'll love it!",
+    "session": "E8_session_9",
+    "dia_id": "D9:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 184,
+    "title": "turn_184 (D9:15)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Sam] Wow, it looks great! Is it nearby? What a view!",
+    "session": "E8_session_9",
+    "dia_id": "D9:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 185,
+    "title": "turn_185 (D9:16)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Evan] It's only a two-hour drive from here, but trust me, it's worth every minute for the incredible views and peaceful atmosphere.",
+    "session": "E8_session_9",
+    "dia_id": "D9:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 186,
+    "title": "turn_186 (D9:17)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Sam] Cool, a day trip's doable. Nature's calling me, so I'm gonna go check it out! Thanks!",
+    "session": "E8_session_9",
+    "dia_id": "D9:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 187,
+    "title": "turn_187 (D9:18)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Evan] No worries, enjoy your time in nature. Take care! Bye!",
+    "session": "E8_session_9",
+    "dia_id": "D9:18",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 188,
+    "title": "turn_188 (D9:19)",
+    "text": "[t=10:18 am on 27 August, 2023, speaker=Sam] Thanks Evan. Have a good one. See ya!",
+    "session": "E8_session_9",
+    "dia_id": "D9:19",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 189,
+    "title": "turn_189 (D10:1)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Evan] [Image: a photo of a painting of a sunset over a body of water] Hey Sam! Long time no talk! Hope all is good. What have I been doing these past few weeks?",
+    "session": "E8_session_10",
+    "dia_id": "D10:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 190,
+    "title": "turn_190 (D10:2)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Sam] [Image: a photo of a bowl of beef and vegetables with a package of healthy choice] Hey Evan! Nice to hear from you. Life has been an up and down ride. Have you seen the pic I posted of my before and after body as a result of the diet? Working to motivate others to make better choices.",
+    "session": "E8_session_10",
+    "dia_id": "D10:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 191,
+    "title": "turn_191 (D10:3)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Evan] Hey Sam! Loving it. Making healthier choices has definitely made a difference for me. It's amazing how small changes can have such a big impact. How about you? Is it making a difference for you too?",
+    "session": "E8_session_10",
+    "dia_id": "D10:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 192,
+    "title": "turn_192 (D10:4)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Sam] Hey Evan, thanks for the support! Handling all this has been kinda wild. I'm trying to make healthier choices, but there are still the occasional cravings for sugary drinks and snacks... it's a real struggle.",
+    "session": "E8_session_10",
+    "dia_id": "D10:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 193,
+    "title": "turn_193 (D10:5)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Evan] Yeah, breaking bad habits can be hard. Cravings can be tough too, but little victories count. What do you think sets off those cravings for you?",
+    "session": "E8_session_10",
+    "dia_id": "D10:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 194,
+    "title": "turn_194 (D10:6)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Sam] It's usually stress, boredom, or just wanting comfort. You know, those sugary treats are so tempting, right?",
+    "session": "E8_session_10",
+    "dia_id": "D10:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 195,
+    "title": "turn_195 (D10:7)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Evan] [Image: a photo of a painting of a mountain range with a horse] Yeah, I get it. When I'm stressed, I always turn to something comforting. But I've found that painting or going for a drive helps too!",
+    "session": "E8_session_10",
+    "dia_id": "D10:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 196,
+    "title": "turn_196 (D10:8)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Sam] Wow Evan, that's an awesome painting! Good on you for finding a way to de-stress. I could really use something like that - maybe I'll give painting a go or find another calming hobby.",
+    "session": "E8_session_10",
+    "dia_id": "D10:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 197,
+    "title": "turn_197 (D10:9)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Evan] Hey Sam, painting is super chill for calming down. Wanna give it a try? I can help you get started and recommend some supplies if you're interested. Let me know!",
+    "session": "E8_session_10",
+    "dia_id": "D10:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 198,
+    "title": "turn_198 (D10:10)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Sam] Sounds great, Evan! I want to give it a go and see if it relaxes me. Can you suggest some basic supplies for me to get started?",
+    "session": "E8_session_10",
+    "dia_id": "D10:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 199,
+    "title": "turn_199 (D10:11)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Evan] Yep, painting is awesome! Get some acrylic paints, brushes, a canvas/paper, and a palette to mix colors. I can give you some recommendations if you want. Just let me know when you're ready and we can plan a painting session!",
+    "session": "E8_session_10",
+    "dia_id": "D10:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 200,
+    "title": "turn_200 (D10:12)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Sam] Sounds great, Evan! Can you help me pick out the stuff? Let's plan a painting session soon. I'm really excited!",
+    "session": "E8_session_10",
+    "dia_id": "D10:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 201,
+    "title": "turn_201 (D10:13)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Evan] Yeah, Sam - let's do it! Let's get everything ready and paint next Saturday. Can't wait!",
+    "session": "E8_session_10",
+    "dia_id": "D10:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 202,
+    "title": "turn_202 (D10:14)",
+    "text": "[t=9:28 am on 11 September, 2023, speaker=Sam] Sounds good, Evan! Can't wait to paint with you next Saturday. It'll be a fun and creative activity.",
+    "session": "E8_session_10",
+    "dia_id": "D10:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 203,
+    "title": "turn_203 (D11:1)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Sam] [Image: a photography of a bowl of fruit with a striped cloth] Hey Evan, long time no see! I've started eating healthier - what's new with you? Picked up any new hobbies?",
+    "session": "E8_session_11",
+    "dia_id": "D11:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 204,
+    "title": "turn_204 (D11:2)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Evan] [Image: a photography of a person with a cast on their leg and a cast on their leg] Hey Sam! That's awesome about your healthier eating! For me, I had a setback last week - messed up my knee playing b-ball with the kids. It's been tough to stay active since. I really miss going on adventures like we did last year - good times with the family!",
+    "session": "E8_session_11",
+    "dia_id": "D11:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 205,
+    "title": "turn_205 (D11:3)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Sam] Hey Evan, sorry to hear about your knee. It must be tough. Are there any ways to stay active while you heal up?",
+    "session": "E8_session_11",
+    "dia_id": "D11:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 206,
+    "title": "turn_206 (D11:4)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Evan] Thanks, Sam. PT has helped some. I can't do intense workouts, but I'm doing easy exercises to keep it strong. Not as good as being active outdoors, but still something.",
+    "session": "E8_session_11",
+    "dia_id": "D11:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 207,
+    "title": "turn_207 (D11:5)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Sam] Glad PT is helping, Evan! Taking care of yourself is key – have you explored any fun indoor activities or hobbies?",
+    "session": "E8_session_11",
+    "dia_id": "D11:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 208,
+    "title": "turn_208 (D11:6)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Evan] I do my favorite watercolor painting to keep me busy. It's a chill way to relax and get into the colors. By the way, something happened two weeks ago! You're not gonna believe this, I had a bit of an adventure recently. Helped a lost tourist find their way, and we ended up taking an unexpected tour around the city. It was a blast!",
+    "session": "E8_session_11",
+    "dia_id": "D11:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 209,
+    "title": "turn_209 (D11:7)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Sam] Hey Evan, that sounds like a fun and unexpected event! It's always interesting how helping someone can turn into a little adventure of its own. And how's your watercolor painting going?",
+    "session": "E8_session_11",
+    "dia_id": "D11:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 210,
+    "title": "turn_210 (D11:8)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Evan] [Image: a photo of a painting of a cactus in the desert] It's been great! I find painting to be a great stress reliever. Here's what I did last week.",
+    "session": "E8_session_11",
+    "dia_id": "D11:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 211,
+    "title": "turn_211 (D11:9)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Sam] Wow, those are awesome! So cool. Where did you get the inspiration for them?",
+    "session": "E8_session_11",
+    "dia_id": "D11:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 212,
+    "title": "turn_212 (D11:10)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Evan] Thanks, Sam! The sunset painting was inspired by a vacation a few years back. The colors were so stunning. The cactus painting came from a road trip last month. Such cool places!",
+    "session": "E8_session_11",
+    "dia_id": "D11:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 213,
+    "title": "turn_213 (D11:11)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Sam] Wow, Evan, your paintings are awesome! How do you decide what to paint?",
+    "session": "E8_session_11",
+    "dia_id": "D11:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 214,
+    "title": "turn_214 (D11:12)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Evan] Thanks, Sam! I usually paint what's on my mind or something I'm feeling. It can be good memories or places I wanna go to. It's more like expressing myself through art.",
+    "session": "E8_session_11",
+    "dia_id": "D11:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 215,
+    "title": "turn_215 (D11:13)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Sam] That's really amazing, Evan. Expressing yourself through art is such a powerful form of self-expression.",
+    "session": "E8_session_11",
+    "dia_id": "D11:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 216,
+    "title": "turn_216 (D11:14)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Evan] Thanks, Sam. Yeah, it's really a great way to express myself and my emotions. It's a cool way to communicate without using words. So, do you have any other ways in which you express yourself?",
+    "session": "E8_session_11",
+    "dia_id": "D11:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 217,
+    "title": "turn_217 (D11:15)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Sam] Drawing is cool. I'm still just learning how to draw, but I love expressing myself through writing. It's therapeutic and helps me sort out my feelings. Though, I've been a bit frustrated lately with my new phone. Its navigation app keeps malfunctioning, making getting around a bit of a challenge.",
+    "session": "E8_session_11",
+    "dia_id": "D11:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 218,
+    "title": "turn_218 (D11:16)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Evan] Cool, Sam! Writing is a great way to express yourself. What kind of writing do you enjoy? And about the phone, I recommend trying to update it, it usually works for me!",
+    "session": "E8_session_11",
+    "dia_id": "D11:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 219,
+    "title": "turn_219 (D11:17)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Sam] Thanks for the tip, Evan! Writing in my journal and doing creative writing is a good way for me to express my innermost thoughts and feelings.",
+    "session": "E8_session_11",
+    "dia_id": "D11:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 220,
+    "title": "turn_220 (D11:18)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Evan] It can be super therapeutic. It gives you a place to express yourself. Keep it up!",
+    "session": "E8_session_11",
+    "dia_id": "D11:18",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 221,
+    "title": "turn_221 (D11:19)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Sam] Thanks, Evan! It really helps me make sense of things and express my feelings. It's like having a conversation with myself.",
+    "session": "E8_session_11",
+    "dia_id": "D11:19",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 222,
+    "title": "turn_222 (D11:20)",
+    "text": "[t=8:57 pm on 6 October, 2023, speaker=Evan] Gotcha, it's like having a place to figure stuff out and make sense of it all. We all need an outlet to express our thoughts and feelings.",
+    "session": "E8_session_11",
+    "dia_id": "D11:20",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 223,
+    "title": "turn_223 (D12:1)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Sam] Hey Evan, hope you're doing okay. I wanted to chat about something that's been bothering me lately... I went for a check-up Monday and my doc said my weight's a serious health risk - if I don't make changes soon, it can get worse. I know I made jokes about it, but it's really hitting me. Been having a hard time.",
+    "session": "E8_session_12",
+    "dia_id": "D12:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 224,
+    "title": "turn_224 (D12:2)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Evan] [Image: a photo of a man doing a squat on a machine in a gym] Hey Sam, tough news. Yeah, our health can really put a damper on things. I started lifting weights one year ago and it's been a journey. It was a struggle at first, but I'm seeing some gains. You interested in trying it out?",
+    "session": "E8_session_12",
+    "dia_id": "D12:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 225,
+    "title": "turn_225 (D12:3)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Sam] Hey Evan, I'm interested in getting into it. Any advice on how to get started? Thanks!",
+    "session": "E8_session_12",
+    "dia_id": "D12:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 226,
+    "title": "turn_226 (D12:4)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Evan] Hey Sam, that's awesome! It's important to start out with good form and technique. Find a trainer who can help you avoid injuries while you build your strength. Start with something small, and as you get stronger, the intensity can increase. Stay consistent with your workout routine and let me know how it goes! Good luck!",
+    "session": "E8_session_12",
+    "dia_id": "D12:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 227,
+    "title": "turn_227 (D12:5)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Sam] Thanks, Evan. I'm going to find someone who can help me out. I'll keep you posted!",
+    "session": "E8_session_12",
+    "dia_id": "D12:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 228,
+    "title": "turn_228 (D12:6)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Evan] No problem, Sam. Can't wait to hear about your progress. Keep up the hard work!",
+    "session": "E8_session_12",
+    "dia_id": "D12:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 229,
+    "title": "turn_229 (D12:7)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Sam] Thanks, Evan. I appreciate your support. It really means a lot to me. I'll definitely keep you posted on my progress.",
+    "session": "E8_session_12",
+    "dia_id": "D12:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 230,
+    "title": "turn_230 (D12:8)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Evan] You're welcome, Sam! It takes time, so be patient with yourself. Your health matters, and I believe in you. Keep going and stay upbeat. You got this!",
+    "session": "E8_session_12",
+    "dia_id": "D12:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 231,
+    "title": "turn_231 (D12:9)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Sam] Thanks, Evan. I'll stay positive and keep going. Your support means a lot.",
+    "session": "E8_session_12",
+    "dia_id": "D12:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 232,
+    "title": "turn_232 (D12:10)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Evan] [Image: a photo of a notepad with a note and a pair of scissors] Hey Sam, glad I can be here for you! Progress is key, so keep pushing on and stay positive. You got this!",
+    "session": "E8_session_12",
+    "dia_id": "D12:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 233,
+    "title": "turn_233 (D12:11)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Sam] Wow, Evan, that's really inspiring. Gonna keep believing in it!",
+    "session": "E8_session_12",
+    "dia_id": "D12:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 234,
+    "title": "turn_234 (D12:12)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Evan] Go get 'em! Believe in your abilities and you'll reach your goals. Stay motivated!",
+    "session": "E8_session_12",
+    "dia_id": "D12:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 235,
+    "title": "turn_235 (D12:13)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Sam] Thanks Evan! Your words gave me a boost. I'm staying motivated and believing in myself.",
+    "session": "E8_session_12",
+    "dia_id": "D12:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 236,
+    "title": "turn_236 (D12:14)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Evan] Awesome! Keep staying motivated and believing in yourself. You've got this!",
+    "session": "E8_session_12",
+    "dia_id": "D12:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 237,
+    "title": "turn_237 (D12:15)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Sam] Thanks, Evan! Your support means a lot to me.",
+    "session": "E8_session_12",
+    "dia_id": "D12:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 238,
+    "title": "turn_238 (D12:16)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Evan] No prob, Sam! I'm here for you. Just keep taking one step at a time, and you'll get there eventually!",
+    "session": "E8_session_12",
+    "dia_id": "D12:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 239,
+    "title": "turn_239 (D12:17)",
+    "text": "[t=3:09 pm on 8 October, 2023, speaker=Sam] Sure, Evan. I'll take it slow. See ya!",
+    "session": "E8_session_12",
+    "dia_id": "D12:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 240,
+    "title": "turn_240 (D13:1)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Evan] [Image: a photography of a painting of a person on a cliff] Hey Sam, how's it going? Been a while since we talked. Hope all is good.",
+    "session": "E8_session_13",
+    "dia_id": "D13:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 241,
+    "title": "turn_241 (D13:2)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Sam] [Image: a photo of a person holding a box of sodas in front of a wall] Hey Evan! It's been a rough week - I gave in and bought some unhealthy snacks. I feel kinda guilty. How's it going for you? That painting is awesome! Did you paint it?",
+    "session": "E8_session_13",
+    "dia_id": "D13:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 242,
+    "title": "turn_242 (D13:3)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Evan] Hey Sam, sorry to hear about the rough week. Don't worry about the snacks. I'm doing okay, just finished this painting of a sunset. It really helps me relax. So, how's everything going with you? Anything new and exciting?",
+    "session": "E8_session_13",
+    "dia_id": "D13:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 243,
+    "title": "turn_243 (D13:4)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Sam] Thanks, Evan! Yeah, I just couldn't resist them. Gotta do better. As for me, just dealing with work stress and trying to stay motivated.",
+    "session": "E8_session_13",
+    "dia_id": "D13:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 244,
+    "title": "turn_244 (D13:5)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Evan] Hey Sam, work stress can really get to you. Have you tried anything new to de-stress? Maybe picking up a hobby or something could help.",
+    "session": "E8_session_13",
+    "dia_id": "D13:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 245,
+    "title": "turn_245 (D13:6)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Sam] Thinking about trying something different outdoors. Any suggestions?",
+    "session": "E8_session_13",
+    "dia_id": "D13:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 246,
+    "title": "turn_246 (D13:7)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Evan] Sounds good! Have you ever tried kayaking? It's a fun and active way to paddle on a river or lake. What are your thoughts on that?",
+    "session": "E8_session_13",
+    "dia_id": "D13:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 247,
+    "title": "turn_247 (D13:8)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Sam] Kayaking sounds awesome! Haven't tried it yet, but it looks like a fun way to get in some exercise and enjoy nature. I'm definitely considering giving it a try. Thanks!",
+    "session": "E8_session_13",
+    "dia_id": "D13:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 248,
+    "title": "turn_248 (D13:9)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Evan] No worries, Sam! It's a fun way to get in some exercise and enjoy nature. Let me know when you're ready to give it a try and I can hook you up with a good spot.",
+    "session": "E8_session_13",
+    "dia_id": "D13:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 249,
+    "title": "turn_249 (D13:10)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Sam] Thanks for the idea, my mate and I are just around the corner from kayaking on the lake, we're going to try that now!",
+    "session": "E8_session_13",
+    "dia_id": "D13:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 250,
+    "title": "turn_250 (D13:11)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Evan] Of course, let me know if you like it, we can plan a kayaking trip together, I'll pick a cool spot!",
+    "session": "E8_session_13",
+    "dia_id": "D13:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 251,
+    "title": "turn_251 (D13:12)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Sam] [Image: a photography of a row of kayaks lined up on the shore of a river] Yep, Evan! Can't wait. Thanks for the help!",
+    "session": "E8_session_13",
+    "dia_id": "D13:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 252,
+    "title": "turn_252 (D13:13)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Evan] Ready for an adventure? Where will you go?",
+    "session": "E8_session_13",
+    "dia_id": "D13:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 253,
+    "title": "turn_253 (D13:14)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Sam] We're traveling through Lake Tahoe! I heard it's great for kayaking.",
+    "session": "E8_session_13",
+    "dia_id": "D13:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 254,
+    "title": "turn_254 (D13:15)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Evan] Hey Sam, it's an awesome pick! You'll love it there - clear water and gorgeous views. Have a blast and take lots of pics!",
+    "session": "E8_session_13",
+    "dia_id": "D13:15",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 255,
+    "title": "turn_255 (D13:16)",
+    "text": "[t=4:07 pm on 14 October, 2023, speaker=Sam] Thanks, Evan! I'm looking forward to it!",
+    "session": "E8_session_13",
+    "dia_id": "D13:16",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 256,
+    "title": "turn_256 (D14:1)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Sam] Hey Evan! I've been missing our chats. I had quite the health scare last weekend - ended up in the ER with a severe stomachache. Turns out, it was gastritis, which was pretty alarming. It was a wake-up call for me to start prioritizing my health, like adopting a more nutritious diet and getting regular exercise. On top of that, my phone's been giving me a hard time, adding to the stress.",
+    "session": "E8_session_14",
+    "dia_id": "D14:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 257,
+    "title": "turn_257 (D14:2)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Evan] Hey Sam, sorry to hear about that. Gastritis can be tough. Taking care of ourselves is important. BTW, I've been focusing on fitness and it's been really beneficial for my overall well-being. Funny thing, I had another encounter with a lost tourist recently. Seems like helping tourists is becoming a recurring theme in my life!",
+    "session": "E8_session_14",
+    "dia_id": "D14:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 258,
+    "title": "turn_258 (D14:3)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Sam] Thanks, Evan! Glad you've found that it's been good for you! I totally need to get into it too. Just getting started is hard - any tips for staying motivated? Also, you mentioned another lost tourist? Seems like you're becoming the go-to guy for tourists in need!",
+    "session": "E8_session_14",
+    "dia_id": "D14:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 259,
+    "title": "turn_259 (D14:4)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Evan] Yup, Sam! Set some goals, like a certain distance to run or number of push-ups to do. It'll give you something to strive for and stay motivated. Also, try to find an exercise that you enjoy and maybe even get a buddy for extra fun and accountability. Sound good?",
+    "session": "E8_session_14",
+    "dia_id": "D14:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 260,
+    "title": "turn_260 (D14:5)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Sam] Yeah, that sounds like a good idea. Having goals and someone to exercise with might help. I'll give it a try!",
+    "session": "E8_session_14",
+    "dia_id": "D14:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 261,
+    "title": "turn_261 (D14:6)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Evan] Awesome, Sam! Getting started will get easier with time. And don't forget it's about feeling good and reaching goals, too. Let's plan a hike soon!",
+    "session": "E8_session_14",
+    "dia_id": "D14:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 262,
+    "title": "turn_262 (D14:7)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Sam] Sounds awesome, Evan! Can't wait to go on a hike with you. It's going to be a fun challenge and a great opportunity to appreciate the beauty of nature.",
+    "session": "E8_session_14",
+    "dia_id": "D14:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 263,
+    "title": "turn_263 (D14:8)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Evan] Definitely, Sam! Hiking is an awesome way to bond with nature and push ourselves. It's gonna be a cool memory for us both. It's great to see progress, was just at the gym yesterday. Gaining strength!",
+    "session": "E8_session_14",
+    "dia_id": "D14:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 264,
+    "title": "turn_264 (D14:9)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Sam] Super excited to get fit with ya. Let's hit the trails soon!",
+    "session": "E8_session_14",
+    "dia_id": "D14:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 265,
+    "title": "turn_265 (D14:10)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Evan] Thanks, Sam! That's so nice of you. We'll definitely have a great time on our hike!",
+    "session": "E8_session_14",
+    "dia_id": "D14:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 266,
+    "title": "turn_266 (D14:11)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Sam] Totally! I'm so pumped for this hike. Connecting with nature is exactly what I need. Thanks so much for the support and always being there. Means a lot.",
+    "session": "E8_session_14",
+    "dia_id": "D14:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 267,
+    "title": "turn_267 (D14:12)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Evan] Sure thing! Our hike is going to be awesome, I can tell. I'm always here to support you.",
+    "session": "E8_session_14",
+    "dia_id": "D14:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 268,
+    "title": "turn_268 (D14:13)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Sam] Thanks, Evan. I appreciate your support.",
+    "session": "E8_session_14",
+    "dia_id": "D14:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 269,
+    "title": "turn_269 (D14:14)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Evan] No problem, Sam. Whenever you need support, I'm here for you. Stay safe!",
+    "session": "E8_session_14",
+    "dia_id": "D14:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 270,
+    "title": "turn_270 (D14:15)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Sam] Thanks, I'll get in touch if I need anything. Stay safe. Bye!",
+    "session": "E8_session_14",
+    "dia_id": "D14:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 271,
+    "title": "turn_271 (D14:16)",
+    "text": "[t=1:50 pm on 17 October, 2023, speaker=Evan] Later! Stay safe and don't hesitate to holler if you need anything. Can't wait to hit the trail.",
+    "session": "E8_session_14",
+    "dia_id": "D14:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 272,
+    "title": "turn_272 (D15:1)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Sam] Morning, Evan. I've been trying to keep up with my new health routine, but it's tough. My family's really pushing for it, and I feel so pressured.",
+    "session": "E8_session_15",
+    "dia_id": "D15:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 273,
+    "title": "turn_273 (D15:2)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Evan] I hear you, Sam. It's important to have people who encourage you, but not stress you out. By the way, I just got back from my morning walk. It really helps to start the day actively.",
+    "session": "E8_session_15",
+    "dia_id": "D15:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 274,
+    "title": "turn_274 (D15:3)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Sam] Yeah, it's easier when you have a great support system. Thanks for being there for me.",
+    "session": "E8_session_15",
+    "dia_id": "D15:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 275,
+    "title": "turn_275 (D15:4)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Evan] No worries, Sam. I'll be there for you. Take it slow and treat yourself.",
+    "session": "E8_session_15",
+    "dia_id": "D15:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 276,
+    "title": "turn_276 (D15:5)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Sam] Thanks for the reminder to take it easy. I sometimes get impatient with myself when I want results fast, but I gotta be patient.",
+    "session": "E8_session_15",
+    "dia_id": "D15:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 277,
+    "title": "turn_277 (D15:6)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Evan] Yep, progress takes time. So just take it one step at a time.",
+    "session": "E8_session_15",
+    "dia_id": "D15:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 278,
+    "title": "turn_278 (D15:7)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Sam] Yes, you're right, Evan. Taking it slow is better than doing too much. I appreciate your support.",
+    "session": "E8_session_15",
+    "dia_id": "D15:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 279,
+    "title": "turn_279 (D15:8)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Evan] [Image: a photography of a man sitting at a table with a lot of fruits and vegetables] I get it, Sam. I went through a similar phase a twoyears ago. Changed my diet, started walking regularly, things like that.",
+    "session": "E8_session_15",
+    "dia_id": "D15:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 280,
+    "title": "turn_280 (D15:9)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Sam] Wow, Evan, you look great! How did you manage the change?",
+    "session": "E8_session_15",
+    "dia_id": "D15:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 281,
+    "title": "turn_281 (D15:10)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Evan] I started focusing more on my well-being rather than fixating on quick results. Letting go of that pressure made a huge difference.",
+    "session": "E8_session_15",
+    "dia_id": "D15:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 282,
+    "title": "turn_282 (D15:11)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Sam] That's impressive, Evan. It's inspiring to see how you transformed by changing your mindset.",
+    "session": "E8_session_15",
+    "dia_id": "D15:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 283,
+    "title": "turn_283 (D15:12)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Evan] Thanks, Sam. Letting go of unrealistic expectations was liberating, both physically and mentally.",
+    "session": "E8_session_15",
+    "dia_id": "D15:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 284,
+    "title": "turn_284 (D15:13)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Sam] You're really doing great, Evan! I want to feel that same sense of freedom.",
+    "session": "E8_session_15",
+    "dia_id": "D15:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 285,
+    "title": "turn_285 (D15:14)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Evan] Thanks, Sam. Just take it one day at a time. Celebrate small victories.",
+    "session": "E8_session_15",
+    "dia_id": "D15:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 286,
+    "title": "turn_286 (D15:15)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Sam] Thanks, Evan! Focusing on small wins sounds like a plan. I'll take it one day at a time.",
+    "session": "E8_session_15",
+    "dia_id": "D15:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 287,
+    "title": "turn_287 (D15:16)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Evan] Exactly! Congrats on every little victory. Keep it up, I'm here for you.",
+    "session": "E8_session_15",
+    "dia_id": "D15:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 288,
+    "title": "turn_288 (D15:17)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Sam] Your support means everything. Here's to moving forward!",
+    "session": "E8_session_15",
+    "dia_id": "D15:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 289,
+    "title": "turn_289 (D15:18)",
+    "text": "[t=2:56 pm on 25 October, 2023, speaker=Evan] Anytime, Sam! Let's keep pushing ahead. I'm here to help you. Take care!",
+    "session": "E8_session_15",
+    "dia_id": "D15:18",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 290,
+    "title": "turn_290 (D16:1)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] Hey Evan! Hope you're doing good. Got some good news to share - I'm a Weight Watchers coach in my group now! It's a pretty big accomplishment for me, feel really proud.",
+    "session": "E8_session_16",
+    "dia_id": "D16:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 291,
+    "title": "turn_291 (D16:2)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] Congrats Sam! That's awesome! I'm super proud of you. Becoming a Weight Watchers coach is a big deal. Keep going!",
+    "session": "E8_session_16",
+    "dia_id": "D16:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 292,
+    "title": "turn_292 (D16:3)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] Thanks, Evan! Appreciate your support. It's been a journey, and being chosen as a coach is a great step in my quest for better health.",
+    "session": "E8_session_16",
+    "dia_id": "D16:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 293,
+    "title": "turn_293 (D16:4)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] Wow, Sam! You've come such a long way. It's exciting to see what comes next for you in your quest for better health.",
+    "session": "E8_session_16",
+    "dia_id": "D16:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 294,
+    "title": "turn_294 (D16:5)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] Thanks, Evan! It feels great to see progress. Being a coach will hopefully keep me motivated and help others stay committed too. It's a big challenge, but I'm ready for it!",
+    "session": "E8_session_16",
+    "dia_id": "D16:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 295,
+    "title": "turn_295 (D16:6)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] That's awesome, Sam! Helping others stay committed and motivated is so rewarding. You really inspire us. Keep up the great work!",
+    "session": "E8_session_16",
+    "dia_id": "D16:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 296,
+    "title": "turn_296 (D16:7)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] Thanks, Evan! Your kind words mean a lot. It's been a difficult road, but I'm determined to continue making a positive impact.",
+    "session": "E8_session_16",
+    "dia_id": "D16:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 297,
+    "title": "turn_297 (D16:8)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] [Image: a photo of a guitar laying on the floor with a guitar strap] Sorry about missing any events, I've had some personal challenges since we last spoke. Still here for you though - do you need any support or want to share anything? Btw look what i got!",
+    "session": "E8_session_16",
+    "dia_id": "D16:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 298,
+    "title": "turn_298 (D16:9)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] Hey, it looks so vintage and cool! What model is it? How've you been doing lately? I'm here if you wanna chat.",
+    "session": "E8_session_16",
+    "dia_id": "D16:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 299,
+    "title": "turn_299 (D16:10)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] It's a 1968 Kustom K-200A vintage guitar and I got it as a gift from a close friend. It's been a tough time for me since we last caught up; I lost my job last month, which has been pretty rough. But I really appreciate your support through all this.",
+    "session": "E8_session_16",
+    "dia_id": "D16:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 300,
+    "title": "turn_300 (D16:11)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] Sorry to hear about your job, Evan. What happened?",
+    "session": "E8_session_16",
+    "dia_id": "D16:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 301,
+    "title": "turn_301 (D16:12)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] It's been a bit of a rough patch lately. The company downsized, and I was part of that. I'm currently on the hunt for a new job, which hasn't been easy, but I'm keeping my spirits up and staying hopeful.",
+    "session": "E8_session_16",
+    "dia_id": "D16:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 302,
+    "title": "turn_302 (D16:13)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] Sorry about your job, Evan. It's tough when it comes out of nowhere, but I'm proud of how you're handling it. Let me know if you need someone to talk to or if I can do anything to help. You'll get through this.",
+    "session": "E8_session_16",
+    "dia_id": "D16:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 303,
+    "title": "turn_303 (D16:14)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] Thanks, Sam. Your support means a lot. It's been quite a ride, but I really appreciate having someone like you to talk to. I'll definitely reach out if I need anything.",
+    "session": "E8_session_16",
+    "dia_id": "D16:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 304,
+    "title": "turn_304 (D16:15)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] For sure, Evan! I'm here for ya. Life can be tough sometimes, but we got this. Stay positive and it'll all work out. Just know that I'm here if you need someone to talk to.",
+    "session": "E8_session_16",
+    "dia_id": "D16:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 305,
+    "title": "turn_305 (D16:16)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] [Image: a photo of a person walking on the beach with a surfboard] Thanks, Sam. Your kind words and support mean a lot. It's great to have you here. I'm gonna stay positive and keep going. Cheers!",
+    "session": "E8_session_16",
+    "dia_id": "D16:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 306,
+    "title": "turn_306 (D16:17)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] Wow, that sunset is stunning! It's so soothing just to see it. Is that a special spot you go to watch sunsets?",
+    "session": "E8_session_16",
+    "dia_id": "D16:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 307,
+    "title": "turn_307 (D16:18)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] Yeah, it's this peaceful place close to my home. I often go there to relax and unwind.",
+    "session": "E8_session_16",
+    "dia_id": "D16:18",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 308,
+    "title": "turn_308 (D16:19)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] That sounds wonderful, Evan! I'd love to check it out with you sometime.",
+    "session": "E8_session_16",
+    "dia_id": "D16:19",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 309,
+    "title": "turn_309 (D16:20)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] Oh, I wish I could bring you along. That picture was actually taken last Friday at my favorite spot by the beach. Watching the waves and the sunset colors really helps me find peace, especially during tough times. It's a beautiful reminder of nature's resilience. We should definitely plan to go together someday.",
+    "session": "E8_session_16",
+    "dia_id": "D16:20",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 310,
+    "title": "turn_310 (D16:21)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] No worries, Evan. And yes, we should make a plan to go. That photo is just mesmerizing!",
+    "session": "E8_session_16",
+    "dia_id": "D16:21",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 311,
+    "title": "turn_311 (D16:22)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] I'm glad you like it! It's a really calming place. Let's make a point to visit it together soon.",
+    "session": "E8_session_16",
+    "dia_id": "D16:22",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 312,
+    "title": "turn_312 (D16:23)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Sam] Absolutely, Evan! A trip there sounds like the perfect way to de-stress.",
+    "session": "E8_session_16",
+    "dia_id": "D16:23",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 313,
+    "title": "turn_313 (D16:24)",
+    "text": "[t=9:13 pm on 9 November, 2023, speaker=Evan] Awesome, let's do it! Let's plan it for next month, I'm already excited about exploring it together!",
+    "session": "E8_session_16",
+    "dia_id": "D16:24",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 314,
+    "title": "turn_314 (D17:1)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] Hey Ev! Long time no chat. How's it going? Hope all is well.",
+    "session": "E8_session_17",
+    "dia_id": "D17:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 315,
+    "title": "turn_315 (D17:2)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] Hey Sam, good to hear from you! Life's been a wild ride lately. Last week, I had a health scare and had to go to the hospital. They found something suspicious during a check-up, which freaked me out. Thankfully, it was all a misunderstanding, but it made me realize how important it is to keep an eye on my health. How've you been?",
+    "session": "E8_session_17",
+    "dia_id": "D17:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 316,
+    "title": "turn_316 (D17:3)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] Woah, Evan, that must've been scary! Phew, it was just a misunderstanding. A health scare can really make you re-evaluate what's important. As for me, I've been dealing with some discomfort and it's been limiting my movement. I've been trying to make changes diet-wise, but it can be hard.",
+    "session": "E8_session_17",
+    "dia_id": "D17:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 317,
+    "title": "turn_317 (D17:4)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] That sucks, Sam. It's tough when our health holds us back. I believe in you – just taking small steps can help. Have you tried any new hobbies recently to take your mind off it?",
+    "session": "E8_session_17",
+    "dia_id": "D17:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 318,
+    "title": "turn_318 (D17:5)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] [Image: a photo of a book with a picture of a man on it] Thanks, Evan. I haven't tried much new lately, but I did get this yesterday. It's been my go-to 'feel good' flick. So, you said you had a health scare - how're you now?",
+    "session": "E8_session_17",
+    "dia_id": "D17:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 319,
+    "title": "turn_319 (D17:6)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] That movie sounds interesting! I'm doing well now. Doctors said everything is fine, but it taught me the value of life. Just trying to enjoy the moment.",
+    "session": "E8_session_17",
+    "dia_id": "D17:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 320,
+    "title": "turn_320 (D17:7)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] That's awesome, Evan! Let's make it a habit to appreciate something each day. It really helps us enjoy life more. What do you think?",
+    "session": "E8_session_17",
+    "dia_id": "D17:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 321,
+    "title": "turn_321 (D17:8)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] Sounds good, Sam! Let's take the time to appreciate the little things in life.",
+    "session": "E8_session_17",
+    "dia_id": "D17:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 322,
+    "title": "turn_322 (D17:9)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] Thanks for always being there, Evan. It means a lot.",
+    "session": "E8_session_17",
+    "dia_id": "D17:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 323,
+    "title": "turn_323 (D17:10)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] Sure, Sam. I'm here for you. We gotta stick together, especially now.",
+    "session": "E8_session_17",
+    "dia_id": "D17:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 324,
+    "title": "turn_324 (D17:11)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] Yeah, Evan. Life can be tough sometimes, but having supportive people like you makes it way easier.",
+    "session": "E8_session_17",
+    "dia_id": "D17:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 325,
+    "title": "turn_325 (D17:12)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] [Image: a photography of a group of people sitting around a fire pit] Yeah, Sam. Tough times are way easier with friends we can rely on. We've got each other!",
+    "session": "E8_session_17",
+    "dia_id": "D17:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 326,
+    "title": "turn_326 (D17:13)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] Looks like you're having a blast! I was wondering, what do you do to stay fit and healthy?",
+    "session": "E8_session_17",
+    "dia_id": "D17:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 327,
+    "title": "turn_327 (D17:14)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] That was wild! I stay in shape by hitting the gym and taking my car out for a spin. Gotta keep it up! How are you doing on your fitness goals, Sam?",
+    "session": "E8_session_17",
+    "dia_id": "D17:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 328,
+    "title": "turn_328 (D17:15)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] Fitness goals have been hard to reach, but hey, that's life!",
+    "session": "E8_session_17",
+    "dia_id": "D17:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 329,
+    "title": "turn_329 (D17:16)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] [Image: a photo of a small island with a lone boat in the water] Yeah Sam, it's true. Progress takes time, so keep pushing.",
+    "session": "E8_session_17",
+    "dia_id": "D17:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 330,
+    "title": "turn_330 (D17:17)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] Where is that? It looks gorgeous!",
+    "session": "E8_session_17",
+    "dia_id": "D17:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 331,
+    "title": "turn_331 (D17:18)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] [Image: a photo of a sun shining through the clouds over a body of water] This little island is where I grew up and it's my happy place.",
+    "session": "E8_session_17",
+    "dia_id": "D17:18",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 332,
+    "title": "turn_332 (D17:19)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] Wow, that spot looks gorgeous. Growing up there must have been so peaceful and stunning.",
+    "session": "E8_session_17",
+    "dia_id": "D17:19",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 333,
+    "title": "turn_333 (D17:20)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] Yeah, it was. That place shaped me and will always hold a special place in my heart.",
+    "session": "E8_session_17",
+    "dia_id": "D17:20",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 334,
+    "title": "turn_334 (D17:21)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] Yeah, it can be soul-calming.",
+    "session": "E8_session_17",
+    "dia_id": "D17:21",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 335,
+    "title": "turn_335 (D17:22)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] [Image: a photography of a person walking on a beach at sunset] Yeah, it really is. So serene and calming.",
+    "session": "E8_session_17",
+    "dia_id": "D17:22",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 336,
+    "title": "turn_336 (D17:23)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] It's heavenly!",
+    "session": "E8_session_17",
+    "dia_id": "D17:23",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 337,
+    "title": "turn_337 (D17:24)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] [Image: a photo of a sunset over a body of water] Yeah, it's like a little slice of paradise. I always feel so peaceful and serene when I'm there.",
+    "session": "E8_session_17",
+    "dia_id": "D17:24",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 338,
+    "title": "turn_338 (D17:25)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] Wow, it really seems like a peaceful retreat. Thanks for showing me!",
+    "session": "E8_session_17",
+    "dia_id": "D17:25",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 339,
+    "title": "turn_339 (D17:26)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] No prob, always good to chat about those tranquil times. Take it easy!",
+    "session": "E8_session_17",
+    "dia_id": "D17:26",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 340,
+    "title": "turn_340 (D17:27)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Sam] Take care, buddy. Hang in there!",
+    "session": "E8_session_17",
+    "dia_id": "D17:27",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 341,
+    "title": "turn_341 (D17:28)",
+    "text": "[t=7:30 pm on 21 November, 2023, speaker=Evan] Thanks, Sam. If you need to talk, I'm here for you too.",
+    "session": "E8_session_17",
+    "dia_id": "D17:28",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 342,
+    "title": "turn_342 (D18:1)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Evan] Hey Sam, good to hear from you. I've hit a bit of a snag - my new Prius, the one I just bought, broke down. It's a bit of a stressor since I rely on it for my active lifestyle and road trips. It's frustrating when new things go awry so soon.",
+    "session": "E8_session_18",
+    "dia_id": "D18:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 343,
+    "title": "turn_343 (D18:2)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Sam] Hey Evan, that's rough. Dealing with a new car breaking down is such a hassle, especially when it's your main mode of transport.",
+    "session": "E8_session_18",
+    "dia_id": "D18:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 344,
+    "title": "turn_344 (D18:3)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Evan] You're telling me. I was really counting on this new Prius to be reliable. It's always a challenge when you have to deal with unexpected issues like this. But, I guess it's just one of those things - even new cars can have problems.",
+    "session": "E8_session_18",
+    "dia_id": "D18:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 345,
+    "title": "turn_345 (D18:4)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Sam] It's tough when your plans get derailed by something like this. But hey, sometimes these setbacks lead to new opportunities.",
+    "session": "E8_session_18",
+    "dia_id": "D18:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 346,
+    "title": "turn_346 (D18:5)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Evan] True, I'm trying to see it as a chance to explore other ways of staying active and traveling. Maybe it's an opportunity to try something different.",
+    "session": "E8_session_18",
+    "dia_id": "D18:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 347,
+    "title": "turn_347 (D18:6)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Sam] [Image: a photo of a variety of bowls of fruit and yogurt] Exactly, it's all about finding the silver lining. Speaking of new things, I attended a Weight Watchers meeting yesterday. Learned some great tips.",
+    "session": "E8_session_18",
+    "dia_id": "D18:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 348,
+    "title": "turn_348 (D18:7)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Evan] That smoothie bowl looks fantastic! How was the meeting? Yeah, I've been thinking about trying yoga, something gentle yet effective for stress relief and flexibility. What's your take on it, Sam?",
+    "session": "E8_session_18",
+    "dia_id": "D18:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 349,
+    "title": "turn_349 (D18:8)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Sam] The meeting was really insightful, and that smoothie bowl was a hit! Yoga's a great choice, it's done wonders for my flexibility and stress levels. You should definitely try it.",
+    "session": "E8_session_18",
+    "dia_id": "D18:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 350,
+    "title": "turn_350 (D18:9)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Evan] I think I will. Thanks for the suggestion, Sam.",
+    "session": "E8_session_18",
+    "dia_id": "D18:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 351,
+    "title": "turn_351 (D18:10)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Sam] Anytime, Evan. If you need any yoga tips or anything else, just let me know.",
+    "session": "E8_session_18",
+    "dia_id": "D18:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 352,
+    "title": "turn_352 (D18:11)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Evan] Your support's been invaluable. Thanks again, Sam!",
+    "session": "E8_session_18",
+    "dia_id": "D18:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 353,
+    "title": "turn_353 (D18:12)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Sam] No worries, Evan. We all need a bit of help when trying new things. It's great to have support.",
+    "session": "E8_session_18",
+    "dia_id": "D18:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 354,
+    "title": "turn_354 (D18:13)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Evan] Absolutely. It makes a big difference knowing you're not alone in these situations.",
+    "session": "E8_session_18",
+    "dia_id": "D18:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 355,
+    "title": "turn_355 (D18:14)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Sam] Definitely. Take care, and let me know how the yoga goes. Bye!",
+    "session": "E8_session_18",
+    "dia_id": "D18:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 356,
+    "title": "turn_356 (D18:15)",
+    "text": "[t=8:16 pm on 5 December, 2023, speaker=Evan] Will do. Thanks for everything, Sam. Talk soon. Bye!",
+    "session": "E8_session_18",
+    "dia_id": "D18:15",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 357,
+    "title": "turn_357 (D19:1)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Evan] Hey Sam, hope you're doing good. Wanted to share some amazing news - my partner is pregnant! We're so excited! It's been a while since we had a kiddo around.",
+    "session": "E8_session_19",
+    "dia_id": "D19:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 358,
+    "title": "turn_358 (D19:2)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Sam] Congrats, Ev! That's great news! Parenthood is so amazing. How are you feeling about it?",
+    "session": "E8_session_19",
+    "dia_id": "D19:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 359,
+    "title": "turn_359 (D19:3)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Evan] So excited and a bit nervous! It's been a while since I had a toddler around but I'm really looking forward to it. Parenthood is so rewarding. I still remember when my first child was born, the joy was amazing. Looking forward to witness the miracle of life and build more memories with my family!",
+    "session": "E8_session_19",
+    "dia_id": "D19:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 360,
+    "title": "turn_360 (D19:4)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Sam] Wow, you're gonna be an amazing parent! Treasure those memories, they're truly special.",
+    "session": "E8_session_19",
+    "dia_id": "D19:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 361,
+    "title": "turn_361 (D19:5)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Evan] [Image: a photo of a desk with a lamp, a picture frame, and a sign] Thanks Sam! Absolutely. Talking of memories, I want to show you this. It's a collage of some of our top family memories. Each photo has an amazing moment - birthdays, holidays, vacations - so good to look back and recall all the great times we had.",
+    "session": "E8_session_19",
+    "dia_id": "D19:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 362,
+    "title": "turn_362 (D19:6)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Sam] That's so lovely, Evan. Your family looks so happy. What's the story behind that sign in the center?",
+    "session": "E8_session_19",
+    "dia_id": "D19:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 363,
+    "title": "turn_363 (D19:7)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Evan] Oh, that one? It's from our trip to Banff. We have this sign in the frame that says 'Bring it on Home' - it's our family's motto, always reminding us of the importance of togetherness, no matter where we are.",
+    "session": "E8_session_19",
+    "dia_id": "D19:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 364,
+    "title": "turn_364 (D19:8)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Sam] That's really touching, Evan. It's important to have something that keeps the family bond strong.",
+    "session": "E8_session_19",
+    "dia_id": "D19:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 365,
+    "title": "turn_365 (D19:9)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Evan] Absolutely, Sam. My family means the world to me. They're my rock. I'm looking forward to expanding our family and creating even more beautiful memories.",
+    "session": "E8_session_19",
+    "dia_id": "D19:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 366,
+    "title": "turn_366 (D19:10)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Sam] That's wonderful to hear, Evan! It's clear how much you value your family. Are you thinking of any specific plans or events to add to that collage?",
+    "session": "E8_session_19",
+    "dia_id": "D19:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 367,
+    "title": "turn_367 (D19:11)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Evan] Thanks, Sam! Yeah, we're planning a big family reunion next summer. It's going to be a blast and a perfect opportunity to add to our collage.",
+    "session": "E8_session_19",
+    "dia_id": "D19:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 368,
+    "title": "turn_368 (D19:12)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Sam] Sounds fantastic! If you need any tips on organizing such a big event, just let me know. I'm always here to support and celebrate your family's milestones.",
+    "session": "E8_session_19",
+    "dia_id": "D19:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 369,
+    "title": "turn_369 (D19:13)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Evan] Thanks, Sam! Your support means a lot. I'll keep you updated. Take care, bye!",
+    "session": "E8_session_19",
+    "dia_id": "D19:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 370,
+    "title": "turn_370 (D19:14)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Sam] Take care, Evan! Can't wait to hear about it. Bye!",
+    "session": "E8_session_19",
+    "dia_id": "D19:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 371,
+    "title": "turn_371 (D19:15)",
+    "text": "[t=1:45 pm on 9 December, 2023, speaker=Evan] Bye Sam. I'll definitely keep you updated. Thanks for the kind words and support. Take care!",
+    "session": "E8_session_19",
+    "dia_id": "D19:15",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 372,
+    "title": "turn_372 (D20:1)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Evan] Hey Sam, what's up? Long time no see, huh? Lots has happened.",
+    "session": "E8_session_20",
+    "dia_id": "D20:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 373,
+    "title": "turn_373 (D20:2)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Sam] Hey Evan! Long time no see. I'm doing okay, been through a few bumps. How about you?",
+    "session": "E8_session_20",
+    "dia_id": "D20:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 374,
+    "title": "turn_374 (D20:3)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Evan] [Image: a photo of a young boy with crutches and a backpack] It's not easy for us right now, my son had an accident last Tuesday, he fell off his bike and it was rough. But he's doing better now. How are you dealing with all this?",
+    "session": "E8_session_20",
+    "dia_id": "D20:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 375,
+    "title": "turn_375 (D20:4)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Sam] Darn, sorry to hear that. Hope he's feeling better. Same here, it's been tough lately. After we talked, I started thinking about ways to cope with it, but it's been challenging.",
+    "session": "E8_session_20",
+    "dia_id": "D20:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 376,
+    "title": "turn_376 (D20:5)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Evan] Life can be hard sometimes. Do you have any hobbies or activities that make you happy?",
+    "session": "E8_session_20",
+    "dia_id": "D20:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 377,
+    "title": "turn_377 (D20:6)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Sam] I used to love hiking, but it's been a while since I had the chance to do it.",
+    "session": "E8_session_20",
+    "dia_id": "D20:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 378,
+    "title": "turn_378 (D20:7)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Evan] I remember you mentioning that! Hiking is indeed a great way to center oneself and be one with nature. We should definitely plan a hike soon!",
+    "session": "E8_session_20",
+    "dia_id": "D20:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 379,
+    "title": "turn_379 (D20:8)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Sam] Yeah, I'm struggling with my weight and it's affecting my confidence. I feel like I can't overcome all the challenges with my weight, I keep lacking motivation.",
+    "session": "E8_session_20",
+    "dia_id": "D20:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 380,
+    "title": "turn_380 (D20:9)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Evan] Yeah, I understand it can be challenging. But remember, it's important to believe in yourself and take it one day at a time, Sam. Your worth is not defined by your weight.",
+    "session": "E8_session_20",
+    "dia_id": "D20:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 381,
+    "title": "turn_381 (D20:10)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Sam] Cheers, Evan. Appreciate the help. It's tough breaking out of my comfort zone.",
+    "session": "E8_session_20",
+    "dia_id": "D20:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 382,
+    "title": "turn_382 (D20:11)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Evan] Stepping out of your comfort zone can be intimidating, but it's totally worth it. Just challenge yourself to try something new, even if it's just a little thing. You got this!",
+    "session": "E8_session_20",
+    "dia_id": "D20:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 383,
+    "title": "turn_383 (D20:12)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Sam] Thanks, Evan. I'll take your advice. Trying new things can be difficult.",
+    "session": "E8_session_20",
+    "dia_id": "D20:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 384,
+    "title": "turn_384 (D20:13)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Evan] [Image: a photo of a woman standing in front of a painting] Yeah, trying something new and succeeding gives a great feeling of accomplishment. Give it a go, even if it's just a little thing. You'll be amazed!",
+    "session": "E8_session_20",
+    "dia_id": "D20:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 385,
+    "title": "turn_385 (D20:14)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Sam] She looks so confident! What kind of painting is that in the background?",
+    "session": "E8_session_20",
+    "dia_id": "D20:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 386,
+    "title": "turn_386 (D20:15)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Evan] This is a contemporary figurative painting that I've finished few days ago, emphasizing the emotional state through expressive brushwork and vibrant color choices. It captures a moment of introspection, where the subject is deeply immersed in thought. Very proud of it!",
+    "session": "E8_session_20",
+    "dia_id": "D20:15",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 387,
+    "title": "turn_387 (D20:16)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Sam] That's amazing work, who's the girl standing next to painting?",
+    "session": "E8_session_20",
+    "dia_id": "D20:16",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 388,
+    "title": "turn_388 (D20:17)",
+    "text": "[t=6:48 pm on 17 December, 2023, speaker=Evan] That's a close friend of mine who helped me get this painting published in the exhibition!",
+    "session": "E8_session_20",
+    "dia_id": "D20:17",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 389,
+    "title": "turn_389 (D21:1)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Sam] Hey Evan! Long time no see, how's it going?",
+    "session": "E8_session_21",
+    "dia_id": "D21:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 390,
+    "title": "turn_390 (D21:2)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Evan] [Image: a photography of a bride and groom kissing in front of a tree] Hey Sam! Long time no see! Been up and down lately, got married last week - how about you?",
+    "session": "E8_session_21",
+    "dia_id": "D21:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 391,
+    "title": "turn_391 (D21:3)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Sam] Congratulations, Evan! Is that the woman from Canada?",
+    "session": "E8_session_21",
+    "dia_id": "D21:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 392,
+    "title": "turn_392 (D21:4)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Evan] Yes, that's her, I don't know why we didn't get married before, because I was in love with her at first sight!",
+    "session": "E8_session_21",
+    "dia_id": "D21:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 393,
+    "title": "turn_393 (D21:5)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Sam] Wow, Evan! Love at first sight? That sounds like something straight out of a fairy tale. What are your thoughts on it? Do you believe in love at first sight?",
+    "session": "E8_session_21",
+    "dia_id": "D21:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 394,
+    "title": "turn_394 (D21:6)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Evan] I totally believe in it. It was like time stopped and I felt like a spark lit inside me - it was so right.",
+    "session": "E8_session_21",
+    "dia_id": "D21:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 395,
+    "title": "turn_395 (D21:7)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Sam] That's awesome, Evan! Finding that kind of connection must feel really liberating. Love can be so powerful, huh?",
+    "session": "E8_session_21",
+    "dia_id": "D21:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 396,
+    "title": "turn_396 (D21:8)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Evan] [Image: a photo of a person sitting on a rock near the water] Yeah, Sam, love is truly amazing. It brings so much happiness and fulfillment, like a beautiful sunset that lights up our lives and brings peace. Incredible!",
+    "session": "E8_session_21",
+    "dia_id": "D21:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 397,
+    "title": "turn_397 (D21:9)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Sam] Wish I could feel the same about love, but I've started to enjoy running in the mornings, and it's been a great way to clear my head. What can you do, right?",
+    "session": "E8_session_21",
+    "dia_id": "D21:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 398,
+    "title": "turn_398 (D21:10)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Evan] [Image: a photo of a painting with a white background and a blue, orange, and black painting] Yeah, I get it. Life's all about finding what works for you. Like your morning runs, they're a step towards something good, right? Keep trying new things, Sam, and you might find your own version of love in the most unexpected places. Embrace the journey — it’s full of surprises!",
+    "session": "E8_session_21",
+    "dia_id": "D21:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 399,
+    "title": "turn_399 (D21:11)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Sam] Such a minimalistic and stunning piece of work, I wonder what inspired the artist to create it.",
+    "session": "E8_session_21",
+    "dia_id": "D21:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 400,
+    "title": "turn_400 (D21:12)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Evan] The painting is mine, I made it when I was a mix of emotions - sad, mad, and hopeful. Art is amazing how it can portray feelings without words.",
+    "session": "E8_session_21",
+    "dia_id": "D21:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 401,
+    "title": "turn_401 (D21:13)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Sam] Wow, Evan! Art is really amazing at expressing emotions - it's truly fascinating.",
+    "session": "E8_session_21",
+    "dia_id": "D21:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 402,
+    "title": "turn_402 (D21:14)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Evan] [Image: a photo of a painting with a bird flying over it] It's amazing how art can express emotions so well. It really helps me recognize and handle my own feelings. This painting is giving me a massive rush of joy!",
+    "session": "E8_session_21",
+    "dia_id": "D21:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 403,
+    "title": "turn_403 (D21:15)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Sam] That's stunning! What emotions did you create this painting with?",
+    "session": "E8_session_21",
+    "dia_id": "D21:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 404,
+    "title": "turn_404 (D21:16)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Evan] I painted this with a sense of joy and freedom. The spontaneous strokes and bold colors reflect a playful and liberated mood, embracing the creative process without restraint.",
+    "session": "E8_session_21",
+    "dia_id": "D21:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 405,
+    "title": "turn_405 (D21:17)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Sam] [Image: a photo of a woman holding flowers in front of her face] Wow, Evan, this is amazing! You've got serious talent and creativity. Making this must have been so satisfying! Here's a painting that inspired me when I went to an exhibit few days ago.",
+    "session": "E8_session_21",
+    "dia_id": "D21:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 406,
+    "title": "turn_406 (D21:18)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Evan] Thanks, Sam! I appreciate the compliment. This painting has such an inspiring vibe; you really have a knack for understanding art! How about you? How long have you been painting?",
+    "session": "E8_session_21",
+    "dia_id": "D21:18",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 407,
+    "title": "turn_407 (D21:19)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Sam] I do sketch occasionally, but I haven't created anything remarkable yet. I have a feeling I'll have something to show off before long! Seeing your passion for it is inspiring.",
+    "session": "E8_session_21",
+    "dia_id": "D21:19",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 408,
+    "title": "turn_408 (D21:20)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Evan] Thanks, Sam! Glad I could motivate you. If you ever want to give it a go, I'm happy to help get you started. Speaking of which, you know what? I lost my keys again, it's become a weekly ritual for me!",
+    "session": "E8_session_21",
+    "dia_id": "D21:20",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 409,
+    "title": "turn_409 (D21:21)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Sam] Ooh, Evan, I'd put a GPS sensor on your keys!",
+    "session": "E8_session_21",
+    "dia_id": "D21:21",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 410,
+    "title": "turn_410 (D21:22)",
+    "text": "[t=4:25 pm on 26 December, 2023, speaker=Evan] Great idea, I think I'll do that as soon as I find it!",
+    "session": "E8_session_21",
+    "dia_id": "D21:22",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 411,
+    "title": "turn_411 (D22:1)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Sam] [Image: a photography of a man standing on a rock looking out over a valley] Hey Evan! I’m really getting into this healthier lifestyle—just took my friends on an epic hiking trip last Friday!",
+    "session": "E8_session_22",
+    "dia_id": "D22:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 412,
+    "title": "turn_412 (D22:2)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Evan] [Image: a photo of a small stream running through a lush green forest] Hey Sam! That’s fantastic—nothing like a good hike to feel alive. We took the Prius for a long drive to the mountains last weekend. It was perfect until we got into a little scrape on the way back.",
+    "session": "E8_session_22",
+    "dia_id": "D22:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 413,
+    "title": "turn_413 (D22:3)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Sam] Oh no, were you guys okay after the accident?",
+    "session": "E8_session_22",
+    "dia_id": "D22:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 414,
+    "title": "turn_414 (D22:4)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Evan] Yeah, we were fine, thanks. Just a minor accident, but it put a bit of a damper on telling my work friends about getting married. They’ve been a great support, though.",
+    "session": "E8_session_22",
+    "dia_id": "D22:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 415,
+    "title": "turn_415 (D22:5)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Sam] I bet they were thrilled to hear about your marriage, despite the mishap!",
+    "session": "E8_session_22",
+    "dia_id": "D22:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 416,
+    "title": "turn_416 (D22:6)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Evan] Absolutely, it's been a whirlwind of emotions. Good thing the accident was minor. Just a reminder to take it easy on the road, I guess.",
+    "session": "E8_session_22",
+    "dia_id": "D22:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 417,
+    "title": "turn_417 (D22:7)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Sam] True, it’s important to stay safe. Glad you can still enjoy the peaceful moments after something like that.",
+    "session": "E8_session_22",
+    "dia_id": "D22:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 418,
+    "title": "turn_418 (D22:8)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Evan] Definitely, nature brings peace and clarity - it's a great experience.",
+    "session": "E8_session_22",
+    "dia_id": "D22:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 419,
+    "title": "turn_419 (D22:9)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Sam] Nature can make everything else seem small and help us find peace inside. It reminds us of the bigger picture, you know?",
+    "session": "E8_session_22",
+    "dia_id": "D22:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 420,
+    "title": "turn_420 (D22:10)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Evan] [Image: a photo of a woman sitting at a table with plates and glasses] For sure, and nature has been a great healer. Speaking of which, I’ve got to share some of these new healthy snacks I’ve been trying.",
+    "session": "E8_session_22",
+    "dia_id": "D22:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 421,
+    "title": "turn_421 (D22:11)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Sam] They look healthy and delicious! Perfect for after a hike or, I guess, post-accident recovery, huh?",
+    "session": "E8_session_22",
+    "dia_id": "D22:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 422,
+    "title": "turn_422 (D22:12)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Evan] [Image: a photo of a bunch of cookies on a cooling rack] Exactly! They’re packed with nutrients and really easy to make. You also need to try these cookies, they are awesome! I’ll send you the recipes.",
+    "session": "E8_session_22",
+    "dia_id": "D22:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 423,
+    "title": "turn_423 (D22:13)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Sam] Thanks, I’d appreciate that. It’s good to find new ways to stay healthy. Do you have any healthier snack ideas?",
+    "session": "E8_session_22",
+    "dia_id": "D22:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 424,
+    "title": "turn_424 (D22:14)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Evan] [Image: a photo of a bowl of coconut balls and a bowl of oats] Yeah, I've been trying to eat healthier too. Check out this cool recipe I discovered for these energy balls.",
+    "session": "E8_session_22",
+    "dia_id": "D22:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 425,
+    "title": "turn_425 (D22:15)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Sam] Do you like them? I know they can be an acquired taste.",
+    "session": "E8_session_22",
+    "dia_id": "D22:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 426,
+    "title": "turn_426 (D22:16)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Evan] I enjoy the taste of these. They're energizing and a healthy way to satisfy your sweet tooth.",
+    "session": "E8_session_22",
+    "dia_id": "D22:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 427,
+    "title": "turn_427 (D22:17)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Sam] Awesome! Always on the lookout for healthy snacks, thanks for the tip!",
+    "session": "E8_session_22",
+    "dia_id": "D22:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 428,
+    "title": "turn_428 (D22:18)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Evan] Glad to help - hope you enjoy it!",
+    "session": "E8_session_22",
+    "dia_id": "D22:18",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 429,
+    "title": "turn_429 (D22:19)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Sam] Thanks, Evan! I'll give these a try. They look yum. Your help means a lot to me. Btw you know what? I went to the store again and, unsurprisingly, had issues with the self-checkout. It's becoming a regular annoyance.",
+    "session": "E8_session_22",
+    "dia_id": "D22:19",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 430,
+    "title": "turn_430 (D22:20)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Evan] That's very strange, I've never had a problem with it once!",
+    "session": "E8_session_22",
+    "dia_id": "D22:20",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 431,
+    "title": "turn_431 (D22:21)",
+    "text": "[t=11:00 am on 31 December, 2023, speaker=Sam] Apparently I attract that to me, if you ever want to be in that situation, call me at the store with you!",
+    "session": "E8_session_22",
+    "dia_id": "D22:21",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 432,
+    "title": "turn_432 (D23:1)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] [Image: a photo of a man and a woman standing on a rocky beach] Hey Sam, guess what? My partner and I told our extended fam about our marriage yesterday – it was so special! We've been totally overwhelmed by all their love and support.",
+    "session": "E8_session_23",
+    "dia_id": "D23:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 433,
+    "title": "turn_433 (D23:2)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Congrats on the news, Evan! You two look so happy in the pic. These moments make life so wonderful; super stoked for you!",
+    "session": "E8_session_23",
+    "dia_id": "D23:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 434,
+    "title": "turn_434 (D23:3)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] Thanks, Sam! It was an awesome moment, and I feel really lucky to have found someone who gets me. Plus, our families are really happy for us - that's the best part!",
+    "session": "E8_session_23",
+    "dia_id": "D23:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 435,
+    "title": "turn_435 (D23:4)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Wow, Evan. It's awesome that you've found someone who gets you! Having your family's support must feel great.",
+    "session": "E8_session_23",
+    "dia_id": "D23:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 436,
+    "title": "turn_436 (D23:5)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] Definitely, family support is so important. Knowing they're happy about our marriage is awesome and so comforting.",
+    "session": "E8_session_23",
+    "dia_id": "D23:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 437,
+    "title": "turn_437 (D23:6)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Yeah, it's awesome to have that support. It definitely brings more happiness and joy.",
+    "session": "E8_session_23",
+    "dia_id": "D23:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 438,
+    "title": "turn_438 (D23:7)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] Yeah Sam, that means a lot to me. Our bond just keeps getting stronger and it brings such a good feeling to our lives. Family really is everything.",
+    "session": "E8_session_23",
+    "dia_id": "D23:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 439,
+    "title": "turn_439 (D23:8)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Agree, Evan! Family is everything - they bring so much love and happiness. They're always there for us no matter what. I'm grateful for their support and love.",
+    "session": "E8_session_23",
+    "dia_id": "D23:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 440,
+    "title": "turn_440 (D23:9)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] For sure, Sam. That's what makes family so special. They bring so much love and happiness. It's great having their support and knowing they're always there for us. I feel really fortunate to have their never-ending love and support.",
+    "session": "E8_session_23",
+    "dia_id": "D23:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 441,
+    "title": "turn_441 (D23:10)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Yeah, definitely, Evan. We both have amazing families that are always there for us. Always a blessing.",
+    "session": "E8_session_23",
+    "dia_id": "D23:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 442,
+    "title": "turn_442 (D23:11)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] Yeah, Sam. Our families give us so much joy, support, and love. They're a real blessing! I don't know what I'd do without them.",
+    "session": "E8_session_23",
+    "dia_id": "D23:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 443,
+    "title": "turn_443 (D23:12)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Hey, Evan. My family has been my rock through everything. Don't know what I'd do without them.",
+    "session": "E8_session_23",
+    "dia_id": "D23:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 444,
+    "title": "turn_444 (D23:13)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] [Image: a photo of a group of people sitting at a table with food] Yeah, they are our rock. We're blessed to have them.",
+    "session": "E8_session_23",
+    "dia_id": "D23:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 445,
+    "title": "turn_445 (D23:14)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Wow, you guys are awesome! What's cooking tonight?",
+    "session": "E8_session_23",
+    "dia_id": "D23:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 446,
+    "title": "turn_446 (D23:15)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] Thanks, Sam! We're having a family get-together tonight and enjoying some homemade lasagna. Super excited! By the way, I've started a new diet—limiting myself to just two ginger snaps a day. What's on your menu tonight?",
+    "session": "E8_session_23",
+    "dia_id": "D23:15",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 447,
+    "title": "turn_447 (D23:16)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] [Image: a photo of a plate of food with bread and meat] That's a great discipline, Evan! We're keeping it light tonight, just some homemade lasagna. Can't compete with your ginger snap limit though!",
+    "session": "E8_session_23",
+    "dia_id": "D23:16",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 448,
+    "title": "turn_448 (D23:17)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] Oh this must be very hearty and delicious, well I'll have to stick to the diet plan, even with the family gathering!",
+    "session": "E8_session_23",
+    "dia_id": "D23:17",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 449,
+    "title": "turn_449 (D23:18)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] [Image: a photo of a pie with raspberries and limes on top] Yeah, the lasagna was pretty awesome, but check out what I had for dessert, I'm sure you're drooling!",
+    "session": "E8_session_23",
+    "dia_id": "D23:18",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 450,
+    "title": "turn_450 (D23:19)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] Looks yummy! Did you make that?",
+    "session": "E8_session_23",
+    "dia_id": "D23:19",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 451,
+    "title": "turn_451 (D23:20)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] No, I didn't make it. This is actually a pic from my cousin's wedding. It's super special.",
+    "session": "E8_session_23",
+    "dia_id": "D23:20",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 452,
+    "title": "turn_452 (D23:21)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] [Image: a photo of a wedding cake with candles and flowers on a table] Wow Sam! Weddings are indeed special. This looks great, yum!",
+    "session": "E8_session_23",
+    "dia_id": "D23:21",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 453,
+    "title": "turn_453 (D23:22)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Ooh, nice cake! Reminds me of special occasions. Do you have any upcoming plans?",
+    "session": "E8_session_23",
+    "dia_id": "D23:22",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 454,
+    "title": "turn_454 (D23:23)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] [Image: a photo of a stream running through a snowy forest filled with snow] Thanks Sam! We're off to Canada next month for our honeymoon. So excited to create some awesome memories. Looking forward to exploring the beautiful snowy landscapes there.",
+    "session": "E8_session_23",
+    "dia_id": "D23:23",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 455,
+    "title": "turn_455 (D23:24)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Wow, that looks great! What are your plans for the trip?",
+    "session": "E8_session_23",
+    "dia_id": "D23:24",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 456,
+    "title": "turn_456 (D23:25)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] We're planning to ski, try the local cuisine, and enjoy the beautiful views. We're really excited!",
+    "session": "E8_session_23",
+    "dia_id": "D23:25",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 457,
+    "title": "turn_457 (D23:26)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] [Image: a photo of a container of french fries covered in caramel] Sounds amazing, Ev! Skiing, trying local dishes, and enjoying the breathtaking views - the perfect honeymoon. Have an incredible time creating unforgettable memories!",
+    "session": "E8_session_23",
+    "dia_id": "D23:26",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 458,
+    "title": "turn_458 (D23:27)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] Yeah, Sam! Gonna try some poutine while we're there - can't wait!",
+    "session": "E8_session_23",
+    "dia_id": "D23:27",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 459,
+    "title": "turn_459 (D23:28)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Never tried it? Can't say I blame you, it's kind of a Canadian thing. Let me know how you like it!",
+    "session": "E8_session_23",
+    "dia_id": "D23:28",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 460,
+    "title": "turn_460 (D23:29)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] Sure thing, Sam! Let's see if it lives up to the hype. I'll let you know what happens!",
+    "session": "E8_session_23",
+    "dia_id": "D23:29",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 461,
+    "title": "turn_461 (D23:30)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Yeah, Evan! Let me know all about it. Don't forget the details!",
+    "session": "E8_session_23",
+    "dia_id": "D23:30",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 462,
+    "title": "turn_462 (D23:31)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] Cool, Sam. I'll keep you posted. Talk soon!",
+    "session": "E8_session_23",
+    "dia_id": "D23:31",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 463,
+    "title": "turn_463 (D23:32)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Sam] Awesome, Evan! Catch you soon. Have a great trip!",
+    "session": "E8_session_23",
+    "dia_id": "D23:32",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 464,
+    "title": "turn_464 (D23:33)",
+    "text": "[t=1:32 pm on 6 January, 2024, speaker=Evan] Thanks, Sam! Catch you later. Have a great one!",
+    "session": "E8_session_23",
+    "dia_id": "D23:33",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 465,
+    "title": "turn_465 (D24:1)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] Hey Sam, hope you're doing good. Something funny happened last night.",
+    "session": "E8_session_24",
+    "dia_id": "D24:1",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 466,
+    "title": "turn_466 (D24:2)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] Hey Evan, what's up? What happened? Let me know.",
+    "session": "E8_session_24",
+    "dia_id": "D24:2",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 467,
+    "title": "turn_467 (D24:3)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] Yesterday I went out with my friends and had a bit too much to drink. I ended up doing something I regret and it involved someone's roses.",
+    "session": "E8_session_24",
+    "dia_id": "D24:3",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 468,
+    "title": "turn_468 (D24:4)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] What's up with that incident? All good now?",
+    "session": "E8_session_24",
+    "dia_id": "D24:4",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 469,
+    "title": "turn_469 (D24:5)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] Oof, Sam, so embarrassing! I had a pee accident near some roses - can you believe it? I'm so sorry about that.",
+    "session": "E8_session_24",
+    "dia_id": "D24:5",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 470,
+    "title": "turn_470 (D24:6)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] Uh oh, Evan! That's awkward. Did anyone get mad at you? Are you okay?",
+    "session": "E8_session_24",
+    "dia_id": "D24:6",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 471,
+    "title": "turn_471 (D24:7)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] I was so embarrassed when I saw what happened the next morning, so I apologized and luckily they were understanding. Yeah, I was out of control--guess I gotta be more careful next time.",
+    "session": "E8_session_24",
+    "dia_id": "D24:7",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 472,
+    "title": "turn_472 (D24:8)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] They were understanding? Phew! We all mess up sometimes, we're human after all.",
+    "session": "E8_session_24",
+    "dia_id": "D24:8",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 473,
+    "title": "turn_473 (D24:9)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] Yeah, they were understanding, which was great. But it's a good reminder to be more careful. We all make mistakes, but it's important to learn from them. Speaking of, my partner and I tried snowshoeing this weekend. It was part of a new adventure for us and surprisingly fun.",
+    "session": "E8_session_24",
+    "dia_id": "D24:9",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 474,
+    "title": "turn_474 (D24:10)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] [Image: a photo of a white board with a bunch of writing on it] Yeah, Evan, you're right. Mistakes happen, but it's good to learn from them. Snowshoeing sounds like a great way to stay active during the winter. I've been thinking and I made a meal plan and workout schedule. I'm getting motivated by something I saw, so starting today I'm gonna do my best to stay on track.",
+    "session": "E8_session_24",
+    "dia_id": "D24:10",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 475,
+    "title": "turn_475 (D24:11)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] Good work, Sam! You've got a plan and you're dedicated to staying healthy - have you asked your doctor for advice? They could probably give you even more diet and exercise tips.",
+    "session": "E8_session_24",
+    "dia_id": "D24:11",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 476,
+    "title": "turn_476 (D24:12)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] Thanks, Evan! Haven't seen a doctor in a while, but it's probably a good idea to get some advice. I'm going to make an appointment soon.",
+    "session": "E8_session_24",
+    "dia_id": "D24:12",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 477,
+    "title": "turn_477 (D24:13)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] What advice are you planning to get from the doctor?",
+    "session": "E8_session_24",
+    "dia_id": "D24:13",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 478,
+    "title": "turn_478 (D24:14)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] I'm gonna ask the doc about a balanced diet plan and getting advice on low-impact exercises, given my current situation.",
+    "session": "E8_session_24",
+    "dia_id": "D24:14",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 479,
+    "title": "turn_479 (D24:15)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] [Image: a photo of a salad with chicken, avocado, tomatoes, corn, and cheese] Sounds good, Sam. That's definitely a step in the right direction. Remember to focus on a balanced diet and low-impact exercises. Let me know how it goes.",
+    "session": "E8_session_24",
+    "dia_id": "D24:15",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 480,
+    "title": "turn_480 (D24:16)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] That looks great! Where did you get the idea for this salad? Also, do you have any suggestions for low-impact exercises?",
+    "session": "E8_session_24",
+    "dia_id": "D24:16",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 481,
+    "title": "turn_481 (D24:17)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] I got it from a nearby restaurant. As for low-impact exercises, swimming, yoga, and walking are good options.",
+    "session": "E8_session_24",
+    "dia_id": "D24:17",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 482,
+    "title": "turn_482 (D24:18)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] The salad idea from a restaurant is a smart move, Evan! And thanks for the exercise tips. Also I watched The Godfather last night, and it motivated me to keep up with my routine. \"I'm gonna make him an offer he can't refuse\" - now that's motivation!",
+    "session": "E8_session_24",
+    "dia_id": "D24:18",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 483,
+    "title": "turn_483 (D24:19)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] Yoga's definitely a great start, Sam. It's helped me with stress and staying flexible, which is perfect alongside the diet. And yes, The Godfather is a legendary thing to watch, can be re-watched many times!",
+    "session": "E8_session_24",
+    "dia_id": "D24:19",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 484,
+    "title": "turn_484 (D24:20)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] Between a healthier diet and yoga, I’m hoping for some positive changes.",
+    "session": "E8_session_24",
+    "dia_id": "D24:20",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 485,
+    "title": "turn_485 (D24:21)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] [Image: a photo of a woman standing on a beach at sunset] By the way there are plenty of other low-impact exercises that can be fun. Going on beach sunsets is one of my favorites - good for exercise and totally calming.",
+    "session": "E8_session_24",
+    "dia_id": "D24:21",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 486,
+    "title": "turn_486 (D24:22)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] That looks zen. Gonna go for some beach walks - thanks for the tip, Evan! I want to brag, I had that recurring dream again where I'm flying over skyscrapers!",
+    "session": "E8_session_24",
+    "dia_id": "D24:22",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 487,
+    "title": "turn_487 (D24:23)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Evan] I think a little more and you'll learn how to control those dreams, once you get the hang of it let me know haha! Enjoy the fresh air and the views. Have fun!",
+    "session": "E8_session_24",
+    "dia_id": "D24:23",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 488,
+    "title": "turn_488 (D24:24)",
+    "text": "[t=12:17 am on 10 January, 2024, speaker=Sam] Thanks Evan! Gonna make the most of it. You too, have a good one!",
+    "session": "E8_session_24",
+    "dia_id": "D24:24",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 489,
+    "title": "turn_489 (D25:1)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Sam] Hey Evan, been a few days since we last chatted. Hope you're doing OK. A lot's happened since then. Got issues with my health, it's been rough. Feels like this weight's keeping me from fully living. Trying to stay positive, not easy.",
+    "session": "E8_session_25",
+    "dia_id": "D25:1",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 490,
+    "title": "turn_490 (D25:2)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Evan] Hey Sam, sorry to hear about your health. It's tough when it gets in the way of life. You're being positive, but remember to take care of yourself too. By the way, I had to apologize to my partner for that drunken night, it was pretty embarrassing.",
+    "session": "E8_session_25",
+    "dia_id": "D25:2",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 491,
+    "title": "turn_491 (D25:3)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Sam] Hey Evan, that does sound like a tough situation. I'm doing my best with my health. How did your partner take the news about the rose bushes?",
+    "session": "E8_session_25",
+    "dia_id": "D25:3",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 492,
+    "title": "turn_492 (D25:4)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Evan] Well, she wasn't thrilled, but understood it was an accident. I promised to be more careful in the future. Changing the subject, have you found any low-impact exercises that you enjoy?",
+    "session": "E8_session_25",
+    "dia_id": "D25:4",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 493,
+    "title": "turn_493 (D25:5)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Sam] [Image: a photo of a field with a fence and a dirt road] Hey Evan, haven't found any exercises I like. But lately, I've been on a few car rides. Helps me chill and enjoy the view. Check out this cool pic I snapped last week in the country.",
+    "session": "E8_session_25",
+    "dia_id": "D25:5",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 494,
+    "title": "turn_494 (D25:6)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Evan] Nice pic! Does being out in the countryside help you relax and get some fresh air away from the city?",
+    "session": "E8_session_25",
+    "dia_id": "D25:6",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 495,
+    "title": "turn_495 (D25:7)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Sam] Yeah, being in nature really helps me relax and get some fresh air away from the city.",
+    "session": "E8_session_25",
+    "dia_id": "D25:7",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 496,
+    "title": "turn_496 (D25:8)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Evan] [Image: a photo of a kayak is seen from the front of the boat] Glad to hear it! Nature really has a way of calming and reviving the soul. Last summer, I took this pic on a camping trip - it was such an amazing sunset. Moments like these remind us of the beauty of life, even during tough times.",
+    "session": "E8_session_25",
+    "dia_id": "D25:8",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 497,
+    "title": "turn_497 (D25:9)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Sam] Wow, that pic is amazing! It must have been a great experience being out on the lake.",
+    "session": "E8_session_25",
+    "dia_id": "D25:9",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 498,
+    "title": "turn_498 (D25:10)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Evan] I had a great time kayaking and watching the sunset last summer - it was truly unforgettable. Being out on the water is so peaceful.",
+    "session": "E8_session_25",
+    "dia_id": "D25:10",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 499,
+    "title": "turn_499 (D25:11)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Sam] Wow, that sounds amazing. Being in nature is so calming, right?",
+    "session": "E8_session_25",
+    "dia_id": "D25:11",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 500,
+    "title": "turn_500 (D25:12)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Evan] Nature can be super calming. It's like pushing a reset button for your mind and body.",
+    "session": "E8_session_25",
+    "dia_id": "D25:12",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 501,
+    "title": "turn_501 (D25:13)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Sam] Definitely, I couldn't agree more. There's something about being outdoors that rejuvenates you. I'm planning to spend more time in nature myself!",
+    "session": "E8_session_25",
+    "dia_id": "D25:13",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 502,
+    "title": "turn_502 (D25:14)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Evan] [Image: a photo of a tree with pink flowers in a park] Got it. When health stuff cramps your style, it sucks. But small moments outdoors can make a big impact. This photo reminds me of last spring when I was feeling a bit down, but the vibrant colors brought a smile to my face, even if just for a moment. Remember to find joy in the little things.",
+    "session": "E8_session_25",
+    "dia_id": "D25:14",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 503,
+    "title": "turn_503 (D25:15)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Sam] That pic is gorgeous! It really brightens my day. Sometimes, it's the little things that matter, right?",
+    "session": "E8_session_25",
+    "dia_id": "D25:15",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 504,
+    "title": "turn_504 (D25:16)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Evan] Absolutely, Sam. It's often those little moments that make the biggest difference. Keep finding those bright spots.",
+    "session": "E8_session_25",
+    "dia_id": "D25:16",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 505,
+    "title": "turn_505 (D25:17)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Sam] Thanks, Evan. It's good to be reminded to appreciate the small things. They do add up.",
+    "session": "E8_session_25",
+    "dia_id": "D25:17",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 506,
+    "title": "turn_506 (D25:18)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Evan] Anytime, Sam. It's all about those small joys, especially when times are tough. You've got this!",
+    "session": "E8_session_25",
+    "dia_id": "D25:18",
+    "speaker": "Evan"
+  },
+  {
+    "idx": 507,
+    "title": "turn_507 (D25:19)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Sam] Really appreciate it, Evan. Your words help a lot. Take care!",
+    "session": "E8_session_25",
+    "dia_id": "D25:19",
+    "speaker": "Sam"
+  },
+  {
+    "idx": 508,
+    "title": "turn_508 (D25:20)",
+    "text": "[t=9:37 pm on 11 January, 2024, speaker=Evan] You too, Sam. And remember, I'm always here if you need to chat. Look after yourself!",
+    "session": "E8_session_25",
+    "dia_id": "D25:20",
+    "speaker": "Evan"
+  }
+]

@@ -1,0 +1,3672 @@
+[
+  {
+    "id": "locomo_2_0",
+    "question": "Who did Maria have dinner with on May 3, 2023?",
+    "answer": [
+      "her mother"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_263 (D13:16)",
+        "text": "[t=3:18 pm on 4 May, 2023, speaker=Maria] [Image: a photo of a table with a variety of food on it] Wow, John! It's great when you have that kind of support. My mom and I made some dinner together last night!",
+        "is_supporting": true,
+        "idx": 263
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_1",
+    "question": "When did Maria donate her car?",
+    "answer": [
+      "21 December 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_16 (D2:1)",
+        "text": "[t=6:10 pm on 22 December, 2022, speaker=Maria] Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it.",
+        "is_supporting": true,
+        "idx": 16
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_2",
+    "question": "What martial arts has John done?",
+    "answer": [
+      "Kickboxing, Taekwondo"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_3 (D1:4)",
+        "text": "[t=11:01 am on 17 December, 2022, speaker=John] Woah, Maria, that sounds cool! I'm doing kickboxing and it's giving me so much energy.",
+        "is_supporting": true,
+        "idx": 3
+      },
+      {
+        "title": "turn_43 (D2:28)",
+        "text": "[t=6:10 pm on 22 December, 2022, speaker=John] Yep, let's keep making great memories with our loved ones and cherishing the time we have. I'm off to do some taekwondo!",
+        "is_supporting": true,
+        "idx": 43
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_3",
+    "question": "What type of volunteering have John and Maria both done?",
+    "answer": [
+      "Volunteering at a homeless shelter"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_16 (D2:1)",
+        "text": "[t=6:10 pm on 22 December, 2022, speaker=Maria] Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it.",
+        "is_supporting": true,
+        "idx": 16
+      },
+      {
+        "title": "turn_48 (D3:5)",
+        "text": "[t=8:30 pm on 1 January, 2023, speaker=John] We held some events and got to meet some people. We went to a homeless shelter to give out food and supplies. Seeing the smiles on their faces, we knew we made a real difference. We also organized a toy drive for kids in need. It was amazing seeing the community come together to spread some joy.",
+        "is_supporting": true,
+        "idx": 48
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_4",
+    "question": "When did John join the online support group?",
+    "answer": [
+      "The week before 1 January 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_44 (D3:1)",
+        "text": "[t=8:30 pm on 1 January, 2023, speaker=John] Hey Maria, great to chat again! I joined a service-focused online group last week and it's been an emotional ride. Everyone there is incredible with their own inspiring stories. They've opened my eyes to new perspectives, and I'm feeling a sense of connection and purpose with them.",
+        "is_supporting": true,
+        "idx": 44
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_5",
+    "question": "When did Maria go to the beach?",
+    "answer": [
+      "December 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_58 (D3:15)",
+        "text": "[t=8:30 pm on 1 January, 2023, speaker=John] Wow, nature can be so beautiful! It reminds me of the film camera I had as a kid, I took plenty of beach pics. Thanks for sharing.",
+        "is_supporting": true,
+        "idx": 58
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_6",
+    "question": "Where has Maria made friends?",
+    "answer": [
+      "homeless shelter, gym, church"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_294 (D14:10)",
+        "text": "[t=5:04 pm on 6 May, 2023, speaker=Maria] Just yesterday I joined a nearby church. I wanted to feel closer to a community and my faith. So far it's been really great!",
+        "is_supporting": true,
+        "idx": 294
+      },
+      {
+        "title": "turn_385 (D19:1)",
+        "text": "[t=7:20 pm on 16 June, 2023, speaker=Maria] Hey John, been good since we talked? I got some great news to share - I joined a gym last week! It's been super positive - I'm sticking to my workout routine and the people are awesome. The atmosphere is so welcoming.",
+        "is_supporting": true,
+        "idx": 385
+      },
+      {
+        "title": "turn_16 (D2:1)",
+        "text": "[t=6:10 pm on 22 December, 2022, speaker=Maria] Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it.",
+        "is_supporting": true,
+        "idx": 16
+      },
+      {
+        "title": "turn_61 (D4:1)",
+        "text": "[t=7:06 pm on 9 January, 2023, speaker=Maria] Hey John, great news - I'm now friends with one of my fellow volunteers! We both love helping others. How have you been since we last chatted?",
+        "is_supporting": true,
+        "idx": 61
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_7",
+    "question": "What items des John mention having as a child?",
+    "answer": [
+      "A doll, a film camera"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_58 (D3:15)",
+        "text": "[t=8:30 pm on 1 January, 2023, speaker=John] Wow, nature can be so beautiful! It reminds me of the film camera I had as a kid, I took plenty of beach pics. Thanks for sharing.",
+        "is_supporting": true,
+        "idx": 58
+      },
+      {
+        "title": "turn_99 (D5:13)",
+        "text": "[t=1:17 pm on 28 January, 2023, speaker=John] It reminds me of something from my childhood. I had a little doll like this and it always made me feel better. It reminds me to always look out for others, especially when they're feeling down.",
+        "is_supporting": true,
+        "idx": 99
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_8",
+    "question": "What might John's financial status be?",
+    "answer": [
+      "Middle-class or wealthy"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_91 (D5:5)",
+        "text": "[t=1:17 pm on 28 January, 2023, speaker=John] It's definitely isn't, Maria. My kids have so much and others don't. We really need to do something about it.",
+        "is_supporting": true,
+        "idx": 91
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_2_9",
+    "question": "Who gave Maria's family money when she was younger and her family was going through tough times?",
+    "answer": [
+      "Her aunt"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_94 (D5:8)",
+        "text": "[t=1:17 pm on 28 January, 2023, speaker=Maria] I started volunteering to help make a difference. My aunt believed in volunteering, and used to help my family out when we were struggling, so I'm inspired by her. It makes me happy knowing I can brighten somebody's day.",
+        "is_supporting": true,
+        "idx": 94
+      },
+      {
+        "title": "turn_111 (D6:9)",
+        "text": "[t=2:33 pm on 5 February, 2023, speaker=Maria] Thanks, John. When I was younger, we had some money problems and had to rely on outside help from out auntie. It was a tough learning experience about the importance of helping others who struggle.",
+        "is_supporting": true,
+        "idx": 111
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_10",
+    "question": "When did Maria meet Jean?",
+    "answer": [
+      "February 24, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_125 (D7:1)",
+        "text": "[t=8:55 pm on 25 February, 2023, speaker=Maria] Hey John, how's it going? Just wanted to give you the heads up on what's been happening lately- I took a creative writing class recently, and it was super enlightening!",
+        "is_supporting": true,
+        "idx": 125
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_11",
+    "question": "What people has Maria met and helped while volunteering?",
+    "answer": [
+      "David, Jean, Cindy, Laura"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_447 (D21:19)",
+        "text": "[t=8:43 pm on 3 July, 2023, speaker=Maria] One of the shelter residents, Laura, wrote us a letter expressing their gratitude. The impact we made on their life was inspiring!",
+        "is_supporting": true,
+        "idx": 447
+      },
+      {
+        "title": "turn_554 (D27:8)",
+        "text": "[t=6:20 pm on 3 August, 2023, speaker=Maria] One of the residents at the shelter, Cindy, wrote it. It's a heartfelt expression of gratitude and shows the impact of the support they receive.",
+        "is_supporting": true,
+        "idx": 554
+      },
+      {
+        "title": "turn_107 (D6:5)",
+        "text": "[t=2:33 pm on 5 February, 2023, speaker=Maria] Yeah, at the event, I had a conversation with someone named David. Hearing his story of hardship and how he ended up in difficult circumstances was so humbling. It just showed me that everyone has their own story and deserves understanding.",
+        "is_supporting": true,
+        "idx": 107
+      },
+      {
+        "title": "turn_129 (D7:5)",
+        "text": "[t=8:55 pm on 25 February, 2023, speaker=Maria] Wow John, your enthusiasm for making a better future is inspiring. Making a positive impact is so rewarding! While volunteering yesterday, I met this amazing woman, Jean, who had been through a lot, yet stayed optimistic and resilient. She showed me the importance of gratitude and connection.",
+        "is_supporting": true,
+        "idx": 129
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_12",
+    "question": "What test has John taken multiple times?",
+    "answer": [
+      "The military aptitude test"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_54 (D3:11)",
+        "text": "[t=8:30 pm on 1 January, 2023, speaker=John] Thanks, Maria! I really appreciate your support, It means a lot to me. Especially after I failed the military aptitude test recently, I've been feeling a bit stressed out.",
+        "is_supporting": true,
+        "idx": 54
+      },
+      {
+        "title": "turn_159 (D8:18)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=John] Wow, having symbols of travel memories in our homes is so cool! Last week I retook the aptitude test with some great results, and I feel drawn to serving my country in this way.",
+        "is_supporting": true,
+        "idx": 159
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_13",
+    "question": "When did Maria's grandmother pass away?",
+    "answer": [
+      "The week before 6 March 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_142 (D8:1)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=Maria] Hey John, I haven't talked to you in a while. Last week, my grandma passed away and it's been really hard. I'm trying to stay positive, but it's tough. How're you doing?",
+        "is_supporting": true,
+        "idx": 142
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_14",
+    "question": "Would John be considered a patriotic person?",
+    "answer": [
+      "Yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_159 (D8:18)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=John] Wow, having symbols of travel memories in our homes is so cool! Last week I retook the aptitude test with some great results, and I feel drawn to serving my country in this way.",
+        "is_supporting": true,
+        "idx": 159
+      },
+      {
+        "title": "turn_161 (D8:20)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=John] Yeah, I chatted with my family and friends about it. They've been supportive and understand why I want to volunteer. I'm really proud to have this opportunity!",
+        "is_supporting": true,
+        "idx": 161
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_2_15",
+    "question": "What writing classes has Maria taken?",
+    "answer": [
+      "Poetry, creative writing"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_125 (D7:1)",
+        "text": "[t=8:55 pm on 25 February, 2023, speaker=Maria] Hey John, how's it going? Just wanted to give you the heads up on what's been happening lately- I took a creative writing class recently, and it was super enlightening!",
+        "is_supporting": true,
+        "idx": 125
+      },
+      {
+        "title": "turn_168 (D9:1)",
+        "text": "[t=9:36 am on 2 April, 2023, speaker=Maria] Hey John, long time no see! I've been taking a poetry class lately to help me put my feelings into words. It's been a rough ride, but it's been good. How have you been?",
+        "is_supporting": true,
+        "idx": 168
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_16",
+    "question": "When did John get his degree?",
+    "answer": [
+      "The week before 2 April 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_169 (D9:2)",
+        "text": "[t=9:36 am on 2 April, 2023, speaker=John] [Image: a photo of a certificate of completion of a university degree] Hey Maria! Awesome to hear from you. Sounds like a great way to delve into your feelings. Since we spoke last, I've had quite the adventure!",
+        "is_supporting": true,
+        "idx": 169
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_17",
+    "question": "What might John's degree be in?",
+    "answer": [
+      "Political science, Public administration, Public affairs"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_173 (D9:6)",
+        "text": "[t=9:36 am on 2 April, 2023, speaker=John] Thanks! I'm considering going into policymaking because of my degree and my passion for making a positive impact. There are many opportunities to make improvements.",
+        "is_supporting": true,
+        "idx": 173
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_2_18",
+    "question": "Who did John go to yoga with?",
+    "answer": [
+      "Rob"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_186 (D10:1)",
+        "text": "[t=12:24 am on 7 April, 2023, speaker=John] Hey Maria, I'm so excited to tell you I started a weekend yoga class with a colleague - it's awesome! I feel great, both mentally and physically after each session. I'd been wanting to try yoga for a while and finally took the plunge. Simple stretching and breathing is having such a positive effect on my wellbeing. And the instructor is great too.",
+        "is_supporting": true,
+        "idx": 186
+      },
+      {
+        "title": "turn_140 (D7:16)",
+        "text": "[t=8:55 pm on 25 February, 2023, speaker=John] Let's do it, Maria! Together, we can make a real difference and bring a brighter future. And nothing too soon, but my colleague Rob invited me to a beginner's yoga class.",
+        "is_supporting": true,
+        "idx": 140
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_19",
+    "question": "What damages have happened to John's car?",
+    "answer": [
+      "Broken windshield, Car broke down"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_204 (D11:1)",
+        "text": "[t=6:13 pm on 10 April, 2023, speaker=John] Hey Maria, haven't talked for a few days. Had a wild week, my car broke down last Fri on my way to work. Trying to get it fixed but it's tough & putting a strain on my wallet. Staying positive & looking for a solution though.",
+        "is_supporting": true,
+        "idx": 204
+      },
+      {
+        "title": "turn_62 (D4:2)",
+        "text": "[t=7:06 pm on 9 January, 2023, speaker=John] [Image: a photo of a car with a broken windshield and a broken windshield] Hey Maria, I've been busy with work and family, but last week I had an unexpected incident on my way home. It reminded me how life can throw unexpected troubles our way.",
+        "is_supporting": true,
+        "idx": 62
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_20",
+    "question": "When did John take a road trip to the Pacific Northwest?",
+    "answer": [
+      "2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_206 (D11:3)",
+        "text": "[t=6:13 pm on 10 April, 2023, speaker=John] [Image: a photography of a mountain with a sunset and flowers in the foreground] Thanks, Maria. Your kind words mean a lot. Yeah, it's been tough with car trouble and money problems, but I stay positive and find a way. This picture reminds me of a road trip we took last year; even with bumps along the way, there's still beauty and hope.",
+        "is_supporting": true,
+        "idx": 206
+      },
+      {
+        "title": "turn_208 (D11:5)",
+        "text": "[t=6:13 pm on 10 April, 2023, speaker=John] Thanks! We explored the coast up in the Pacific Northwest and hit some cool national parks. The beauty of nature was absolutely breathtaking!",
+        "is_supporting": true,
+        "idx": 208
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_21",
+    "question": "What areas of the U.S. has John been to or is planning to go to?",
+    "answer": [
+      "Pacific northwest, east coast"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_208 (D11:5)",
+        "text": "[t=6:13 pm on 10 April, 2023, speaker=John] Thanks! We explored the coast up in the Pacific Northwest and hit some cool national parks. The beauty of nature was absolutely breathtaking!",
+        "is_supporting": true,
+        "idx": 208
+      },
+      {
+        "title": "turn_241 (D12:17)",
+        "text": "[t=7:34 pm on 18 April, 2023, speaker=John] I'm planning a trip to the East Coast. How about you? Anything cool going on recently?",
+        "is_supporting": true,
+        "idx": 241
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_22",
+    "question": "When did John go to a convention with colleagues?",
+    "answer": [
+      "March 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_233 (D12:9)",
+        "text": "[t=7:34 pm on 18 April, 2023, speaker=John] My colleagues and I went to a convention together last month. We're all passionate about using tech for good in our community. It was great to connect with like-minded folks and swap ideas. It's inspiring to see people united in their goal.",
+        "is_supporting": true,
+        "idx": 233
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_23",
+    "question": "What desserts has Maria made?",
+    "answer": [
+      "Banana split sundae, Peach cobbler"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_265 (D13:18)",
+        "text": "[t=3:18 pm on 4 May, 2023, speaker=Maria] Thanks, John! It had lots of great things like salads, sandwiches, and homemade desserts. My favorite is the amazing banana split sundae - I enjoy it after a day of volunteering. It's a little moment of joy in life - balance is key!",
+        "is_supporting": true,
+        "idx": 265
+      },
+      {
+        "title": "turn_40 (D2:25)",
+        "text": "[t=6:10 pm on 22 December, 2022, speaker=Maria] I can picture you all laughing and having a blast making your own pizzas - a great way to bond! I made some peach cobbler recently, it was great.",
+        "is_supporting": true,
+        "idx": 40
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_24",
+    "question": "When did John start boot camp with his family?",
+    "answer": [
+      "April.2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_250 (D13:3)",
+        "text": "[t=3:18 pm on 4 May, 2023, speaker=John] I just started going to boot camps with my fam last month. It's good for bonding and getting fit.",
+        "is_supporting": true,
+        "idx": 250
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_25",
+    "question": "What European countries has Maria been to?",
+    "answer": [
+      "Spain, England"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_271 (D13:24)",
+        "text": "[t=3:18 pm on 4 May, 2023, speaker=Maria] Last year I took a solo trip and took this pic in Spain. It reminded me that life is hard but there's still hope and beauty. It made me realize the importance of relying on my inner strength and appreciating small moments even more.",
+        "is_supporting": true,
+        "idx": 271
+      },
+      {
+        "title": "turn_156 (D8:15)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=Maria] [Image: a photography of a painting of a castle on a hill] Thanks, John! I got the idea from that trip to England a few years ago - I was mesmerized by the castles. I wanted to bring that same magic to my home, like a reminder of the world's beauty. I made a painting too!",
+        "is_supporting": true,
+        "idx": 156
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_26",
+    "question": "What has Maria done to feel closer to her faith?",
+    "answer": [
+      "Join a local church, buy a cross necklace"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_213 (D11:10)",
+        "text": "[t=6:13 pm on 10 April, 2023, speaker=Maria] I recently gave a few talks at the homeless shelter I volunteer at. It was really fulfilling and I received lots of compliments from other volunteers. It was a great reminder about why connecting with and helping others is so important. And, I bought a cross necklace to feel closer to my faith- which has made me happy.",
+        "is_supporting": true,
+        "idx": 213
+      },
+      {
+        "title": "turn_294 (D14:10)",
+        "text": "[t=5:04 pm on 6 May, 2023, speaker=Maria] Just yesterday I joined a nearby church. I wanted to feel closer to a community and my faith. So far it's been really great!",
+        "is_supporting": true,
+        "idx": 294
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_27",
+    "question": "When did John have a party with veterans?",
+    "answer": [
+      "The Friday before 20 May 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_318 (D15:11)",
+        "text": "[t=7:38 pm on 20 May, 2023, speaker=John] [Image: a photography of a man shaking hands with a soldier in uniform] Awesome, Maria! I knew you'd be on board. With your help, we can make a real impact. Thank you so much! Here's a pic from last Friday with some veterans who are really excited about this. Their support keeps me motivated.",
+        "is_supporting": true,
+        "idx": 318
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_28",
+    "question": "What causes does John feel passionate about supporting?",
+    "answer": [
+      "Veterans, schools, infrastructure"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_229 (D12:5)",
+        "text": "[t=7:34 pm on 18 April, 2023, speaker=John] Recently, education reform and infrastructure development. Good access to quality education and updated infrastructure are key to a thriving and successful community. My goal is to get conversations going and get people involved by sharing ideas and taking action. It's really empowering to know I can help make a difference in people's lives.",
+        "is_supporting": true,
+        "idx": 229
+      },
+      {
+        "title": "turn_310 (D15:3)",
+        "text": "[t=7:38 pm on 20 May, 2023, speaker=John] Hi Maria, thanks for asking. I've always been passionate about veterans and their rights. Last week, I realized again how much they've done for us and wanted to show my appreciation in some way. So, I worked on a project to support them. It's my way of giving back.",
+        "is_supporting": true,
+        "idx": 310
+      },
+      {
+        "title": "turn_7 (D1:8)",
+        "text": "[t=11:01 am on 17 December, 2022, speaker=John] I'm passionate about improving education and infrastructure in our community. Those are my main focuses.",
+        "is_supporting": true,
+        "idx": 7
+      },
+      {
+        "title": "turn_175 (D9:8)",
+        "text": "[t=9:36 am on 2 April, 2023, speaker=John] Thanks, Maria! Improving education and infrastructure is particularly interesting to me. It's important for our community.",
+        "is_supporting": true,
+        "idx": 175
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_29",
+    "question": "What events is Maria planning for the homeless shelter funraiser?",
+    "answer": [
+      "Chili cook-off, ring-toss tournament"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_325 (D15:18)",
+        "text": "[t=7:38 pm on 20 May, 2023, speaker=Maria] Yep, John! Keep going and we'll make a difference! I'm currently planning a ring-toss tournament for the homeless shelter's fundraiser later this month, I can't wait to see the impact it will make.",
+        "is_supporting": true,
+        "idx": 325
+      },
+      {
+        "title": "turn_330 (D16:4)",
+        "text": "[t=1:24 pm on 25 May, 2023, speaker=Maria] [Image: a photo of a poster for a chili cook off event] Thanks, John! Appreciate your help. We need to get the word out about the chili cook-off at the fundraiser. Here's the poster!",
+        "is_supporting": true,
+        "idx": 330
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_30",
+    "question": "What shelters does Maria volunteer at?",
+    "answer": [
+      "The homeless shelter, the dog shelter"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_213 (D11:10)",
+        "text": "[t=6:13 pm on 10 April, 2023, speaker=Maria] I recently gave a few talks at the homeless shelter I volunteer at. It was really fulfilling and I received lots of compliments from other volunteers. It was a great reminder about why connecting with and helping others is so important. And, I bought a cross necklace to feel closer to my faith- which has made me happy.",
+        "is_supporting": true,
+        "idx": 213
+      },
+      {
+        "title": "turn_357 (D17:12)",
+        "text": "[t=11:51 am on 3 June, 2023, speaker=Maria] John, that's such a great idea! It gives the pup a loving home and teaches your kids important values. If you need any help, let me know! I just started volunteering at a local dog shelter once a month.",
+        "is_supporting": true,
+        "idx": 357
+      },
+      {
+        "title": "turn_16 (D2:1)",
+        "text": "[t=6:10 pm on 22 December, 2022, speaker=Maria] Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it.",
+        "is_supporting": true,
+        "idx": 16
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_31",
+    "question": "When did John get his dog Max?",
+    "answer": [
+      "In 2013"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_346 (D17:1)",
+        "text": "[t=11:51 am on 3 June, 2023, speaker=John] Hey Maria, long time no talk! Life's been pretty wild lately. The toughest thing to deal with is that we had to say goodbye to Max. He was such an important part of our family for 10 years and it's so hard to think he's not here wagging that tail anymore.",
+        "is_supporting": true,
+        "idx": 346
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_32",
+    "question": "What outdoor activities has John done with his colleagues?",
+    "answer": [
+      "Hiking, mountaineering"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_328 (D16:2)",
+        "text": "[t=1:24 pm on 25 May, 2023, speaker=Maria] Hey John! Cool that it's going well - you and your friends look like a great team! I'm busy at the shelter getting ready for a fundraiser next week. Hopefully, I can raise enough to cover basic needs for the homeless.",
+        "is_supporting": true,
+        "idx": 328
+      },
+      {
+        "title": "turn_363 (D18:2)",
+        "text": "[t=2:47 pm on 12 June, 2023, speaker=John] [Image: a photo of a man standing on top of a mountain with a backpack] Hey Maria, thanks for your kind words. It's still tough, but I'm finding some comfort in the good memories. Wow, your camping trip sounds awesome! I went on a mountaineering trip last week with some workmates. It was great and helped clear my head. Anything else cool happening in your life?",
+        "is_supporting": true,
+        "idx": 363
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_33",
+    "question": "What types of yoga has Maria practiced?",
+    "answer": [
+      "Aerial, kundalini"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_376 (D18:15)",
+        "text": "[t=2:47 pm on 12 June, 2023, speaker=Maria] Finding my Zen is a mix of things - a moment to myself plus favorite tunes is usually enough. I also enjoy aerial yoga, it's a great way to switch off and focus on my body.",
+        "is_supporting": true,
+        "idx": 376
+      },
+      {
+        "title": "turn_387 (D19:3)",
+        "text": "[t=7:20 pm on 16 June, 2023, speaker=Maria] Thanks, John! Yeah, it's been awesome. I want to get stronger and improve my endurance, and I'm trying kundalini yoga. What about you? Do you have any goals or activities you want to try?",
+        "is_supporting": true,
+        "idx": 387
+      },
+      {
+        "title": "turn_2 (D1:3)",
+        "text": "[t=11:01 am on 17 December, 2022, speaker=Maria] Been busy volunteering at the homeless shelter and keeping fit. Just started doing aerial yoga, it's great. Have you tried any other cool workout classes?",
+        "is_supporting": true,
+        "idx": 2
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_34",
+    "question": "When did Maria join a gym?",
+    "answer": [
+      "The week before 16 June 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_385 (D19:1)",
+        "text": "[t=7:20 pm on 16 June, 2023, speaker=Maria] Hey John, been good since we talked? I got some great news to share - I joined a gym last week! It's been super positive - I'm sticking to my workout routine and the people are awesome. The atmosphere is so welcoming.",
+        "is_supporting": true,
+        "idx": 385
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_35",
+    "question": "What states has Maria vacationed at?",
+    "answer": [
+      "Oregon, Florida"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_364 (D18:3)",
+        "text": "[t=2:47 pm on 12 June, 2023, speaker=Maria] [Image: a photo of a person standing on a cliff overlooking a canyon] Glad you're finding comfort, John. That mountaineering trip sounds amazing. Did you reach the summit? When I was younger, my family and I went on a road trip to Oregon.",
+        "is_supporting": true,
+        "idx": 364
+      },
+      {
+        "title": "turn_407 (D19:23)",
+        "text": "[t=7:20 pm on 16 June, 2023, speaker=Maria] [Image: a photography of a sunset over a body of water with a bird flying in the distance] Yeah, John! I have a picture from a vacation in Florida. The colors were amazing, and I had a feeling of gratitude just sitting there with my family. It's in moments like these we make the best memories, ya know?",
+        "is_supporting": true,
+        "idx": 407
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_36",
+    "question": "What music events has John attended?",
+    "answer": [
+      "Live music event, violin concert"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_414 (D20:4)",
+        "text": "[t=12:21 am on 27 June, 2023, speaker=John] That's great, Maria! It's such a blessing to have family who always supports us and reminds us that we're not alone. They know us like no one else and stick by us no matter what. Last week, we had a blast at a live music event. Seeing them dancing and having fun was awesome. The energy in the air was amazing.",
+        "is_supporting": true,
+        "idx": 414
+      },
+      {
+        "title": "turn_153 (D8:12)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=John] I just try to find things that we'll have fun with, like a walk or picnic in the park, or finding events in our town and beyond. Just last week, I found a violin concert that we all enjoyed. It's all about making memories together.",
+        "is_supporting": true,
+        "idx": 153
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_37",
+    "question": "What events for veterans has John participated in?",
+    "answer": [
+      "Petition, march, party, visiting veterans hospital, 5K charity run"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_308 (D15:1)",
+        "text": "[t=7:38 pm on 20 May, 2023, speaker=John] Hey Maria, how's it going? Been real busy tackling a project to support military veterans. Trying to get a petition going, it's pretty rewarding but kinda stressful. How are you?",
+        "is_supporting": true,
+        "idx": 308
+      },
+      {
+        "title": "turn_318 (D15:11)",
+        "text": "[t=7:38 pm on 20 May, 2023, speaker=John] [Image: a photography of a man shaking hands with a soldier in uniform] Awesome, Maria! I knew you'd be on board. With your help, we can make a real impact. Thank you so much! Here's a pic from last Friday with some veterans who are really excited about this. Their support keeps me motivated.",
+        "is_supporting": true,
+        "idx": 318
+      },
+      {
+        "title": "turn_450 (D21:22)",
+        "text": "[t=8:43 pm on 3 July, 2023, speaker=John] Yeah, Maria, keep it up! Even small things can mean a lot. I just participated in a marching event for veterans' rights and it was awesome, made me remember how much they sacrifice for us. We need to show our support however we can.",
+        "is_supporting": true,
+        "idx": 450
+      },
+      {
+        "title": "turn_493 (D24:1)",
+        "text": "[t=3:34 pm on 17 July, 2023, speaker=John] Hey Maria, last week was really eye-opening. I visited a veteran's hospital and met some amazing people. It made me appreciate what we have and the need to give back.",
+        "is_supporting": true,
+        "idx": 493
+      },
+      {
+        "title": "turn_585 (D29:4)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=John] [Image: a photo of a group of people posing for a picture] I set up a 5K charity run in our neighborhood. It was all for a good cause - to help out veterans and their families. We were able to raise some funds! Here's a pic from the day.",
+        "is_supporting": true,
+        "idx": 585
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_38",
+    "question": "When did Maria get in a car accident?",
+    "answer": [
+      "July 2, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_431 (D21:3)",
+        "text": "[t=8:43 pm on 3 July, 2023, speaker=Maria] [Image: a photography of a car that has been damaged and is sitting on a flatbed] Hey John! They were great, their smiles warmed my heart. But something not so great happened yesterday...",
+        "is_supporting": true,
+        "idx": 431
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_39",
+    "question": "Around which US holiday did Maria get into a car accident?",
+    "answer": [
+      "Independence Day"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_431 (D21:3)",
+        "text": "[t=8:43 pm on 3 July, 2023, speaker=Maria] [Image: a photography of a car that has been damaged and is sitting on a flatbed] Hey John! They were great, their smiles warmed my heart. But something not so great happened yesterday...",
+        "is_supporting": true,
+        "idx": 431
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_2_40",
+    "question": "What are the names of John's children?",
+    "answer": [
+      "Kyle, Sara"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_464 (D22:7)",
+        "text": "[t=6:59 pm on 5 July, 2023, speaker=John] Thanks, Maria! That picture was from a trip we took last year for my daughter Sara's birthday - so much fun and good memories! My family motivates me to keep striving for change.",
+        "is_supporting": true,
+        "idx": 464
+      },
+      {
+        "title": "turn_145 (D8:4)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=John] Thanks, Maria! They're doing great. Our one-year-old is so cute, his name is Kyle!",
+        "is_supporting": true,
+        "idx": 145
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_41",
+    "question": "Does John live close to a beach or the mountains?",
+    "answer": [
+      "beach"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_472 (D22:15)",
+        "text": "[t=6:59 pm on 5 July, 2023, speaker=John] [Image: a photo of a sunset over the ocean with a sailboat in the distance] Yeah, Maria. Little things like this can make a big impact in how we think. Oh, and here's a pic I got from my walk last week. It always reminds me to take a break, breathe, and appreciate nature.",
+        "is_supporting": true,
+        "idx": 472
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_2_42",
+    "question": "What area was hit by a flood?",
+    "answer": [
+      "West County"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_305 (D14:21)",
+        "text": "[t=5:04 pm on 6 May, 2023, speaker=John] Sure, Maria! Let's work together to make a real difference. Our neighborhood deserves it! I want to work on improving my old area, West County, too.",
+        "is_supporting": true,
+        "idx": 305
+      },
+      {
+        "title": "turn_479 (D23:1)",
+        "text": "[t=6:29 pm on 7 July, 2023, speaker=John] Maria, since we talked, it's been tough. My old area was hit by a nasty flood last week. The infrastructure wasn't great so lots of homes were ruined. It's reminding me we need to fix things up in our community.",
+        "is_supporting": true,
+        "idx": 479
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_43",
+    "question": "When was John's old area hit with a flood?",
+    "answer": [
+      "The week before 7 July 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_479 (D23:1)",
+        "text": "[t=6:29 pm on 7 July, 2023, speaker=John] Maria, since we talked, it's been tough. My old area was hit by a nasty flood last week. The infrastructure wasn't great so lots of homes were ruined. It's reminding me we need to fix things up in our community.",
+        "is_supporting": true,
+        "idx": 479
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_44",
+    "question": "What activities has Maria done with her church friends?",
+    "answer": [
+      "Hiking, picnic, volunteer work"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_498 (D24:6)",
+        "text": "[t=3:34 pm on 17 July, 2023, speaker=Maria] [Image: a photo of a picnic table with a drink, snacks and a cell phone] Yeah, last weekend I had a picnic with some friends from church. We chilled under the trees, played games, and ate yummy food. It was great!",
+        "is_supporting": true,
+        "idx": 498
+      },
+      {
+        "title": "turn_511 (D25:2)",
+        "text": "[t=6:21 pm on 22 July, 2023, speaker=Maria] [Image: a photo of a group of people walking up a trail] Hey John, glad work is going well! Having a good team is so important. I had a great experience last weekend hiking with my church  friends - it was great to be surrounded by supportive people and to enjoy nature. Felt so refreshing!",
+        "is_supporting": true,
+        "idx": 511
+      },
+      {
+        "title": "turn_567 (D28:5)",
+        "text": "[t=5:19 pm on 5 August, 2023, speaker=John] Thanks Maria! I may have found a job at a tech company I like that needs my mechanical skills for their hardware team. It feels different, but I think it's a great opportunity to learn and contribute.",
+        "is_supporting": true,
+        "idx": 567
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_45",
+    "question": "Would John be open to moving to another country?",
+    "answer": [
+      "No, he has goals specifically in the U.S. like joining the military and running for office."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_495 (D24:3)",
+        "text": "[t=3:34 pm on 17 July, 2023, speaker=John] I heard some cool stories from an elderly veteran named Samuel. It was inspiring and heartbreaking, but seeing their resilience really filled me with hope. It reminded me why I wanted to join the military.",
+        "is_supporting": true,
+        "idx": 495
+      },
+      {
+        "title": "turn_126 (D7:2)",
+        "text": "[t=8:55 pm on 25 February, 2023, speaker=John] Hey Maria! Wanted to let you know that I'm running for office again. It's been a wild ride, but I'm more excited than ever! How have you been?",
+        "is_supporting": true,
+        "idx": 126
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_2_46",
+    "question": "When did Maria go hiking with her church friends?",
+    "answer": [
+      "The weekend before 22 July 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_511 (D25:2)",
+        "text": "[t=6:21 pm on 22 July, 2023, speaker=Maria] [Image: a photo of a group of people walking up a trail] Hey John, glad work is going well! Having a good team is so important. I had a great experience last weekend hiking with my church  friends - it was great to be surrounded by supportive people and to enjoy nature. Felt so refreshing!",
+        "is_supporting": true,
+        "idx": 511
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_47",
+    "question": "What exercises has John done?",
+    "answer": [
+      "Weight training, Circuit training, Kickboxing, yoga"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_186 (D10:1)",
+        "text": "[t=12:24 am on 7 April, 2023, speaker=John] Hey Maria, I'm so excited to tell you I started a weekend yoga class with a colleague - it's awesome! I feel great, both mentally and physically after each session. I'd been wanting to try yoga for a while and finally took the plunge. Simple stretching and breathing is having such a positive effect on my wellbeing. And the instructor is great too.",
+        "is_supporting": true,
+        "idx": 186
+      },
+      {
+        "title": "turn_3 (D1:4)",
+        "text": "[t=11:01 am on 17 December, 2022, speaker=John] Woah, Maria, that sounds cool! I'm doing kickboxing and it's giving me so much energy.",
+        "is_supporting": true,
+        "idx": 3
+      },
+      {
+        "title": "turn_522 (D25:13)",
+        "text": "[t=6:21 pm on 22 July, 2023, speaker=John] Yeah, they offer a a bunch, like yoga, kickboxing, and circuit training. It keeps things interesting!",
+        "is_supporting": true,
+        "idx": 522
+      },
+      {
+        "title": "turn_526 (D25:17)",
+        "text": "[t=6:21 pm on 22 July, 2023, speaker=John] I've done weight training so far too. It was challenging but peaceful, kinda like yoga.",
+        "is_supporting": true,
+        "idx": 526
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_48",
+    "question": "When did John have his first firefighter call-out?",
+    "answer": [
+      "The sunday before 3` July 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_533 (D26:4)",
+        "text": "[t=1:59 pm on 31 July, 2023, speaker=John] [Image: a photo of a firefighter's gear laid out on the floor] Thanks, Maria! It's been tough, but really rewarding. The training was intense and taxing, but it changed my view on helping others. Last Sunday we had our first call-out, and it was intense. We responded to a situation and our team worked together to help those in need. Seeing their relief was awesome.",
+        "is_supporting": true,
+        "idx": 533
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_49",
+    "question": "What food item did Maria drop off at the homeless shelter?",
+    "answer": [
+      "Cakes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_528 (D25:19)",
+        "text": "[t=6:21 pm on 22 July, 2023, speaker=John] Yeah, it's been great for me. Let me know if you need any advice to get started.",
+        "is_supporting": true,
+        "idx": 528
+      },
+      {
+        "title": "turn_530 (D26:1)",
+        "text": "[t=1:59 pm on 31 July, 2023, speaker=Maria] Hey John, I'm doing ok - hope you are too. Some interesting stuff has been going on; last week I dropped off that stuff I baked at the homeless shelter. It was great and I'm more motivated than ever to help people.",
+        "is_supporting": true,
+        "idx": 530
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_50",
+    "question": "What attributes describe John?",
+    "answer": [
+      "Selfless, family-oriented, passionate, rational"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_535 (D26:6)",
+        "text": "[t=1:59 pm on 31 July, 2023, speaker=John] It was chaotic when we arrived, but we pulled together. I got a surge of energy and purpose, and we were able to save a family from a burning building. It was wild, but knowing we made a difference made it worth it.",
+        "is_supporting": true,
+        "idx": 535
+      },
+      {
+        "title": "turn_29 (D2:14)",
+        "text": "[t=6:10 pm on 22 December, 2022, speaker=John] [Image: a photography of a family enjoying a ride on a swing] Yeah, they are my rock in tough times and always cheer me on. I'm really thankful for their love. Family time means a lot to me.",
+        "is_supporting": true,
+        "idx": 29
+      },
+      {
+        "title": "turn_48 (D3:5)",
+        "text": "[t=8:30 pm on 1 January, 2023, speaker=John] We held some events and got to meet some people. We went to a homeless shelter to give out food and supplies. Seeing the smiles on their faces, we knew we made a real difference. We also organized a toy drive for kids in need. It was amazing seeing the community come together to spread some joy.",
+        "is_supporting": true,
+        "idx": 48
+      },
+      {
+        "title": "turn_66 (D4:6)",
+        "text": "[t=7:06 pm on 9 January, 2023, speaker=John] I tried to stay calm and asked for assistance, which helped me handle the situation and make it back safely.",
+        "is_supporting": true,
+        "idx": 66
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_2_51",
+    "question": "When did Maria start volunteering at the homeless shelter?",
+    "answer": [
+      "Around August 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_550 (D27:4)",
+        "text": "[t=6:20 pm on 3 August, 2023, speaker=Maria] I started volunteering here about a year ago after witnessing a family struggling on the streets. It made me want to help, so I reached out to the shelter and asked if they needed any volunteers. They said yes, and it has been a really fulfilling experience for me since then.",
+        "is_supporting": true,
+        "idx": 550
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_52",
+    "question": "Who have written notes of gratitude to Maria?",
+    "answer": [
+      "Cindy, Laura"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_447 (D21:19)",
+        "text": "[t=8:43 pm on 3 July, 2023, speaker=Maria] One of the shelter residents, Laura, wrote us a letter expressing their gratitude. The impact we made on their life was inspiring!",
+        "is_supporting": true,
+        "idx": 447
+      },
+      {
+        "title": "turn_554 (D27:8)",
+        "text": "[t=6:20 pm on 3 August, 2023, speaker=Maria] One of the residents at the shelter, Cindy, wrote it. It's a heartfelt expression of gratitude and shows the impact of the support they receive.",
+        "is_supporting": true,
+        "idx": 554
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_53",
+    "question": "When did John help renovate his hometown community center?",
+    "answer": [
+      "2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_573 (D28:11)",
+        "text": "[t=5:19 pm on 5 August, 2023, speaker=John] I haven't been able to volunteer much lately, but I definitely care about it. Last year, I helped renovate a rundown community center back home. It took a lot of work, but seeing the impact on the community was so worth it.",
+        "is_supporting": true,
+        "idx": 573
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_54",
+    "question": "When did Maria take up community work with her church friends?",
+    "answer": [
+      "August 4, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_570 (D28:8)",
+        "text": "[t=5:19 pm on 5 August, 2023, speaker=Maria] Hey John, I'm here for you! Staying positive makes a big difference, even in tough times. Yesterday, I took up some community work with my friends from church. It was super rewarding!",
+        "is_supporting": true,
+        "idx": 570
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_55",
+    "question": "When did Maria receive a medal from the homeless shelter?",
+    "answer": [
+      "The week before 9 August 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_582 (D29:1)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=Maria] [Image: a photography of a medal hanging from a tree with a ribbon] Hey John, what's been going on? I just wanted to check in. Last week was wild - I volunteered at the homeless shelter and they gave me a medal! It was humbling and I'm really glad I could help.",
+        "is_supporting": true,
+        "idx": 582
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_56",
+    "question": "When did John participate in a 5K charity run?",
+    "answer": [
+      "first weekend of August 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_583 (D29:2)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=John] [Image: a photo of a young girl holding a sign in her hands] Hey Maria! Congrats on the recognition! It's really touching to see how much you're doing to help out. Last weekend, I participated in a community event to raise money for a good cause. We got a great turnout and it was amazing to be surrounded by so many supportive people.",
+        "is_supporting": true,
+        "idx": 583
+      },
+      {
+        "title": "turn_585 (D29:4)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=John] [Image: a photo of a group of people posing for a picture] I set up a 5K charity run in our neighborhood. It was all for a good cause - to help out veterans and their families. We were able to raise some funds! Here's a pic from the day.",
+        "is_supporting": true,
+        "idx": 585
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_57",
+    "question": "What causes has John done events for?",
+    "answer": [
+      "Toy drive, Community food drive, veterans, domestic violence"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_585 (D29:4)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=John] [Image: a photo of a group of people posing for a picture] I set up a 5K charity run in our neighborhood. It was all for a good cause - to help out veterans and their families. We were able to raise some funds! Here's a pic from the day.",
+        "is_supporting": true,
+        "idx": 585
+      },
+      {
+        "title": "turn_591 (D29:10)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=John] Yep, we worked with a local organization that helps victims of domestic abuse. We raised awareness and funds at the event for the cause — it's unfortunate how many people suffer from it.",
+        "is_supporting": true,
+        "idx": 591
+      },
+      {
+        "title": "turn_48 (D3:5)",
+        "text": "[t=8:30 pm on 1 January, 2023, speaker=John] We held some events and got to meet some people. We went to a homeless shelter to give out food and supplies. Seeing the smiles on their faces, we knew we made a real difference. We also organized a toy drive for kids in need. It was amazing seeing the community come together to spread some joy.",
+        "is_supporting": true,
+        "idx": 48
+      },
+      {
+        "title": "turn_114 (D6:12)",
+        "text": "[t=2:33 pm on 5 February, 2023, speaker=John] Seeing the effect unemployment has on our neighbors made me decide to act. I wanted to help out in these tough times by doing a community food drive. We can all make a difference!",
+        "is_supporting": true,
+        "idx": 114
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_58",
+    "question": "When did Maria get Coco?",
+    "answer": [
+      "Two weeks before 11 August 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_600 (D30:1)",
+        "text": "[t=12:10 am on 11 August, 2023, speaker=Maria] [Image: a photo of a white dog laying in the grass with a baseball] Hey John! Long time no talk! Guess what - I got a puppy two weeks ago! Her name's Coco and she's adorable.",
+        "is_supporting": true,
+        "idx": 600
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_59",
+    "question": "When did John go on a camping trip with Max?",
+    "answer": [
+      "The summer of 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_605 (D30:6)",
+        "text": "[t=12:10 am on 11 August, 2023, speaker=John] [Image: a photo of a dog and a person sitting by a campfire] Thanks, Maria! Max and I had a blast on our camping trip last summer. We hiked, swam, and made great memories. It was a really peaceful and awesome experience.",
+        "is_supporting": true,
+        "idx": 605
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_60",
+    "question": "What are Maria's dogs' names?",
+    "answer": [
+      "Coco, Shadow"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_600 (D30:1)",
+        "text": "[t=12:10 am on 11 August, 2023, speaker=Maria] [Image: a photo of a white dog laying in the grass with a baseball] Hey John! Long time no talk! Guess what - I got a puppy two weeks ago! Her name's Coco and she's adorable.",
+        "is_supporting": true,
+        "idx": 600
+      },
+      {
+        "title": "turn_626 (D31:4)",
+        "text": "[t=3:14 pm on 13 August, 2023, speaker=Maria] Her name is Shadow! She's full of energy and always puts a smile on my face. She's been a great addition to my life. They get along great.",
+        "is_supporting": true,
+        "idx": 626
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_61",
+    "question": "When did Maria adopt Shadow?",
+    "answer": [
+      "The week before 13 August 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_624 (D31:2)",
+        "text": "[t=3:14 pm on 13 August, 2023, speaker=Maria] [Image: a photography of a black puppy sitting in the grass looking at the camera] Wow, John! You're doing great things. Kudos for helping kids learn. On another note, I just adopted this cute pup from a shelter last week. She brings so much joy! I feel blessed to be able to give her a home.",
+        "is_supporting": true,
+        "idx": 624
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_62",
+    "question": "How many dogs has Maria adopted from the dog shelter she volunteers at?",
+    "answer": [
+      "two"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_600 (D30:1)",
+        "text": "[t=12:10 am on 11 August, 2023, speaker=Maria] [Image: a photo of a white dog laying in the grass with a baseball] Hey John! Long time no talk! Guess what - I got a puppy two weeks ago! Her name's Coco and she's adorable.",
+        "is_supporting": true,
+        "idx": 600
+      },
+      {
+        "title": "turn_624 (D31:2)",
+        "text": "[t=3:14 pm on 13 August, 2023, speaker=Maria] [Image: a photography of a black puppy sitting in the grass looking at the camera] Wow, John! You're doing great things. Kudos for helping kids learn. On another note, I just adopted this cute pup from a shelter last week. She brings so much joy! I feel blessed to be able to give her a home.",
+        "is_supporting": true,
+        "idx": 624
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_2_63",
+    "question": "How many weeks passed between Maria adopting Coco and Shadow?",
+    "answer": [
+      "two weeks"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_600 (D30:1)",
+        "text": "[t=12:10 am on 11 August, 2023, speaker=Maria] [Image: a photo of a white dog laying in the grass with a baseball] Hey John! Long time no talk! Guess what - I got a puppy two weeks ago! Her name's Coco and she's adorable.",
+        "is_supporting": true,
+        "idx": 600
+      },
+      {
+        "title": "turn_624 (D31:2)",
+        "text": "[t=3:14 pm on 13 August, 2023, speaker=Maria] [Image: a photography of a black puppy sitting in the grass looking at the camera] Wow, John! You're doing great things. Kudos for helping kids learn. On another note, I just adopted this cute pup from a shelter last week. She brings so much joy! I feel blessed to be able to give her a home.",
+        "is_supporting": true,
+        "idx": 624
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_64",
+    "question": "What job might Maria pursue in the future?",
+    "answer": [
+      "Shelter coordinator, Counselor"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_213 (D11:10)",
+        "text": "[t=6:13 pm on 10 April, 2023, speaker=Maria] I recently gave a few talks at the homeless shelter I volunteer at. It was really fulfilling and I received lots of compliments from other volunteers. It was a great reminder about why connecting with and helping others is so important. And, I bought a cross necklace to feel closer to my faith- which has made me happy.",
+        "is_supporting": true,
+        "idx": 213
+      },
+      {
+        "title": "turn_550 (D27:4)",
+        "text": "[t=6:20 pm on 3 August, 2023, speaker=Maria] I started volunteering here about a year ago after witnessing a family struggling on the streets. It made me want to help, so I reached out to the shelter and asked if they needed any volunteers. They said yes, and it has been a really fulfilling experience for me since then.",
+        "is_supporting": true,
+        "idx": 550
+      },
+      {
+        "title": "turn_659 (D32:14)",
+        "text": "[t=11:08 am on 16 August, 2023, speaker=Maria] Hey John, I'm here for you. Last Friday, I spent some time at the shelter volunteering at the front desk. Seeing the smiles on their faces when they got food or a bed really made me feel good. We have the power to make a difference in people's lives.",
+        "is_supporting": true,
+        "idx": 659
+      },
+      {
+        "title": "turn_94 (D5:8)",
+        "text": "[t=1:17 pm on 28 January, 2023, speaker=Maria] I started volunteering to help make a difference. My aunt believed in volunteering, and used to help my family out when we were struggling, so I'm inspired by her. It makes me happy knowing I can brighten somebody's day.",
+        "is_supporting": true,
+        "idx": 94
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_2_65",
+    "question": "What is John's main focus in local politics?",
+    "answer": [
+      "Improving education and infrastructure"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_7 (D1:8)",
+        "text": "[t=11:01 am on 17 December, 2022, speaker=John] I'm passionate about improving education and infrastructure in our community. Those are my main focuses.",
+        "is_supporting": true,
+        "idx": 7
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_66",
+    "question": "What sparked John's interest in improving education and infrastructure in the community?",
+    "answer": [
+      "Seeing how lack of education and crumbling infrastructure affected his neighborhood while growing up."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_9 (D1:10)",
+        "text": "[t=11:01 am on 17 December, 2022, speaker=John] [Image: a photo of a group of men working on a building] Growing up, I saw how lack of education and crumbling infrastructure affected my neighborhood. I don't want future generations to go through that, so I think schools and infrastructure should be funded properly. Here's a pic of a school last year, after they got the funding.",
+        "is_supporting": true,
+        "idx": 9
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_67",
+    "question": "How did the extra funding help the school shown in the photo shared by John?",
+    "answer": [
+      "Enabled needed repairs and renovations, making the learning environment safer and more modern for students."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_11 (D1:12)",
+        "text": "[t=11:01 am on 17 December, 2022, speaker=John] It enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
+        "is_supporting": true,
+        "idx": 11
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_68",
+    "question": "What type of workout class did Maria start doing in December 2023?",
+    "answer": [
+      "aerial yoga"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_2 (D1:3)",
+        "text": "[t=11:01 am on 17 December, 2022, speaker=Maria] Been busy volunteering at the homeless shelter and keeping fit. Just started doing aerial yoga, it's great. Have you tried any other cool workout classes?",
+        "is_supporting": true,
+        "idx": 2
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_69",
+    "question": "What did Maria donate to a homeless shelter in December 2023?",
+    "answer": [
+      "old car"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_16 (D2:1)",
+        "text": "[t=6:10 pm on 22 December, 2022, speaker=Maria] Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it.",
+        "is_supporting": true,
+        "idx": 16
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_70",
+    "question": "What kind of meal did John and his family make together in the photo shared by John?",
+    "answer": [
+      "pizza"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_39 (D2:24)",
+        "text": "[t=6:10 pm on 22 December, 2022, speaker=John] We made pizza! We had so much fun making them together. It was great picking out toppings and sharing a tasty meal with family. Have you made anything lately?",
+        "is_supporting": true,
+        "idx": 39
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_71",
+    "question": "What kind of online group did John join?",
+    "answer": [
+      "service-focused online group"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_44 (D3:1)",
+        "text": "[t=8:30 pm on 1 January, 2023, speaker=John] Hey Maria, great to chat again! I joined a service-focused online group last week and it's been an emotional ride. Everyone there is incredible with their own inspiring stories. They've opened my eyes to new perspectives, and I'm feeling a sense of connection and purpose with them.",
+        "is_supporting": true,
+        "idx": 44
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_72",
+    "question": "What kind of activities did John and his mates from the online group do as part of their service efforts?",
+    "answer": [
+      "gave out food and supplies at a homeless shelter, organized a toy drive for kids in need"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_48 (D3:5)",
+        "text": "[t=8:30 pm on 1 January, 2023, speaker=John] We held some events and got to meet some people. We went to a homeless shelter to give out food and supplies. Seeing the smiles on their faces, we knew we made a real difference. We also organized a toy drive for kids in need. It was amazing seeing the community come together to spread some joy.",
+        "is_supporting": true,
+        "idx": 48
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_73",
+    "question": "Who inspired Maria to start volunteering?",
+    "answer": [
+      "Her aunt"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_94 (D5:8)",
+        "text": "[t=1:17 pm on 28 January, 2023, speaker=Maria] I started volunteering to help make a difference. My aunt believed in volunteering, and used to help my family out when we were struggling, so I'm inspired by her. It makes me happy knowing I can brighten somebody's day.",
+        "is_supporting": true,
+        "idx": 94
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_74",
+    "question": "Why did Maria sit with the little girl at the shelter event in February 2023?",
+    "answer": [
+      "The girl seemed sad and had no other family"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_96 (D5:10)",
+        "text": "[t=1:17 pm on 28 January, 2023, speaker=Maria] For me, it was when I noticed a little girl around 8 sitting all alone. She seemed so sad. So, I sat with her and we talked. Turns out she had no other family - it broke my heart. I was able to give her some comfort and a listening ear. We ended up laughing and having a good time.",
+        "is_supporting": true,
+        "idx": 96
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_75",
+    "question": "What did Jean go through before meeting Maria?",
+    "answer": [
+      "divorce, job loss, homelessness"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_131 (D7:7)",
+        "text": "[t=8:55 pm on 25 February, 2023, speaker=Maria] She had a tough time, going through a divorce, losing her job, and ending up homeless. Yet, she still values the little things and believes in the good of kindness.",
+        "is_supporting": true,
+        "idx": 131
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_76",
+    "question": "Why did John decide to run for office again?",
+    "answer": [
+      "saw the impact he could make in the community through politics"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_128 (D7:4)",
+        "text": "[t=8:55 pm on 25 February, 2023, speaker=John] Thanks, Maria! After my last run, I saw the impact I could make in the community through politics. It's rewarding to work towards positive changes and a better future.",
+        "is_supporting": true,
+        "idx": 128
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_77",
+    "question": "What activity did John's colleague, Rob, invite him to?",
+    "answer": [
+      "beginner's yoga class"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_140 (D7:16)",
+        "text": "[t=8:55 pm on 25 February, 2023, speaker=John] Let's do it, Maria! Together, we can make a real difference and bring a brighter future. And nothing too soon, but my colleague Rob invited me to a beginner's yoga class.",
+        "is_supporting": true,
+        "idx": 140
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_78",
+    "question": "What is the name of John's one-year-old child?",
+    "answer": [
+      "Kyle"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_145 (D8:4)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=John] Thanks, Maria! They're doing great. Our one-year-old is so cute, his name is Kyle!",
+        "is_supporting": true,
+        "idx": 145
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_79",
+    "question": "How often does John take his kids to the park?",
+    "answer": [
+      "A few times a week"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_149 (D8:8)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=John] [Image: a photography of a young girl and a young boy on a swing] Yeah, we go a few times a week. It's great for family bonding and letting the kids run around. We had a great time last weekend - they really enjoyed the carefree joy.",
+        "is_supporting": true,
+        "idx": 149
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_80",
+    "question": "What did Maria make for her home to remind her of a trip to England?",
+    "answer": [
+      "painting of a castle on a hill"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_156 (D8:15)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=Maria] [Image: a photography of a painting of a castle on a hill] Thanks, John! I got the idea from that trip to England a few years ago - I was mesmerized by the castles. I wanted to bring that same magic to my home, like a reminder of the world's beauty. I made a painting too!",
+        "is_supporting": true,
+        "idx": 156
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_81",
+    "question": "Where did Maria get the idea for the castle shadow box in her home?",
+    "answer": [
+      "England"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_156 (D8:15)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=Maria] [Image: a photography of a painting of a castle on a hill] Thanks, John! I got the idea from that trip to England a few years ago - I was mesmerized by the castles. I wanted to bring that same magic to my home, like a reminder of the world's beauty. I made a painting too!",
+        "is_supporting": true,
+        "idx": 156
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_82",
+    "question": "What did John receive a certificate for?",
+    "answer": [
+      "completion of a university degree"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_169 (D9:2)",
+        "text": "[t=9:36 am on 2 April, 2023, speaker=John] [Image: a photo of a certificate of completion of a university degree] Hey Maria! Awesome to hear from you. Sounds like a great way to delve into your feelings. Since we spoke last, I've had quite the adventure!",
+        "is_supporting": true,
+        "idx": 169
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_83",
+    "question": "What areas is John particularly interested in for policymaking?",
+    "answer": [
+      "education and infrastructure"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_175 (D9:8)",
+        "text": "[t=9:36 am on 2 April, 2023, speaker=John] Thanks, Maria! Improving education and infrastructure is particularly interesting to me. It's important for our community.",
+        "is_supporting": true,
+        "idx": 175
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_84",
+    "question": "What did Maria participate in last weekend before April 10, 2023?",
+    "answer": [
+      "a 5K charity run"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_195 (D10:10)",
+        "text": "[t=12:24 am on 7 April, 2023, speaker=Maria] Last weekend I did something new that had an impact on me. I participated in a 5K charity run for a homeless shelter. It was awesome being surrounded by people all there for the same cause. There's something special about the energy and sense of unity. It was truly rewarding and reminded me why I'm passionate about charity work.",
+        "is_supporting": true,
+        "idx": 195
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_85",
+    "question": "What event did John volunteer at last weekend?",
+    "answer": [
+      "career fair at a local school"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_198 (D10:13)",
+        "text": "[t=12:24 am on 7 April, 2023, speaker=John] [Image: a photography of a heart shaped sign with a quote on it] What a photo! Seeing everyone come together for a shared cause must have been inspiring. Last weekend I had an experience that reminded me of the impact we can make. I got to volunteer at a career fair at a local school, and it was incredible to see how lack of resources affects these kids' dreams. Being able to help them was such a rewarding experience.",
+        "is_supporting": true,
+        "idx": 198
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_86",
+    "question": "What did John do that put a strain on his wallet?",
+    "answer": [
+      "His car broke down"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_204 (D11:1)",
+        "text": "[t=6:13 pm on 10 April, 2023, speaker=John] Hey Maria, haven't talked for a few days. Had a wild week, my car broke down last Fri on my way to work. Trying to get it fixed but it's tough & putting a strain on my wallet. Staying positive & looking for a solution though.",
+        "is_supporting": true,
+        "idx": 204
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_87",
+    "question": "Where did John explore on a road trip last year?",
+    "answer": [
+      "Pacific Northwest"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_208 (D11:5)",
+        "text": "[t=6:13 pm on 10 April, 2023, speaker=John] Thanks! We explored the coast up in the Pacific Northwest and hit some cool national parks. The beauty of nature was absolutely breathtaking!",
+        "is_supporting": true,
+        "idx": 208
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_88",
+    "question": "What topic has John been blogging about recently?",
+    "answer": [
+      "politics and the government"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_225 (D12:1)",
+        "text": "[t=7:34 pm on 18 April, 2023, speaker=John] Hey Maria, hope you're doing okay. Since we chatted last, I've been blogging about politics and the government. It's been a really satisfying experience and I care about making a real impact. We need way better education and infrastructure and I know firsthand how this impacts neighborhoods.",
+        "is_supporting": true,
+        "idx": 225
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_89",
+    "question": "Why did John start blogging about politics and policies?",
+    "answer": [
+      "raise awareness and start conversations to create positive change"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_227 (D12:3)",
+        "text": "[t=7:34 pm on 18 April, 2023, speaker=John] Thanks, Maria! It's been great to talk to someone who understands the importance of these issues. Digging deeper into the political system has been eye-opening, so I'm researching policies and writing about my thoughts and ideas. Hoping to raise awareness and start conversations to create positive change.",
+        "is_supporting": true,
+        "idx": 227
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_90",
+    "question": "What was the focus of John's recent research and writing on his blog?",
+    "answer": [
+      "education reform and infrastructure development"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_229 (D12:5)",
+        "text": "[t=7:34 pm on 18 April, 2023, speaker=John] Recently, education reform and infrastructure development. Good access to quality education and updated infrastructure are key to a thriving and successful community. My goal is to get conversations going and get people involved by sharing ideas and taking action. It's really empowering to know I can help make a difference in people's lives.",
+        "is_supporting": true,
+        "idx": 229
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_91",
+    "question": "What did John attend with his colleagues in March 2023?",
+    "answer": [
+      "a tech-for-good convention"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_233 (D12:9)",
+        "text": "[t=7:34 pm on 18 April, 2023, speaker=John] My colleagues and I went to a convention together last month. We're all passionate about using tech for good in our community. It was great to connect with like-minded folks and swap ideas. It's inspiring to see people united in their goal.",
+        "is_supporting": true,
+        "idx": 233
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_2_92",
+    "question": "How often does John work out with his family?",
+    "answer": [
+      "Three times a week"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_254 (D13:7)",
+        "text": "[t=3:18 pm on 4 May, 2023, speaker=John] Thanks, Maria! Three times a week; it keeps us on track.",
+        "is_supporting": true,
+        "idx": 254
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_93",
+    "question": "How has John's fitness improved since starting boot camps with his family?",
+    "answer": [
+      "More energy, gains in strength and endurance"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_252 (D13:5)",
+        "text": "[t=3:18 pm on 4 May, 2023, speaker=John] Yeah Maria! We've had lots more energy and noticed some gains in strength and endurance. We're pushing ourselves and supporting each other which is super motivating. Best of all, my kids are getting excited about staying active!",
+        "is_supporting": true,
+        "idx": 252
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_94",
+    "question": "What kind of food did Maria have on her dinner spread iwth her mother?",
+    "answer": [
+      "Salads, sandwiches, homemade desserts"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_265 (D13:18)",
+        "text": "[t=3:18 pm on 4 May, 2023, speaker=Maria] Thanks, John! It had lots of great things like salads, sandwiches, and homemade desserts. My favorite is the amazing banana split sundae - I enjoy it after a day of volunteering. It's a little moment of joy in life - balance is key!",
+        "is_supporting": true,
+        "idx": 265
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_95",
+    "question": "What activity did Maria and her mom do together in May 2023?",
+    "answer": [
+      "Made dinner together"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_263 (D13:16)",
+        "text": "[t=3:18 pm on 4 May, 2023, speaker=Maria] [Image: a photo of a table with a variety of food on it] Wow, John! It's great when you have that kind of support. My mom and I made some dinner together last night!",
+        "is_supporting": true,
+        "idx": 263
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_96",
+    "question": "What did Maria do to feel closer to a community and her faith?",
+    "answer": [
+      "joined a nearby church"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_294 (D14:10)",
+        "text": "[t=5:04 pm on 6 May, 2023, speaker=Maria] Just yesterday I joined a nearby church. I wanted to feel closer to a community and my faith. So far it's been really great!",
+        "is_supporting": true,
+        "idx": 294
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_97",
+    "question": "Why did Maria join a nearby church recently?",
+    "answer": [
+      "to feel closer to a community and her faith"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_294 (D14:10)",
+        "text": "[t=5:04 pm on 6 May, 2023, speaker=Maria] Just yesterday I joined a nearby church. I wanted to feel closer to a community and my faith. So far it's been really great!",
+        "is_supporting": true,
+        "idx": 294
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_98",
+    "question": "What did John host for the veterans in May 2023 as part of the project?",
+    "answer": [
+      "a small party to share their stories"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_320 (D15:13)",
+        "text": "[t=7:38 pm on 20 May, 2023, speaker=John] Thanks, Maria! We had a great time throwing a small party and inviting some veterans to share their stories. It was awesome seeing them make connections and find camaraderie. All the smiles and new friendships made it really heartwarming.",
+        "is_supporting": true,
+        "idx": 320
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_99",
+    "question": "What did John and the veterans do during the small party?",
+    "answer": [
+      "share stories and make connections"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_320 (D15:13)",
+        "text": "[t=7:38 pm on 20 May, 2023, speaker=John] Thanks, Maria! We had a great time throwing a small party and inviting some veterans to share their stories. It was awesome seeing them make connections and find camaraderie. All the smiles and new friendships made it really heartwarming.",
+        "is_supporting": true,
+        "idx": 320
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_100",
+    "question": "What emotions did John feel during the small party with the veterans?",
+    "answer": [
+      "heartwarming"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_320 (D15:13)",
+        "text": "[t=7:38 pm on 20 May, 2023, speaker=John] Thanks, Maria! We had a great time throwing a small party and inviting some veterans to share their stories. It was awesome seeing them make connections and find camaraderie. All the smiles and new friendships made it really heartwarming.",
+        "is_supporting": true,
+        "idx": 320
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_101",
+    "question": "What event is Maria getting ready for at the shelter on May 25, 2023?",
+    "answer": [
+      "fundraiser"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_328 (D16:2)",
+        "text": "[t=1:24 pm on 25 May, 2023, speaker=Maria] Hey John! Cool that it's going well - you and your friends look like a great team! I'm busy at the shelter getting ready for a fundraiser next week. Hopefully, I can raise enough to cover basic needs for the homeless.",
+        "is_supporting": true,
+        "idx": 328
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_102",
+    "question": "What does Maria need to spread the word about for the fundraiser for the volunteer shelter?",
+    "answer": [
+      "chili cook-off"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_330 (D16:4)",
+        "text": "[t=1:24 pm on 25 May, 2023, speaker=Maria] [Image: a photo of a poster for a chili cook off event] Thanks, John! Appreciate your help. We need to get the word out about the chili cook-off at the fundraiser. Here's the poster!",
+        "is_supporting": true,
+        "idx": 330
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_103",
+    "question": "What was the name of the pet that John had to say goodbye to on 3 June, 2023?",
+    "answer": [
+      "Max"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_346 (D17:1)",
+        "text": "[t=11:51 am on 3 June, 2023, speaker=John] Hey Maria, long time no talk! Life's been pretty wild lately. The toughest thing to deal with is that we had to say goodbye to Max. He was such an important part of our family for 10 years and it's so hard to think he's not here wagging that tail anymore.",
+        "is_supporting": true,
+        "idx": 346
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_104",
+    "question": "How long was Max a part of John's family?",
+    "answer": [
+      "10 years"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_346 (D17:1)",
+        "text": "[t=11:51 am on 3 June, 2023, speaker=John] Hey Maria, long time no talk! Life's been pretty wild lately. The toughest thing to deal with is that we had to say goodbye to Max. He was such an important part of our family for 10 years and it's so hard to think he's not here wagging that tail anymore.",
+        "is_supporting": true,
+        "idx": 346
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_105",
+    "question": "How does John plan to honor the memories of his beloved pet?",
+    "answer": [
+      "By considering adopting a rescue dog"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D17:11)",
+        "text": "[t=11:51 am on 3 June, 2023, speaker=John] We're considering adopting a rescue dog - for love and to teach our kids responsibility and compassion.",
+        "is_supporting": true,
+        "idx": 356
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_106",
+    "question": "What important values does John want to teach his kids through adopting a rescue dog?",
+    "answer": [
+      "Responsibility and compassion"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D17:11)",
+        "text": "[t=11:51 am on 3 June, 2023, speaker=John] We're considering adopting a rescue dog - for love and to teach our kids responsibility and compassion.",
+        "is_supporting": true,
+        "idx": 356
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_107",
+    "question": "What new activity did Maria start recently, as mentioned on 3 June, 2023?",
+    "answer": [
+      "volunteering at a local dog shelter once a month"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_357 (D17:12)",
+        "text": "[t=11:51 am on 3 June, 2023, speaker=Maria] John, that's such a great idea! It gives the pup a loving home and teaches your kids important values. If you need any help, let me know! I just started volunteering at a local dog shelter once a month.",
+        "is_supporting": true,
+        "idx": 357
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_108",
+    "question": "What did Maria say it was like being at the waterfall in Oregon?",
+    "answer": [
+      "Like being in a fairy tale"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_368 (D18:7)",
+        "text": "[t=2:47 pm on 12 June, 2023, speaker=Maria] I felt like I was in a fairy tale! The water sounded so calming and the surroundings were beautiful. It was truly magical!",
+        "is_supporting": true,
+        "idx": 368
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_109",
+    "question": "What does Maria say she feels when doing upside-down yoga poses?",
+    "answer": [
+      "Free and light"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_378 (D18:17)",
+        "text": "[t=2:47 pm on 12 June, 2023, speaker=Maria] Thanks, John! It's tough to pick just one, but I really enjoy the upside-down poses. They make me feel free and light.",
+        "is_supporting": true,
+        "idx": 378
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_110",
+    "question": "What exciting news did Maria share on 16 June, 2023?",
+    "answer": [
+      "joined a gym"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_385 (D19:1)",
+        "text": "[t=7:20 pm on 16 June, 2023, speaker=Maria] Hey John, been good since we talked? I got some great news to share - I joined a gym last week! It's been super positive - I'm sticking to my workout routine and the people are awesome. The atmosphere is so welcoming.",
+        "is_supporting": true,
+        "idx": 385
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_111",
+    "question": "What yoga activity has Maria been trying to improve her strength and endurance?",
+    "answer": [
+      "kundalini yoga"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_387 (D19:3)",
+        "text": "[t=7:20 pm on 16 June, 2023, speaker=Maria] Thanks, John! Yeah, it's been awesome. I want to get stronger and improve my endurance, and I'm trying kundalini yoga. What about you? Do you have any goals or activities you want to try?",
+        "is_supporting": true,
+        "idx": 387
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_112",
+    "question": "What did John recently get promoted to?",
+    "answer": [
+      "assistant manager"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_392 (D19:8)",
+        "text": "[t=7:20 pm on 16 June, 2023, speaker=John] [Image: a photography of a golden trophy on a black surface] Thanks, Maria! I was really excited. It feels like all the hard work I've put in has paid off now that I'm an assistant manager- it's like a stepping stone for bigger things.",
+        "is_supporting": true,
+        "idx": 392
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_113",
+    "question": "What was one of the biggest challenges John faced in his journey to becoming assistant manager?",
+    "answer": [
+      "self-doubt"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_396 (D19:12)",
+        "text": "[t=7:20 pm on 16 June, 2023, speaker=John] Yeah, I faced all kinds of hurdles - tech stuff, workplace stuff... but the worst was self-doubt. There were moments when I questioned if I was on the right track. But with support at home and my own grit, I powered through. This promotion is a reward for all the hustle and hardship I put in - a reminder that I'm on the right path.",
+        "is_supporting": true,
+        "idx": 396
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_114",
+    "question": "How does John describe the support he received during his journey to becoming assistant manager?",
+    "answer": [
+      "having support at home and his own grit"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_396 (D19:12)",
+        "text": "[t=7:20 pm on 16 June, 2023, speaker=John] Yeah, I faced all kinds of hurdles - tech stuff, workplace stuff... but the worst was self-doubt. There were moments when I questioned if I was on the right track. But with support at home and my own grit, I powered through. This promotion is a reward for all the hustle and hardship I put in - a reminder that I'm on the right path.",
+        "is_supporting": true,
+        "idx": 396
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_115",
+    "question": "What kind of event did John and his family attend in June 2023?",
+    "answer": [
+      "live music event"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_414 (D20:4)",
+        "text": "[t=12:21 am on 27 June, 2023, speaker=John] That's great, Maria! It's such a blessing to have family who always supports us and reminds us that we're not alone. They know us like no one else and stick by us no matter what. Last week, we had a blast at a live music event. Seeing them dancing and having fun was awesome. The energy in the air was amazing.",
+        "is_supporting": true,
+        "idx": 414
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_116",
+    "question": "Why did Maria need to help her cousin find a new place to live?",
+    "answer": [
+      "Her cousin had to leave and find a new place in a hurry."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_433 (D21:5)",
+        "text": "[t=8:43 pm on 3 July, 2023, speaker=Maria] A car ran a red light and hit us, but thankfully everyone is okay. Besides that, my cousin just had a tough time recently, so I'm lending a hand in helping her find a new place.",
+        "is_supporting": true,
+        "idx": 433
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_117",
+    "question": "What event did John participate in to show support for veterans' rights?",
+    "answer": [
+      "marching event"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_450 (D21:22)",
+        "text": "[t=8:43 pm on 3 July, 2023, speaker=John] Yeah, Maria, keep it up! Even small things can mean a lot. I just participated in a marching event for veterans' rights and it was awesome, made me remember how much they sacrifice for us. We need to show our support however we can.",
+        "is_supporting": true,
+        "idx": 450
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_118",
+    "question": "What inspired John to join the marching event for veterans' rights?",
+    "answer": [
+      "Respect for the military and the desire to show support"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_452 (D21:24)",
+        "text": "[t=8:43 pm on 3 July, 2023, speaker=John] I've always had a great respect for our military and wanted to show my support. I think it's important to stand up for what we believe in.",
+        "is_supporting": true,
+        "idx": 452
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_119",
+    "question": "How often does John get to see sunsets like the one he shared with Maria?",
+    "answer": [
+      "At least once a week"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_474 (D22:17)",
+        "text": "[t=6:59 pm on 5 July, 2023, speaker=John] Thanks, Maria! I see them at least once a week. It's a good way to disconnect, think, and find peace in this crazy world.",
+        "is_supporting": true,
+        "idx": 474
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_120",
+    "question": "What natural disaster affected John's old area on 7 July, 2023?",
+    "answer": [
+      "Flood"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_479 (D23:1)",
+        "text": "[t=6:29 pm on 7 July, 2023, speaker=John] Maria, since we talked, it's been tough. My old area was hit by a nasty flood last week. The infrastructure wasn't great so lots of homes were ruined. It's reminding me we need to fix things up in our community.",
+        "is_supporting": true,
+        "idx": 479
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_121",
+    "question": "How did the flood impact the homes in John's old area?",
+    "answer": [
+      "Lots of homes were ruined."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_479 (D23:1)",
+        "text": "[t=6:29 pm on 7 July, 2023, speaker=John] Maria, since we talked, it's been tough. My old area was hit by a nasty flood last week. The infrastructure wasn't great so lots of homes were ruined. It's reminding me we need to fix things up in our community.",
+        "is_supporting": true,
+        "idx": 479
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_122",
+    "question": "What motivated Maria and John to discuss potential solutions for their community on 7 July, 2023?",
+    "answer": [
+      "Flood in John's old area"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_479 (D23:1)",
+        "text": "[t=6:29 pm on 7 July, 2023, speaker=John] Maria, since we talked, it's been tough. My old area was hit by a nasty flood last week. The infrastructure wasn't great so lots of homes were ruined. It's reminding me we need to fix things up in our community.",
+        "is_supporting": true,
+        "idx": 479
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_123",
+    "question": "What did Maria plan to do later on the evening of 7 July, 2023?",
+    "answer": [
+      "have dinner with friends from the gym"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_492 (D23:14)",
+        "text": "[t=6:29 pm on 7 July, 2023, speaker=Maria] For sure! We can keep doing great stuff and making a difference. Well, I'm off to have dinner with some friends from the gym. Talk to you later!",
+        "is_supporting": true,
+        "idx": 492
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_124",
+    "question": "What kind of activities did Maria do at the picnic with her church friends?",
+    "answer": [
+      "played games like charades and a scavenger hunt"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_500 (D24:8)",
+        "text": "[t=3:34 pm on 17 July, 2023, speaker=Maria] Some fun ones like charades and a scavenger hunt. We all had a good laugh!",
+        "is_supporting": true,
+        "idx": 500
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_125",
+    "question": "What does John appreciate about the veteran's hospital visit?",
+    "answer": [
+      "the resilience of the veterans and their inspiring stories"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_495 (D24:3)",
+        "text": "[t=3:34 pm on 17 July, 2023, speaker=John] I heard some cool stories from an elderly veteran named Samuel. It was inspiring and heartbreaking, but seeing their resilience really filled me with hope. It reminded me why I wanted to join the military.",
+        "is_supporting": true,
+        "idx": 495
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_126",
+    "question": "What did John take away from visiting the veteran's hospital?",
+    "answer": [
+      "appreciation for giving back"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_493 (D24:1)",
+        "text": "[t=3:34 pm on 17 July, 2023, speaker=John] Hey Maria, last week was really eye-opening. I visited a veteran's hospital and met some amazing people. It made me appreciate what we have and the need to give back.",
+        "is_supporting": true,
+        "idx": 493
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_127",
+    "question": "Why did John feel inspired to join the military after the visit to the hospital?",
+    "answer": [
+      "seeing the resilience of the veterans"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_495 (D24:3)",
+        "text": "[t=3:34 pm on 17 July, 2023, speaker=John] I heard some cool stories from an elderly veteran named Samuel. It was inspiring and heartbreaking, but seeing their resilience really filled me with hope. It reminded me why I wanted to join the military.",
+        "is_supporting": true,
+        "idx": 495
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_128",
+    "question": "In what activity did Maria and her church friends participate in July 2023?",
+    "answer": [
+      "hiking"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_511 (D25:2)",
+        "text": "[t=6:21 pm on 22 July, 2023, speaker=Maria] [Image: a photo of a group of people walking up a trail] Hey John, glad work is going well! Having a good team is so important. I had a great experience last weekend hiking with my church  friends - it was great to be surrounded by supportive people and to enjoy nature. Felt so refreshing!",
+        "is_supporting": true,
+        "idx": 511
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_129",
+    "question": "What does John think about trying new classes at the yoga studio?",
+    "answer": [
+      "Trying new classes is a fun way to switch up the exercise routine."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_523 (D25:14)",
+        "text": "[t=6:21 pm on 22 July, 2023, speaker=Maria] Cool, John! Trying new classes sounds like a fun way to switch up your exercise routine - I should give it a go!",
+        "is_supporting": true,
+        "idx": 523
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_130",
+    "question": "Which activity has John done apart from yoga at the studio?",
+    "answer": [
+      "weight training"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_526 (D25:17)",
+        "text": "[t=6:21 pm on 22 July, 2023, speaker=John] I've done weight training so far too. It was challenging but peaceful, kinda like yoga.",
+        "is_supporting": true,
+        "idx": 526
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_131",
+    "question": "What community service did Maria mention that she was involved in on 31 July, 2023?",
+    "answer": [
+      "volunteered at a homeless shelter"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_530 (D26:1)",
+        "text": "[t=1:59 pm on 31 July, 2023, speaker=Maria] Hey John, I'm doing ok - hope you are too. Some interesting stuff has been going on; last week I dropped off that stuff I baked at the homeless shelter. It was great and I'm more motivated than ever to help people.",
+        "is_supporting": true,
+        "idx": 530
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_132",
+    "question": "How did Maria start volunteering at the homeless shelter?",
+    "answer": [
+      "Witnessed a family struggling on the streets and reached out to the shelter"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_550 (D27:4)",
+        "text": "[t=6:20 pm on 3 August, 2023, speaker=Maria] I started volunteering here about a year ago after witnessing a family struggling on the streets. It made me want to help, so I reached out to the shelter and asked if they needed any volunteers. They said yes, and it has been a really fulfilling experience for me since then.",
+        "is_supporting": true,
+        "idx": 550
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_133",
+    "question": "What did John do the week before August 3, 2023 involving his kids?",
+    "answer": [
+      "Had a meaningful experience at a military memorial"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_555 (D27:9)",
+        "text": "[t=6:20 pm on 3 August, 2023, speaker=John] [Image: a photo of a young boy holding a flag in a cemetery] Wow, Maria, that's so cool that you're making a difference like that! You're so inspiring. Last week, we had a meaningful experience at a military memorial. It really made an impact on my kids.",
+        "is_supporting": true,
+        "idx": 555
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_134",
+    "question": "How did John describe his kids' reaction at the military memorial?",
+    "answer": [
+      "awestruck and humbled"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_557 (D27:11)",
+        "text": "[t=6:20 pm on 3 August, 2023, speaker=John] They were awestruck and humbled.",
+        "is_supporting": true,
+        "idx": 557
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_135",
+    "question": "Why does Maria think it's important for younger generations to visit military memorials?",
+    "answer": [
+      "To remember and appreciate those who served"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_558 (D27:12)",
+        "text": "[t=6:20 pm on 3 August, 2023, speaker=Maria] Imagining visiting a military memorial makes me feel humble too. It's important for younger generations to remember and appreciate those who served.",
+        "is_supporting": true,
+        "idx": 558
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_136",
+    "question": "What does John believe is important for children regarding veterans?",
+    "answer": [
+      "Teaching them to respect and appreciate those who served"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_559 (D27:13)",
+        "text": "[t=6:20 pm on 3 August, 2023, speaker=John] Yeah, totally! Showing them how to respect and appreciate those who served our country is important. It was a moving experience for all of us.",
+        "is_supporting": true,
+        "idx": 559
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_137",
+    "question": "What happened to John's job in August 2023?",
+    "answer": [
+      "John lost his job at the mechanical engineering company."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_563 (D28:1)",
+        "text": "[t=5:19 pm on 5 August, 2023, speaker=John] Hey Maria, great chatting with you again! Crazy thing happened since we last talked. I lost my job at the mechanical engineering company. They tanked and it's been really rough. Never saw this coming.",
+        "is_supporting": true,
+        "idx": 563
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_138",
+    "question": "What activity did Maria take up with her friends from church in August 2023?",
+    "answer": [
+      "community work"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_570 (D28:8)",
+        "text": "[t=5:19 pm on 5 August, 2023, speaker=Maria] Hey John, I'm here for you! Staying positive makes a big difference, even in tough times. Yesterday, I took up some community work with my friends from church. It was super rewarding!",
+        "is_supporting": true,
+        "idx": 570
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_139",
+    "question": "What did John do to help his community last year in his hometown?",
+    "answer": [
+      "Helped renovate a rundown community center."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_573 (D28:11)",
+        "text": "[t=5:19 pm on 5 August, 2023, speaker=John] I haven't been able to volunteer much lately, but I definitely care about it. Last year, I helped renovate a rundown community center back home. It took a lot of work, but seeing the impact on the community was so worth it.",
+        "is_supporting": true,
+        "idx": 573
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_140",
+    "question": "What cause did the 5K charity run organized by John support?",
+    "answer": [
+      "veterans and their families"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_585 (D29:4)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=John] [Image: a photo of a group of people posing for a picture] I set up a 5K charity run in our neighborhood. It was all for a good cause - to help out veterans and their families. We were able to raise some funds! Here's a pic from the day.",
+        "is_supporting": true,
+        "idx": 585
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_141",
+    "question": "Who did John work with to raise awareness and funds for victims of domestic abuse?",
+    "answer": [
+      "a local organization"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_591 (D29:10)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=John] Yep, we worked with a local organization that helps victims of domestic abuse. We raised awareness and funds at the event for the cause — it's unfortunate how many people suffer from it.",
+        "is_supporting": true,
+        "idx": 591
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_142",
+    "question": "What recognition did Maria receive at the homeless shelter in August 2023?",
+    "answer": [
+      "a medal for volunteering"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_582 (D29:1)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=Maria] [Image: a photography of a medal hanging from a tree with a ribbon] Hey John, what's been going on? I just wanted to check in. Last week was wild - I volunteered at the homeless shelter and they gave me a medal! It was humbling and I'm really glad I could help.",
+        "is_supporting": true,
+        "idx": 582
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_143",
+    "question": "What is the name of Maria's puppy she got two weeks before August 11, 2023?",
+    "answer": [
+      "Coco"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_600 (D30:1)",
+        "text": "[t=12:10 am on 11 August, 2023, speaker=Maria] [Image: a photo of a white dog laying in the grass with a baseball] Hey John! Long time no talk! Guess what - I got a puppy two weeks ago! Her name's Coco and she's adorable.",
+        "is_supporting": true,
+        "idx": 600
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_144",
+    "question": "What activity did John and Max enjoy together last summer?",
+    "answer": [
+      "Camping"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_605 (D30:6)",
+        "text": "[t=12:10 am on 11 August, 2023, speaker=John] [Image: a photo of a dog and a person sitting by a campfire] Thanks, Maria! Max and I had a blast on our camping trip last summer. We hiked, swam, and made great memories. It was a really peaceful and awesome experience.",
+        "is_supporting": true,
+        "idx": 605
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_145",
+    "question": "How does John describe the camping trip with Max?",
+    "answer": [
+      "Peaceful and awesome"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_605 (D30:6)",
+        "text": "[t=12:10 am on 11 August, 2023, speaker=John] [Image: a photo of a dog and a person sitting by a campfire] Thanks, Maria! Max and I had a blast on our camping trip last summer. We hiked, swam, and made great memories. It was a really peaceful and awesome experience.",
+        "is_supporting": true,
+        "idx": 605
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_146",
+    "question": "Why does John say he feels stuck and questioning his decisions and goals?",
+    "answer": [
+      "Not feeling like making much of an impact"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_613 (D30:14)",
+        "text": "[t=12:10 am on 11 August, 2023, speaker=John] Lately, I've been stumped about something. Don't feel like I'm making much of an impact here, which has me questioning my decisions and goals.",
+        "is_supporting": true,
+        "idx": 613
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_147",
+    "question": "What is the name of Maria's second puppy?",
+    "answer": [
+      "Shadow"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_626 (D31:4)",
+        "text": "[t=3:14 pm on 13 August, 2023, speaker=Maria] Her name is Shadow! She's full of energy and always puts a smile on my face. She's been a great addition to my life. They get along great.",
+        "is_supporting": true,
+        "idx": 626
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_148",
+    "question": "How is Maria's new puppy adjusting to its new home?",
+    "answer": [
+      "doing great - learning commands and house training"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_632 (D31:10)",
+        "text": "[t=3:14 pm on 13 August, 2023, speaker=Maria] [Image: a photo of a man standing next to a dog pointing at something] Awesome, John! Sounds like it's really making a difference. The little one is doing great - learning commands and house training.",
+        "is_supporting": true,
+        "idx": 632
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_149",
+    "question": "What is John currently doing as a volunteer in August 2023?",
+    "answer": [
+      "mentoring students at a local school"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_623 (D31:1)",
+        "text": "[t=3:14 pm on 13 August, 2023, speaker=John] Hi Maria, since we last chatted, I'm volunteering as a mentor for a local school. It's really rewarding to see how much I can help these students.",
+        "is_supporting": true,
+        "idx": 623
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_150",
+    "question": "What activities does John's family enjoy doing together?",
+    "answer": [
+      "going for hikes, hanging out at the park, having picnics, playing board games, having movie nights"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_641 (D31:19)",
+        "text": "[t=3:14 pm on 13 August, 2023, speaker=John] [Image: a photo of two children sitting at a table with a board game] Thanks, Maria! We love being outdoors - going for hikes, hanging out at the park, having picnics - plus playing board games and having movie nights at home.",
+        "is_supporting": true,
+        "idx": 641
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_151",
+    "question": "What did the donations help John's community acquire on 16 August, 2023?",
+    "answer": [
+      "a brand new fire truck"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_656 (D32:11)",
+        "text": "[t=11:08 am on 16 August, 2023, speaker=John] [Image: a photo of a fire truck parked in a garage with other vehicles] Thanks, Maria! Your support means a lot to me. It's amazing how finding my passion has made such a big impact. I'll keep working hard on it. The donations even helped get a brand new fire truck!",
+        "is_supporting": true,
+        "idx": 656
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_2_152",
+    "question": "What is John's main focus in international politics?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_7 (D1:8)",
+        "text": "[t=11:01 am on 17 December, 2022, speaker=John] I'm passionate about improving education and infrastructure in our community. Those are my main focuses.",
+        "is_supporting": true,
+        "idx": 7
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Improving education and infrastructure"
+  },
+  {
+    "id": "locomo_2_153",
+    "question": "What did Maria donate to a luxury store in December 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_16 (D2:1)",
+        "text": "[t=6:10 pm on 22 December, 2022, speaker=Maria] Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it.",
+        "is_supporting": true,
+        "idx": 16
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "old car"
+  },
+  {
+    "id": "locomo_2_154",
+    "question": "Who inspired John to start volunteering?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_94 (D5:8)",
+        "text": "[t=1:17 pm on 28 January, 2023, speaker=Maria] I started volunteering to help make a difference. My aunt believed in volunteering, and used to help my family out when we were struggling, so I'm inspired by her. It makes me happy knowing I can brighten somebody's day.",
+        "is_supporting": true,
+        "idx": 94
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "His aunt"
+  },
+  {
+    "id": "locomo_2_155",
+    "question": "Why did Maria decide to run for office again?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_128 (D7:4)",
+        "text": "[t=8:55 pm on 25 February, 2023, speaker=John] Thanks, Maria! After my last run, I saw the impact I could make in the community through politics. It's rewarding to work towards positive changes and a better future.",
+        "is_supporting": true,
+        "idx": 128
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "saw the impact she could make in the community through politics"
+  },
+  {
+    "id": "locomo_2_156",
+    "question": "What activity did Maria's colleague, Rob, invite her to?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_140 (D7:16)",
+        "text": "[t=8:55 pm on 25 February, 2023, speaker=John] Let's do it, Maria! Together, we can make a real difference and bring a brighter future. And nothing too soon, but my colleague Rob invited me to a beginner's yoga class.",
+        "is_supporting": true,
+        "idx": 140
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "beginner's yoga class"
+  },
+  {
+    "id": "locomo_2_157",
+    "question": "What is the name of Maria's one-year-old child?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_145 (D8:4)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=John] Thanks, Maria! They're doing great. Our one-year-old is so cute, his name is Kyle!",
+        "is_supporting": true,
+        "idx": 145
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Kyle"
+  },
+  {
+    "id": "locomo_2_158",
+    "question": "How often does John take his kids to the library?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_149 (D8:8)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=John] [Image: a photography of a young girl and a young boy on a swing] Yeah, we go a few times a week. It's great for family bonding and letting the kids run around. We had a great time last weekend - they really enjoyed the carefree joy.",
+        "is_supporting": true,
+        "idx": 149
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "A few times a week"
+  },
+  {
+    "id": "locomo_2_159",
+    "question": "What did Maria make for her home to remind her of a trip to France?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_156 (D8:15)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=Maria] [Image: a photography of a painting of a castle on a hill] Thanks, John! I got the idea from that trip to England a few years ago - I was mesmerized by the castles. I wanted to bring that same magic to my home, like a reminder of the world's beauty. I made a painting too!",
+        "is_supporting": true,
+        "idx": 156
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "painting of a castle on a hill"
+  },
+  {
+    "id": "locomo_2_160",
+    "question": "Where did John get the idea for the castle shadow box in his home?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_156 (D8:15)",
+        "text": "[t=6:03 pm on 6 March, 2023, speaker=Maria] [Image: a photography of a painting of a castle on a hill] Thanks, John! I got the idea from that trip to England a few years ago - I was mesmerized by the castles. I wanted to bring that same magic to my home, like a reminder of the world's beauty. I made a painting too!",
+        "is_supporting": true,
+        "idx": 156
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "England"
+  },
+  {
+    "id": "locomo_2_161",
+    "question": "What did Maria receive a certificate for?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_169 (D9:2)",
+        "text": "[t=9:36 am on 2 April, 2023, speaker=John] [Image: a photo of a certificate of completion of a university degree] Hey Maria! Awesome to hear from you. Sounds like a great way to delve into your feelings. Since we spoke last, I've had quite the adventure!",
+        "is_supporting": true,
+        "idx": 169
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "completion of a university degree"
+  },
+  {
+    "id": "locomo_2_162",
+    "question": "What areas is John particularly interested in for art appreciation?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_175 (D9:8)",
+        "text": "[t=9:36 am on 2 April, 2023, speaker=John] Thanks, Maria! Improving education and infrastructure is particularly interesting to me. It's important for our community.",
+        "is_supporting": true,
+        "idx": 175
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "education and infrastructure"
+  },
+  {
+    "id": "locomo_2_163",
+    "question": "Why did Maria start blogging about politics and policies?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_227 (D12:3)",
+        "text": "[t=7:34 pm on 18 April, 2023, speaker=John] Thanks, Maria! It's been great to talk to someone who understands the importance of these issues. Digging deeper into the political system has been eye-opening, so I'm researching policies and writing about my thoughts and ideas. Hoping to raise awareness and start conversations to create positive change.",
+        "is_supporting": true,
+        "idx": 227
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "raise awareness and start conversations to create positive change"
+  },
+  {
+    "id": "locomo_2_164",
+    "question": "What was the focus of John's recent travel and photography blog?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_229 (D12:5)",
+        "text": "[t=7:34 pm on 18 April, 2023, speaker=John] Recently, education reform and infrastructure development. Good access to quality education and updated infrastructure are key to a thriving and successful community. My goal is to get conversations going and get people involved by sharing ideas and taking action. It's really empowering to know I can help make a difference in people's lives.",
+        "is_supporting": true,
+        "idx": 229
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "education reform and infrastructure development"
+  },
+  {
+    "id": "locomo_2_165",
+    "question": "How often does Maria work out with her family?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_254 (D13:7)",
+        "text": "[t=3:18 pm on 4 May, 2023, speaker=John] Thanks, Maria! Three times a week; it keeps us on track.",
+        "is_supporting": true,
+        "idx": 254
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Three times a week"
+  },
+  {
+    "id": "locomo_2_166",
+    "question": "How has John's artistic skills improved since starting boot camps with his family?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_252 (D13:5)",
+        "text": "[t=3:18 pm on 4 May, 2023, speaker=John] Yeah Maria! We've had lots more energy and noticed some gains in strength and endurance. We're pushing ourselves and supporting each other which is super motivating. Best of all, my kids are getting excited about staying active!",
+        "is_supporting": true,
+        "idx": 252
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "More energy, gains in strength and endurance"
+  },
+  {
+    "id": "locomo_2_167",
+    "question": "What kind of food did Maria have on her dinner spread with her father?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_265 (D13:18)",
+        "text": "[t=3:18 pm on 4 May, 2023, speaker=Maria] Thanks, John! It had lots of great things like salads, sandwiches, and homemade desserts. My favorite is the amazing banana split sundae - I enjoy it after a day of volunteering. It's a little moment of joy in life - balance is key!",
+        "is_supporting": true,
+        "idx": 265
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Salads, sandwiches, homemade desserts"
+  },
+  {
+    "id": "locomo_2_168",
+    "question": "What did John do to feel closer to a community and his faith?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_294 (D14:10)",
+        "text": "[t=5:04 pm on 6 May, 2023, speaker=Maria] Just yesterday I joined a nearby church. I wanted to feel closer to a community and my faith. So far it's been really great!",
+        "is_supporting": true,
+        "idx": 294
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "joined a nearby church"
+  },
+  {
+    "id": "locomo_2_169",
+    "question": "Why did John join a nearby church recently?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_294 (D14:10)",
+        "text": "[t=5:04 pm on 6 May, 2023, speaker=Maria] Just yesterday I joined a nearby church. I wanted to feel closer to a community and my faith. So far it's been really great!",
+        "is_supporting": true,
+        "idx": 294
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "to feel closer to a community and her faith"
+  },
+  {
+    "id": "locomo_2_170",
+    "question": "How long was Max a part of Maria's family?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_346 (D17:1)",
+        "text": "[t=11:51 am on 3 June, 2023, speaker=John] Hey Maria, long time no talk! Life's been pretty wild lately. The toughest thing to deal with is that we had to say goodbye to Max. He was such an important part of our family for 10 years and it's so hard to think he's not here wagging that tail anymore.",
+        "is_supporting": true,
+        "idx": 346
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "10 years"
+  },
+  {
+    "id": "locomo_2_171",
+    "question": "How does Maria plan to honor the memories of her beloved pet?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D17:11)",
+        "text": "[t=11:51 am on 3 June, 2023, speaker=John] We're considering adopting a rescue dog - for love and to teach our kids responsibility and compassion.",
+        "is_supporting": true,
+        "idx": 356
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "By considering adopting a rescue dog"
+  },
+  {
+    "id": "locomo_2_172",
+    "question": "What important values does Maria want to teach her kids through adopting a rescue dog?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D17:11)",
+        "text": "[t=11:51 am on 3 June, 2023, speaker=John] We're considering adopting a rescue dog - for love and to teach our kids responsibility and compassion.",
+        "is_supporting": true,
+        "idx": 356
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Responsibility and compassion"
+  },
+  {
+    "id": "locomo_2_173",
+    "question": "What did Maria say it was like being at the desert in Oregon?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_368 (D18:7)",
+        "text": "[t=2:47 pm on 12 June, 2023, speaker=Maria] I felt like I was in a fairy tale! The water sounded so calming and the surroundings were beautiful. It was truly magical!",
+        "is_supporting": true,
+        "idx": 368
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Like being in a fairy tale"
+  },
+  {
+    "id": "locomo_2_174",
+    "question": "What does John say she feels when doing upside-down yoga poses?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_378 (D18:17)",
+        "text": "[t=2:47 pm on 12 June, 2023, speaker=Maria] Thanks, John! It's tough to pick just one, but I really enjoy the upside-down poses. They make me feel free and light.",
+        "is_supporting": true,
+        "idx": 378
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Free and light"
+  },
+  {
+    "id": "locomo_2_175",
+    "question": "What did Maria recently get promoted to?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_392 (D19:8)",
+        "text": "[t=7:20 pm on 16 June, 2023, speaker=John] [Image: a photography of a golden trophy on a black surface] Thanks, Maria! I was really excited. It feels like all the hard work I've put in has paid off now that I'm an assistant manager- it's like a stepping stone for bigger things.",
+        "is_supporting": true,
+        "idx": 392
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "assistant manager"
+  },
+  {
+    "id": "locomo_2_176",
+    "question": "What was one of the biggest challenges Maria faced in her journey to becoming assistant manager?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_396 (D19:12)",
+        "text": "[t=7:20 pm on 16 June, 2023, speaker=John] Yeah, I faced all kinds of hurdles - tech stuff, workplace stuff... but the worst was self-doubt. There were moments when I questioned if I was on the right track. But with support at home and my own grit, I powered through. This promotion is a reward for all the hustle and hardship I put in - a reminder that I'm on the right path.",
+        "is_supporting": true,
+        "idx": 396
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "self-doubt"
+  },
+  {
+    "id": "locomo_2_177",
+    "question": "Why did John need to help his cousin find a new place to live?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_433 (D21:5)",
+        "text": "[t=8:43 pm on 3 July, 2023, speaker=Maria] A car ran a red light and hit us, but thankfully everyone is okay. Besides that, my cousin just had a tough time recently, so I'm lending a hand in helping her find a new place.",
+        "is_supporting": true,
+        "idx": 433
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "His cousin had to leave and find a new place in a hurry."
+  },
+  {
+    "id": "locomo_2_178",
+    "question": "What event did Maria participate in to show support for veterans' rights?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_450 (D21:22)",
+        "text": "[t=8:43 pm on 3 July, 2023, speaker=John] Yeah, Maria, keep it up! Even small things can mean a lot. I just participated in a marching event for veterans' rights and it was awesome, made me remember how much they sacrifice for us. We need to show our support however we can.",
+        "is_supporting": true,
+        "idx": 450
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "marching event"
+  },
+  {
+    "id": "locomo_2_179",
+    "question": "How did the drought impact the homes in John's old area?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_479 (D23:1)",
+        "text": "[t=6:29 pm on 7 July, 2023, speaker=John] Maria, since we talked, it's been tough. My old area was hit by a nasty flood last week. The infrastructure wasn't great so lots of homes were ruined. It's reminding me we need to fix things up in our community.",
+        "is_supporting": true,
+        "idx": 479
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Lots of homes were ruined."
+  },
+  {
+    "id": "locomo_2_180",
+    "question": "What does John criticize about the veteran's hospital visit?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_495 (D24:3)",
+        "text": "[t=3:34 pm on 17 July, 2023, speaker=John] I heard some cool stories from an elderly veteran named Samuel. It was inspiring and heartbreaking, but seeing their resilience really filled me with hope. It reminded me why I wanted to join the military.",
+        "is_supporting": true,
+        "idx": 495
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "the resilience of the veterans and their inspiring stories"
+  },
+  {
+    "id": "locomo_2_181",
+    "question": "What did John take away from visiting the orphanage?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_493 (D24:1)",
+        "text": "[t=3:34 pm on 17 July, 2023, speaker=John] Hey Maria, last week was really eye-opening. I visited a veteran's hospital and met some amazing people. It made me appreciate what we have and the need to give back.",
+        "is_supporting": true,
+        "idx": 493
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "appreciation for giving back"
+  },
+  {
+    "id": "locomo_2_182",
+    "question": "Why did Maria feel inspired to join the military after the visit to the hospital?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_495 (D24:3)",
+        "text": "[t=3:34 pm on 17 July, 2023, speaker=John] I heard some cool stories from an elderly veteran named Samuel. It was inspiring and heartbreaking, but seeing their resilience really filled me with hope. It reminded me why I wanted to join the military.",
+        "is_supporting": true,
+        "idx": 495
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "seeing the resilience of the veterans"
+  },
+  {
+    "id": "locomo_2_183",
+    "question": "How did Maria describe her kids' reaction at the military memorial?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_557 (D27:11)",
+        "text": "[t=6:20 pm on 3 August, 2023, speaker=John] They were awestruck and humbled.",
+        "is_supporting": true,
+        "idx": 557
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "awestruck and humbled"
+  },
+  {
+    "id": "locomo_2_184",
+    "question": "Why does Maria think it's important for younger generations to visit art galleries?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_558 (D27:12)",
+        "text": "[t=6:20 pm on 3 August, 2023, speaker=Maria] Imagining visiting a military memorial makes me feel humble too. It's important for younger generations to remember and appreciate those who served.",
+        "is_supporting": true,
+        "idx": 558
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "To remember and appreciate those who served"
+  },
+  {
+    "id": "locomo_2_185",
+    "question": "What happened to Maria's job in August 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_563 (D28:1)",
+        "text": "[t=5:19 pm on 5 August, 2023, speaker=John] Hey Maria, great chatting with you again! Crazy thing happened since we last talked. I lost my job at the mechanical engineering company. They tanked and it's been really rough. Never saw this coming.",
+        "is_supporting": true,
+        "idx": 563
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "John lost his job at the mechanical engineering company."
+  },
+  {
+    "id": "locomo_2_186",
+    "question": "What cause did the 5K charity run organized by Maria support?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_585 (D29:4)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=John] [Image: a photo of a group of people posing for a picture] I set up a 5K charity run in our neighborhood. It was all for a good cause - to help out veterans and their families. We were able to raise some funds! Here's a pic from the day.",
+        "is_supporting": true,
+        "idx": 585
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "veterans and their families"
+  },
+  {
+    "id": "locomo_2_187",
+    "question": "Who did John work with to raise awareness and funds for animal welfare?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_591 (D29:10)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=John] Yep, we worked with a local organization that helps victims of domestic abuse. We raised awareness and funds at the event for the cause — it's unfortunate how many people suffer from it.",
+        "is_supporting": true,
+        "idx": 591
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "a local organization"
+  },
+  {
+    "id": "locomo_2_188",
+    "question": "What recognition did John receive at the homeless shelter in August 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_582 (D29:1)",
+        "text": "[t=8:06 pm on 9 August, 2023, speaker=Maria] [Image: a photography of a medal hanging from a tree with a ribbon] Hey John, what's been going on? I just wanted to check in. Last week was wild - I volunteered at the homeless shelter and they gave me a medal! It was humbling and I'm really glad I could help.",
+        "is_supporting": true,
+        "idx": 582
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "a medal for volunteering"
+  },
+  {
+    "id": "locomo_2_189",
+    "question": "What is the name of John's puppy he got two weeks before August 11, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_600 (D30:1)",
+        "text": "[t=12:10 am on 11 August, 2023, speaker=Maria] [Image: a photo of a white dog laying in the grass with a baseball] Hey John! Long time no talk! Guess what - I got a puppy two weeks ago! Her name's Coco and she's adorable.",
+        "is_supporting": true,
+        "idx": 600
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Coco"
+  },
+  {
+    "id": "locomo_2_190",
+    "question": "How does Maria describe the camping trip with Max?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_605 (D30:6)",
+        "text": "[t=12:10 am on 11 August, 2023, speaker=John] [Image: a photo of a dog and a person sitting by a campfire] Thanks, Maria! Max and I had a blast on our camping trip last summer. We hiked, swam, and made great memories. It was a really peaceful and awesome experience.",
+        "is_supporting": true,
+        "idx": 605
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Peaceful and awesome"
+  },
+  {
+    "id": "locomo_2_191",
+    "question": "What is the name of Maria's second kitten?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_626 (D31:4)",
+        "text": "[t=3:14 pm on 13 August, 2023, speaker=Maria] Her name is Shadow! She's full of energy and always puts a smile on my face. She's been a great addition to my life. They get along great.",
+        "is_supporting": true,
+        "idx": 626
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Shadow"
+  },
+  {
+    "id": "locomo_2_192",
+    "question": "How is John's new puppy adjusting to its new home?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_632 (D31:10)",
+        "text": "[t=3:14 pm on 13 August, 2023, speaker=Maria] [Image: a photo of a man standing next to a dog pointing at something] Awesome, John! Sounds like it's really making a difference. The little one is doing great - learning commands and house training.",
+        "is_supporting": true,
+        "idx": 632
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "doing great - learning commands and house training"
+  }
+]

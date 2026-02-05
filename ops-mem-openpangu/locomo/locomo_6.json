@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "locomo_6_0",
+    "question": "What are John's suspected health problems?",
+    "answer": [
+      "Obesity"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_26 (D1:27)",
+        "text": "[t=3:47 pm on 17 March, 2022, speaker=John] I'm sure you're very good at this. Unfortunately, I can’t share my love for him with you, my fingers are too big. Perhaps I should take up exercise, at least start going for a run in the morning. And I also don’t like bowling itself, to be honest.",
+        "is_supporting": true,
+        "idx": 26
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_1",
+    "question": "Which recreational activity was James pursuing on March 16, 2022?",
+    "answer": [
+      "bowling"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_25 (D1:26)",
+        "text": "[t=3:47 pm on 17 March, 2022, speaker=James] I'll be looking forward to it. By the way, yesterday I went bowling and got 2 strikes. I love bowling!",
+        "is_supporting": true,
+        "idx": 25
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_2",
+    "question": "Which places or events have John and James planned to meet at?",
+    "answer": [
+      "VR Club, McGee's, baseball game"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_35 (D1:36)",
+        "text": "[t=3:47 pm on 17 March, 2022, speaker=James] Yeah, VR gaming is awesome! Let`s do it next Saturday!",
+        "is_supporting": true,
+        "idx": 35
+      },
+      {
+        "title": "turn_474 (D21:15)",
+        "text": "[t=9:18 pm on 26 August, 2022, speaker=James] Well, how about we go to McGee's pub then? I heard they serve a great stout there!",
+        "is_supporting": true,
+        "idx": 474
+      },
+      {
+        "title": "turn_502 (D23:5)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] Thanks, John. She and I are going to a baseball game next Sunday, want to join? I'll show you what Samantha looks like.",
+        "is_supporting": true,
+        "idx": 502
+      },
+      {
+        "title": "turn_503 (D23:6)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=John] Yeah! Let's do it. It'll be a fun experience!",
+        "is_supporting": true,
+        "idx": 503
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_3",
+    "question": "Do both James and John have pets?",
+    "answer": [
+      "No"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_11 (D1:12)",
+        "text": "[t=3:47 pm on 17 March, 2022, speaker=James] [Image: a photo of two dogs are tied to a fence with a leash] It would be cool! For example, we could write some kind of application for dogs. By the way, my dogs.",
+        "is_supporting": true,
+        "idx": 11
+      },
+      {
+        "title": "turn_54 (D2:18)",
+        "text": "[t=9:26 pm on 20 March, 2022, speaker=John] Aww, they're adorable! Pets are the best - they must make life so much better. I want one so bad, but I'm not there yet. Someday!",
+        "is_supporting": true,
+        "idx": 54
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_4",
+    "question": "When did John resume playing drums in his adulthood?",
+    "answer": [
+      "February 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_62 (D3:5)",
+        "text": "[t=12:40 am on 27 March, 2022, speaker=John] I've been playing for a month now, it's been tough but fun. How about you, how's it going?",
+        "is_supporting": true,
+        "idx": 62
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_5",
+    "question": "What are John and James' favorite games?",
+    "answer": [
+      "John's favorite game is CS:GO, and James's is Apex Legends."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_68 (D3:11)",
+        "text": "[t=12:40 am on 27 March, 2022, speaker=John] I played my favorite CS:GO game in an intense tournament. It was awesome to see all the skilled players competing.",
+        "is_supporting": true,
+        "idx": 68
+      },
+      {
+        "title": "turn_96 (D4:16)",
+        "text": "[t=2:13 pm on 4 April, 2022, speaker=James] [Image: a photo of a video game screen showing a robot and a robot] I've been playing my favourite game called Apex Legends with my team and it's intense! Check out this screenshot of us playing!",
+        "is_supporting": true,
+        "idx": 96
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_6",
+    "question": "Does James live in Connecticut?",
+    "answer": [
+      "Likely yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_106 (D5:1)",
+        "text": "[t=9:52 am on 12 April, 2022, speaker=James] [Image: a photo of a dog and a cat sitting on a dog bed] Hey John! Long time no chat - I adopted a pup from a shelter in Stamford last week and my days have been so much happier with him in the fam. I named it Ned. Any progress on your gaming goals?",
+        "is_supporting": true,
+        "idx": 106
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_7",
+    "question": "In which state is the shelter from which James adopted the puppy?",
+    "answer": [
+      "Connecticut."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_106 (D5:1)",
+        "text": "[t=9:52 am on 12 April, 2022, speaker=James] [Image: a photo of a dog and a cat sitting on a dog bed] Hey John! Long time no chat - I adopted a pup from a shelter in Stamford last week and my days have been so much happier with him in the fam. I named it Ned. Any progress on your gaming goals?",
+        "is_supporting": true,
+        "idx": 106
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_8",
+    "question": "How many pets does James have?",
+    "answer": [
+      "Three dogs."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_11 (D1:12)",
+        "text": "[t=3:47 pm on 17 March, 2022, speaker=James] [Image: a photo of two dogs are tied to a fence with a leash] It would be cool! For example, we could write some kind of application for dogs. By the way, my dogs.",
+        "is_supporting": true,
+        "idx": 11
+      },
+      {
+        "title": "turn_13 (D1:14)",
+        "text": "[t=3:47 pm on 17 March, 2022, speaker=James] Max and Daisy. Will be actually cool to build an app for dog walking and pet care. The goal is to connect pet owners with reliable dog walkers and provide helpful information on pet care.",
+        "is_supporting": true,
+        "idx": 13
+      },
+      {
+        "title": "turn_106 (D5:1)",
+        "text": "[t=9:52 am on 12 April, 2022, speaker=James] [Image: a photo of a dog and a cat sitting on a dog bed] Hey John! Long time no chat - I adopted a pup from a shelter in Stamford last week and my days have been so much happier with him in the fam. I named it Ned. Any progress on your gaming goals?",
+        "is_supporting": true,
+        "idx": 106
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_9",
+    "question": "What are the names of James's dogs?",
+    "answer": [
+      "Ned, Daisy, Max"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_13 (D1:14)",
+        "text": "[t=3:47 pm on 17 March, 2022, speaker=James] Max and Daisy. Will be actually cool to build an app for dog walking and pet care. The goal is to connect pet owners with reliable dog walkers and provide helpful information on pet care.",
+        "is_supporting": true,
+        "idx": 13
+      },
+      {
+        "title": "turn_106 (D5:1)",
+        "text": "[t=9:52 am on 12 April, 2022, speaker=James] [Image: a photo of a dog and a cat sitting on a dog bed] Hey John! Long time no chat - I adopted a pup from a shelter in Stamford last week and my days have been so much happier with him in the fam. I named it Ned. Any progress on your gaming goals?",
+        "is_supporting": true,
+        "idx": 106
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_10",
+    "question": "When did James adopt Ned?",
+    "answer": [
+      "first week of April 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_106 (D5:1)",
+        "text": "[t=9:52 am on 12 April, 2022, speaker=James] [Image: a photo of a dog and a cat sitting on a dog bed] Hey John! Long time no chat - I adopted a pup from a shelter in Stamford last week and my days have been so much happier with him in the fam. I named it Ned. Any progress on your gaming goals?",
+        "is_supporting": true,
+        "idx": 106
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_11",
+    "question": "How was John feeling on April 10, 2022?",
+    "answer": [
+      "seeking solitude"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_128 (D6:7)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=John] [Image: a photo of a river running through a canyon surrounded by mountains] That's awesome. Real-life experiences can be so inspiring. It's like the virtual world is connected to the real world. By the way, two days ago I wanted to be alone with nature. This is the canyon I found in the surrounding area. Very calming view.",
+        "is_supporting": true,
+        "idx": 128
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_12",
+    "question": "Did James have a girlfriend during April 2022?",
+    "answer": [
+      "Presumably not"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_127 (D6:6)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=James] Thanks, I'm glad you can feel the atmosphere. I got the idea from a walk with my dogs two weeks ago. We were walking around our neighborhood, and a stranger was walking towards us. I had never seen her nearby before. Her eyes and appearance amazed me so much, it seemed to me that I fell in love at first sight. It’s a pity that I didn’t approach her to get to know her, but at least I remembered her appearance and embodied it in the game.",
+        "is_supporting": true,
+        "idx": 127
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_13",
+    "question": "When did James visit Italy?",
+    "answer": [
+      "In 2021"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_133 (D6:12)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=James] I agree with you, I also love to travel. Last year I visited Italy, for example. A very beautiful country with delicious food.",
+        "is_supporting": true,
+        "idx": 133
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_14",
+    "question": "When did James buy himself a new adventure book?",
+    "answer": [
+      "April 26, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_172 (D8:11)",
+        "text": "[t=2:36 pm on 29 April, 2022, speaker=James] [Image: a photo of a person holding a book open to a picture of a male character] That sounds challenging, but you're making progress. Hang in there! By the way, three days ago I bought myself an adventure book with fantasy novels and cool arts.",
+        "is_supporting": true,
+        "idx": 172
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_15",
+    "question": "When did James start playing Civilization VI?",
+    "answer": [
+      "March 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_190 (D8:29)",
+        "text": "[t=2:36 pm on 29 April, 2022, speaker=James] Been playing it for a month now - it's really challenged my strategy skills.",
+        "is_supporting": true,
+        "idx": 190
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_16",
+    "question": "What is the game with different colored cards that was John talking about with James?",
+    "answer": [
+      "UNO"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_195 (D8:34)",
+        "text": "[t=2:36 pm on 29 April, 2022, speaker=John] Yes, we played one game, but I forgot its name. Perhaps you know this game. There were multi-colored cards with numbers. You can only place a card with the same color or number on your opponent's card. Sometimes you trade cards, sometimes you need to draw a few extra from the deck or skip a turn.",
+        "is_supporting": true,
+        "idx": 195
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_17",
+    "question": "What is the board game where you have to find the imposter that John mentions to James?",
+    "answer": [
+      "Mafia"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_197 (D8:36)",
+        "text": "[t=2:36 pm on 29 April, 2022, speaker=John] Yeah for sure! I've been playing one more game with friends these days. It's a game to figure out who the impostors are and it's super fun.",
+        "is_supporting": true,
+        "idx": 197
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_18",
+    "question": "Which books has John recommended to James?",
+    "answer": [
+      "The Name of the Wind, Stormlight Archive, Kingkiller Chronicles, Expanse"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_304 (D14:10)",
+        "text": "[t=5:07 pm on 16 June, 2022, speaker=John] Definitely! Two of my favorites are \"The Stormlight Archive\" and \"Kingkiller Chronicle\". If SF is your thing, check out \"The Expanse\" series. It's epic!",
+        "is_supporting": true,
+        "idx": 304
+      },
+      {
+        "title": "turn_175 (D8:14)",
+        "text": "[t=2:36 pm on 29 April, 2022, speaker=John] Cool! Heard of \"The Name of the Wind\"? It's another great novel with awesome writing.",
+        "is_supporting": true,
+        "idx": 175
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_19",
+    "question": "Was James feeling lonely before meeting Samantha?",
+    "answer": [
+      "Most likely yes, because he mentioned that the only creatures that gave him joy are dogs and he was actively trying to date."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_217 (D9:16)",
+        "text": "[t=7:01 pm on 4 May, 2022, speaker=James] My pets, computer games, travel and pizza are all that bring me happiness in life.",
+        "is_supporting": true,
+        "idx": 217
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_20",
+    "question": "How many charity tournaments has John organized till date?",
+    "answer": [
+      "two"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_228 (D10:2)",
+        "text": "[t=12:45 am on 8 May, 2022, speaker=John] [Image: a photo of a wooden table with a game controller on it] Hey James! No worries, I know you are really busy at work. I'm good, thanks for asking. Oh, I've been organizing something with my friends yesterday - it was cool! Guess what it was, I'll give you a little hint.",
+        "is_supporting": true,
+        "idx": 228
+      },
+      {
+        "title": "turn_629 (D29:1)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Hey James! Hope you're doing great. I've some amazing news - I held a gaming tourney with my buddies last night. We played Fortnite and a few other games. We raised a decent amount for a children's hospital. Combining gaming and a good cause felt awesome!",
+        "is_supporting": true,
+        "idx": 629
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_21",
+    "question": "When did John first organize a charity tournament with his friends?",
+    "answer": [
+      "May 7, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_228 (D10:2)",
+        "text": "[t=12:45 am on 8 May, 2022, speaker=John] [Image: a photo of a wooden table with a game controller on it] Hey James! No worries, I know you are really busy at work. I'm good, thanks for asking. Oh, I've been organizing something with my friends yesterday - it was cool! Guess what it was, I'll give you a little hint.",
+        "is_supporting": true,
+        "idx": 228
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_22",
+    "question": "Who or which organizations have been the beneficiaries of John's charity tournaments?",
+    "answer": [
+      "animal shelter, homeless, children's hospital"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_238 (D10:12)",
+        "text": "[t=12:45 am on 8 May, 2022, speaker=John] I agree. We still had some money left after helping the shelter, and we decided to use this money to buy groceries and cook some food for the homeless. They were very happy about it.",
+        "is_supporting": true,
+        "idx": 238
+      },
+      {
+        "title": "turn_236 (D10:10)",
+        "text": "[t=12:45 am on 8 May, 2022, speaker=John] Our main goal was to raise money for a dog shelter, which is not far from the street where I live. And we did it!",
+        "is_supporting": true,
+        "idx": 236
+      },
+      {
+        "title": "turn_629 (D29:1)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Hey James! Hope you're doing great. I've some amazing news - I held a gaming tourney with my buddies last night. We played Fortnite and a few other games. We raised a decent amount for a children's hospital. Combining gaming and a good cause felt awesome!",
+        "is_supporting": true,
+        "idx": 629
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_23",
+    "question": "When will John start his new job?",
+    "answer": [
+      "In July, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_279 (D13:5)",
+        "text": "[t=4:30 pm on 13 June, 2022, speaker=John] Thank you! ! I'm starting next month.",
+        "is_supporting": true,
+        "idx": 279
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_24",
+    "question": "What kind of games has James tried to develop?",
+    "answer": [
+      "football simulator, virtual world inspired by Witcher 3"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_281 (D13:7)",
+        "text": "[t=4:30 pm on 13 June, 2022, speaker=John] Cool! That sounds awesome. Combining your love of gaming and coding sounds like a dream. Tell me more! Are there any interesting projects you're working on?",
+        "is_supporting": true,
+        "idx": 281
+      },
+      {
+        "title": "turn_3 (D1:4)",
+        "text": "[t=3:47 pm on 17 March, 2022, speaker=James] I'm totally into The Witcher 3 right now. The story and atmosphere are amazing. Have you tried it yet?",
+        "is_supporting": true,
+        "idx": 3
+      },
+      {
+        "title": "turn_581 (D27:2)",
+        "text": "[t=2:14 pm on 13 October, 2022, speaker=James] [Image: a photography of a game of thrones with a dragon and a dragon] Hey John, congrats! Something cool happened to me recently. I made my first game and released it for the gaming community - it was so exciting!",
+        "is_supporting": true,
+        "idx": 581
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_25",
+    "question": "Are John and James fans of the same football team?",
+    "answer": [
+      "No, James is a Liverpool fan and John is a Manchester City fan."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_286 (D13:12)",
+        "text": "[t=4:30 pm on 13 June, 2022, speaker=James] Of course, they played well! As I like to say, there is no sport better than football, no club better than Liverpool! I don't miss a single match of theirs!",
+        "is_supporting": true,
+        "idx": 286
+      },
+      {
+        "title": "turn_289 (D13:15)",
+        "text": "[t=4:30 pm on 13 June, 2022, speaker=John] As a Manchester City fan, I can't agree with you. You'll see, our two teams will fight for the championship, and mine will win!",
+        "is_supporting": true,
+        "idx": 289
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_26",
+    "question": "Which countries has James visited?",
+    "answer": [
+      "Italy, Mexico, Turkey, Canada, Greenland"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D16:9)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I also love to read, especially while snuggled under the covers on a cold winter day. But now it’s summer and I want something more exciting! By the way, I bought air tickets to Toronto, and I’m leaving the day after tomorrow evening.",
+        "is_supporting": true,
+        "idx": 356
+      },
+      {
+        "title": "turn_385 (D17:22)",
+        "text": "[t=9:49 am on 22 July, 2022, speaker=James] Everything went great! In addition, I even managed to get out to another country. The city of Nuuk, if you know. I stayed there quite a bit, but at least I had one more country to add to my bucket list!",
+        "is_supporting": true,
+        "idx": 385
+      },
+      {
+        "title": "turn_133 (D6:12)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=James] I agree with you, I also love to travel. Last year I visited Italy, for example. A very beautiful country with delicious food.",
+        "is_supporting": true,
+        "idx": 133
+      },
+      {
+        "title": "turn_135 (D6:14)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=James] In fact, I haven't visited many countries. Besides Italy, I was also in Turkey and Mexico. What was the last country you visited?",
+        "is_supporting": true,
+        "idx": 135
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_27",
+    "question": "What kind of classes has James joined?",
+    "answer": [
+      "game design course, cooking classes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_280 (D13:6)",
+        "text": "[t=4:30 pm on 13 June, 2022, speaker=James] It can be rough getting started, but I'm sure you'll do great. Don't be afraid to seek help if you need it. Can't wait to hear about your experience! By the way, I recently started a course that combines my passion for gaming and programming. It's fun and challenging, and it has definitely increased my excitement for both.",
+        "is_supporting": true,
+        "idx": 280
+      },
+      {
+        "title": "turn_510 (D23:13)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] Yes, two days ago I signed up for a cooking class. I never liked cooking, but I felt that I wanted to learn something new. At the first lesson we prepared several simple dishes. I got a great omelette the first time!",
+        "is_supporting": true,
+        "idx": 510
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_28",
+    "question": "When did James volunteer at an organization?",
+    "answer": [
+      "May 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_337 (D15:9)",
+        "text": "[t=9:59 pm on 19 June, 2022, speaker=James] [Image: a photo of a group of people standing outside of a building] Wow, John that sounds great! I'm sure with your skills and passion, you could do some really cool things with nonprofits. Here's a pic I took when I volunteered last month. It was really rewarding to see how little gifts can do so much!",
+        "is_supporting": true,
+        "idx": 337
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_29",
+    "question": "When did James depart for his trip to Canada?",
+    "answer": [
+      "July 11, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D16:9)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I also love to read, especially while snuggled under the covers on a cold winter day. But now it’s summer and I want something more exciting! By the way, I bought air tickets to Toronto, and I’m leaving the day after tomorrow evening.",
+        "is_supporting": true,
+        "idx": 356
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_30",
+    "question": "Which country did James book tickets for in July 2022?",
+    "answer": [
+      "Canada"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_358 (D16:11)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I also plan to visit Vancouver. Maybe, I'll go somewhere else.",
+        "is_supporting": true,
+        "idx": 358
+      },
+      {
+        "title": "turn_356 (D16:9)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I also love to read, especially while snuggled under the covers on a cold winter day. But now it’s summer and I want something more exciting! By the way, I bought air tickets to Toronto, and I’m leaving the day after tomorrow evening.",
+        "is_supporting": true,
+        "idx": 356
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_31",
+    "question": "How many days did James plan to spend on his trip in Canada?",
+    "answer": [
+      "19 days"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_360 (D16:13)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I plan to return on July 20, I’ll definitely bring you some kind of souvenir!",
+        "is_supporting": true,
+        "idx": 360
+      },
+      {
+        "title": "turn_356 (D16:9)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I also love to read, especially while snuggled under the covers on a cold winter day. But now it’s summer and I want something more exciting! By the way, I bought air tickets to Toronto, and I’m leaving the day after tomorrow evening.",
+        "is_supporting": true,
+        "idx": 356
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_32",
+    "question": "Where was James at on July 12, 2022?",
+    "answer": [
+      "Toronto, Canada"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D16:9)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I also love to read, especially while snuggled under the covers on a cold winter day. But now it’s summer and I want something more exciting! By the way, I bought air tickets to Toronto, and I’m leaving the day after tomorrow evening.",
+        "is_supporting": true,
+        "idx": 356
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_33",
+    "question": "Did John and James study together?",
+    "answer": [
+      "Yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_376 (D17:13)",
+        "text": "[t=9:49 am on 22 July, 2022, speaker=John] [Image: a photo of a group of children holding a skateboard] Your support means a lot to me. You're a true friend! Remember this photo from elementary school?",
+        "is_supporting": true,
+        "idx": 376
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_34",
+    "question": "Which countries did James visit in July 2022?",
+    "answer": [
+      "Canada, Greenland"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D16:9)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I also love to read, especially while snuggled under the covers on a cold winter day. But now it’s summer and I want something more exciting! By the way, I bought air tickets to Toronto, and I’m leaving the day after tomorrow evening.",
+        "is_supporting": true,
+        "idx": 356
+      },
+      {
+        "title": "turn_385 (D17:22)",
+        "text": "[t=9:49 am on 22 July, 2022, speaker=James] Everything went great! In addition, I even managed to get out to another country. The city of Nuuk, if you know. I stayed there quite a bit, but at least I had one more country to add to my bucket list!",
+        "is_supporting": true,
+        "idx": 385
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_35",
+    "question": "What additional country did James visit during his trip to Canada?",
+    "answer": [
+      "Greenland"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_385 (D17:22)",
+        "text": "[t=9:49 am on 22 July, 2022, speaker=James] Everything went great! In addition, I even managed to get out to another country. The city of Nuuk, if you know. I stayed there quite a bit, but at least I had one more country to add to my bucket list!",
+        "is_supporting": true,
+        "idx": 385
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_36",
+    "question": "Who is Jill?",
+    "answer": [
+      "Most likely John's partner."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_387 (D17:24)",
+        "text": "[t=9:49 am on 22 July, 2022, speaker=James] Certainly! And not only impressions, I also brought souvenirs. For both you and your Jill!",
+        "is_supporting": true,
+        "idx": 387
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_37",
+    "question": "When did John spend time with his sister and dogs?",
+    "answer": [
+      "July 21, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_391 (D17:28)",
+        "text": "[t=9:49 am on 22 July, 2022, speaker=James] That's my sister and my dogs. We were just chilling together yesterday, and they bring so much happiness to my life.",
+        "is_supporting": true,
+        "idx": 391
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_38",
+    "question": "What happened to John's job situation in 2022?",
+    "answer": [
+      "quit his IT Job, secured his dream job, aspires to become an eSports competition organizer"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_401 (D18:1)",
+        "text": "[t=1:45 pm on 6 August, 2022, speaker=John] Hey James, good catching up! Been a while huh? I made a huge call - recently left my IT job after 3 years. It was tough but I wanted something that made a difference. And now with this new job, I am happy about my decision. I am loving the new job!",
+        "is_supporting": true,
+        "idx": 401
+      },
+      {
+        "title": "turn_407 (D18:7)",
+        "text": "[t=1:45 pm on 6 August, 2022, speaker=John] Your support means a lot. Lately, I've been thinking about what truly makes me happy, and I'm really drawn to the gaming industry. I'm passionate about it and it's time to turn that into a career. I want to become an organizer of tournaments for various computer games in our state. For example, for CS:GO. It's a new journey for me.",
+        "is_supporting": true,
+        "idx": 407
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_39",
+    "question": "When did John start his job in IT?",
+    "answer": [
+      "2019"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_401 (D18:1)",
+        "text": "[t=1:45 pm on 6 August, 2022, speaker=John] Hey James, good catching up! Been a while huh? I made a huge call - recently left my IT job after 3 years. It was tough but I wanted something that made a difference. And now with this new job, I am happy about my decision. I am loving the new job!",
+        "is_supporting": true,
+        "idx": 401
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_40",
+    "question": "What kind of tricks do James's pets know?",
+    "answer": [
+      "swimming, catching frisbees, balancing on a skateboard, sit, stay, paw, and rollover"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_311 (D14:17)",
+        "text": "[t=5:07 pm on 16 June, 2022, speaker=James] Yeah, he loves it! We usually hit the beach or lake, and he loves playing in the water. He's a pro swimmer!",
+        "is_supporting": true,
+        "idx": 311
+      },
+      {
+        "title": "turn_317 (D14:23)",
+        "text": "[t=5:07 pm on 16 June, 2022, speaker=James] [Image: a photo of a dog laying in the grass with a frisbee] Max is a real go-getter! He's awesome at catching frisbees in mid-air - never misses!",
+        "is_supporting": true,
+        "idx": 317
+      },
+      {
+        "title": "turn_379 (D17:16)",
+        "text": "[t=9:49 am on 22 July, 2022, speaker=James] [Image: a photo of a small dog standing on a skateboard] Indeed, I remember this moment. We loved skateboards back then, sometimes we even left class early to do it. I still like to go for a ride sometimes, and I even taught my dogs how to balance on it.",
+        "is_supporting": true,
+        "idx": 379
+      },
+      {
+        "title": "turn_53 (D2:17)",
+        "text": "[t=9:26 pm on 20 March, 2022, speaker=James] [Image: a photo of a dog laying on a bed with a name tag] They can do tricks like sit, stay, paw, and rollover. Here's a picture of Daisy waiting for a treat. I've done lots of training and they've picked it up fast. They're like my family.",
+        "is_supporting": true,
+        "idx": 53
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_41",
+    "question": "When did James meet Samantha?",
+    "answer": [
+      "August 9, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_432 (D19:12)",
+        "text": "[t=9:16 am on 10 August, 2022, speaker=James] Yesterday I took my three dogs to a beach outing to have fun and bond with other dogkeepers.",
+        "is_supporting": true,
+        "idx": 432
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_42",
+    "question": "When did James take his 3 dogs to the beach?",
+    "answer": [
+      "August 9, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_432 (D19:12)",
+        "text": "[t=9:16 am on 10 August, 2022, speaker=James] Yesterday I took my three dogs to a beach outing to have fun and bond with other dogkeepers.",
+        "is_supporting": true,
+        "idx": 432
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_43",
+    "question": "When did John plan his next meeting with his siblings?",
+    "answer": [
+      "In September, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_454 (D20:17)",
+        "text": "[t=3:57 pm on 21 August, 2022, speaker=John] Yep, I'm organizing one with my siblings next month. We're stoked! Can't wait!",
+        "is_supporting": true,
+        "idx": 454
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_44",
+    "question": "Why didn't John want to go to Starbucks?",
+    "answer": [
+      "Possibly because he likes to drink beer on his days off."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_471 (D21:12)",
+        "text": "[t=9:18 pm on 26 August, 2022, speaker=John] Yes, tomorrow is my day off. Do you have any suggestions on how to spend tomorrow?",
+        "is_supporting": true,
+        "idx": 471
+      },
+      {
+        "title": "turn_473 (D21:14)",
+        "text": "[t=9:18 pm on 26 August, 2022, speaker=John] I don't mind meeting up, but why Starbucks? Maybe we can have a beer somewhere?",
+        "is_supporting": true,
+        "idx": 473
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_6_45",
+    "question": "What kind of beer does McGee's bar serve?",
+    "answer": [
+      "Stout, lager"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_474 (D21:15)",
+        "text": "[t=9:18 pm on 26 August, 2022, speaker=James] Well, how about we go to McGee's pub then? I heard they serve a great stout there!",
+        "is_supporting": true,
+        "idx": 474
+      },
+      {
+        "title": "turn_476 (D21:17)",
+        "text": "[t=9:18 pm on 26 August, 2022, speaker=James] Of course, there are also light beers!",
+        "is_supporting": true,
+        "idx": 476
+      },
+      {
+        "title": "turn_500 (D23:3)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] That's great, John! Looks like he's having a good time in the pic. Samantha and I were also at McGee's bar. It turned out that she loves a good lager beer. She and I have so much in common!",
+        "is_supporting": true,
+        "idx": 500
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_46",
+    "question": "When did John and James meet at McGee's bar?",
+    "answer": [
+      "August 27, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_477 (D21:18)",
+        "text": "[t=9:18 pm on 26 August, 2022, speaker=John] Great, then I agree! See you tomorrow at McGee's Pub!",
+        "is_supporting": true,
+        "idx": 477
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_47",
+    "question": "When did James ask Samantha to be his girlfriend?",
+    "answer": [
+      "September 3, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_498 (D23:1)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] Hey John, it's been a few days since we talked. So much has gone on, both good and bad. Yesterday, when we were at the theater, Samantha loves theater, I asked her to become my girlfriend, and she agreed. We have gone through a lot in this short period. There were good and bad, but I'm happy with her. All that ups and downs were a bit overwhelming, but it's part of life. What about you? Anything interesting lately?",
+        "is_supporting": true,
+        "idx": 498
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_48",
+    "question": "When did James, Samantha and John go to the baseball game together?",
+    "answer": [
+      "September 11, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_502 (D23:5)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] Thanks, John. She and I are going to a baseball game next Sunday, want to join? I'll show you what Samantha looks like.",
+        "is_supporting": true,
+        "idx": 502
+      },
+      {
+        "title": "turn_503 (D23:6)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=John] Yeah! Let's do it. It'll be a fun experience!",
+        "is_supporting": true,
+        "idx": 503
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_49",
+    "question": "What gaming equipments did John buy or refurbish?",
+    "answer": [
+      "Sennheiser headphones, Logitech mouse, gaming desk"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_446 (D20:9)",
+        "text": "[t=3:57 pm on 21 August, 2022, speaker=John] [Image: a photo of a desk with a computer and a keyboard] Wow, James! That's great that you have some friends to game with. By the way, I bought some new devices and refurbished my gaming desk.",
+        "is_supporting": true,
+        "idx": 446
+      },
+      {
+        "title": "turn_505 (D23:8)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=John] I bought some new gaming equipment to improve my skills. For example, new headphones.",
+        "is_supporting": true,
+        "idx": 505
+      },
+      {
+        "title": "turn_507 (D23:10)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=John] I chose headphones from Sennheiser. Judging by the reviews, they have excellent sound. Also, I bought a mouse from Logitech.",
+        "is_supporting": true,
+        "idx": 507
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_50",
+    "question": "When did James start taking cooking classes?",
+    "answer": [
+      "September 2, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_510 (D23:13)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] Yes, two days ago I signed up for a cooking class. I never liked cooking, but I felt that I wanted to learn something new. At the first lesson we prepared several simple dishes. I got a great omelette the first time!",
+        "is_supporting": true,
+        "idx": 510
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_51",
+    "question": "Which new games did John start play during the course of the conversation with James?",
+    "answer": [
+      "AC Valhalla, Witcher 3, FIFA 23, Dungeons of the Dragons, futuristic dystopian game"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_427 (D19:7)",
+        "text": "[t=9:16 am on 10 August, 2022, speaker=John] I'm playing \"The Witcher 3\"! There's this awesome monster hunter with a cool story, and I'm totally hooked, trying to make the right choices to shape the world. It's really immersive.",
+        "is_supporting": true,
+        "idx": 427
+      },
+      {
+        "title": "turn_519 (D24:1)",
+        "text": "[t=6:02 pm on 18 September, 2022, speaker=John] [Image: a photo of a table with a laptop and a game on it] Hey James! Long time no see! A lot's changed since we talked. I started getting into board games. I tried one last week and it turned out to be a lot of fun. What's new with you?",
+        "is_supporting": true,
+        "idx": 519
+      },
+      {
+        "title": "turn_521 (D24:3)",
+        "text": "[t=6:02 pm on 18 September, 2022, speaker=John] This game is called \"Dungeons of the Dragon\", very exciting! I'm really glad you're writing down what you need to do in a notebook. This will definitely help you not to forget anything! How did you come up with this idea? In general, where do you get ideas?",
+        "is_supporting": true,
+        "idx": 521
+      },
+      {
+        "title": "turn_658 (D30:14)",
+        "text": "[t=5:20 pm on 5 November, 2022, speaker=John] I'm hooked on this great game called FIFA 23. This is a great football game with the ability to play online with other players from all over the world! Enjoy!",
+        "is_supporting": true,
+        "idx": 658
+      },
+      {
+        "title": "turn_109 (D5:4)",
+        "text": "[t=9:52 am on 12 April, 2022, speaker=John] [Image: a photo of a city at night with a view of the city] I'm playing this new RPG that has a really cool story and world. It's kinda like getting transported to a futuristic dystopia.",
+        "is_supporting": true,
+        "idx": 109
+      },
+      {
+        "title": "turn_181 (D8:20)",
+        "text": "[t=2:36 pm on 29 April, 2022, speaker=John] Awesome that you have them! I'm currently playing AC Valhalla, it's cool. Are you playing anything new?",
+        "is_supporting": true,
+        "idx": 181
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_52",
+    "question": "When did John start working on his 2D Adventure mobile game?",
+    "answer": [
+      "approximately summer of 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_548 (D25:9)",
+        "text": "[t=8:56 pm on 20 September, 2022, speaker=John] [Image: a photography of a video game with a bunch of different screens] Thanks James! I kept it a secret because I would have been very upset if I had told you about her in advance and then it wouldn't have worked out. I've been working on this for the past few months and I'm really proud of how it's turned out. It's a 2D adventure game with puzzles and exploration. Here's a screenshot.",
+        "is_supporting": true,
+        "idx": 548
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_53",
+    "question": "How long did it take for James to complete his Witcher-inspired game?",
+    "answer": [
+      "six months"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_581 (D27:2)",
+        "text": "[t=2:14 pm on 13 October, 2022, speaker=James] [Image: a photography of a game of thrones with a dragon and a dragon] Hey John, congrats! Something cool happened to me recently. I made my first game and released it for the gaming community - it was so exciting!",
+        "is_supporting": true,
+        "idx": 581
+      },
+      {
+        "title": "turn_122 (D6:1)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=John] Hey James! Long time no see! I have great news! Last Tuesday I met three cool new friends in my programming course, they share the same passion as me and it's cool to grow my social circle. Have you had any fun surprises lately?",
+        "is_supporting": true,
+        "idx": 122
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_54",
+    "question": "What kind of programming-related events has John hosted?",
+    "answer": [
+      "online programming competition, programming seminar"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_580 (D27:1)",
+        "text": "[t=2:14 pm on 13 October, 2022, speaker=John] [Image: a photo of a desk with a laptop and a monitor] Hey James! How's it going? I had a blast last week when my programmer friends and I organized an online comp. It was awesome to see everyone show off their skills! Anything new in your life?",
+        "is_supporting": true,
+        "idx": 580
+      },
+      {
+        "title": "turn_599 (D28:6)",
+        "text": "[t=7:36 pm on 21 October, 2022, speaker=John] Lesson learned - save progress! By the way, I organized the programming seminar last week.",
+        "is_supporting": true,
+        "idx": 599
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_55",
+    "question": "When did John and his programming friends host an online programming competition?",
+    "answer": [
+      "Last week before 13 October 2022."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_580 (D27:1)",
+        "text": "[t=2:14 pm on 13 October, 2022, speaker=John] [Image: a photo of a desk with a laptop and a monitor] Hey James! How's it going? I had a blast last week when my programmer friends and I organized an online comp. It was awesome to see everyone show off their skills! Anything new in your life?",
+        "is_supporting": true,
+        "idx": 580
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_56",
+    "question": "Which of James's family members have visited him in the last year?",
+    "answer": [
+      "mother, sister"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_391 (D17:28)",
+        "text": "[t=9:49 am on 22 July, 2022, speaker=James] That's my sister and my dogs. We were just chilling together yesterday, and they bring so much happiness to my life.",
+        "is_supporting": true,
+        "idx": 391
+      },
+      {
+        "title": "turn_612 (D28:19)",
+        "text": "[t=7:36 pm on 21 October, 2022, speaker=James] [Image: a photo of a man and woman in military clothing standing next to a dog] I'll reach out if I need help. Thanks for the resources, really appreciate it. By the way, my mother came to see me with her army friend two days ago. We had fun.",
+        "is_supporting": true,
+        "idx": 612
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_57",
+    "question": "When did James' mother and her friend visit him?",
+    "answer": [
+      "October 19, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_612 (D28:19)",
+        "text": "[t=7:36 pm on 21 October, 2022, speaker=James] [Image: a photo of a man and woman in military clothing standing next to a dog] I'll reach out if I need help. Thanks for the resources, really appreciate it. By the way, my mother came to see me with her army friend two days ago. We had fun.",
+        "is_supporting": true,
+        "idx": 612
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_58",
+    "question": "When did James try Cyberpunk 2077 game?",
+    "answer": [
+      "October 20, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_620 (D28:27)",
+        "text": "[t=7:36 pm on 21 October, 2022, speaker=James] Those games introduced me to gaming and I've been hooked ever since. By the way, yesterday I tried Cyberpunk 2077. Great game, so addictive!",
+        "is_supporting": true,
+        "idx": 620
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_59",
+    "question": "When did John and his gaming friends organize the charity tournament?",
+    "answer": [
+      "On the night of October 30 to 31, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_629 (D29:1)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Hey James! Hope you're doing great. I've some amazing news - I held a gaming tourney with my buddies last night. We played Fortnite and a few other games. We raised a decent amount for a children's hospital. Combining gaming and a good cause felt awesome!",
+        "is_supporting": true,
+        "idx": 629
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_60",
+    "question": "What games has John played with his friends at charity tournaments?",
+    "answer": [
+      "CS:GO, Fortnite, Overwatch and Apex Legends"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_230 (D10:4)",
+        "text": "[t=12:45 am on 8 May, 2022, speaker=John] Nope, not a new game. We put together a tournament for our favorite game, CS:GO. Lots showed up and we made a bunch of money for charity!",
+        "is_supporting": true,
+        "idx": 230
+      },
+      {
+        "title": "turn_629 (D29:1)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Hey James! Hope you're doing great. I've some amazing news - I held a gaming tourney with my buddies last night. We played Fortnite and a few other games. We raised a decent amount for a children's hospital. Combining gaming and a good cause felt awesome!",
+        "is_supporting": true,
+        "idx": 629
+      },
+      {
+        "title": "turn_631 (D29:3)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Thanks! We all pulled together for a great cause. My gaming pals and I also played Overwatch and Apex Legends. Everyone had a blast raising money for the kids' hospital. The atmosphere was awesome and everyone was so competitive. In the end, we raised a good amount. Feels good to use our love of gaming for good!",
+        "is_supporting": true,
+        "idx": 631
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_6_61",
+    "question": "What was James' big moment with Samantha in October 2023?",
+    "answer": [
+      "They decided to live together and rented an apartment not far from McGee's bar."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_636 (D29:8)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] I actually have something new, Samantha and I have decided to move in together!",
+        "is_supporting": true,
+        "idx": 636
+      },
+      {
+        "title": "turn_638 (D29:10)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] Of course, this was a mutual and informed decision. We rented an apartment not far from McGee's bar.",
+        "is_supporting": true,
+        "idx": 638
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_62",
+    "question": "How long did James and Samantha date for before deciding to move in together?",
+    "answer": [
+      "nearly three months"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_434 (D19:14)",
+        "text": "[t=9:16 am on 10 August, 2022, speaker=James] Yes, we had fun and I even met one beautiful girl. I'm thinking of asking her out on a date! She left me her phone number, I think I'll call tomorrow.",
+        "is_supporting": true,
+        "idx": 434
+      },
+      {
+        "title": "turn_636 (D29:8)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] I actually have something new, Samantha and I have decided to move in together!",
+        "is_supporting": true,
+        "idx": 636
+      },
+      {
+        "title": "turn_638 (D29:10)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] Of course, this was a mutual and informed decision. We rented an apartment not far from McGee's bar.",
+        "is_supporting": true,
+        "idx": 638
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_63",
+    "question": "When did James, his family and his dogs start on a road trip together?",
+    "answer": [
+      "November 4, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_645 (D30:1)",
+        "text": "[t=5:20 pm on 5 November, 2022, speaker=James] Hey John, hope you're doing well. Yesterday, we started on a road trip. It was fun spending time with the family and my dogs. Exploring new places and taking in nature with the furballs was awesome!",
+        "is_supporting": true,
+        "idx": 645
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_64",
+    "question": "How long did John practice chess for before winning the chess tournament?",
+    "answer": [
+      "nearly four months"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_364 (D17:1)",
+        "text": "[t=9:49 am on 22 July, 2022, speaker=John] Hi James! I just started playing chess to get better at strategy. I'm loving it! Have you ever tried it out?",
+        "is_supporting": true,
+        "idx": 364
+      },
+      {
+        "title": "turn_646 (D30:2)",
+        "text": "[t=5:20 pm on 5 November, 2022, speaker=John] Hey James! Wow, what an adventure! Lately, I've been busy with something. Guess what? I had a great accomplishment this Tuesday! It was awesome.",
+        "is_supporting": true,
+        "idx": 646
+      },
+      {
+        "title": "turn_648 (D30:4)",
+        "text": "[t=5:20 pm on 5 November, 2022, speaker=John] I won the regional chess tournament. It was intense but I came out on top!",
+        "is_supporting": true,
+        "idx": 648
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_65",
+    "question": "When did James and his family visit Mark and Josh?",
+    "answer": [
+      "November 7, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_664 (D31:1)",
+        "text": "[t=8:57 pm on 7 November, 2022, speaker=James] [Image: a photo of a group of people posing for a picture] Hey John! Guess what? Me and my family are currently on the road trip! We`ve already visited my friends Josh and Mark and had such a great time!",
+        "is_supporting": true,
+        "idx": 664
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_66",
+    "question": "When did John work with a game developer on a project?",
+    "answer": [
+      "November 5-6, 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_665 (D31:2)",
+        "text": "[t=8:57 pm on 7 November, 2022, speaker=John] [Image: a photo of a wooden board game with four pieces of wood and four pieces of colored balls] Hey James! That sounds awesome! I had a super fun weekend - I worked with a game developer on a project and it was great to see my ideas come to life. It was an incredible experience!",
+        "is_supporting": true,
+        "idx": 665
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_6_67",
+    "question": "What programming languages has James worked with?",
+    "answer": [
+      "Python and C++"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_7 (D1:8)",
+        "text": "[t=3:47 pm on 17 March, 2022, speaker=James] [Image: a photo of a computer screen showing a video game scene] I've worked with Python and C++. I've built a website and also created some game mods. Here is one example.",
+        "is_supporting": true,
+        "idx": 7
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_68",
+    "question": "What type of mobile application does James plan to build with John?",
+    "answer": [
+      "An app for dog walking and pet care"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_13 (D1:14)",
+        "text": "[t=3:47 pm on 17 March, 2022, speaker=James] Max and Daisy. Will be actually cool to build an app for dog walking and pet care. The goal is to connect pet owners with reliable dog walkers and provide helpful information on pet care.",
+        "is_supporting": true,
+        "idx": 13
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_69",
+    "question": "How does James plan to make his dog-sitting app unique?",
+    "answer": [
+      "By allowing users to customize their pup's preferences/needs"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_15 (D1:16)",
+        "text": "[t=3:47 pm on 17 March, 2022, speaker=James] Thanks, John! The personal touch really sets it apart. Users can add their pup's preferences/needs - just like they were customizing it for them. Making it unique for each owner and pup.",
+        "is_supporting": true,
+        "idx": 15
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_70",
+    "question": "What has John mostly found with the metal detector so far?",
+    "answer": [
+      "bottle caps"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_48 (D2:12)",
+        "text": "[t=9:26 pm on 20 March, 2022, speaker=John] Mostly just bottle caps, but a couple of times I found coins, and once even a gold ring.",
+        "is_supporting": true,
+        "idx": 48
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_71",
+    "question": "What did James offer to do for John regarding pets?",
+    "answer": [
+      "help find the perfect pet"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_55 (D2:19)",
+        "text": "[t=9:26 pm on 20 March, 2022, speaker=James] A pet would truly be great for you! They bring so much love and companionship. If you're interested, I can help find the perfect one for you - you'd make a great pet parent!",
+        "is_supporting": true,
+        "idx": 55
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_72",
+    "question": "What instrument is John learning to play as of 27 March, 2022?",
+    "answer": [
+      "Drums"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_59 (D3:2)",
+        "text": "[t=12:40 am on 27 March, 2022, speaker=James] [Image: a photography of a drum kit with a white drum and a black drum] Hey John, congrats on your win! Games can really boost confidence, huh? I'm challenging myself too - I'm learning this instrument, which has been quite the journey.",
+        "is_supporting": true,
+        "idx": 59
+      },
+      {
+        "title": "turn_60 (D3:3)",
+        "text": "[t=12:40 am on 27 March, 2022, speaker=John] [Image: a photo of a drum kit sitting on top of a table] Thanks, James! I play drums too! Here's a pic of my set.",
+        "is_supporting": true,
+        "idx": 60
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_73",
+    "question": "How long has John been playing the drums as of 27 March, 2022?",
+    "answer": [
+      "One month"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_62 (D3:5)",
+        "text": "[t=12:40 am on 27 March, 2022, speaker=John] I've been playing for a month now, it's been tough but fun. How about you, how's it going?",
+        "is_supporting": true,
+        "idx": 62
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_74",
+    "question": "What game did John play in an intense tournament at the gaming convention in March 2022?",
+    "answer": [
+      "CS:GO"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_68 (D3:11)",
+        "text": "[t=12:40 am on 27 March, 2022, speaker=John] I played my favorite CS:GO game in an intense tournament. It was awesome to see all the skilled players competing.",
+        "is_supporting": true,
+        "idx": 68
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_75",
+    "question": "What game was James playing in the online gaming tournament in April 2022?",
+    "answer": [
+      "Apex Legends"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_96 (D4:16)",
+        "text": "[t=2:13 pm on 4 April, 2022, speaker=James] [Image: a photo of a video game screen showing a robot and a robot] I've been playing my favourite game called Apex Legends with my team and it's intense! Check out this screenshot of us playing!",
+        "is_supporting": true,
+        "idx": 96
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_76",
+    "question": "How does James communicate with his gaming team?",
+    "answer": [
+      "voice chat"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_94 (D4:14)",
+        "text": "[t=2:13 pm on 4 April, 2022, speaker=James] I usually use voice chat to communicate with my team. It's fast and helps us work together effectively.",
+        "is_supporting": true,
+        "idx": 94
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_77",
+    "question": "What advice did James receive from the famous players he met at the tournament?",
+    "answer": [
+      "never put your ego above team success"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_92 (D4:12)",
+        "text": "[t=2:13 pm on 4 April, 2022, speaker=James] The most important thing I remember is that you always need to communicate correctly with the team and never put your ego above team success.",
+        "is_supporting": true,
+        "idx": 92
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_78",
+    "question": "What did James adopt in April 2022?",
+    "answer": [
+      "a pup"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_106 (D5:1)",
+        "text": "[t=9:52 am on 12 April, 2022, speaker=James] [Image: a photo of a dog and a cat sitting on a dog bed] Hey John! Long time no chat - I adopted a pup from a shelter in Stamford last week and my days have been so much happier with him in the fam. I named it Ned. Any progress on your gaming goals?",
+        "is_supporting": true,
+        "idx": 106
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_79",
+    "question": "What is the name of the pup that was adopted by James?",
+    "answer": [
+      "Ned"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_106 (D5:1)",
+        "text": "[t=9:52 am on 12 April, 2022, speaker=James] [Image: a photo of a dog and a cat sitting on a dog bed] Hey John! Long time no chat - I adopted a pup from a shelter in Stamford last week and my days have been so much happier with him in the fam. I named it Ned. Any progress on your gaming goals?",
+        "is_supporting": true,
+        "idx": 106
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_80",
+    "question": "Why did James embody the appearance of the game character from the woman he saw during a walk?",
+    "answer": [
+      "He found her appearance and eyes amazing."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_127 (D6:6)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=James] Thanks, I'm glad you can feel the atmosphere. I got the idea from a walk with my dogs two weeks ago. We were walking around our neighborhood, and a stranger was walking towards us. I had never seen her nearby before. Her eyes and appearance amazed me so much, it seemed to me that I fell in love at first sight. It’s a pity that I didn’t approach her to get to know her, but at least I remembered her appearance and embodied it in the game.",
+        "is_supporting": true,
+        "idx": 127
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_81",
+    "question": "What inspired James to create the game character in the virtual world?",
+    "answer": [
+      "Appearance of a woman he saw during a walk"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_127 (D6:6)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=James] Thanks, I'm glad you can feel the atmosphere. I got the idea from a walk with my dogs two weeks ago. We were walking around our neighborhood, and a stranger was walking towards us. I had never seen her nearby before. Her eyes and appearance amazed me so much, it seemed to me that I fell in love at first sight. It’s a pity that I didn’t approach her to get to know her, but at least I remembered her appearance and embodied it in the game.",
+        "is_supporting": true,
+        "idx": 127
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_82",
+    "question": "Which country did James visit in 2021?",
+    "answer": [
+      "Italy"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_133 (D6:12)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=James] I agree with you, I also love to travel. Last year I visited Italy, for example. A very beautiful country with delicious food.",
+        "is_supporting": true,
+        "idx": 133
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_83",
+    "question": "What impresses John about Japan?",
+    "answer": [
+      "Technologically advanced megacities and tasty street food"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_136 (D6:15)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=John] [Image: a photo of a busy city street at night with people walking] This was Japan. The megacities of this country impress me, everything there is so technologically advanced, the huge screens on the buildings are mesmerizing. And, of course, very tasty street food.",
+        "is_supporting": true,
+        "idx": 136
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_84",
+    "question": "What kind of assignment was giving John a hard time at work?",
+    "answer": [
+      "Coding assignment"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_153 (D7:13)",
+        "text": "[t=11:04 am on 23 April, 2022, speaker=John] Ugh, this project is giving me a hard time. It's a difficult assignment that involves coding and I'm stuck on it. It's frustrating because I hate being stuck and not making progress.",
+        "is_supporting": true,
+        "idx": 153
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_85",
+    "question": "What breed is Daisy, one of James' dogs?",
+    "answer": [
+      "Labrador"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_213 (D9:12)",
+        "text": "[t=7:01 pm on 4 May, 2022, speaker=James] One of them, Daisy, is a Labrador. She loves to play with her toys, but most of all she loves to eat.",
+        "is_supporting": true,
+        "idx": 213
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_86",
+    "question": "What type of pizza is James' favorite?",
+    "answer": [
+      "Pepperoni"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_219 (D9:18)",
+        "text": "[t=7:01 pm on 4 May, 2022, speaker=James] Pepperoni of course! An amazing combination of spicy salami and cheese.",
+        "is_supporting": true,
+        "idx": 219
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_87",
+    "question": "What type of pizza is John's favorite?",
+    "answer": [
+      "Hawaiian"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_220 (D9:19)",
+        "text": "[t=7:01 pm on 4 May, 2022, speaker=John] [Image: a photography of a pizza with pineapples and ham on a wooden board] Cool, but my favorite thing is Hawaiian pizza. This combination of sweet and salty delights me! What other pizza do you like?",
+        "is_supporting": true,
+        "idx": 220
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_88",
+    "question": "What did John organize with his friends on May 8, 2022?",
+    "answer": [
+      "A tournament for CS:GO"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_230 (D10:4)",
+        "text": "[t=12:45 am on 8 May, 2022, speaker=John] Nope, not a new game. We put together a tournament for our favorite game, CS:GO. Lots showed up and we made a bunch of money for charity!",
+        "is_supporting": true,
+        "idx": 230
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_89",
+    "question": "What did John and his friends do with the remaining money after helping the dog shelter?",
+    "answer": [
+      "Bought groceries and cooked food for the homeless"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_238 (D10:12)",
+        "text": "[t=12:45 am on 8 May, 2022, speaker=John] I agree. We still had some money left after helping the shelter, and we decided to use this money to buy groceries and cook some food for the homeless. They were very happy about it.",
+        "is_supporting": true,
+        "idx": 238
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_90",
+    "question": "What was the main goal of the money raised from the charity tournament organized by John and his friends in May 2022?",
+    "answer": [
+      "Raise money for a dog shelter"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_236 (D10:10)",
+        "text": "[t=12:45 am on 8 May, 2022, speaker=John] Our main goal was to raise money for a dog shelter, which is not far from the street where I live. And we did it!",
+        "is_supporting": true,
+        "idx": 236
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_91",
+    "question": "What did the system John created help the charitable foundation with?",
+    "answer": [
+      "tracking inventory, resources, and donations"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_246 (D11:5)",
+        "text": "[t=5:00 pm on 11 May, 2022, speaker=John] [Image: a photo of a computer monitor showing the cpu performance of a computer] Yeah, here's a screenshot of the system. It'll make tracking inventory, resources, and donations run smoother and generate reports for analysis. Feels great knowing my skills are making a real difference to them.",
+        "is_supporting": true,
+        "idx": 246
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_92",
+    "question": "What did John create for the charitable foundation that helped generate reports for analysis?",
+    "answer": [
+      "computer application on smartphones"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_244 (D11:3)",
+        "text": "[t=5:00 pm on 11 May, 2022, speaker=John] Previously, this foundation used paper records and all inventory was recorded manually. I made an application that structured their work, and now everything they need for inventory is in one application on their smartphone.",
+        "is_supporting": true,
+        "idx": 244
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_93",
+    "question": "What did John receive for achieving second place in the tournament?",
+    "answer": [
+      "money and a trophy"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_265 (D12:5)",
+        "text": "[t=7:33 pm on 23 May, 2022, speaker=James] Wow, John that's awesome! Congrats on your achievement! I can imagine the rush you must have felt during the tournament. Did you receive any rewards or prizes for your success?",
+        "is_supporting": true,
+        "idx": 265
+      },
+      {
+        "title": "turn_266 (D12:6)",
+        "text": "[t=7:33 pm on 23 May, 2022, speaker=John] I was stoked about my achievement. Though I didn't win the tournament, I still received some money for the 2nd place. Seeing my effort pay off was awesome.",
+        "is_supporting": true,
+        "idx": 266
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_94",
+    "question": "What project is James working on in his game design course?",
+    "answer": [
+      "a new part of the football simulator, collecting player databases"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_282 (D13:8)",
+        "text": "[t=4:30 pm on 13 June, 2022, speaker=James] Yes, we are currently working on a new part of the football simulator. I was working on collecting player databases. It wasn't easy, but I did it!",
+        "is_supporting": true,
+        "idx": 282
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_95",
+    "question": "Who does James support in football matches?",
+    "answer": [
+      "Liverpool"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_286 (D13:12)",
+        "text": "[t=4:30 pm on 13 June, 2022, speaker=James] Of course, they played well! As I like to say, there is no sport better than football, no club better than Liverpool! I don't miss a single match of theirs!",
+        "is_supporting": true,
+        "idx": 286
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_96",
+    "question": "Which football club does John support?",
+    "answer": [
+      "Manchester City"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_289 (D13:15)",
+        "text": "[t=4:30 pm on 13 June, 2022, speaker=John] As a Manchester City fan, I can't agree with you. You'll see, our two teams will fight for the championship, and mine will win!",
+        "is_supporting": true,
+        "idx": 289
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_97",
+    "question": "What disagreement do James and John have about their football teams?",
+    "answer": [
+      "debating on which team will perform better in the championship"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_289 (D13:15)",
+        "text": "[t=4:30 pm on 13 June, 2022, speaker=John] As a Manchester City fan, I can't agree with you. You'll see, our two teams will fight for the championship, and mine will win!",
+        "is_supporting": true,
+        "idx": 289
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_98",
+    "question": "What is Max good at doing according to James?",
+    "answer": [
+      "catching frisbees in mid-air"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_317 (D14:23)",
+        "text": "[t=5:07 pm on 16 June, 2022, speaker=James] [Image: a photo of a dog laying in the grass with a frisbee] Max is a real go-getter! He's awesome at catching frisbees in mid-air - never misses!",
+        "is_supporting": true,
+        "idx": 317
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_99",
+    "question": "What is the main focus of the organization that James volunteered with?",
+    "answer": [
+      "providing necessary items to those who are less fortunate"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_339 (D15:11)",
+        "text": "[t=9:59 pm on 19 June, 2022, speaker=James] It was great to see how much a simple act of kindness can mean to someone in need. I volunteered with an organization that provides necessary items to those who are less fortunate. It felt so rewarding to help, even if it was in a small way.",
+        "is_supporting": true,
+        "idx": 339
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_100",
+    "question": "Will there be an interview required to volunteer with the organization James volunteered for?",
+    "answer": [
+      "No"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_343 (D15:15)",
+        "text": "[t=9:59 pm on 19 June, 2022, speaker=James] No, this is not necessary. All you need is to be a friendly and polite person, and also have a great desire to help people. I'm sure you will succeed!",
+        "is_supporting": true,
+        "idx": 343
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_101",
+    "question": "How did John relax in his free time on 9 July, 2022?",
+    "answer": [
+      "Reading"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_355 (D16:8)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=John] [Image: a photo of a book shelf filled with books and a guitar] I like to relax by reading. I love entering the imaginative worlds of authors - it's a fun escape from reality.",
+        "is_supporting": true,
+        "idx": 355
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_102",
+    "question": "What did James enjoy doing on cold winter days?",
+    "answer": [
+      "Reading while snuggled under the covers"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D16:9)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I also love to read, especially while snuggled under the covers on a cold winter day. But now it’s summer and I want something more exciting! By the way, I bought air tickets to Toronto, and I’m leaving the day after tomorrow evening.",
+        "is_supporting": true,
+        "idx": 356
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_103",
+    "question": "What new hobby did James become interested in on 9 July, 2022?",
+    "answer": [
+      "Extreme sports"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_352 (D16:5)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] Yeah, staying balanced can be tough. I'm trying to take breaks from my hobbies and do other things. Lately I've become interested in extreme sports. Yesterday, for example, I was doing rope jumping. The highest height I jumped from was 150 meters!",
+        "is_supporting": true,
+        "idx": 352
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_104",
+    "question": "Where did James plan to visit after Toronto?",
+    "answer": [
+      "Vancouver"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_358 (D16:11)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I also plan to visit Vancouver. Maybe, I'll go somewhere else.",
+        "is_supporting": true,
+        "idx": 358
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_105",
+    "question": "When did James plan to return from his trip to Toronto and Vancouver?",
+    "answer": [
+      "July 20"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_360 (D16:13)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I plan to return on July 20, I’ll definitely bring you some kind of souvenir!",
+        "is_supporting": true,
+        "idx": 360
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_106",
+    "question": "What online game did John start playing recently for improving strategy?",
+    "answer": [
+      "Chess"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_364 (D17:1)",
+        "text": "[t=9:49 am on 22 July, 2022, speaker=John] Hi James! I just started playing chess to get better at strategy. I'm loving it! Have you ever tried it out?",
+        "is_supporting": true,
+        "idx": 364
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_107",
+    "question": "What made John leave his IT job?",
+    "answer": [
+      "to focus on things that align with his values and passions"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_403 (D18:3)",
+        "text": "[t=1:45 pm on 6 August, 2022, speaker=John] At first, it was super scary, but I knew I had to make a change and focus on things that align with my values and passions.",
+        "is_supporting": true,
+        "idx": 403
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_108",
+    "question": "Which game tournaments does John plan to organize besides CS:GO?",
+    "answer": [
+      "Fortnite competitions"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_409 (D18:9)",
+        "text": "[t=1:45 pm on 6 August, 2022, speaker=John] Also, I can host Fortnite competitions. I have already made some connections that will help me with this. My plan is to gain more experience and perfect my skills to be successful in this field.",
+        "is_supporting": true,
+        "idx": 409
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_109",
+    "question": "What happened to James's puppy during the recent visit to the clinic?",
+    "answer": [
+      "routine examination and vaccination"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_416 (D18:16)",
+        "text": "[t=1:45 pm on 6 August, 2022, speaker=James] Don't worry. This was just a routine examination. Also, the puppy was vaccinated to prevent him from catching the seasonal canine disease.",
+        "is_supporting": true,
+        "idx": 416
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_110",
+    "question": "What game genre did John start exploring instead of shooters?",
+    "answer": [
+      "strategy and RPG games"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_423 (D19:3)",
+        "text": "[t=9:16 am on 10 August, 2022, speaker=John] Lately, I've been playing some different genres like strategy and RPG games instead of my usual shooters. I’m already thinking about making competitions for them too.",
+        "is_supporting": true,
+        "idx": 423
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_111",
+    "question": "Which RPG game is John playing and enjoying on 10 August, 2022?",
+    "answer": [
+      "The Witcher 3"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_427 (D19:7)",
+        "text": "[t=9:16 am on 10 August, 2022, speaker=John] I'm playing \"The Witcher 3\"! There's this awesome monster hunter with a cool story, and I'm totally hooked, trying to make the right choices to shape the world. It's really immersive.",
+        "is_supporting": true,
+        "idx": 427
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_112",
+    "question": "What aspect of \"The Witcher 3\" does John find immersive?",
+    "answer": [
+      "shaping the world with choices"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_427 (D19:7)",
+        "text": "[t=9:16 am on 10 August, 2022, speaker=John] I'm playing \"The Witcher 3\"! There's this awesome monster hunter with a cool story, and I'm totally hooked, trying to make the right choices to shape the world. It's really immersive.",
+        "is_supporting": true,
+        "idx": 427
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_113",
+    "question": "Whose phone number did James receive during the beach outing?",
+    "answer": [
+      "Samantha"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_434 (D19:14)",
+        "text": "[t=9:16 am on 10 August, 2022, speaker=James] Yes, we had fun and I even met one beautiful girl. I'm thinking of asking her out on a date! She left me her phone number, I think I'll call tomorrow.",
+        "is_supporting": true,
+        "idx": 434
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_114",
+    "question": "What is James planning to do after receiving Samantha's phone number?",
+    "answer": [
+      "call her"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_434 (D19:14)",
+        "text": "[t=9:16 am on 10 August, 2022, speaker=James] Yes, we had fun and I even met one beautiful girl. I'm thinking of asking her out on a date! She left me her phone number, I think I'll call tomorrow.",
+        "is_supporting": true,
+        "idx": 434
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_115",
+    "question": "What is John organizing with his siblings?",
+    "answer": [
+      "a gaming night"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_454 (D20:17)",
+        "text": "[t=3:57 pm on 21 August, 2022, speaker=John] Yep, I'm organizing one with my siblings next month. We're stoked! Can't wait!",
+        "is_supporting": true,
+        "idx": 454
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_116",
+    "question": "What type of beer does John not like?",
+    "answer": [
+      "dark beer"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_475 (D21:16)",
+        "text": "[t=9:18 pm on 26 August, 2022, speaker=John] Great idea, except I don't like dark beer. Maybe there's something else there?",
+        "is_supporting": true,
+        "idx": 475
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_117",
+    "question": "What were some difficulties James faced during the development of his game?",
+    "answer": [
+      "balancing mechanics and ensuring fairness"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_485 (D22:7)",
+        "text": "[t=6:53 pm on 1 September, 2022, speaker=James] It was a bit challenging to get everything right, balancing mechanics and ensuring fairness. But with some trial and error, I managed to get it to where I wanted it.",
+        "is_supporting": true,
+        "idx": 485
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_118",
+    "question": "What has John been teaching his siblings?",
+    "answer": [
+      "coding"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_488 (D22:10)",
+        "text": "[t=6:53 pm on 1 September, 2022, speaker=John] Awesome that you learned those lessons! Collaboration and feedback make a huge impact on any project. I've been teaching my siblings coding. It's been a fulfilling experience and they're already creating their own programs - amazing!",
+        "is_supporting": true,
+        "idx": 488
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_119",
+    "question": "What kind of programs are John's siblings making?",
+    "answer": [
+      "basic games and stories"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_490 (D22:12)",
+        "text": "[t=6:53 pm on 1 September, 2022, speaker=John] They're starting small, making basic games and stories. It's inspiring how fast they learn and the good time they're having.",
+        "is_supporting": true,
+        "idx": 490
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_120",
+    "question": "Which company's headphones did John choose for gaming?",
+    "answer": [
+      "Sennheiser"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_507 (D23:10)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=John] I chose headphones from Sennheiser. Judging by the reviews, they have excellent sound. Also, I bought a mouse from Logitech.",
+        "is_supporting": true,
+        "idx": 507
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_121",
+    "question": "What did James and Samantha discover they both enjoy at McGee's bar?",
+    "answer": [
+      "Lager beer"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_500 (D23:3)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] That's great, John! Looks like he's having a good time in the pic. Samantha and I were also at McGee's bar. It turned out that she loves a good lager beer. She and I have so much in common!",
+        "is_supporting": true,
+        "idx": 500
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_122",
+    "question": "How much does James pay per cooking class?",
+    "answer": [
+      "$10"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_512 (D23:15)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] At only $10 per class, it's very cheap! Also, I made meringue there and they taught us how to make the dough.",
+        "is_supporting": true,
+        "idx": 512
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_123",
+    "question": "What did James learn to make in the cooking class besides omelette and meringue?",
+    "answer": [
+      "Dough"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_512 (D23:15)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] At only $10 per class, it's very cheap! Also, I made meringue there and they taught us how to make the dough.",
+        "is_supporting": true,
+        "idx": 512
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_124",
+    "question": "Why did James sign up for a cooking class?",
+    "answer": [
+      "He wanted to learn something new"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_510 (D23:13)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] Yes, two days ago I signed up for a cooking class. I never liked cooking, but I felt that I wanted to learn something new. At the first lesson we prepared several simple dishes. I got a great omelette the first time!",
+        "is_supporting": true,
+        "idx": 510
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_125",
+    "question": "What did James prepare for the first time in the cooking class?",
+    "answer": [
+      "Omelette"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_510 (D23:13)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] Yes, two days ago I signed up for a cooking class. I never liked cooking, but I felt that I wanted to learn something new. At the first lesson we prepared several simple dishes. I got a great omelette the first time!",
+        "is_supporting": true,
+        "idx": 510
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_126",
+    "question": "What is the name of the board game John tried in September 2022?",
+    "answer": [
+      "Dungeons of the Dragon"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_521 (D24:3)",
+        "text": "[t=6:02 pm on 18 September, 2022, speaker=John] This game is called \"Dungeons of the Dragon\", very exciting! I'm really glad you're writing down what you need to do in a notebook. This will definitely help you not to forget anything! How did you come up with this idea? In general, where do you get ideas?",
+        "is_supporting": true,
+        "idx": 521
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_127",
+    "question": "Where does James get his ideas from?",
+    "answer": [
+      "books, movies, dreams"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_522 (D24:4)",
+        "text": "[t=6:02 pm on 18 September, 2022, speaker=James] Thanks, John! I get them from various sources like books, movies, and even dreams.",
+        "is_supporting": true,
+        "idx": 522
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_128",
+    "question": "What kind of dream did James have recently?",
+    "answer": [
+      "a dream with a medieval castle full of puzzles and traps"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_526 (D24:8)",
+        "text": "[t=6:02 pm on 18 September, 2022, speaker=James] I remember there was a medieval castle with its own labyrinth full of puzzles and traps. It felt like playing a video game in real life!",
+        "is_supporting": true,
+        "idx": 526
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_129",
+    "question": "What kind of music does John like?",
+    "answer": [
+      "electronic and rock music"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_531 (D24:13)",
+        "text": "[t=6:02 pm on 18 September, 2022, speaker=John] Cool! I'm into electronic and rock music. I used to play drums when I was younger, but haven't in a while. Do you play any instruments?",
+        "is_supporting": true,
+        "idx": 531
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_130",
+    "question": "What instrument did James used to play when he was younger?",
+    "answer": [
+      "guitar"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_532 (D24:14)",
+        "text": "[t=6:02 pm on 18 September, 2022, speaker=James] Yeah, rock's awesome! I used to play a guitar when I was younger but haven't in a while.",
+        "is_supporting": true,
+        "idx": 532
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_131",
+    "question": "What did John use to play when he was younger to let off steam?",
+    "answer": [
+      "drums"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_533 (D24:15)",
+        "text": "[t=6:02 pm on 18 September, 2022, speaker=John] [Image: a photo of a drum set up in a recording studio] Playing drums when I was younger was a fun way to let off steam. Here's a photo of an old drum set I used to play on.",
+        "is_supporting": true,
+        "idx": 533
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_132",
+    "question": "What career milestone did John achieve recently in September 2022?",
+    "answer": [
+      "making his first mobile game"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_546 (D25:7)",
+        "text": "[t=8:56 pm on 20 September, 2022, speaker=John] [Image: a photography of a demonic demon flying in the air with a sword] I just achieved a major career milestone - making my first mobile game! It's launching next month.",
+        "is_supporting": true,
+        "idx": 546
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_133",
+    "question": "What type of game is John's upcoming mobile game?",
+    "answer": [
+      "2D adventure"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_548 (D25:9)",
+        "text": "[t=8:56 pm on 20 September, 2022, speaker=John] [Image: a photography of a video game with a bunch of different screens] Thanks James! I kept it a secret because I would have been very upset if I had told you about her in advance and then it wouldn't have worked out. I've been working on this for the past few months and I'm really proud of how it's turned out. It's a 2D adventure game with puzzles and exploration. Here's a screenshot.",
+        "is_supporting": true,
+        "idx": 548
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_134",
+    "question": "What does John do to stay informed and constantly learn about game design?",
+    "answer": [
+      "watch tutorials and keep up with developer forums"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_552 (D25:13)",
+        "text": "[t=8:56 pm on 20 September, 2022, speaker=John] It is filled with awesome tips and insights on game design. I also watch tutorials and keep up with developer forums for information and ideas. Basically, staying informed and constantly learning is key!",
+        "is_supporting": true,
+        "idx": 552
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_135",
+    "question": "What kind of gig was John offered at the game dev non-profit organization?",
+    "answer": [
+      "programming mentor for game developers"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_567 (D26:3)",
+        "text": "[t=9:20 am on 3 October, 2022, speaker=John] They asked me to be a programming mentor for game developers. I'll be teaching coding and assisting with projects. I'm really excited to share my knowledge and motivate people who are passionate about gaming.",
+        "is_supporting": true,
+        "idx": 567
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_136",
+    "question": "What does John feel about starting the journey as a programming mentor for game developers?",
+    "answer": [
+      "excited and inspired"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_569 (D26:5)",
+        "text": "[t=9:20 am on 3 October, 2022, speaker=John] I'm so excited and inspired! It's a great chance to help them and boost my own skills. I love sharing what I know and seeing others reach their potential - it's so rewarding!",
+        "is_supporting": true,
+        "idx": 569
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_137",
+    "question": "What kind of games is James excited to play with his new video card?",
+    "answer": [
+      "RPGs"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_574 (D26:10)",
+        "text": "[t=9:20 am on 3 October, 2022, speaker=James] I'm super into RPGs, so I'm excited about getting this video card and playing some new games. Have you heard any great things about Cyberpunk 2077? Do you think this game is worthy of my attention?",
+        "is_supporting": true,
+        "idx": 574
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_138",
+    "question": "What inspired James to create his game?",
+    "answer": [
+      "Witcher 3"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_585 (D27:6)",
+        "text": "[t=2:14 pm on 13 October, 2022, speaker=James] Playing video games was always great, but creating my own game was really special. Witcher 3 gave me a ton of inspiration, with its amazing world and story. Plus, it pushed me to create something cool.",
+        "is_supporting": true,
+        "idx": 585
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_139",
+    "question": "What sparked James' passion for gaming when he was a kid?",
+    "answer": [
+      "Super Mario and The Legend of Zelda games"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_618 (D28:25)",
+        "text": "[t=7:36 pm on 21 October, 2022, speaker=James] Oh yeah! I had a blast with it when I was a kid. It was my first gaming system and I'd play Super Mario and The Legend of Zelda for hours. It totally sparked my passion for gaming.",
+        "is_supporting": true,
+        "idx": 618
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_140",
+    "question": "What did James lose progress on due to a power outage?",
+    "answer": [
+      "a game"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_596 (D28:3)",
+        "text": "[t=7:36 pm on 21 October, 2022, speaker=James] Three days ago my apartment lost power - so annoying because I had just gotten to the big reveal in that game! Had to wait hours before playing again.",
+        "is_supporting": true,
+        "idx": 596
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_141",
+    "question": "What games were played at the gaming tournament organized by John on 31 October, 2022?",
+    "answer": [
+      "Fortnite, Overwatch, Apex Legends"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_629 (D29:1)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Hey James! Hope you're doing great. I've some amazing news - I held a gaming tourney with my buddies last night. We played Fortnite and a few other games. We raised a decent amount for a children's hospital. Combining gaming and a good cause felt awesome!",
+        "is_supporting": true,
+        "idx": 629
+      },
+      {
+        "title": "turn_631 (D29:3)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Thanks! We all pulled together for a great cause. My gaming pals and I also played Overwatch and Apex Legends. Everyone had a blast raising money for the kids' hospital. The atmosphere was awesome and everyone was so competitive. In the end, we raised a good amount. Feels good to use our love of gaming for good!",
+        "is_supporting": true,
+        "idx": 631
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_142",
+    "question": "What was the purpose of the gaming tournament organized by John on 31 October, 2022?",
+    "answer": [
+      "To raise money for a children's hospital"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_629 (D29:1)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Hey James! Hope you're doing great. I've some amazing news - I held a gaming tourney with my buddies last night. We played Fortnite and a few other games. We raised a decent amount for a children's hospital. Combining gaming and a good cause felt awesome!",
+        "is_supporting": true,
+        "idx": 629
+      },
+      {
+        "title": "turn_631 (D29:3)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Thanks! We all pulled together for a great cause. My gaming pals and I also played Overwatch and Apex Legends. Everyone had a blast raising money for the kids' hospital. The atmosphere was awesome and everyone was so competitive. In the end, we raised a good amount. Feels good to use our love of gaming for good!",
+        "is_supporting": true,
+        "idx": 631
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_143",
+    "question": "What decision did James and Samantha make on 31 October, 2022?",
+    "answer": [
+      "To move in together"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_636 (D29:8)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] I actually have something new, Samantha and I have decided to move in together!",
+        "is_supporting": true,
+        "idx": 636
+      },
+      {
+        "title": "turn_638 (D29:10)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] Of course, this was a mutual and informed decision. We rented an apartment not far from McGee's bar.",
+        "is_supporting": true,
+        "idx": 638
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_144",
+    "question": "Where did James and Samantha decide to live together on 31 October, 2022?",
+    "answer": [
+      "In an apartment not far from McGee's bar"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_638 (D29:10)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] Of course, this was a mutual and informed decision. We rented an apartment not far from McGee's bar.",
+        "is_supporting": true,
+        "idx": 638
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_145",
+    "question": "Why did James and Samantha choose an apartment near McGee's bar?",
+    "answer": [
+      "They love spending time together at the bar"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_640 (D29:12)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] We just love it! I’ll be honest, one of the criteria for our choice of apartment was this particular bar nearby.",
+        "is_supporting": true,
+        "idx": 640
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_146",
+    "question": "What game is John hooked on playing on 5 November, 2022?",
+    "answer": [
+      "FIFA 23"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_658 (D30:14)",
+        "text": "[t=5:20 pm on 5 November, 2022, speaker=John] I'm hooked on this great game called FIFA 23. This is a great football game with the ability to play online with other players from all over the world! Enjoy!",
+        "is_supporting": true,
+        "idx": 658
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_147",
+    "question": "What did John suggest James practice before playing FIFA 23 together?",
+    "answer": [
+      "Control with a gamepad and timing"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_662 (D30:18)",
+        "text": "[t=5:20 pm on 5 November, 2022, speaker=John] Not at all, all you need is a gamepad and a sense of timing.",
+        "is_supporting": true,
+        "idx": 662
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_148",
+    "question": "What project did John work on with a game developer by 7 November, 2022?",
+    "answer": [
+      "An online board game"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_667 (D31:4)",
+        "text": "[t=8:57 pm on 7 November, 2022, speaker=John] I collaborated with a game developer to create an online board game - it's a fun and unique experience!",
+        "is_supporting": true,
+        "idx": 667
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_149",
+    "question": "What is the name of John's cousin's dog?",
+    "answer": [
+      "Luna"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_685 (D31:22)",
+        "text": "[t=8:57 pm on 7 November, 2022, speaker=John] [Image: a photo of two people standing in front of a giant head] Their name is Luna.",
+        "is_supporting": true,
+        "idx": 685
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_6_150",
+    "question": "What did John adopt in April 2022?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_106 (D5:1)",
+        "text": "[t=9:52 am on 12 April, 2022, speaker=James] [Image: a photo of a dog and a cat sitting on a dog bed] Hey John! Long time no chat - I adopted a pup from a shelter in Stamford last week and my days have been so much happier with him in the fam. I named it Ned. Any progress on your gaming goals?",
+        "is_supporting": true,
+        "idx": 106
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "a pup"
+  },
+  {
+    "id": "locomo_6_151",
+    "question": "What is the name of the kitten that was adopted by James?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_106 (D5:1)",
+        "text": "[t=9:52 am on 12 April, 2022, speaker=James] [Image: a photo of a dog and a cat sitting on a dog bed] Hey John! Long time no chat - I adopted a pup from a shelter in Stamford last week and my days have been so much happier with him in the fam. I named it Ned. Any progress on your gaming goals?",
+        "is_supporting": true,
+        "idx": 106
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Ned"
+  },
+  {
+    "id": "locomo_6_152",
+    "question": "What inspired John to create the game character in the virtual world?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_127 (D6:6)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=James] Thanks, I'm glad you can feel the atmosphere. I got the idea from a walk with my dogs two weeks ago. We were walking around our neighborhood, and a stranger was walking towards us. I had never seen her nearby before. Her eyes and appearance amazed me so much, it seemed to me that I fell in love at first sight. It’s a pity that I didn’t approach her to get to know her, but at least I remembered her appearance and embodied it in the game.",
+        "is_supporting": true,
+        "idx": 127
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Appearance of a woman he saw during a walk"
+  },
+  {
+    "id": "locomo_6_153",
+    "question": "Which country did John visit in 2021?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_133 (D6:12)",
+        "text": "[t=9:32 pm on 20 April, 2022, speaker=James] I agree with you, I also love to travel. Last year I visited Italy, for example. A very beautiful country with delicious food.",
+        "is_supporting": true,
+        "idx": 133
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Italy"
+  },
+  {
+    "id": "locomo_6_154",
+    "question": "What kind of assignment was giving James a hard time at work?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_153 (D7:13)",
+        "text": "[t=11:04 am on 23 April, 2022, speaker=John] Ugh, this project is giving me a hard time. It's a difficult assignment that involves coding and I'm stuck on it. It's frustrating because I hate being stuck and not making progress.",
+        "is_supporting": true,
+        "idx": 153
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Coding assignment"
+  },
+  {
+    "id": "locomo_6_155",
+    "question": "What did James and his friends do with the remaining money after helping the dog shelter?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_238 (D10:12)",
+        "text": "[t=12:45 am on 8 May, 2022, speaker=John] I agree. We still had some money left after helping the shelter, and we decided to use this money to buy groceries and cook some food for the homeless. They were very happy about it.",
+        "is_supporting": true,
+        "idx": 238
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Bought groceries and cooked food for the homeless"
+  },
+  {
+    "id": "locomo_6_156",
+    "question": "What was the main goal of the money raised from the political campaign organized by John and his friends in May 2022?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_236 (D10:10)",
+        "text": "[t=12:45 am on 8 May, 2022, speaker=John] Our main goal was to raise money for a dog shelter, which is not far from the street where I live. And we did it!",
+        "is_supporting": true,
+        "idx": 236
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Raise money for a dog shelter"
+  },
+  {
+    "id": "locomo_6_157",
+    "question": "What did the system John created help the illegal organization with?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_246 (D11:5)",
+        "text": "[t=5:00 pm on 11 May, 2022, speaker=John] [Image: a photo of a computer monitor showing the cpu performance of a computer] Yeah, here's a screenshot of the system. It'll make tracking inventory, resources, and donations run smoother and generate reports for analysis. Feels great knowing my skills are making a real difference to them.",
+        "is_supporting": true,
+        "idx": 246
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "tracking inventory, resources, and donations"
+  },
+  {
+    "id": "locomo_6_158",
+    "question": "What did James create for the charitable foundation that helped generate reports for analysis?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_244 (D11:3)",
+        "text": "[t=5:00 pm on 11 May, 2022, speaker=John] Previously, this foundation used paper records and all inventory was recorded manually. I made an application that structured their work, and now everything they need for inventory is in one application on their smartphone.",
+        "is_supporting": true,
+        "idx": 244
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "computer application on smartphones"
+  },
+  {
+    "id": "locomo_6_159",
+    "question": "Who does James support in cricket matches?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_286 (D13:12)",
+        "text": "[t=4:30 pm on 13 June, 2022, speaker=James] Of course, they played well! As I like to say, there is no sport better than football, no club better than Liverpool! I don't miss a single match of theirs!",
+        "is_supporting": true,
+        "idx": 286
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Liverpool"
+  },
+  {
+    "id": "locomo_6_160",
+    "question": "What is Max good at doing according to John?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_317 (D14:23)",
+        "text": "[t=5:07 pm on 16 June, 2022, speaker=James] [Image: a photo of a dog laying in the grass with a frisbee] Max is a real go-getter! He's awesome at catching frisbees in mid-air - never misses!",
+        "is_supporting": true,
+        "idx": 317
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "catching frisbees in mid-air"
+  },
+  {
+    "id": "locomo_6_161",
+    "question": "Will there be a background check required to volunteer with the organization James volunteered for?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_343 (D15:15)",
+        "text": "[t=9:59 pm on 19 June, 2022, speaker=James] No, this is not necessary. All you need is to be a friendly and polite person, and also have a great desire to help people. I'm sure you will succeed!",
+        "is_supporting": true,
+        "idx": 343
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "No"
+  },
+  {
+    "id": "locomo_6_162",
+    "question": "How did James relax in his free time on 9 July, 2022?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_355 (D16:8)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=John] [Image: a photo of a book shelf filled with books and a guitar] I like to relax by reading. I love entering the imaginative worlds of authors - it's a fun escape from reality.",
+        "is_supporting": true,
+        "idx": 355
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Reading"
+  },
+  {
+    "id": "locomo_6_163",
+    "question": "What new hobby did John become interested in on 9 July, 2022?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_352 (D16:5)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] Yeah, staying balanced can be tough. I'm trying to take breaks from my hobbies and do other things. Lately I've become interested in extreme sports. Yesterday, for example, I was doing rope jumping. The highest height I jumped from was 150 meters!",
+        "is_supporting": true,
+        "idx": 352
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Extreme sports"
+  },
+  {
+    "id": "locomo_6_164",
+    "question": "When did John plan to return from his trip to Toronto and Vancouver?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_360 (D16:13)",
+        "text": "[t=5:13 pm on 9 July, 2022, speaker=James] I plan to return on July 20, I’ll definitely bring you some kind of souvenir!",
+        "is_supporting": true,
+        "idx": 360
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "July 20"
+  },
+  {
+    "id": "locomo_6_165",
+    "question": "What made James leave his IT job?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_403 (D18:3)",
+        "text": "[t=1:45 pm on 6 August, 2022, speaker=John] At first, it was super scary, but I knew I had to make a change and focus on things that align with my values and passions.",
+        "is_supporting": true,
+        "idx": 403
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "to focus on things that align with his values and passions"
+  },
+  {
+    "id": "locomo_6_166",
+    "question": "Which game tournaments does James plan to organize besides CS:GO?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_409 (D18:9)",
+        "text": "[t=1:45 pm on 6 August, 2022, speaker=John] Also, I can host Fortnite competitions. I have already made some connections that will help me with this. My plan is to gain more experience and perfect my skills to be successful in this field.",
+        "is_supporting": true,
+        "idx": 409
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Fortnite competitions"
+  },
+  {
+    "id": "locomo_6_167",
+    "question": "What happened to James's kitten during the recent visit to the clinic?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_416 (D18:16)",
+        "text": "[t=1:45 pm on 6 August, 2022, speaker=James] Don't worry. This was just a routine examination. Also, the puppy was vaccinated to prevent him from catching the seasonal canine disease.",
+        "is_supporting": true,
+        "idx": 416
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "routine examination and vaccination"
+  },
+  {
+    "id": "locomo_6_168",
+    "question": "What aspect of \"The Witcher 3\" does John find boring?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_427 (D19:7)",
+        "text": "[t=9:16 am on 10 August, 2022, speaker=John] I'm playing \"The Witcher 3\"! There's this awesome monster hunter with a cool story, and I'm totally hooked, trying to make the right choices to shape the world. It's really immersive.",
+        "is_supporting": true,
+        "idx": 427
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "shaping the world with choices"
+  },
+  {
+    "id": "locomo_6_169",
+    "question": "What is John planning to do after receiving Samantha's phone number?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_434 (D19:14)",
+        "text": "[t=9:16 am on 10 August, 2022, speaker=James] Yes, we had fun and I even met one beautiful girl. I'm thinking of asking her out on a date! She left me her phone number, I think I'll call tomorrow.",
+        "is_supporting": true,
+        "idx": 434
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "call her"
+  },
+  {
+    "id": "locomo_6_170",
+    "question": "What has James been teaching his siblings?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_488 (D22:10)",
+        "text": "[t=6:53 pm on 1 September, 2022, speaker=John] Awesome that you learned those lessons! Collaboration and feedback make a huge impact on any project. I've been teaching my siblings coding. It's been a fulfilling experience and they're already creating their own programs - amazing!",
+        "is_supporting": true,
+        "idx": 488
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "coding"
+  },
+  {
+    "id": "locomo_6_171",
+    "question": "How much does James pay per dance class?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_512 (D23:15)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] At only $10 per class, it's very cheap! Also, I made meringue there and they taught us how to make the dough.",
+        "is_supporting": true,
+        "idx": 512
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "$10"
+  },
+  {
+    "id": "locomo_6_172",
+    "question": "What did James learn to make in the chemistry class besides omelette and meringue?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_512 (D23:15)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] At only $10 per class, it's very cheap! Also, I made meringue there and they taught us how to make the dough.",
+        "is_supporting": true,
+        "idx": 512
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Dough"
+  },
+  {
+    "id": "locomo_6_173",
+    "question": "Why did James sign up for a ballet class?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_510 (D23:13)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] Yes, two days ago I signed up for a cooking class. I never liked cooking, but I felt that I wanted to learn something new. At the first lesson we prepared several simple dishes. I got a great omelette the first time!",
+        "is_supporting": true,
+        "idx": 510
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "He wanted to learn something new"
+  },
+  {
+    "id": "locomo_6_174",
+    "question": "What did John prepare for the first time in the cooking class?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_510 (D23:13)",
+        "text": "[t=9:23 pm on 4 September, 2022, speaker=James] Yes, two days ago I signed up for a cooking class. I never liked cooking, but I felt that I wanted to learn something new. At the first lesson we prepared several simple dishes. I got a great omelette the first time!",
+        "is_supporting": true,
+        "idx": 510
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Omelette"
+  },
+  {
+    "id": "locomo_6_175",
+    "question": "What is the name of the board game James tried in September 2022?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_521 (D24:3)",
+        "text": "[t=6:02 pm on 18 September, 2022, speaker=John] This game is called \"Dungeons of the Dragon\", very exciting! I'm really glad you're writing down what you need to do in a notebook. This will definitely help you not to forget anything! How did you come up with this idea? In general, where do you get ideas?",
+        "is_supporting": true,
+        "idx": 521
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Dungeons of the Dragon"
+  },
+  {
+    "id": "locomo_6_176",
+    "question": "Where does John get his ideas from?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_522 (D24:4)",
+        "text": "[t=6:02 pm on 18 September, 2022, speaker=James] Thanks, John! I get them from various sources like books, movies, and even dreams.",
+        "is_supporting": true,
+        "idx": 522
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "books, movies, dreams"
+  },
+  {
+    "id": "locomo_6_177",
+    "question": "What did James use to play when he was younger to let off steam?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_533 (D24:15)",
+        "text": "[t=6:02 pm on 18 September, 2022, speaker=John] [Image: a photo of a drum set up in a recording studio] Playing drums when I was younger was a fun way to let off steam. Here's a photo of an old drum set I used to play on.",
+        "is_supporting": true,
+        "idx": 533
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "drums"
+  },
+  {
+    "id": "locomo_6_178",
+    "question": "What does James do to stay informed and constantly learn about game design?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_552 (D25:13)",
+        "text": "[t=8:56 pm on 20 September, 2022, speaker=John] It is filled with awesome tips and insights on game design. I also watch tutorials and keep up with developer forums for information and ideas. Basically, staying informed and constantly learning is key!",
+        "is_supporting": true,
+        "idx": 552
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "watch tutorials and keep up with developer forums"
+  },
+  {
+    "id": "locomo_6_179",
+    "question": "What kind of gig was James offered at the game dev non-profit organization?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_567 (D26:3)",
+        "text": "[t=9:20 am on 3 October, 2022, speaker=John] They asked me to be a programming mentor for game developers. I'll be teaching coding and assisting with projects. I'm really excited to share my knowledge and motivate people who are passionate about gaming.",
+        "is_supporting": true,
+        "idx": 567
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "programming mentor for game developers"
+  },
+  {
+    "id": "locomo_6_180",
+    "question": "What does James feel about starting the journey as a programming mentor for game developers?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_569 (D26:5)",
+        "text": "[t=9:20 am on 3 October, 2022, speaker=John] I'm so excited and inspired! It's a great chance to help them and boost my own skills. I love sharing what I know and seeing others reach their potential - it's so rewarding!",
+        "is_supporting": true,
+        "idx": 569
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "excited and inspired"
+  },
+  {
+    "id": "locomo_6_181",
+    "question": "What inspired James to create his painting?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_585 (D27:6)",
+        "text": "[t=2:14 pm on 13 October, 2022, speaker=James] Playing video games was always great, but creating my own game was really special. Witcher 3 gave me a ton of inspiration, with its amazing world and story. Plus, it pushed me to create something cool.",
+        "is_supporting": true,
+        "idx": 585
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Witcher 3"
+  },
+  {
+    "id": "locomo_6_182",
+    "question": "What games were played at the gaming tournament organized by James on 31 October, 2022?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_629 (D29:1)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Hey James! Hope you're doing great. I've some amazing news - I held a gaming tourney with my buddies last night. We played Fortnite and a few other games. We raised a decent amount for a children's hospital. Combining gaming and a good cause felt awesome!",
+        "is_supporting": true,
+        "idx": 629
+      },
+      {
+        "title": "turn_631 (D29:3)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Thanks! We all pulled together for a great cause. My gaming pals and I also played Overwatch and Apex Legends. Everyone had a blast raising money for the kids' hospital. The atmosphere was awesome and everyone was so competitive. In the end, we raised a good amount. Feels good to use our love of gaming for good!",
+        "is_supporting": true,
+        "idx": 631
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Fortnite, Overwatch, Apex Legends"
+  },
+  {
+    "id": "locomo_6_183",
+    "question": "What was the purpose of the gaming tournament organized by James on 31 October, 2022?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_629 (D29:1)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Hey James! Hope you're doing great. I've some amazing news - I held a gaming tourney with my buddies last night. We played Fortnite and a few other games. We raised a decent amount for a children's hospital. Combining gaming and a good cause felt awesome!",
+        "is_supporting": true,
+        "idx": 629
+      },
+      {
+        "title": "turn_631 (D29:3)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=John] Thanks! We all pulled together for a great cause. My gaming pals and I also played Overwatch and Apex Legends. Everyone had a blast raising money for the kids' hospital. The atmosphere was awesome and everyone was so competitive. In the end, we raised a good amount. Feels good to use our love of gaming for good!",
+        "is_supporting": true,
+        "idx": 631
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "To raise money for a children's hospital"
+  },
+  {
+    "id": "locomo_6_184",
+    "question": "What decision did John and Samantha make on 31 October, 2022?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_636 (D29:8)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] I actually have something new, Samantha and I have decided to move in together!",
+        "is_supporting": true,
+        "idx": 636
+      },
+      {
+        "title": "turn_638 (D29:10)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] Of course, this was a mutual and informed decision. We rented an apartment not far from McGee's bar.",
+        "is_supporting": true,
+        "idx": 638
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "To move in together"
+  },
+  {
+    "id": "locomo_6_185",
+    "question": "Where did John and Samantha decide to live together on 31 October, 2022?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_638 (D29:10)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] Of course, this was a mutual and informed decision. We rented an apartment not far from McGee's bar.",
+        "is_supporting": true,
+        "idx": 638
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "In an apartment not far from McGee's bar"
+  },
+  {
+    "id": "locomo_6_186",
+    "question": "Why did John and Samantha choose an apartment near McGee's bar?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_640 (D29:12)",
+        "text": "[t=12:37 am on 31 October, 2022, speaker=James] We just love it! I’ll be honest, one of the criteria for our choice of apartment was this particular bar nearby.",
+        "is_supporting": true,
+        "idx": 640
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "They love spending time together at the bar"
+  },
+  {
+    "id": "locomo_6_187",
+    "question": "What game is James hooked on playing on 5 November, 2022?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_658 (D30:14)",
+        "text": "[t=5:20 pm on 5 November, 2022, speaker=John] I'm hooked on this great game called FIFA 23. This is a great football game with the ability to play online with other players from all over the world! Enjoy!",
+        "is_supporting": true,
+        "idx": 658
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "FIFA 23"
+  },
+  {
+    "id": "locomo_6_188",
+    "question": "What project did James work on with a game developer by 7 November, 2022?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_667 (D31:4)",
+        "text": "[t=8:57 pm on 7 November, 2022, speaker=John] I collaborated with a game developer to create an online board game - it's a fun and unique experience!",
+        "is_supporting": true,
+        "idx": 667
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "An online board game"
+  },
+  {
+    "id": "locomo_6_189",
+    "question": "What is the name of James's cousin's dog?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_685 (D31:22)",
+        "text": "[t=8:57 pm on 7 November, 2022, speaker=John] [Image: a photo of two people standing in front of a giant head] Their name is Luna.",
+        "is_supporting": true,
+        "idx": 685
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Luna"
+  }
+]

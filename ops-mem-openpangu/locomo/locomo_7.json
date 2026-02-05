@@ -1,0 +1,4743 @@
+[
+  {
+    "id": "locomo_7_0",
+    "question": "What kind of project was Jolene working on in the beginning of January 2023?",
+    "answer": [
+      "electricity engineering project"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_1 (D1:2)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Jolene] Hi Deb! Good to meet you! Yeah, my week's been busy. I finished an electrical engineering project last week - took a lot of work, but it's done now. Anything fun happening for you?",
+        "is_supporting": true,
+        "idx": 1
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_1",
+    "question": "Which of Deborah`s family and friends have passed away?",
+    "answer": [
+      "mother, father, her friend Karlie"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_4 (D1:5)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Deborah] [Image: a photo of a woman in a wheelchair hugging a woman in a wheelchair] It was full of memories, she passed away a few years ago. This is our last photo together.",
+        "is_supporting": true,
+        "idx": 4
+      },
+      {
+        "title": "turn_18 (D2:1)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] Hey Jolene, sorry to tell you this but my dad passed away two days ago. It's been really tough on us all - his sudden death left us all kinda shell-shocked. I'm trying to channel my grief by spending more time with family and cherishing the memories. These moments remind me to live life fully.",
+        "is_supporting": true,
+        "idx": 18
+      },
+      {
+        "title": "turn_129 (D6:4)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Deborah] The roses and dahlias bring me peace. I lost a friend last week, so I've been spending time in the garden to find some comfort.",
+        "is_supporting": true,
+        "idx": 129
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_2",
+    "question": "When did Deborah`s mother pass away?",
+    "answer": [
+      "a few years before 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_4 (D1:5)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Deborah] [Image: a photo of a woman in a wheelchair hugging a woman in a wheelchair] It was full of memories, she passed away a few years ago. This is our last photo together.",
+        "is_supporting": true,
+        "idx": 4
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_3",
+    "question": "When did Jolene`s mother pass away?",
+    "answer": [
+      "in 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_5 (D1:6)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Jolene] [Image: a photo of a room with a bench and a window] Sorry about your loss, Deb. My mother also passed away last year. This is my room in her house, I also have many memories there. Is there anything special about it you remember?",
+        "is_supporting": true,
+        "idx": 5
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_4",
+    "question": "When did Jolene's mom gift her a pendant?",
+    "answer": [
+      "in 2010"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_7 (D1:8)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Jolene] [Image: a photo of a heart shaped pendant with a bird on it] Staying connected is super important. Do you have something to remember her by? This pendant reminds me of my mother, she gave it to me in 2010  in Paris.",
+        "is_supporting": true,
+        "idx": 7
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_5",
+    "question": "In what country did Jolene's mother buy her the pendant?",
+    "answer": [
+      "In France"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_7 (D1:8)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Jolene] [Image: a photo of a heart shaped pendant with a bird on it] Staying connected is super important. Do you have something to remember her by? This pendant reminds me of my mother, she gave it to me in 2010  in Paris.",
+        "is_supporting": true,
+        "idx": 7
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_7_6",
+    "question": "What symbolic gifts do Deborah and Jolene have from their mothers?",
+    "answer": [
+      "pendants"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_7 (D1:8)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Jolene] [Image: a photo of a heart shaped pendant with a bird on it] Staying connected is super important. Do you have something to remember her by? This pendant reminds me of my mother, she gave it to me in 2010  in Paris.",
+        "is_supporting": true,
+        "idx": 7
+      },
+      {
+        "title": "turn_8 (D1:9)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Deborah] Yes, I also have a pendant that reminds me of my mother. And what is special for you about your jewelry?",
+        "is_supporting": true,
+        "idx": 8
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_7",
+    "question": "Which country were Jolene and her mother visiting in 2010?",
+    "answer": [
+      "France"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_7 (D1:8)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Jolene] [Image: a photo of a heart shaped pendant with a bird on it] Staying connected is super important. Do you have something to remember her by? This pendant reminds me of my mother, she gave it to me in 2010  in Paris.",
+        "is_supporting": true,
+        "idx": 7
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_8",
+    "question": "What helped Deborah find peace when grieving deaths of her loved ones?",
+    "answer": [
+      "yoga, old photos, the roses and dahlias in a flower garden, nature"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_340 (D15:29)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Deborah] Nature helps me find peace every day - it's so refreshing!",
+        "is_supporting": true,
+        "idx": 340
+      },
+      {
+        "title": "turn_14 (D1:15)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Deborah] Yoga helped me find peace during a rough time, and now I'm passionate about sharing that with others.",
+        "is_supporting": true,
+        "idx": 14
+      },
+      {
+        "title": "turn_20 (D2:3)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] [Image: a photo of a bride and groom posing for a picture] Even though it's hard, it's comforting to look back on the great memories. We looked at the family album. Photos give me peace during difficult times. This is my parents' wedding in 1993.",
+        "is_supporting": true,
+        "idx": 20
+      },
+      {
+        "title": "turn_129 (D6:4)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Deborah] The roses and dahlias bring me peace. I lost a friend last week, so I've been spending time in the garden to find some comfort.",
+        "is_supporting": true,
+        "idx": 129
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_9",
+    "question": "When did Deborah's father pass away?",
+    "answer": [
+      "January 25, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_18 (D2:1)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] Hey Jolene, sorry to tell you this but my dad passed away two days ago. It's been really tough on us all - his sudden death left us all kinda shell-shocked. I'm trying to channel my grief by spending more time with family and cherishing the memories. These moments remind me to live life fully.",
+        "is_supporting": true,
+        "idx": 18
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_10",
+    "question": "When was Deborah's parents' wedding?",
+    "answer": [
+      "in 1993"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_20 (D2:3)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] [Image: a photo of a bride and groom posing for a picture] Even though it's hard, it's comforting to look back on the great memories. We looked at the family album. Photos give me peace during difficult times. This is my parents' wedding in 1993.",
+        "is_supporting": true,
+        "idx": 20
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_11",
+    "question": "Is Deborah married?",
+    "answer": [
+      "yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_411 (D19:11)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Deborah] Reminds me of when I used to play games with my husband. We'd take turns and it was a great way to bond and make memories. Gaming really can bring people closer, right?",
+        "is_supporting": true,
+        "idx": 411
+      },
+      {
+        "title": "turn_501 (D23:4)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Deborah] [Image: a photo of a man standing in front of a house] Yep, last month I visited my mom`s house which holds a special place in my heart. My mom had good and bad times there, but it's still a symbol of her strength and the love she shared with me. This is my husband in front of this house.",
+        "is_supporting": true,
+        "idx": 501
+      },
+      {
+        "title": "turn_609 (D28:11)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Deborah] That beach is super special to me. It's where I got married and discovered my love for surfing. It's always filled with joy and peace.",
+        "is_supporting": true,
+        "idx": 609
+      },
+      {
+        "title": "turn_22 (D2:5)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] My husband and I are trying to be as good a family as my parents were!",
+        "is_supporting": true,
+        "idx": 22
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_7_12",
+    "question": "When did Deborah receive an appreciation letter from her community?",
+    "answer": [
+      "January 26, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_24 (D2:7)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] [Image: a photo of a note written to someone on a piece of paper] It is love, and openness that have kept us close all these years. Being there for each other has made us both happy. Look what letter I received yesterday!",
+        "is_supporting": true,
+        "idx": 24
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_13",
+    "question": "What places give Deborah peace?",
+    "answer": [
+      "sitting in a spot by the window in her Mom's house, sitting by the beach, Bali, forest trail in a nearby park"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_417 (D19:17)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Deborah] I love going to this park near my house - it has a nice forest trail and a beach. It's a peaceful spot where I can do some yoga and reflect. There's also a special bench that holds special meaning to me.",
+        "is_supporting": true,
+        "idx": 417
+      },
+      {
+        "title": "turn_30 (D2:13)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] That's my old home. I go there now and then for my mom, who passed away. Sitting in that spot by the window gives me peace.",
+        "is_supporting": true,
+        "idx": 30
+      },
+      {
+        "title": "turn_98 (D4:34)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Deborah] [Image: a photo of a small island with a lone boat in the water] That sounds great, Jolene. Nature's calming for sure. Guess it helps us forget the daily craziness and find inner peace. No wonder you're a fan! I like to come to this spot by the water near my mom's old house. It's where I reflect on her life and find some peace. Being surrounded by nature helps a lot.",
+        "is_supporting": true,
+        "idx": 98
+      },
+      {
+        "title": "turn_135 (D6:10)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Deborah] [Image: a photo of a swing on a beach with a blue sky] I've been blessed to travel to a few places and Bali last year was one of my favs. It was a gorgeous island that gave me peace, great for yoga.",
+        "is_supporting": true,
+        "idx": 135
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_14",
+    "question": "What were Deborah's mother's hobbies?",
+    "answer": [
+      "reading, traveling, art, cooking"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_248 (D12:3)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Deborah] My mom was interested in art. She believed art could give out strong emotions and uniquely connect us. When I go to an art show, it's like we're still experiencing it together even though she's gone. It's hard but comforting.",
+        "is_supporting": true,
+        "idx": 248
+      },
+      {
+        "title": "turn_635 (D29:7)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Deborah] [Image: a photo of a bowl of food with a spoon in it] Thanks, Jolene! It was really special. My mom had a big passion for cooking. She would make amazing meals for us, each one full of love and warmth. I can still remember the smell of her special dish, it would fill the house and bring us all together.",
+        "is_supporting": true,
+        "idx": 635
+      },
+      {
+        "title": "turn_34 (D2:17)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] Yeah, Jolene. She'd sit there every night with a book and a smile, reading was one of her hobbies. It was one of her favorite places in the house.",
+        "is_supporting": true,
+        "idx": 34
+      },
+      {
+        "title": "turn_36 (D2:19)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] Travel was also her great passion!",
+        "is_supporting": true,
+        "idx": 36
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_15",
+    "question": "What pets does Jolene have?",
+    "answer": [
+      "snakes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_37 (D2:20)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] [Image: a photo of a bed with a snake head sticking out of it] I want to show you one of my snakes! They always calm me down and make me happy. This is Susie.",
+        "is_supporting": true,
+        "idx": 37
+      },
+      {
+        "title": "turn_39 (D2:22)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] [Image: a photo of a snake sticking its head out of a blanket] I was playing video games and my pet just slinked out of her cage and coiled up next to me - it was too funny! My second snake Seraphim did it. Look at her sly eyes!",
+        "is_supporting": true,
+        "idx": 39
+      },
+      {
+        "title": "turn_41 (D2:24)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] I bought it a year ago in Paris.",
+        "is_supporting": true,
+        "idx": 41
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_16",
+    "question": "What are the names of Jolene's snakes?",
+    "answer": [
+      "Susie, Seraphim"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_37 (D2:20)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] [Image: a photo of a bed with a snake head sticking out of it] I want to show you one of my snakes! They always calm me down and make me happy. This is Susie.",
+        "is_supporting": true,
+        "idx": 37
+      },
+      {
+        "title": "turn_39 (D2:22)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] [Image: a photo of a snake sticking its head out of a blanket] I was playing video games and my pet just slinked out of her cage and coiled up next to me - it was too funny! My second snake Seraphim did it. Look at her sly eyes!",
+        "is_supporting": true,
+        "idx": 39
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_17",
+    "question": "When did Jolene buy her pet Seraphim?",
+    "answer": [
+      "in 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_41 (D2:24)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] I bought it a year ago in Paris.",
+        "is_supporting": true,
+        "idx": 41
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_18",
+    "question": "In what country did Jolene buy snake Seraphim?",
+    "answer": [
+      "In France"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_41 (D2:24)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] I bought it a year ago in Paris.",
+        "is_supporting": true,
+        "idx": 41
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_7_19",
+    "question": "How many times has Jolene been to France?",
+    "answer": [
+      "two times"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_7 (D1:8)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Jolene] [Image: a photo of a heart shaped pendant with a bird on it] Staying connected is super important. Do you have something to remember her by? This pendant reminds me of my mother, she gave it to me in 2010  in Paris.",
+        "is_supporting": true,
+        "idx": 7
+      },
+      {
+        "title": "turn_41 (D2:24)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] I bought it a year ago in Paris.",
+        "is_supporting": true,
+        "idx": 41
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_20",
+    "question": "Which games have Jolene and her partner played together?",
+    "answer": [
+      "Detroit, Walking Dead, Battlefield 1, It Takes Two, Overcooked 2"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_321 (D15:10)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Jolene] Yeah, we love playing \"It takes two\" together! It's a fun team-strategy game and it's competitive. Plus, it's a great way for us to bond. Do you have any activities you like doing with people?",
+        "is_supporting": true,
+        "idx": 321
+      },
+      {
+        "title": "turn_410 (D19:10)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] Oh, I forgot to mention Overcooked 2 - this is a good co-op game if you're into hilarious and chaotic cooking. My partner and I often play for bets! I once won three large pizzas!",
+        "is_supporting": true,
+        "idx": 410
+      },
+      {
+        "title": "turn_425 (D20:1)",
+        "text": "[t=9:11 am on 21 August, 2023, speaker=Jolene] Long time no talk! We were given a new game for the console last week, it is Battlefield 1. What's been up with you?",
+        "is_supporting": true,
+        "idx": 425
+      },
+      {
+        "title": "turn_43 (D2:26)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] [Image: a photo of a person laying in bed with a dog watching tv] They are very unusual pets! Here's me and my partner gaming last week - it's so fun. We played the game \"Detroit\" on the console. We are both crazy about this activity!",
+        "is_supporting": true,
+        "idx": 43
+      },
+      {
+        "title": "turn_47 (D2:30)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] We are planning to play \"Walking Dead\" next Saturday.",
+        "is_supporting": true,
+        "idx": 47
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_21",
+    "question": "When do Jolene and her partner plan to complete the game \"Walking Dead\"?",
+    "answer": [
+      "Saturday after 27 January, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_47 (D2:30)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] We are planning to play \"Walking Dead\" next Saturday.",
+        "is_supporting": true,
+        "idx": 47
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_22",
+    "question": "When did Deborah meet Anna?",
+    "answer": [
+      "31 January, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_53 (D3:4)",
+        "text": "[t=7:03 pm on 1 February, 2023, speaker=Deborah] That's awesome, Jolene! You're enjoying the process. It must be really satisfying to see it come together. Keep up the good work! Oh, by the way, I met my new neighbor Anna yesterday!",
+        "is_supporting": true,
+        "idx": 53
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_23",
+    "question": "Why did Jolene sometimes put off doing yoga?",
+    "answer": [
+      "She's more interested in playing video games"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_47 (D2:30)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] We are planning to play \"Walking Dead\" next Saturday.",
+        "is_supporting": true,
+        "idx": 47
+      },
+      {
+        "title": "turn_60 (D3:11)",
+        "text": "[t=7:03 pm on 1 February, 2023, speaker=Jolene] Well... we planned to play the console with my partner.",
+        "is_supporting": true,
+        "idx": 60
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_7_24",
+    "question": "What new yoga poses did Deborah try?",
+    "answer": [
+      "Warrior II, Dancer Pose (Natarajasana), Tree pose"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_303 (D14:15)",
+        "text": "[t=9:17 am on 26 June, 2023, speaker=Deborah] [Image: a photo of three people standing in front of a large statue] I'd rather show you a photo. This is also a new yoga pose that we tried. It is a tree pose.",
+        "is_supporting": true,
+        "idx": 303
+      },
+      {
+        "title": "turn_291 (D14:3)",
+        "text": "[t=9:17 am on 26 June, 2023, speaker=Deborah] [Image: a photo of a woman doing a yoga pose on the beach] By the way, I tried a new pose - Dancer Pose (Natarajasana). Rate, did I succeed?",
+        "is_supporting": true,
+        "idx": 291
+      },
+      {
+        "title": "turn_78 (D4:14)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Deborah] We were trying out different dance poses, like Warrior II, which builds strength and boosts focus.",
+        "is_supporting": true,
+        "idx": 78
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_25",
+    "question": "What are Jolene's favorite books?",
+    "answer": [
+      "Sapiens, Avalanche by Neal Stephenson"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_85 (D4:21)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] Thanks Deborah! I'm really into this book called \"Sapiens\" - it's a fascinating look at human history and how technology has affected us. It's giving me a lot to think about!",
+        "is_supporting": true,
+        "idx": 85
+      },
+      {
+        "title": "turn_87 (D4:23)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] Two weeks ago I read \"Avalanche\" by Neal Stephenson in one sitting!",
+        "is_supporting": true,
+        "idx": 87
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_26",
+    "question": "Which book did Jolene read in January 2023?",
+    "answer": [
+      "Avalanche by Neal Stephenson"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_87 (D4:23)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] Two weeks ago I read \"Avalanche\" by Neal Stephenson in one sitting!",
+        "is_supporting": true,
+        "idx": 87
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_27",
+    "question": "When was Jolene in Bogota?",
+    "answer": [
+      "in summer 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_97 (D4:33)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] [Image: a photo of a person walking on the beach with a surfboard] Here's a picture I took on vacation last summer in Bogota. It was so beautiful and calming watching the sunset over the water. It definitely made me appreciate nature's calming power.",
+        "is_supporting": true,
+        "idx": 97
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_28",
+    "question": "In what country was Jolene during summer 2022?",
+    "answer": [
+      "Colombia"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_97 (D4:33)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] [Image: a photo of a person walking on the beach with a surfboard] Here's a picture I took on vacation last summer in Bogota. It was so beautiful and calming watching the sunset over the water. It definitely made me appreciate nature's calming power.",
+        "is_supporting": true,
+        "idx": 97
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_7_29",
+    "question": "When did Jolene have a mini-retreat to reflect on her career?",
+    "answer": [
+      "Wednesday before 9 February, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_109 (D5:1)",
+        "text": "[t=9:03 pm on 9 February, 2023, speaker=Jolene] Hey Deborah! Been a few days since we last talked so I wanted to fill you in on something cool. Last Wednesday I did a mini retreat to assess where I'm at in life. It was a dope experience that totally gave me a new outlook.",
+        "is_supporting": true,
+        "idx": 109
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_30",
+    "question": "When did Jolene have a dinner and drinks with her friends?",
+    "answer": [
+      "21 February, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_126 (D6:1)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Jolene] [Image: a photo of a plate of food and a glass of wine] Hey Deborah, totally buzzing! Had a great night out last night - dinner, and drinks with my friends. So glad I got to let my hair down. You?",
+        "is_supporting": true,
+        "idx": 126
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_31",
+    "question": "When was the last photo of Deborah and Karlie taken?",
+    "answer": [
+      "in summer 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_133 (D6:8)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Deborah] [Image: a photo of two women are riding on a motorcycle on a dirt road] Memories keep our loved ones close. This is the last photo with Karlie which was taken last summer when we hiked. It was our last one. We had such a great time! Every time I see it, I can't help but smile.",
+        "is_supporting": true,
+        "idx": 133
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_32",
+    "question": "When was Deborah in Bali?",
+    "answer": [
+      "in 2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_135 (D6:10)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Deborah] [Image: a photo of a swing on a beach with a blue sky] I've been blessed to travel to a few places and Bali last year was one of my favs. It was a gorgeous island that gave me peace, great for yoga.",
+        "is_supporting": true,
+        "idx": 135
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_33",
+    "question": "How long have Jolene and her partner been together?",
+    "answer": [
+      "for three years"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_148 (D7:7)",
+        "text": "[t=4:50 pm on 25 February, 2023, speaker=Jolene] We're not married yet but we've been together for three years. We're taking it slow and loving the ride. This ring on his hand is just a decoration, not a wedding ring.",
+        "is_supporting": true,
+        "idx": 148
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_34",
+    "question": "Which year did Jolene and her partner start dating?",
+    "answer": [
+      "2020"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_148 (D7:7)",
+        "text": "[t=4:50 pm on 25 February, 2023, speaker=Jolene] We're not married yet but we've been together for three years. We're taking it slow and loving the ride. This ring on his hand is just a decoration, not a wedding ring.",
+        "is_supporting": true,
+        "idx": 148
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_35",
+    "question": "When did Deborah go for her first morning jog in a nearby park?",
+    "answer": [
+      "24 February, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_159 (D7:18)",
+        "text": "[t=4:50 pm on 25 February, 2023, speaker=Deborah] In the morning, I meditate, do yoga, and teach classes. And yesterday I went for a morning jog for the first time in a nearby park. I will now incorporate this into my daily routine. And in the evenings, I spend time with loved ones.",
+        "is_supporting": true,
+        "idx": 159
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_36",
+    "question": "How old is Jolene?",
+    "answer": [
+      "likely no more than 30; since she's in school"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_266 (D13:5)",
+        "text": "[t=3:56 pm on 6 June, 2023, speaker=Jolene] [Image: a photo of a group of construction workers posing for a picture] I'm interning at a well-known engineering firm. It's been a great opportunity to test my skills and gain real-world experience. These are my new colleagues!",
+        "is_supporting": true,
+        "idx": 266
+      },
+      {
+        "title": "turn_456 (D21:6)",
+        "text": "[t=9:34 am on 24 August, 2023, speaker=Jolene] My goal is to be successful in my field and make a positive impact. I've been studying, attending workshops, and networking to make it happen. Recently, I had the opportunity to present at a virtual conference and received positive feedback.  It was a great experience and confirmed that I'm on the right track.",
+        "is_supporting": true,
+        "idx": 456
+      },
+      {
+        "title": "turn_458 (D21:8)",
+        "text": "[t=9:34 am on 24 August, 2023, speaker=Jolene] I was thrilled to receive such positive feedback! It felt so rewarding to know that my efforts were appreciated. Right now, I'm focusing on studying and gaining more experience. I'm even thinking about more internships to further enhance my skills. Exciting times! Hopefully, there will be more updates to share with you soon.",
+        "is_supporting": true,
+        "idx": 458
+      },
+      {
+        "title": "turn_481 (D22:14)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Jolene] It helps with challenges, giving balance and strength. Any tips for staying relaxed while studying?",
+        "is_supporting": true,
+        "idx": 481
+      },
+      {
+        "title": "turn_473 (D22:6)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Jolene] Yeah, Deborah! We've been figuring out how to add these values into our projects. As an engineering student, I want to use my talents to do good and help solve important problems. I'm keen on coming up with new ideas and making things more efficient to make the world a better place. Going further, my mom stressed the value of helping others and that's something I want to keep in mind for my engineering projects.",
+        "is_supporting": true,
+        "idx": 473
+      },
+      {
+        "title": "turn_531 (D24:2)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Jolene] Hey Deb, great to hear from you! I've been focusing on studying and my relationship with my partner. We're taking little trips to the beach, it's a great way to relax. How about you, anything new going on?",
+        "is_supporting": true,
+        "idx": 531
+      },
+      {
+        "title": "turn_543 (D24:14)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Jolene] Got a lot of finals coming up this month, so I've been studying real hard. It's been quite stressful, but it'll be worth it in the end. Thinking about taking a trip somewhere to relax and recharge afterward.",
+        "is_supporting": true,
+        "idx": 543
+      },
+      {
+        "title": "turn_549 (D25:5)",
+        "text": "[t=8:31 pm on 6 September, 2023, speaker=Jolene] Yeah, same! It helps me stay balanced during my studies.",
+        "is_supporting": true,
+        "idx": 549
+      },
+      {
+        "title": "turn_570 (D26:6)",
+        "text": "[t=7:39 pm on 8 September, 2023, speaker=Jolene] Having a routine helps me stay on top of everything I need to do. I have a schedule for classes, studying, and personal time. Self-care activities like yoga and meditation help me stay balanced and relax.",
+        "is_supporting": true,
+        "idx": 570
+      },
+      {
+        "title": "turn_166 (D8:2)",
+        "text": "[t=7:18 pm on 2 March, 2023, speaker=Jolene] One of my favorite dishes is lasagna! Comfort food can be a great pick-me-up. I've got a lot going on with my studies and exams.",
+        "is_supporting": true,
+        "idx": 166
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_7_37",
+    "question": "When did Jolene take Seraphim to the park?",
+    "answer": [
+      "Sunday before 2 March, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_172 (D8:8)",
+        "text": "[t=7:18 pm on 2 March, 2023, speaker=Jolene] [Image: a photo of a lizard laying on the ground surrounded by leaves] I did take Seraphim to the park last Sunday. She loved it and here's a pic.",
+        "is_supporting": true,
+        "idx": 172
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_38",
+    "question": "When did Deborah start the yoga class in the neighborhood?",
+    "answer": [
+      "Friday before 13 March, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_192 (D9:5)",
+        "text": "[t=11:22 am on 13 March, 2023, speaker=Deborah] [Image: a photo of a group of women posing for a picture] Thanks! My neighbors were interested in trying yoga, so I hosted a class for them on Friday. It was great to see everyone embrace and enjoy it. Here is our photo together.",
+        "is_supporting": true,
+        "idx": 192
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_39",
+    "question": "What time management techniques do Deborah and Jolene use?",
+    "answer": [
+      "the Pomodoro Technique - 25 minutes work and 5-minute break, scheduler or to-do list, The Eisenhower Matrix, bullet journal"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_220 (D10:13)",
+        "text": "[t=5:35 pm on 22 March, 2023, speaker=Deborah] [Image: a photo of a pair of scissors sitting on top of a piece of paper] The Eisenhower Matrix sorts tasks into four boxes, categorizing them based on their urgency and importance. It can be really useful for organizing and prioritizing. Here's a breakdown.",
+        "is_supporting": true,
+        "idx": 220
+      },
+      {
+        "title": "turn_211 (D10:4)",
+        "text": "[t=5:35 pm on 22 March, 2023, speaker=Jolene] I'm using the Pomodoro Technique - 25 minutes work, 5-minute break - to avoid burnout but I'm still struggling to prioritize. Do you have any other tips on time management?",
+        "is_supporting": true,
+        "idx": 211
+      },
+      {
+        "title": "turn_212 (D10:5)",
+        "text": "[t=5:35 pm on 22 March, 2023, speaker=Deborah] [Image: a photo of a notepad with a list of things to do] I create a daily schedule or to-do list. Here's my example for today.",
+        "is_supporting": true,
+        "idx": 212
+      },
+      {
+        "title": "turn_213 (D10:6)",
+        "text": "[t=5:35 pm on 22 March, 2023, speaker=Jolene] [Image: a photo of a notepad with notes on it on a counter] I tried making one but it's kinda overwhelming when it's a big stack of tasks. Here's an example from last Friday.",
+        "is_supporting": true,
+        "idx": 213
+      },
+      {
+        "title": "turn_388 (D18:3)",
+        "text": "[t=2:58 pm on 16 August, 2023, speaker=Jolene] Thanks, Deb! I've been trying out some time management strategies recently and started using a bullet journal. It's been really helpful for tracking my tasks and staying organized.",
+        "is_supporting": true,
+        "idx": 388
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_40",
+    "question": "Does Deborah live close to the beach or the mountains?",
+    "answer": [
+      "beach"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_224 (D10:17)",
+        "text": "[t=5:35 pm on 22 March, 2023, speaker=Deborah] [Image: a photo of a person walking on the beach with a surfboard] Don't forget to take it easy and look after yourself. Wishing you all the best! Recently, Anna and I were sitting by the sea, watching the sunset and talking about each other. And we realized that we inspire each other. What thoughts does the sea in this photo make you think of?",
+        "is_supporting": true,
+        "idx": 224
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_7_41",
+    "question": "What ways do Deborah and Jolene use to enhance their yoga practice?",
+    "answer": [
+      "candles, music, essential oils"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_235 (D11:4)",
+        "text": "[t=4:03 pm on 28 March, 2023, speaker=Deborah] [Image: a photo of a candle with a sprig of rosemary on a table] That`s cool! I also bought this candle for the atmosphere and to improve my yoga practice. How about you? When you do it, what feelings do you get?",
+        "is_supporting": true,
+        "idx": 235
+      },
+      {
+        "title": "turn_238 (D11:7)",
+        "text": "[t=4:03 pm on 28 March, 2023, speaker=Jolene] I find music helps me. Any favorite tracks?",
+        "is_supporting": true,
+        "idx": 238
+      },
+      {
+        "title": "turn_614 (D28:16)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Jolene] [Image: a photography of a couple of towels sitting on top of a table] I like to create my own serene yoga space with candles and oils for extra chill vibes. Also, we tried a new style of meditation in Thailand - with flowers.",
+        "is_supporting": true,
+        "idx": 614
+      },
+      {
+        "title": "turn_616 (D28:18)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Jolene] I find calm when I do yoga or meditate. I use essential oils and put on some soft, soothing music in the background to create a peaceful atmosphere. It really helps me chill out and center myself.",
+        "is_supporting": true,
+        "idx": 616
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_42",
+    "question": "What music pieces does Deborah listen to during her yoga practice?",
+    "answer": [
+      "Savana, Sleep"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_239 (D11:8)",
+        "text": "[t=4:03 pm on 28 March, 2023, speaker=Deborah] I find instrumental tracks with mellow melodies and rhythms help create a peaceful vibe. One of my favorites is a track called \"Savana.\" What songs/artists do you like listening to during your practice?",
+        "is_supporting": true,
+        "idx": 239
+      },
+      {
+        "title": "turn_241 (D11:10)",
+        "text": "[t=4:03 pm on 28 March, 2023, speaker=Deborah] Also, I'm listening to an album called 'Sleep,' which is great for meditation and deep relaxation. Hope you find it as calming as I do!",
+        "is_supporting": true,
+        "idx": 241
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_43",
+    "question": "When did Deborah go for a bicycle ride with Anna?",
+    "answer": [
+      "first week of April, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_246 (D12:1)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Deborah] Hey Jolene! Great to see you! Had a blast biking nearby with my neighbor last week - was so freeing and beautiful. Checked out an art show with a friend today - really cool and inspiring stuff. Reminded me of my mom.",
+        "is_supporting": true,
+        "idx": 246
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_44",
+    "question": "When did Deborah go to an art show with Anna?",
+    "answer": [
+      "on 9 April, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_246 (D12:1)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Deborah] Hey Jolene! Great to see you! Had a blast biking nearby with my neighbor last week - was so freeing and beautiful. Checked out an art show with a friend today - really cool and inspiring stuff. Reminded me of my mom.",
+        "is_supporting": true,
+        "idx": 246
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_45",
+    "question": "When did Jolene finish her robotics project?",
+    "answer": [
+      "May 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_262 (D13:1)",
+        "text": "[t=3:56 pm on 6 June, 2023, speaker=Jolene] [Image: a photo of a solar powered vehicle with a solar panel on the back] Hey Deborah! Long time no talk - I had lots of stuff going on. Remember the tough engineering project? I finally wrapped that up last month. Look at the result!",
+        "is_supporting": true,
+        "idx": 262
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_46",
+    "question": "How long did Jolene work on the robotics project given to her by her Professor?",
+    "answer": [
+      "four months"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_255 (D12:10)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Jolene] Just so you know, I've been working on a big project lately - it's been tough but also really cool to watch it take shape. Can't wait to see the final result!",
+        "is_supporting": true,
+        "idx": 255
+      },
+      {
+        "title": "turn_262 (D13:1)",
+        "text": "[t=3:56 pm on 6 June, 2023, speaker=Jolene] [Image: a photo of a solar powered vehicle with a solar panel on the back] Hey Deborah! Long time no talk - I had lots of stuff going on. Remember the tough engineering project? I finally wrapped that up last month. Look at the result!",
+        "is_supporting": true,
+        "idx": 262
+      },
+      {
+        "title": "turn_50 (D3:1)",
+        "text": "[t=7:03 pm on 1 February, 2023, speaker=Jolene] [Image: a photo of a table with a robot on it and a laptop] Hi Deb! How're you? I've been busy. My engineering professor gave us a huge robotics project. It's tough but fun, it's making me get creative and problem-solve.",
+        "is_supporting": true,
+        "idx": 50
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_47",
+    "question": "When did Jolene do yoga at Talkeetna?",
+    "answer": [
+      "on 5 June, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_276 (D13:15)",
+        "text": "[t=3:56 pm on 6 June, 2023, speaker=Jolene] [Image: a photo of a man standing on a rock with his arms outstretched] Yeah, I`m trying to do it. Here's an example of how I spent yesterday morning, yoga on top of mount Talkeetna.",
+        "is_supporting": true,
+        "idx": 276
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_48",
+    "question": "Which US state did Jolene visit during her internship?",
+    "answer": [
+      "Alaska"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_276 (D13:15)",
+        "text": "[t=3:56 pm on 6 June, 2023, speaker=Jolene] [Image: a photo of a man standing on a rock with his arms outstretched] Yeah, I`m trying to do it. Here's an example of how I spent yesterday morning, yoga on top of mount Talkeetna.",
+        "is_supporting": true,
+        "idx": 276
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_7_49",
+    "question": "How long has Jolene been doing yoga and meditation?",
+    "answer": [
+      "about 3 years"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_278 (D13:17)",
+        "text": "[t=3:56 pm on 6 June, 2023, speaker=Jolene] I've been doing them sporadically for about 3 years now and they've had a real positive effect on me.",
+        "is_supporting": true,
+        "idx": 278
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_50",
+    "question": "Which year did Jolene start practicing yoga?",
+    "answer": [
+      "2020"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_278 (D13:17)",
+        "text": "[t=3:56 pm on 6 June, 2023, speaker=Jolene] I've been doing them sporadically for about 3 years now and they've had a real positive effect on me.",
+        "is_supporting": true,
+        "idx": 278
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_51",
+    "question": "When did Jolene buy a new aquarium for Seraphim?",
+    "answer": [
+      "24 June, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_292 (D14:4)",
+        "text": "[t=9:17 am on 26 June, 2023, speaker=Jolene] [Image: a photo of a snake curled up in a plant filled area] You are amazing as always! Here are new photos of Seraphim in the new aquarium that I bought the day before yesterday.",
+        "is_supporting": true,
+        "idx": 292
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_52",
+    "question": "When did Jolene lose a lot of progress in her work?",
+    "answer": [
+      "last week of July 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_352 (D16:2)",
+        "text": "[t=9:26 am on 1 August, 2023, speaker=Jolene] Hey Debs! Congrats on your project for the community! As for me, life's been a rollercoaster lately. Last week, I had a huge setback with my project. I put in so much work and it all crashed and I lost everything. SO frustrating and depressing.",
+        "is_supporting": true,
+        "idx": 352
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_53",
+    "question": "When did Jolene adopt her snake Susie?",
+    "answer": [
+      "in 2021"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D16:6)",
+        "text": "[t=9:26 am on 1 August, 2023, speaker=Jolene] I adopted her two years ago when I was feeling lonely and wanted some company.",
+        "is_supporting": true,
+        "idx": 356
+      },
+      {
+        "title": "turn_624 (D28:26)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Jolene] It`s Susie! I've had her for two years now.",
+        "is_supporting": true,
+        "idx": 624
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_54",
+    "question": "Which pet did Jolene adopt first - Susie or Seraphim?",
+    "answer": [
+      "Susie"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D16:6)",
+        "text": "[t=9:26 am on 1 August, 2023, speaker=Jolene] I adopted her two years ago when I was feeling lonely and wanted some company.",
+        "is_supporting": true,
+        "idx": 356
+      },
+      {
+        "title": "turn_41 (D2:24)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] I bought it a year ago in Paris.",
+        "is_supporting": true,
+        "idx": 41
+      },
+      {
+        "title": "turn_45 (D2:28)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] Even as a child I learned to play on my own.",
+        "is_supporting": true,
+        "idx": 45
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_55",
+    "question": "Which pet did Jolene adopt more recently - Susie or Seraphim?",
+    "answer": [
+      "Seraphim"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D16:6)",
+        "text": "[t=9:26 am on 1 August, 2023, speaker=Jolene] I adopted her two years ago when I was feeling lonely and wanted some company.",
+        "is_supporting": true,
+        "idx": 356
+      },
+      {
+        "title": "turn_41 (D2:24)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] I bought it a year ago in Paris.",
+        "is_supporting": true,
+        "idx": 41
+      },
+      {
+        "title": "turn_45 (D2:28)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] Even as a child I learned to play on my own.",
+        "is_supporting": true,
+        "idx": 45
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_56",
+    "question": "When did Deborah lead a meditation session during the sunset?",
+    "answer": [
+      "week before 16 August, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_393 (D18:8)",
+        "text": "[t=2:58 pm on 16 August, 2023, speaker=Deborah] [Image: a photo of a group of people doing yoga on a beach] Gotcha! Visual reminders like this photo can be super motivating. Keep focusing on your goals, Jolene, and don't give up! I led a meditation yoga sessionto the elderly at a local care home last week during sunset. Nature can be really helpful for finding peace. Have you tried mindfulness too?",
+        "is_supporting": true,
+        "idx": 393
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_57",
+    "question": "When did Jolene gift her partner a new console?",
+    "answer": [
+      "17 August, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_402 (D19:2)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] [Image: a photo of a black xbox console with a yoda yoda figure next to it] Life's been hella busy since we last talked. I bought a console for my partner as a gift on the 17th and it's so much fun, he even managed to play it.! Engineering studies are still going strong too. Balance has been key for me lately. How about you? What's been up?",
+        "is_supporting": true,
+        "idx": 402
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_58",
+    "question": "What games does Jolene recommend for Deborah?",
+    "answer": [
+      "Zelda BOTW for Switch , Animal Crossing: New Horizons, Overcooked 2"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_408 (D19:8)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] I have a few game recommendations. Zelda BOTW for Switch is an awesome open-world game. Animal Crossing: New Horizons is really calming and cute. As for my favorite game, it's hard to choose just one!",
+        "is_supporting": true,
+        "idx": 408
+      },
+      {
+        "title": "turn_410 (D19:10)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] Oh, I forgot to mention Overcooked 2 - this is a good co-op game if you're into hilarious and chaotic cooking. My partner and I often play for bets! I once won three large pizzas!",
+        "is_supporting": true,
+        "idx": 410
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_59",
+    "question": "What do Deborah and her husband do together?",
+    "answer": [
+      "play detective games together, spend time outdoors and explore nature"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_413 (D19:13)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Deborah] We prefer to play detective games together.",
+        "is_supporting": true,
+        "idx": 413
+      },
+      {
+        "title": "turn_415 (D19:15)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Deborah] We also enjoyed spending time outdoors and exploring nature. It was always so refreshing to be outside and soak up the fresh air.",
+        "is_supporting": true,
+        "idx": 415
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_60",
+    "question": "When did Deborah go to a yoga retreat near her mom's place?",
+    "answer": [
+      "a week before 24 August,2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_451 (D21:1)",
+        "text": "[t=9:34 am on 24 August, 2023, speaker=Deborah] [Image: a photo of a trail in a forest with moss and trees] Hey Jolene! Good to hear from you! A lot's happened since we talked - last week I got to go to this yoga retreat near my mom's place. It was so cool - I got to hang with nature and really get to know myself. Definitely life-changing! That's how beautiful it was there!",
+        "is_supporting": true,
+        "idx": 451
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_61",
+    "question": "What projects is Jolene planning for next year?",
+    "answer": [
+      "developing renewable energy finding ways to supply clean water to those with limited access"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_479 (D22:12)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Jolene] The other is finding ways to supply clean water to those with limited access. Both align with my beliefs about sustainability and assisting those in need. I still have so much to figure out before beginning, but I'm up for the challenge.",
+        "is_supporting": true,
+        "idx": 479
+      },
+      {
+        "title": "turn_477 (D22:10)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Jolene] I'm keen on two projects in particular. One is focused on developing renewable energy, like solar, to help communities and reduce dependence on non-renewables.",
+        "is_supporting": true,
+        "idx": 477
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_62",
+    "question": "Where did Deborah get her cats?",
+    "answer": [
+      "Luna is from the shelter and Max is her mother's cat"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_490 (D22:23)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] Max is my mother's cat, I took him when my mother passed away.",
+        "is_supporting": true,
+        "idx": 490
+      },
+      {
+        "title": "turn_492 (D22:25)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] I took Luna from the shelter.",
+        "is_supporting": true,
+        "idx": 492
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_63",
+    "question": "How old are Deborah's cats?",
+    "answer": [
+      "Max is 8 years old and Luna is 5 years old"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_494 (D22:27)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] Yes, I really love cats, and they also need a home, love, and care! Moreover, Max is already old, he is 8 years old.",
+        "is_supporting": true,
+        "idx": 494
+      },
+      {
+        "title": "turn_496 (D22:29)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] She is younger, she is 5 years old.",
+        "is_supporting": true,
+        "idx": 496
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_64",
+    "question": "Does Deborah like cats?",
+    "answer": [
+      "Yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_336 (D15:25)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Deborah] [Image: a photography of two cats sitting on a couch with a blanket] I haven't introduced you to my pets yet! I don't like dogs, that's why I have cats.",
+        "is_supporting": true,
+        "idx": 336
+      },
+      {
+        "title": "turn_494 (D22:27)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] Yes, I really love cats, and they also need a home, love, and care! Moreover, Max is already old, he is 8 years old.",
+        "is_supporting": true,
+        "idx": 494
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_65",
+    "question": "Which country was Jolene located in during the last week of August 2023?",
+    "answer": [
+      "Brazil"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_498 (D23:1)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] [Image: a photo of a woman doing a yoga pose in a mirror] Hey Deborah, how's it going? Guess what? Yesterday my partner and I got back from an awesome trip to Rio de Janeiro- we checked out some cool yoga classes.",
+        "is_supporting": true,
+        "idx": 498
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_66",
+    "question": "When did Jolene and her partner return home from Rio de Janeiro?",
+    "answer": [
+      "29 August, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_498 (D23:1)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] [Image: a photo of a woman doing a yoga pose in a mirror] Hey Deborah, how's it going? Guess what? Yesterday my partner and I got back from an awesome trip to Rio de Janeiro- we checked out some cool yoga classes.",
+        "is_supporting": true,
+        "idx": 498
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_67",
+    "question": "What was Jolene doing with her partner in Rio de Janeiro?",
+    "answer": [
+      "they went on excursions, checked out some cool yoga classes, visited a lot of delicious cafes, visited an old temple"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_498 (D23:1)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] [Image: a photo of a woman doing a yoga pose in a mirror] Hey Deborah, how's it going? Guess what? Yesterday my partner and I got back from an awesome trip to Rio de Janeiro- we checked out some cool yoga classes.",
+        "is_supporting": true,
+        "idx": 498
+      },
+      {
+        "title": "turn_512 (D23:15)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] [Image: a photo of a group of people walking up a set of stairs] Here is one more photo from Rio de Janeiro. We went on many excursions there.",
+        "is_supporting": true,
+        "idx": 512
+      },
+      {
+        "title": "turn_514 (D23:17)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] We had a great time visiting an old temple. The stairs were amazing!",
+        "is_supporting": true,
+        "idx": 514
+      },
+      {
+        "title": "turn_500 (D23:3)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] This country was awesome! It showed me different kinds of yoga and their backgrounds, which made me appreciate it even more. We visited a lot of delicious cafes! Have you ever been somewhere that was important to you?",
+        "is_supporting": true,
+        "idx": 500
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_68",
+    "question": "When did Deborah visit Brazil?",
+    "answer": [
+      "2020"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_515 (D23:18)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Deborah] [Image: a photo of a large stone structure with a mountain in the background] Wow, exploring those temples must have been incredible! Three years ago I was also in Rio de Janeiro, I took a beautiful photo on one of the excursions.",
+        "is_supporting": true,
+        "idx": 515
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_69",
+    "question": "Have Deborah and Jolene been to Rio de Janeiro?",
+    "answer": [
+      "yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_498 (D23:1)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] [Image: a photo of a woman doing a yoga pose in a mirror] Hey Deborah, how's it going? Guess what? Yesterday my partner and I got back from an awesome trip to Rio de Janeiro- we checked out some cool yoga classes.",
+        "is_supporting": true,
+        "idx": 498
+      },
+      {
+        "title": "turn_515 (D23:18)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Deborah] [Image: a photo of a large stone structure with a mountain in the background] Wow, exploring those temples must have been incredible! Three years ago I was also in Rio de Janeiro, I took a beautiful photo on one of the excursions.",
+        "is_supporting": true,
+        "idx": 515
+      },
+      {
+        "title": "turn_500 (D23:3)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] This country was awesome! It showed me different kinds of yoga and their backgrounds, which made me appreciate it even more. We visited a lot of delicious cafes! Have you ever been somewhere that was important to you?",
+        "is_supporting": true,
+        "idx": 500
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_70",
+    "question": "Is the friend who wrote Deborah the motivational quote no longer alive?",
+    "answer": [
+      "likely yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_519 (D23:22)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Deborah] This was written to me by a friend who, unfortunately, will never be able to support me. I miss him here. This quote says\"Let go of what no longer serves you.\"",
+        "is_supporting": true,
+        "idx": 519
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_7_71",
+    "question": "When did Deborah go to a community meetup?",
+    "answer": [
+      "last week of August 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_530 (D24:1)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Deborah] Hey Jolene, just catching up. I went to a cool event last week with the aim to support each other - pretty inspiring. Have you been connecting with anyone lately?",
+        "is_supporting": true,
+        "idx": 530
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_72",
+    "question": "When did Jolene's parents give her first console?",
+    "answer": [
+      "when she was 10"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_535 (D24:6)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Jolene] [Image: a photo of a nintendo game console and a game controller] Our loved ones sure are supportive! When I was 10, my parents got me that and it was the start of my passion for video games.",
+        "is_supporting": true,
+        "idx": 535
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_73",
+    "question": "Did Jolene teach herself how to play the console?",
+    "answer": [
+      "yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_537 (D24:8)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Jolene] [Image: a photo of a nintendo wii game system with a game on the screen] I taught myself, but my dad was always supportive and my mom would play games with me.",
+        "is_supporting": true,
+        "idx": 537
+      },
+      {
+        "title": "turn_45 (D2:28)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] Even as a child I learned to play on my own.",
+        "is_supporting": true,
+        "idx": 45
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_74",
+    "question": "What do Deborah and Jolene plan to try when they meet in a new cafe?",
+    "answer": [
+      "coffee and fresh pastries"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_576 (D26:12)",
+        "text": "[t=7:39 pm on 8 September, 2023, speaker=Jolene] [Image: a photo of a person holding a cup of coffee in front of a bunch of flowers] How about Wednesday at 4? Can't wait to catch up over coffee!",
+        "is_supporting": true,
+        "idx": 576
+      },
+      {
+        "title": "turn_574 (D26:10)",
+        "text": "[t=7:39 pm on 8 September, 2023, speaker=Jolene] [Image: a photo of a coffee shop with a bunch of coffee machines] Wanna meet up at that cafe next Monday? Let's try fresh pastries.",
+        "is_supporting": true,
+        "idx": 574
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_75",
+    "question": "What card game is Deborah talking about?",
+    "answer": [
+      "Exploding Kittens"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_597 (D27:12)",
+        "text": "[t=2:18 pm on 12 September, 2023, speaker=Deborah] Having a supportive community definitely helps. We can motivate and encourage each other! By the way, I recently played a game. I don't remember what it's called. This is a card game about cats, where you take cards one by one from a deck, and then you can attack your opponent with them. We'll definitely play it with you!",
+        "is_supporting": true,
+        "idx": 597
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_7_76",
+    "question": "When did Jolene and her partner try scuba diving lessons?",
+    "answer": [
+      "Friday before 17 September, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_632 (D29:4)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Jolene] We tried a scuba diving lesson last Friday and had an awesome time! We found a cool dive spot we can explore together. Trying new things opens up a world of adventure - maybe one day I'll be a certified diver. Anything fun going on with you?",
+        "is_supporting": true,
+        "idx": 632
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_77",
+    "question": "Where did Jolene and her partner find a cool diving spot?",
+    "answer": [
+      "Phuket"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_586 (D27:1)",
+        "text": "[t=2:18 pm on 12 September, 2023, speaker=Jolene] Hey Deb! So sorry for the late reply, been super busy. Last weekend my partner and I traveled to a meditation retreat for a few weeks in Phuket. Amazing experience! Nature, reflection and a break from engineering studies were awesome - it helped me find inner peace.",
+        "is_supporting": true,
+        "idx": 586
+      },
+      {
+        "title": "turn_632 (D29:4)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Jolene] We tried a scuba diving lesson last Friday and had an awesome time! We found a cool dive spot we can explore together. Trying new things opens up a world of adventure - maybe one day I'll be a certified diver. Anything fun going on with you?",
+        "is_supporting": true,
+        "idx": 632
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_78",
+    "question": "Where did Jolene and her partner spend most of September 2023?",
+    "answer": [
+      "Phuket"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_18 (D2:1)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] Hey Jolene, sorry to tell you this but my dad passed away two days ago. It's been really tough on us all - his sudden death left us all kinda shell-shocked. I'm trying to channel my grief by spending more time with family and cherishing the memories. These moments remind me to live life fully.",
+        "is_supporting": true,
+        "idx": 18
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_79",
+    "question": "Has Deborah tried surfing?",
+    "answer": [
+      "yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_609 (D28:11)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Deborah] That beach is super special to me. It's where I got married and discovered my love for surfing. It's always filled with joy and peace.",
+        "is_supporting": true,
+        "idx": 609
+      },
+      {
+        "title": "turn_653 (D29:25)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Deborah] [Image: a photo of a man riding a surfboard on a wave in the ocean] Certainly! Here's the confirmation.",
+        "is_supporting": true,
+        "idx": 653
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_80",
+    "question": "Has Jolene tried surfing?",
+    "answer": [
+      "no"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_227 (D10:20)",
+        "text": "[t=5:35 pm on 22 March, 2023, speaker=Jolene] Definitely! I've been gathering information, watching videos, and I even got a beginners' guide to surfing. Just need to find the right time and place to get a lesson.",
+        "is_supporting": true,
+        "idx": 227
+      },
+      {
+        "title": "turn_654 (D29:26)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Jolene] How cool! But I never decided to try it.",
+        "is_supporting": true,
+        "idx": 654
+      },
+      {
+        "title": "turn_658 (D29:30)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Jolene] Just started learning, but haven't gone yet. Want to come with me sometime?",
+        "is_supporting": true,
+        "idx": 658
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_81",
+    "question": "When did the Deboran and Jolene agree to go surfing?",
+    "answer": [
+      "in October 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_662 (D29:34)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Jolene] Let's plan for next month - I'll check my schedule and let you know. Can't wait!",
+        "is_supporting": true,
+        "idx": 662
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_7_82",
+    "question": "Which locations does Deborah practice her yoga at?",
+    "answer": [
+      "at her mother's old home, park, yoga studio, beach"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_28 (D2:11)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] [Image: a photo of a living room with a television and a window] This is one of the places where I do it.",
+        "is_supporting": true,
+        "idx": 28
+      },
+      {
+        "title": "turn_30 (D2:13)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] That's my old home. I go there now and then for my mom, who passed away. Sitting in that spot by the window gives me peace.",
+        "is_supporting": true,
+        "idx": 30
+      },
+      {
+        "title": "turn_55 (D3:6)",
+        "text": "[t=7:03 pm on 1 February, 2023, speaker=Deborah] It happened at yoga in the park.",
+        "is_supporting": true,
+        "idx": 55
+      },
+      {
+        "title": "turn_76 (D4:12)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Deborah] [Image: a photo of two women in a dance studio doing a dance pose] When things get tough, just take a deep breath and remember why you're doing this. This is where I spend a lot of my time, teaching yoga. It's a great way to find balance and reconnect with ourselves. I bonded with Anna during yesterday's l yoga class.",
+        "is_supporting": true,
+        "idx": 76
+      },
+      {
+        "title": "turn_135 (D6:10)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Deborah] [Image: a photo of a swing on a beach with a blue sky] I've been blessed to travel to a few places and Bali last year was one of my favs. It was a gorgeous island that gave me peace, great for yoga.",
+        "is_supporting": true,
+        "idx": 135
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_83",
+    "question": "What kind of professional activities does Jolene participate in to gain more experience in her field?",
+    "answer": [
+      "present work at virtual conference, attend workshops  and intern at firms"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_266 (D13:5)",
+        "text": "[t=3:56 pm on 6 June, 2023, speaker=Jolene] [Image: a photo of a group of construction workers posing for a picture] I'm interning at a well-known engineering firm. It's been a great opportunity to test my skills and gain real-world experience. These are my new colleagues!",
+        "is_supporting": true,
+        "idx": 266
+      },
+      {
+        "title": "turn_456 (D21:6)",
+        "text": "[t=9:34 am on 24 August, 2023, speaker=Jolene] My goal is to be successful in my field and make a positive impact. I've been studying, attending workshops, and networking to make it happen. Recently, I had the opportunity to present at a virtual conference and received positive feedback.  It was a great experience and confirmed that I'm on the right track.",
+        "is_supporting": true,
+        "idx": 456
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_84",
+    "question": "What kind of engineering projects has Jolene worked on?",
+    "answer": [
+      "electrical engineering, robotics, sustainable water purifier, productive and affordable aerial surveillance system"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_382 (D17:12)",
+        "text": "[t=8:50 pm on 12 August, 2023, speaker=Jolene] My aim is to devise a more productive and affordable aerial surveillance system. It'll help with responding to emergencies and monitoring the environment. It'll make the world a better, safer place.",
+        "is_supporting": true,
+        "idx": 382
+      },
+      {
+        "title": "turn_380 (D17:10)",
+        "text": "[t=8:50 pm on 12 August, 2023, speaker=Jolene] Working on a cool project now - a prototype that could revolutionize aerial surveillance. Can't wait to see the results!",
+        "is_supporting": true,
+        "idx": 380
+      },
+      {
+        "title": "turn_1 (D1:2)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Jolene] Hi Deb! Good to meet you! Yeah, my week's been busy. I finished an electrical engineering project last week - took a lot of work, but it's done now. Anything fun happening for you?",
+        "is_supporting": true,
+        "idx": 1
+      },
+      {
+        "title": "turn_50 (D3:1)",
+        "text": "[t=7:03 pm on 1 February, 2023, speaker=Jolene] [Image: a photo of a table with a robot on it and a laptop] Hi Deb! How're you? I've been busy. My engineering professor gave us a huge robotics project. It's tough but fun, it's making me get creative and problem-solve.",
+        "is_supporting": true,
+        "idx": 50
+      },
+      {
+        "title": "turn_69 (D4:5)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] Thanks so much! I had to plan and research a lot to design and build a sustainable water purifier for a rural community in need. It was tough, but I loved the experience.",
+        "is_supporting": true,
+        "idx": 69
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_85",
+    "question": "Which community activities have Deborah and Anna participated in?",
+    "answer": [
+      "yoga, running"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_312 (D15:1)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Deborah] [Image: a photo of three men standing next to each other on a road] Hey Jolene! I started a running group with Anna - it's awesome connecting with people who care about fitness!",
+        "is_supporting": true,
+        "idx": 312
+      },
+      {
+        "title": "turn_76 (D4:12)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Deborah] [Image: a photo of two women in a dance studio doing a dance pose] When things get tough, just take a deep breath and remember why you're doing this. This is where I spend a lot of my time, teaching yoga. It's a great way to find balance and reconnect with ourselves. I bonded with Anna during yesterday's l yoga class.",
+        "is_supporting": true,
+        "idx": 76
+      },
+      {
+        "title": "turn_80 (D4:16)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Deborah] Yes, but this brought us closer to Anna! We supported each other, that means a lot.",
+        "is_supporting": true,
+        "idx": 80
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_86",
+    "question": "What gifts has Deborah received?",
+    "answer": [
+      "an appreciate letter from her community, a flower bouqet from her friend, a motivational quote from a friend"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_517 (D23:20)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Deborah] [Image: a photo of a hand holding a piece of paper with writing on it] Exploring historical places and learning their stories is so fun. It was a great experience. I want to share this photo with you.",
+        "is_supporting": true,
+        "idx": 517
+      },
+      {
+        "title": "turn_519 (D23:22)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Deborah] This was written to me by a friend who, unfortunately, will never be able to support me. I miss him here. This quote says\"Let go of what no longer serves you.\"",
+        "is_supporting": true,
+        "idx": 519
+      },
+      {
+        "title": "turn_24 (D2:7)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] [Image: a photo of a note written to someone on a piece of paper] It is love, and openness that have kept us close all these years. Being there for each other has made us both happy. Look what letter I received yesterday!",
+        "is_supporting": true,
+        "idx": 24
+      },
+      {
+        "title": "turn_26 (D2:9)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Deborah] The group members sent this to me! They thanked me for the positive influence I had on them. Those moments remind me why I'm so passionate about yoga.",
+        "is_supporting": true,
+        "idx": 26
+      },
+      {
+        "title": "turn_90 (D4:26)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Deborah] [Image: a photo of a bouquet of flowers in a vase on a table] That's a really powerful message. It reminds me of someone special and their grace and strength when they faced hardships. Check out this creation!",
+        "is_supporting": true,
+        "idx": 90
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_87",
+    "question": "Which countries has Deborah traveled to?",
+    "answer": [
+      "Thailand, Brazil"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_515 (D23:18)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Deborah] [Image: a photo of a large stone structure with a mountain in the background] Wow, exploring those temples must have been incredible! Three years ago I was also in Rio de Janeiro, I took a beautiful photo on one of the excursions.",
+        "is_supporting": true,
+        "idx": 515
+      },
+      {
+        "title": "turn_135 (D6:10)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Deborah] [Image: a photo of a swing on a beach with a blue sky] I've been blessed to travel to a few places and Bali last year was one of my favs. It was a gorgeous island that gave me peace, great for yoga.",
+        "is_supporting": true,
+        "idx": 135
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_88",
+    "question": "What activities does Deborah pursue besides practicing and teaching yoga?",
+    "answer": [
+      "biking, going to art shows, running, organizing workshops to practice mindfulness and self-care, surfing, gardening"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_246 (D12:1)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Deborah] Hey Jolene! Great to see you! Had a blast biking nearby with my neighbor last week - was so freeing and beautiful. Checked out an art show with a friend today - really cool and inspiring stuff. Reminded me of my mom.",
+        "is_supporting": true,
+        "idx": 246
+      },
+      {
+        "title": "turn_312 (D15:1)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Deborah] [Image: a photo of three men standing next to each other on a road] Hey Jolene! I started a running group with Anna - it's awesome connecting with people who care about fitness!",
+        "is_supporting": true,
+        "idx": 312
+      },
+      {
+        "title": "turn_322 (D15:11)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Deborah] [Image: a photo of a group of people doing yoga in a park] Yep, I do running and yoga/meditation with others. Connecting with people and creating a community is great. Plus, I love organizing workshops and events to practice mindfulness and self-care. It's an awesome way to have fun, build relationships, and support each other's growth.",
+        "is_supporting": true,
+        "idx": 322
+      },
+      {
+        "title": "turn_609 (D28:11)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Deborah] That beach is super special to me. It's where I got married and discovered my love for surfing. It's always filled with joy and peace.",
+        "is_supporting": true,
+        "idx": 609
+      },
+      {
+        "title": "turn_629 (D29:1)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Deborah] Hey Jolene, I'm so excited to tell you! Yesterday, me and my neighbor ran a free gardening class for the community, it was awesome! People of any age joined in and it was such a great thing to see.",
+        "is_supporting": true,
+        "idx": 629
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_7_89",
+    "question": "What are the names of Jolene's snakes?",
+    "answer": [
+      "Susie, Seraphim"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_37 (D2:20)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] [Image: a photo of a bed with a snake head sticking out of it] I want to show you one of my snakes! They always calm me down and make me happy. This is Susie.",
+        "is_supporting": true,
+        "idx": 37
+      },
+      {
+        "title": "turn_39 (D2:22)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] [Image: a photo of a snake sticking its head out of a blanket] I was playing video games and my pet just slinked out of her cage and coiled up next to me - it was too funny! My second snake Seraphim did it. Look at her sly eyes!",
+        "is_supporting": true,
+        "idx": 39
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_90",
+    "question": "What are Jolene's favorite books?",
+    "answer": [
+      "Sapiens, Avalanche by Neal Stephenson"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_85 (D4:21)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] Thanks Deborah! I'm really into this book called \"Sapiens\" - it's a fascinating look at human history and how technology has affected us. It's giving me a lot to think about!",
+        "is_supporting": true,
+        "idx": 85
+      },
+      {
+        "title": "turn_87 (D4:23)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] Two weeks ago I read \"Avalanche\" by Neal Stephenson in one sitting!",
+        "is_supporting": true,
+        "idx": 87
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_91",
+    "question": "What music pieces does Deborah listen to during her yoga practice?",
+    "answer": [
+      "Savana, Sleep"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_239 (D11:8)",
+        "text": "[t=4:03 pm on 28 March, 2023, speaker=Deborah] I find instrumental tracks with mellow melodies and rhythms help create a peaceful vibe. One of my favorites is a track called \"Savana.\" What songs/artists do you like listening to during your practice?",
+        "is_supporting": true,
+        "idx": 239
+      },
+      {
+        "title": "turn_241 (D11:10)",
+        "text": "[t=4:03 pm on 28 March, 2023, speaker=Deborah] Also, I'm listening to an album called 'Sleep,' which is great for meditation and deep relaxation. Hope you find it as calming as I do!",
+        "is_supporting": true,
+        "idx": 241
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_92",
+    "question": "What games does Jolene recommend for Deborah?",
+    "answer": [
+      "Zelda BOTW for Switch , Animal Crossing: New Horizons, Overcooked 2"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_408 (D19:8)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] I have a few game recommendations. Zelda BOTW for Switch is an awesome open-world game. Animal Crossing: New Horizons is really calming and cute. As for my favorite game, it's hard to choose just one!",
+        "is_supporting": true,
+        "idx": 408
+      },
+      {
+        "title": "turn_410 (D19:10)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] Oh, I forgot to mention Overcooked 2 - this is a good co-op game if you're into hilarious and chaotic cooking. My partner and I often play for bets! I once won three large pizzas!",
+        "is_supporting": true,
+        "idx": 410
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_93",
+    "question": "What projects is Jolene planning for next year?",
+    "answer": [
+      "developing renewable energy finding ways to supply clean water to those with limited access"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_479 (D22:12)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Jolene] The other is finding ways to supply clean water to those with limited access. Both align with my beliefs about sustainability and assisting those in need. I still have so much to figure out before beginning, but I'm up for the challenge.",
+        "is_supporting": true,
+        "idx": 479
+      },
+      {
+        "title": "turn_477 (D22:10)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Jolene] I'm keen on two projects in particular. One is focused on developing renewable energy, like solar, to help communities and reduce dependence on non-renewables.",
+        "is_supporting": true,
+        "idx": 477
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_94",
+    "question": "Where did Deborah get her cats?",
+    "answer": [
+      "Luna is from the shelter and Max is her mother's cat"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_490 (D22:23)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] Max is my mother's cat, I took him when my mother passed away.",
+        "is_supporting": true,
+        "idx": 490
+      },
+      {
+        "title": "turn_492 (D22:25)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] I took Luna from the shelter.",
+        "is_supporting": true,
+        "idx": 492
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_95",
+    "question": "How old are Deborah's cats?",
+    "answer": [
+      "Max is 8 years old and Luna is 5 years old"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_494 (D22:27)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] Yes, I really love cats, and they also need a home, love, and care! Moreover, Max is already old, he is 8 years old.",
+        "is_supporting": true,
+        "idx": 494
+      },
+      {
+        "title": "turn_496 (D22:29)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] She is younger, she is 5 years old.",
+        "is_supporting": true,
+        "idx": 496
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_96",
+    "question": "What was Jolene doing with her partner in Rio de Janeiro?",
+    "answer": [
+      "they went on excursions, checked out some cool yoga classes, visited a lot of delicious cafes, visited an old temple"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_498 (D23:1)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] [Image: a photo of a woman doing a yoga pose in a mirror] Hey Deborah, how's it going? Guess what? Yesterday my partner and I got back from an awesome trip to Rio de Janeiro- we checked out some cool yoga classes.",
+        "is_supporting": true,
+        "idx": 498
+      },
+      {
+        "title": "turn_512 (D23:15)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] [Image: a photo of a group of people walking up a set of stairs] Here is one more photo from Rio de Janeiro. We went on many excursions there.",
+        "is_supporting": true,
+        "idx": 512
+      },
+      {
+        "title": "turn_514 (D23:17)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] We had a great time visiting an old temple. The stairs were amazing!",
+        "is_supporting": true,
+        "idx": 514
+      },
+      {
+        "title": "turn_500 (D23:3)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] This country was awesome! It showed me different kinds of yoga and their backgrounds, which made me appreciate it even more. We visited a lot of delicious cafes! Have you ever been somewhere that was important to you?",
+        "is_supporting": true,
+        "idx": 500
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_97",
+    "question": "Have Deborah and Jolene been to Rio de Janeiro?",
+    "answer": [
+      "yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_498 (D23:1)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] [Image: a photo of a woman doing a yoga pose in a mirror] Hey Deborah, how's it going? Guess what? Yesterday my partner and I got back from an awesome trip to Rio de Janeiro- we checked out some cool yoga classes.",
+        "is_supporting": true,
+        "idx": 498
+      },
+      {
+        "title": "turn_515 (D23:18)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Deborah] [Image: a photo of a large stone structure with a mountain in the background] Wow, exploring those temples must have been incredible! Three years ago I was also in Rio de Janeiro, I took a beautiful photo on one of the excursions.",
+        "is_supporting": true,
+        "idx": 515
+      },
+      {
+        "title": "turn_500 (D23:3)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] This country was awesome! It showed me different kinds of yoga and their backgrounds, which made me appreciate it even more. We visited a lot of delicious cafes! Have you ever been somewhere that was important to you?",
+        "is_supporting": true,
+        "idx": 500
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_98",
+    "question": "When did Jolene's parents give her first console?",
+    "answer": [
+      "when she was 10"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_535 (D24:6)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Jolene] [Image: a photo of a nintendo game console and a game controller] Our loved ones sure are supportive! When I was 10, my parents got me that and it was the start of my passion for video games.",
+        "is_supporting": true,
+        "idx": 535
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_99",
+    "question": "What do Deborah and Jolene plan to try when they meet in a new cafe?",
+    "answer": [
+      "coffee and fresh pastries"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_576 (D26:12)",
+        "text": "[t=7:39 pm on 8 September, 2023, speaker=Jolene] [Image: a photo of a person holding a cup of coffee in front of a bunch of flowers] How about Wednesday at 4? Can't wait to catch up over coffee!",
+        "is_supporting": true,
+        "idx": 576
+      },
+      {
+        "title": "turn_574 (D26:10)",
+        "text": "[t=7:39 pm on 8 September, 2023, speaker=Jolene] [Image: a photo of a coffee shop with a bunch of coffee machines] Wanna meet up at that cafe next Monday? Let's try fresh pastries.",
+        "is_supporting": true,
+        "idx": 574
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_100",
+    "question": "What project did Jolene finish last week before 23 January, 2023?",
+    "answer": [
+      "an electrical engineering project"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_1 (D1:2)",
+        "text": "[t=4:06 pm on 23 January, 2023, speaker=Jolene] Hi Deb! Good to meet you! Yeah, my week's been busy. I finished an electrical engineering project last week - took a lot of work, but it's done now. Anything fun happening for you?",
+        "is_supporting": true,
+        "idx": 1
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_101",
+    "question": "When did Jolene buy her pet snake?",
+    "answer": [
+      "A year ago"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_41 (D2:24)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] I bought it a year ago in Paris.",
+        "is_supporting": true,
+        "idx": 41
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_102",
+    "question": "What project was Jolene working on as of 1 February, 2023?",
+    "answer": [
+      "Robotics project"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_50 (D3:1)",
+        "text": "[t=7:03 pm on 1 February, 2023, speaker=Jolene] [Image: a photo of a table with a robot on it and a laptop] Hi Deb! How're you? I've been busy. My engineering professor gave us a huge robotics project. It's tough but fun, it's making me get creative and problem-solve.",
+        "is_supporting": true,
+        "idx": 50
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_103",
+    "question": "Where did Deborah meet her new neighbor Anna?",
+    "answer": [
+      "yoga in the park"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_55 (D3:6)",
+        "text": "[t=7:03 pm on 1 February, 2023, speaker=Deborah] It happened at yoga in the park.",
+        "is_supporting": true,
+        "idx": 55
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_104",
+    "question": "What activity did Jolene and her partner plan to do together instead of resuming yoga?",
+    "answer": [
+      "play the console"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_60 (D3:11)",
+        "text": "[t=7:03 pm on 1 February, 2023, speaker=Jolene] Well... we planned to play the console with my partner.",
+        "is_supporting": true,
+        "idx": 60
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_105",
+    "question": "What milestone did Jolene achieve recently on 4 February, 2023?",
+    "answer": [
+      "Design and build a sustainable water purifier for a rural community"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_67 (D4:3)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] I had a major milestone last week and it went really well - I'm so relieved and proud. It was a huge accomplishment for me as an engineer.",
+        "is_supporting": true,
+        "idx": 67
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_106",
+    "question": "What is Jolene's favorite book which she mentioned on 4 February, 2023?",
+    "answer": [
+      "\"Sapiens\""
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_85 (D4:21)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] Thanks Deborah! I'm really into this book called \"Sapiens\" - it's a fascinating look at human history and how technology has affected us. It's giving me a lot to think about!",
+        "is_supporting": true,
+        "idx": 85
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_107",
+    "question": "What does Deborah bring with her whenever she comes to reflect on her mom?",
+    "answer": [
+      "amulet"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_100 (D4:36)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Deborah] [Image: a photo of a woman wearing a white shirt and a gold chain necklace] Do you remember this amulet from her? Whenever I come here, I bring it with me. It's how I feel her love and stay close to her. Holding it brings me comfort.",
+        "is_supporting": true,
+        "idx": 100
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_108",
+    "question": "What new outlook did Jolene gain after her mini retreat on 9 February, 2023?",
+    "answer": [
+      "A confidence boost"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_111 (D5:3)",
+        "text": "[t=9:03 pm on 9 February, 2023, speaker=Jolene] Yep! I achieved so much more than I imagined. It was a real confidence boost.",
+        "is_supporting": true,
+        "idx": 111
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_109",
+    "question": "What cool stuff did Jolene accomplish at the retreat on 9 February, 2023?",
+    "answer": [
+      "Came up with neat solutions for her engineering project"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_113 (D5:5)",
+        "text": "[t=9:03 pm on 9 February, 2023, speaker=Jolene] I really accomplished something with my engineering project - I came up with some neat solutions and I'm really excited about it.",
+        "is_supporting": true,
+        "idx": 113
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_110",
+    "question": "What idea did Jolene have to help underprivileged kids learn about STEM subjects on 9 February, 2023?",
+    "answer": [
+      "A volunteer program where engineers teach STEM to underprivileged kids"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_115 (D5:7)",
+        "text": "[t=9:03 pm on 9 February, 2023, speaker=Jolene] Green tech could really make a difference in disadvantaged areas. I'd like to look into it and see how I can contribute. Hey, speaking of helping out, I had an idea: a volunteer program where engineers teach STEM to underprivileged kids. What do you think of that?",
+        "is_supporting": true,
+        "idx": 115
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_111",
+    "question": "How does Jolene plan to involve local engineers in her idea of teaching STEM to underprivileged kids?",
+    "answer": [
+      "As guest speakers for workshops"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_117 (D5:9)",
+        "text": "[t=9:03 pm on 9 February, 2023, speaker=Jolene] Haven't finished planning yet but I'm thinking of teaming up with local schools/centers to do workshops. We could even invite engineers as guest speakers to show kids their career options.",
+        "is_supporting": true,
+        "idx": 117
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_112",
+    "question": "What gave Deborah peace in the garden she visited?",
+    "answer": [
+      "Roses and dahlias"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_129 (D6:4)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Deborah] The roses and dahlias bring me peace. I lost a friend last week, so I've been spending time in the garden to find some comfort.",
+        "is_supporting": true,
+        "idx": 129
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_113",
+    "question": "Why did Deborah spend time in the garden?",
+    "answer": [
+      "to find comfort after losing a friend"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_129 (D6:4)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Deborah] The roses and dahlias bring me peace. I lost a friend last week, so I've been spending time in the garden to find some comfort.",
+        "is_supporting": true,
+        "idx": 129
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_114",
+    "question": "How did Jolene and her partner initially meet?",
+    "answer": [
+      "In an engineering class in college"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_150 (D7:9)",
+        "text": "[t=4:50 pm on 25 February, 2023, speaker=Jolene] We actually met in an engineering class in college and quickly became friends. It eventually blossomed into something more and it's been great!",
+        "is_supporting": true,
+        "idx": 150
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_115",
+    "question": "What activity does Deborah incorporate into her daily routine after going for a morning jog in the park?",
+    "answer": [
+      "spending time with loved ones"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_159 (D7:18)",
+        "text": "[t=4:50 pm on 25 February, 2023, speaker=Deborah] In the morning, I meditate, do yoga, and teach classes. And yesterday I went for a morning jog for the first time in a nearby park. I will now incorporate this into my daily routine. And in the evenings, I spend time with loved ones.",
+        "is_supporting": true,
+        "idx": 159
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_116",
+    "question": "According to Jolene, what does exercise help her to feel?",
+    "answer": [
+      "connected to her body"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_161 (D7:20)",
+        "text": "[t=4:50 pm on 25 February, 2023, speaker=Deborah] Exercise is key for me - it makes me feel connected to my body.",
+        "is_supporting": true,
+        "idx": 161
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_117",
+    "question": "What did Deb share a photo of, which brought a smile to Jolene's face?",
+    "answer": [
+      "a yellow coffee cup with a handwritten message"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_186 (D8:22)",
+        "text": "[t=7:18 pm on 2 March, 2023, speaker=Jolene] Thanks, Deb! This really cheered me up. All the best with your classes. Bye!",
+        "is_supporting": true,
+        "idx": 186
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_118",
+    "question": "What is one of Jolene's favorite dishes?",
+    "answer": [
+      "lasagna"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_166 (D8:2)",
+        "text": "[t=7:18 pm on 2 March, 2023, speaker=Jolene] One of my favorite dishes is lasagna! Comfort food can be a great pick-me-up. I've got a lot going on with my studies and exams.",
+        "is_supporting": true,
+        "idx": 166
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_119",
+    "question": "What picture did Jolene share related to feeling overwhelmed?",
+    "answer": [
+      "a photo of a desk with a notebook and a computer monitor"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_180 (D8:16)",
+        "text": "[t=7:18 pm on 2 March, 2023, speaker=Jolene] [Image: a photo of a desk with a notebook and a computer monitor] Exams and deadlines got me feeling overwhelmed. Just look at my to-do list! It seems never-ending... Trying my best but it's been challenging.",
+        "is_supporting": true,
+        "idx": 180
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_120",
+    "question": "What did Jolene and Deb discuss as a helpful strategy for studying and time management?",
+    "answer": [
+      "breaking tasks into smaller pieces and setting goals, using planners or schedulers"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_183 (D8:19)",
+        "text": "[t=7:18 pm on 2 March, 2023, speaker=Deborah] My tip is to break it into smaller pieces and set goals for yourself. For time management, planners or schedulers help you stay organized and give you time for yourself. Let me know if you need help with a study plan!",
+        "is_supporting": true,
+        "idx": 183
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_121",
+    "question": "What did Jolene ask Deb to help with on 13 March, 2023?",
+    "answer": [
+      "time management"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_201 (D9:14)",
+        "text": "[t=11:22 am on 13 March, 2023, speaker=Jolene] I'm having a hard time dealing with my Engineering assignments. It's a lot to manage and I'm struggling to keep up. Can we still talk about time management?",
+        "is_supporting": true,
+        "idx": 201
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_122",
+    "question": "What method does Deb suggest Jolene to try for organizing tasks based on importance and urgency?",
+    "answer": [
+      "The Eisenhower Matrix"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_220 (D10:13)",
+        "text": "[t=5:35 pm on 22 March, 2023, speaker=Deborah] [Image: a photo of a pair of scissors sitting on top of a piece of paper] The Eisenhower Matrix sorts tasks into four boxes, categorizing them based on their urgency and importance. It can be really useful for organizing and prioritizing. Here's a breakdown.",
+        "is_supporting": true,
+        "idx": 220
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_123",
+    "question": "What did Jolene and Anna discuss while watching the sunset by the sea?",
+    "answer": [
+      "They realized they inspire each other"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_224 (D10:17)",
+        "text": "[t=5:35 pm on 22 March, 2023, speaker=Deborah] [Image: a photo of a person walking on the beach with a surfboard] Don't forget to take it easy and look after yourself. Wishing you all the best! Recently, Anna and I were sitting by the sea, watching the sunset and talking about each other. And we realized that we inspire each other. What thoughts does the sea in this photo make you think of?",
+        "is_supporting": true,
+        "idx": 224
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_124",
+    "question": "How does Jolene plan to pursue her dream of learning to surf?",
+    "answer": [
+      "gathering information, watching videos, getting a beginners' guide"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_227 (D10:20)",
+        "text": "[t=5:35 pm on 22 March, 2023, speaker=Jolene] Definitely! I've been gathering information, watching videos, and I even got a beginners' guide to surfing. Just need to find the right time and place to get a lesson.",
+        "is_supporting": true,
+        "idx": 227
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_125",
+    "question": "What did Deborah buy to enhance her yoga practice besides the props?",
+    "answer": [
+      "candle"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_235 (D11:4)",
+        "text": "[t=4:03 pm on 28 March, 2023, speaker=Deborah] [Image: a photo of a candle with a sprig of rosemary on a table] That`s cool! I also bought this candle for the atmosphere and to improve my yoga practice. How about you? When you do it, what feelings do you get?",
+        "is_supporting": true,
+        "idx": 235
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_126",
+    "question": "What type of music does Deborah find helpful during her yoga practice?",
+    "answer": [
+      "instrumental tracks with mellow melodies and rhythms"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_239 (D11:8)",
+        "text": "[t=4:03 pm on 28 March, 2023, speaker=Deborah] I find instrumental tracks with mellow melodies and rhythms help create a peaceful vibe. One of my favorites is a track called \"Savana.\" What songs/artists do you like listening to during your practice?",
+        "is_supporting": true,
+        "idx": 239
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_127",
+    "question": "Who are the musicians mentioned by Jolene that she enjoys listening to during her yoga practice?",
+    "answer": [
+      "Nils Frahm and Olafur Arnalds"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_240 (D11:9)",
+        "text": "[t=4:03 pm on 28 March, 2023, speaker=Jolene] I love listening to Nils Frahm and Olafur Arnalds during my practice. Their music is so calming and puts me in a different headspace. Do you have any recommendations for other similar artists or tracks I should check out?",
+        "is_supporting": true,
+        "idx": 240
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_128",
+    "question": "What album does Deborah recommend for meditation and deep relaxation?",
+    "answer": [
+      "'Sleep'"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_241 (D11:10)",
+        "text": "[t=4:03 pm on 28 March, 2023, speaker=Deborah] Also, I'm listening to an album called 'Sleep,' which is great for meditation and deep relaxation. Hope you find it as calming as I do!",
+        "is_supporting": true,
+        "idx": 241
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_129",
+    "question": "Which show did Deborah go to with a friend on 9 April, 2023?",
+    "answer": [
+      "an art show"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_246 (D12:1)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Deborah] Hey Jolene! Great to see you! Had a blast biking nearby with my neighbor last week - was so freeing and beautiful. Checked out an art show with a friend today - really cool and inspiring stuff. Reminded me of my mom.",
+        "is_supporting": true,
+        "idx": 246
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_130",
+    "question": "What does Deborah find comforting about going to art shows?",
+    "answer": [
+      "It makes her feel like she's still experiencing it with her mom"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_248 (D12:3)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Deborah] My mom was interested in art. She believed art could give out strong emotions and uniquely connect us. When I go to an art show, it's like we're still experiencing it together even though she's gone. It's hard but comforting.",
+        "is_supporting": true,
+        "idx": 248
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_131",
+    "question": "How does Jolene describe the time spent with her snakes and partner?",
+    "answer": [
+      "Valuable and relaxing"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_251 (D12:6)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Jolene] Even though my snakes can't chat or understand what I'm going through, our time together is valuable and teaches me to take time and be in tune with myself. Similarly, playing video games with my partner after a long day is a great way for me to relax.",
+        "is_supporting": true,
+        "idx": 251
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_132",
+    "question": "What does Jolene enjoy doing with her partner after a long day?",
+    "answer": [
+      "Playing video games"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_251 (D12:6)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Jolene] Even though my snakes can't chat or understand what I'm going through, our time together is valuable and teaches me to take time and be in tune with myself. Similarly, playing video games with my partner after a long day is a great way for me to relax.",
+        "is_supporting": true,
+        "idx": 251
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_133",
+    "question": "What is Jolene currently doing in June 2023?",
+    "answer": [
+      "interning at a well-known engineering firm"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_266 (D13:5)",
+        "text": "[t=3:56 pm on 6 June, 2023, speaker=Jolene] [Image: a photo of a group of construction workers posing for a picture] I'm interning at a well-known engineering firm. It's been a great opportunity to test my skills and gain real-world experience. These are my new colleagues!",
+        "is_supporting": true,
+        "idx": 266
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_134",
+    "question": "For how long has Jolene had Seraphim as a pet?",
+    "answer": [
+      "one year"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_294 (D14:6)",
+        "text": "[t=9:17 am on 26 June, 2023, speaker=Jolene] I got her last year, she's a great pet. She always cheers me up and brings a sense of peace. Spending time with her is so comforting.",
+        "is_supporting": true,
+        "idx": 294
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_135",
+    "question": "How does Jolene feel when spending time with Seraphim?",
+    "answer": [
+      "comforted"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_294 (D14:6)",
+        "text": "[t=9:17 am on 26 June, 2023, speaker=Jolene] I got her last year, she's a great pet. She always cheers me up and brings a sense of peace. Spending time with her is so comforting.",
+        "is_supporting": true,
+        "idx": 294
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_136",
+    "question": "Which new yoga pose did Deborah share a photo of?",
+    "answer": [
+      "tree pose"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_303 (D14:15)",
+        "text": "[t=9:17 am on 26 June, 2023, speaker=Deborah] [Image: a photo of three people standing in front of a large statue] I'd rather show you a photo. This is also a new yoga pose that we tried. It is a tree pose.",
+        "is_supporting": true,
+        "idx": 303
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_137",
+    "question": "What group activity did Deborah start with Anna?",
+    "answer": [
+      "running group"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_312 (D15:1)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Deborah] [Image: a photo of three men standing next to each other on a road] Hey Jolene! I started a running group with Anna - it's awesome connecting with people who care about fitness!",
+        "is_supporting": true,
+        "idx": 312
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_138",
+    "question": "What made being part of the running group easy for Deborah to stay motivated?",
+    "answer": [
+      "helping and pushing each other during runs"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_314 (D15:3)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Deborah] [Image: a photo of a woman standing on a sidewalk with a skateboard] Oh, I'm having a blast with it! We help and push each other during our runs, which makes it so much easier to stay motivated.  I have a lot of my photos from this activity.",
+        "is_supporting": true,
+        "idx": 314
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_139",
+    "question": "Why did Jolene decide to get a snake as a pet?",
+    "answer": [
+      "fascinated by reptiles and it felt like the perfect pet"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_329 (D15:18)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Jolene] I was fascinated by reptiles, and it felt like the perfect pet for me. Taking care of it has been really calming, and it's a great way to connect with nature.",
+        "is_supporting": true,
+        "idx": 329
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_140",
+    "question": "What is the favorite game Jolene plays with her partner?",
+    "answer": [
+      "It takes two"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_321 (D15:10)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Jolene] Yeah, we love playing \"It takes two\" together! It's a fun team-strategy game and it's competitive. Plus, it's a great way for us to bond. Do you have any activities you like doing with people?",
+        "is_supporting": true,
+        "idx": 321
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_141",
+    "question": "What activity does Deborah do with her cats?",
+    "answer": [
+      "take them out for a run in the park every morning and evening"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_338 (D15:27)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Deborah] Exercise and nature are really important to me, so I make sure to take them out for a run in the park every morning and evening.",
+        "is_supporting": true,
+        "idx": 338
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_142",
+    "question": "How does Jolene describe the feeling of finding her snake snuggled under the bed after it got out?",
+    "answer": [
+      "It really showed how much she loves her."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_331 (D15:20)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Jolene] [Image: a photo of a snake in a tank with sand and plants] I have lots of great memories, like our little 'snake adventure'. She got out and I spent hours searching, so relieved when I finally found her snuggling under the bed. It really showed how much I love her.",
+        "is_supporting": true,
+        "idx": 331
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_143",
+    "question": "Why does Deborah take her cats out for a run in the park every day?",
+    "answer": [
+      "Exercise and nature are important to her"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_338 (D15:27)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Deborah] Exercise and nature are really important to me, so I make sure to take them out for a run in the park every morning and evening.",
+        "is_supporting": true,
+        "idx": 338
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_144",
+    "question": "How did Jolene come to have her pet, Susie?",
+    "answer": [
+      "She adopted her two years ago when feeling lonely."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D16:6)",
+        "text": "[t=9:26 am on 1 August, 2023, speaker=Jolene] I adopted her two years ago when I was feeling lonely and wanted some company.",
+        "is_supporting": true,
+        "idx": 356
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_145",
+    "question": "What activities have been helping Jolene stay distracted during tough times?",
+    "answer": [
+      "Video games and spending time with her pet, Susie"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_354 (D16:4)",
+        "text": "[t=9:26 am on 1 August, 2023, speaker=Jolene] [Image: a photo of a man holding a snake on his arm] Your support means a lot. Susie really helps when times get tough. Pets have been great company. Video games have also been a nice distraction.",
+        "is_supporting": true,
+        "idx": 354
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_146",
+    "question": "What kind of yoga routine does Deborah recommend to Jolene?",
+    "answer": [
+      "A gentle flow routine focused on breathing and grounding"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_365 (D16:15)",
+        "text": "[t=9:26 am on 1 August, 2023, speaker=Deborah] [Image: a photo of a woman in a pink shirt doing a yoga pose] One of my favorite yoga routines is a gentle flow that's all about breathing and grounding. It helps me find my chill. I'll send you a tutorial video with the poses. This is me in the process :)",
+        "is_supporting": true,
+        "idx": 365
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_147",
+    "question": "What did Jolene design inspired by their love for space and engines?",
+    "answer": [
+      "Notebooks"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_376 (D17:6)",
+        "text": "[t=8:50 pm on 12 August, 2023, speaker=Jolene] Thanks, Deb! I was inspired by my love for space and engines, so I designed these notebooks with elements like galaxies and circuitry. I think they turned out really cool!",
+        "is_supporting": true,
+        "idx": 376
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_148",
+    "question": "What journal has Jolene been using to help track tasks and stay organized?",
+    "answer": [
+      "bullet journal"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_388 (D18:3)",
+        "text": "[t=2:58 pm on 16 August, 2023, speaker=Jolene] Thanks, Deb! I've been trying out some time management strategies recently and started using a bullet journal. It's been really helpful for tracking my tasks and staying organized.",
+        "is_supporting": true,
+        "idx": 388
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_149",
+    "question": "What game did Jolene recommend for being calming and cute?",
+    "answer": [
+      "Animal Crossing: New Horizons"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_408 (D19:8)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] I have a few game recommendations. Zelda BOTW for Switch is an awesome open-world game. Animal Crossing: New Horizons is really calming and cute. As for my favorite game, it's hard to choose just one!",
+        "is_supporting": true,
+        "idx": 408
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_150",
+    "question": "What game did Jolene suggest as an awesome open-world game for the Nintendo Switch?",
+    "answer": [
+      "Zelda BOTW"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_408 (D19:8)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] I have a few game recommendations. Zelda BOTW for Switch is an awesome open-world game. Animal Crossing: New Horizons is really calming and cute. As for my favorite game, it's hard to choose just one!",
+        "is_supporting": true,
+        "idx": 408
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_151",
+    "question": "What did Deborah and her husband use to play to bond and make memories?",
+    "answer": [
+      "video games"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_411 (D19:11)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Deborah] Reminds me of when I used to play games with my husband. We'd take turns and it was a great way to bond and make memories. Gaming really can bring people closer, right?",
+        "is_supporting": true,
+        "idx": 411
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_152",
+    "question": "What is special about the bench at the park near Deborah's house?",
+    "answer": [
+      "It holds special memories of conversations with her mom"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_418 (D19:18)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] Sounds lovely! Nature can be calming. What makes this bench special to you?",
+        "is_supporting": true,
+        "idx": 418
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_153",
+    "question": "What did Deborah and her mom chat about at their special bench in the park?",
+    "answer": [
+      "dreams and life"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_419 (D19:19)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Deborah] It holds a lot of special memories for me and my mom - we would come here and chat about dreams and life. It's full of good moments.",
+        "is_supporting": true,
+        "idx": 419
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_154",
+    "question": "What feeling does Deborah get when she thinks about the time spent with her mom at their special spot?",
+    "answer": [
+      "peace and gratitude"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_421 (D19:21)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Deborah] I'll always cherish my memories with her at this spot. I remember a beautiful sunset we watched together in silence - the colors in the sky were so special. Every time I go back, I feel so much peace and gratitude for the time I spent with her.",
+        "is_supporting": true,
+        "idx": 421
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_155",
+    "question": "What habits does Jolene practice to feel balanced?",
+    "answer": [
+      "yoga, meditation, walks, and mindfulness"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_436 (D20:12)",
+        "text": "[t=9:11 am on 21 August, 2023, speaker=Deborah] [Image: a photo of a sunset over a body of water] Yeah, same here, Jolene! Yoga and meditation help me find balance and inner peace. Going out for walks and staying mindful also keep me grounded. I take similar photos on walks.",
+        "is_supporting": true,
+        "idx": 436
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_156",
+    "question": "Which yoga pose is Jolene a fan of for rest and calmness?",
+    "answer": [
+      "savasana (the corpse pose)"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_443 (D20:19)",
+        "text": "[t=9:11 am on 21 August, 2023, speaker=Jolene] [Image: a photo of a person laying on the floor with a paper bag] I'm a fan of savasana - aka the corpse pose. It's so calming and helps me just let go and surrender.",
+        "is_supporting": true,
+        "idx": 443
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_157",
+    "question": "How long has Jolene been doing yoga?",
+    "answer": [
+      "3 years"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_445 (D20:21)",
+        "text": "[t=9:11 am on 21 August, 2023, speaker=Jolene] Been doing it for 3 years. It's a great way to escape studying and work stress.",
+        "is_supporting": true,
+        "idx": 445
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_158",
+    "question": "What did Jolene participate in recently that provided her with a rewarding experience?",
+    "answer": [
+      "presenting at a virtual conference"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_456 (D21:6)",
+        "text": "[t=9:34 am on 24 August, 2023, speaker=Jolene] My goal is to be successful in my field and make a positive impact. I've been studying, attending workshops, and networking to make it happen. Recently, I had the opportunity to present at a virtual conference and received positive feedback.  It was a great experience and confirmed that I'm on the right track.",
+        "is_supporting": true,
+        "idx": 456
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_159",
+    "question": "How did Jolene feel after receiving positive feedback at the virtual conference?",
+    "answer": [
+      "thrilled and rewarded"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_458 (D21:8)",
+        "text": "[t=9:34 am on 24 August, 2023, speaker=Jolene] I was thrilled to receive such positive feedback! It felt so rewarding to know that my efforts were appreciated. Right now, I'm focusing on studying and gaining more experience. I'm even thinking about more internships to further enhance my skills. Exciting times! Hopefully, there will be more updates to share with you soon.",
+        "is_supporting": true,
+        "idx": 458
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_160",
+    "question": "What kind of event did Jolene present at recently?",
+    "answer": [
+      "virtual conference"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_456 (D21:6)",
+        "text": "[t=9:34 am on 24 August, 2023, speaker=Jolene] My goal is to be successful in my field and make a positive impact. I've been studying, attending workshops, and networking to make it happen. Recently, I had the opportunity to present at a virtual conference and received positive feedback.  It was a great experience and confirmed that I'm on the right track.",
+        "is_supporting": true,
+        "idx": 456
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_161",
+    "question": "What did Jolene's mom stress the value of, which she wants to keep in mind for her engineering projects?",
+    "answer": [
+      "Helping others"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_473 (D22:6)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Jolene] Yeah, Deborah! We've been figuring out how to add these values into our projects. As an engineering student, I want to use my talents to do good and help solve important problems. I'm keen on coming up with new ideas and making things more efficient to make the world a better place. Going further, my mom stressed the value of helping others and that's something I want to keep in mind for my engineering projects.",
+        "is_supporting": true,
+        "idx": 473
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_162",
+    "question": "What type of projects is Jolene interested in getting involved in the future?",
+    "answer": [
+      "Sustainable initiatives and developing innovative solutions for environmental issues"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_475 (D22:8)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Jolene] In the future, I'm aiming to work on projects that make a real difference to communities. I'm interested in sustainable initiatives and developing innovative solutions for environmental issues. I also want to get involved with organizations that focus on social causes, using my skills to help out. It's about connecting my passion for engineering with my commitment to making a positive impact.",
+        "is_supporting": true,
+        "idx": 475
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_163",
+    "question": "How did Deborah get Luna, one of her cats?",
+    "answer": [
+      "From the shelter"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_492 (D22:25)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] I took Luna from the shelter.",
+        "is_supporting": true,
+        "idx": 492
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_164",
+    "question": "How old is Max?",
+    "answer": [
+      "8 years old"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_494 (D22:27)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] Yes, I really love cats, and they also need a home, love, and care! Moreover, Max is already old, he is 8 years old.",
+        "is_supporting": true,
+        "idx": 494
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_165",
+    "question": "What type of classes did Jolene and her partner check out during their trip to Rio de Janeiro on 30 August, 2023?",
+    "answer": [
+      "Yoga classes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_498 (D23:1)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] [Image: a photo of a woman doing a yoga pose in a mirror] Hey Deborah, how's it going? Guess what? Yesterday my partner and I got back from an awesome trip to Rio de Janeiro- we checked out some cool yoga classes.",
+        "is_supporting": true,
+        "idx": 498
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_166",
+    "question": "What type of place does Jolene visit to meditate?",
+    "answer": [
+      "A tranquil spot by a pond"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_506 (D23:9)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] [Image: a photo of a pond with lily pads and a tree in the background] I go to this nearby place to meditate by a tranquil spot.",
+        "is_supporting": true,
+        "idx": 506
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_167",
+    "question": "What was the new plant Jolene got used as a reminder for on 30 August, 2023?",
+    "answer": [
+      "To nurture herself and embrace fresh starts"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_526 (D23:29)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] I got this as a reminder to nurture myself and embrace fresh starts.",
+        "is_supporting": true,
+        "idx": 526
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_168",
+    "question": "Why did Jolene get the new plant on 30 August, 2023?",
+    "answer": [
+      "As a reminder to nurture herself and embrace fresh starts"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_526 (D23:29)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] I got this as a reminder to nurture myself and embrace fresh starts.",
+        "is_supporting": true,
+        "idx": 526
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_169",
+    "question": "What has Jolene been focusing on lately besides studying?",
+    "answer": [
+      "relationship with her partner"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_531 (D24:2)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Jolene] Hey Deb, great to hear from you! I've been focusing on studying and my relationship with my partner. We're taking little trips to the beach, it's a great way to relax. How about you, anything new going on?",
+        "is_supporting": true,
+        "idx": 531
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_170",
+    "question": "How did Deborah's mom support her yoga practice when she first started?",
+    "answer": [
+      "attended classes with her"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_534 (D24:5)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Deborah] [Image: a photo of a woman sitting on a yoga mat with two children] Relationships with family and friends are so vital. My yoga pals have been my second family - we've held each other up through a lot. The other day I found this old photo. That was when I first started doing yoga. My mum was my biggest fan and source of motivation. She'd often come to my classes with me.",
+        "is_supporting": true,
+        "idx": 534
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_171",
+    "question": "What was the video game console that Jolene's parents got her at age 10?",
+    "answer": [
+      "nintendo game console"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_535 (D24:6)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Jolene] [Image: a photo of a nintendo game console and a game controller] Our loved ones sure are supportive! When I was 10, my parents got me that and it was the start of my passion for video games.",
+        "is_supporting": true,
+        "idx": 535
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_172",
+    "question": "What was one of Jolene's favorite games to play with her mom on the nintendo wii game system?",
+    "answer": [
+      "Monster Hunter: World"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_539 (D24:10)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Jolene] One of my favorites was \"Monster Hunter: World\". The immersive story and open-world gaming are amazing!",
+        "is_supporting": true,
+        "idx": 539
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_173",
+    "question": "What course did Jolene sign up for on 6 September 2023?",
+    "answer": [
+      "meditation"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_545 (D25:1)",
+        "text": "[t=8:31 pm on 6 September, 2023, speaker=Jolene] [Image: a photo of a building with a curved roof on a hill] Woohoo! I signed up for a meditation course at a retreat near a lake. Can't wait to share this experience with my partner and learn some new techniques. Sooo excited!",
+        "is_supporting": true,
+        "idx": 545
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_174",
+    "question": "Why did Jolene have to reschedule their meeting with Deborah on September 8, 2023?",
+    "answer": [
+      "Jolene already had plans"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_579 (D26:15)",
+        "text": "[t=7:39 pm on 8 September, 2023, speaker=Deborah] Sorry, I remembered that I already have plans for this day.",
+        "is_supporting": true,
+        "idx": 579
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_175",
+    "question": "Where did Jolene and her partner travel for a few weeks in September 2023?",
+    "answer": [
+      "Phuket"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_586 (D27:1)",
+        "text": "[t=2:18 pm on 12 September, 2023, speaker=Jolene] Hey Deb! So sorry for the late reply, been super busy. Last weekend my partner and I traveled to a meditation retreat for a few weeks in Phuket. Amazing experience! Nature, reflection and a break from engineering studies were awesome - it helped me find inner peace.",
+        "is_supporting": true,
+        "idx": 586
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_176",
+    "question": "What was the main focus of the session that stood out to Jolene during the retreat?",
+    "answer": [
+      "releasing expectations and judgments and savoring the present"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_590 (D27:5)",
+        "text": "[t=2:18 pm on 12 September, 2023, speaker=Jolene] The one session that really stood out was about releasing expectations and judgments and just savoring the present. It was a strong reminder to not just dwell on the finish line, but to appreciate the journey too. I usually get too consumed with hitting my goals that I forget to appreciate the ride.",
+        "is_supporting": true,
+        "idx": 590
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_177",
+    "question": "How did Jolene feel about her progress in practicing mindfulness and gratitude?",
+    "answer": [
+      "experiencing a new level of joy and happiness"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_594 (D27:9)",
+        "text": "[t=2:18 pm on 12 September, 2023, speaker=Jolene] I'm experiencing a new level of joy and happiness!",
+        "is_supporting": true,
+        "idx": 594
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_178",
+    "question": "What positive change did Jolene experience during the retreat?",
+    "answer": [
+      "finding inner peace"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_586 (D27:1)",
+        "text": "[t=2:18 pm on 12 September, 2023, speaker=Jolene] Hey Deb! So sorry for the late reply, been super busy. Last weekend my partner and I traveled to a meditation retreat for a few weeks in Phuket. Amazing experience! Nature, reflection and a break from engineering studies were awesome - it helped me find inner peace.",
+        "is_supporting": true,
+        "idx": 586
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_179",
+    "question": "What did Jolene recently play that she described to Deb?",
+    "answer": [
+      "a card game about cats"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_597 (D27:12)",
+        "text": "[t=2:18 pm on 12 September, 2023, speaker=Deborah] Having a supportive community definitely helps. We can motivate and encourage each other! By the way, I recently played a game. I don't remember what it's called. This is a card game about cats, where you take cards one by one from a deck, and then you can attack your opponent with them. We'll definitely play it with you!",
+        "is_supporting": true,
+        "idx": 597
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_180",
+    "question": "What did Deborah do with their mom's old friends?",
+    "answer": [
+      "reminisced and looked through photos"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_605 (D28:7)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Deborah] We reminisced and looked through her photos. It was really sweet.",
+        "is_supporting": true,
+        "idx": 605
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_181",
+    "question": "Where did Deborah get married?",
+    "answer": [
+      "on the beach"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_609 (D28:11)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Deborah] That beach is super special to me. It's where I got married and discovered my love for surfing. It's always filled with joy and peace.",
+        "is_supporting": true,
+        "idx": 609
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_182",
+    "question": "What does yoga on the beach provide for Deborah?",
+    "answer": [
+      "a peaceful atmosphere"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_613 (D28:15)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Deborah] Oh yeah! Doing this on the beach is so peaceful - the ocean, sand, and fresh air create a super relaxing atmosphere. The perfect way to take care of myself.",
+        "is_supporting": true,
+        "idx": 613
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_183",
+    "question": "How does Jolene describe their home room?",
+    "answer": [
+      "little haven for peace and rest"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_620 (D28:22)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Jolene] In my room, I usually go to relax and feel at ease. After a busy day, it's my little haven for peace and rest - the perfect spot to relax and recharge.",
+        "is_supporting": true,
+        "idx": 620
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_184",
+    "question": "What new activity did Deborah and her neighbor organize for the community on 16 September, 2023?",
+    "answer": [
+      "Free gardening class"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_629 (D29:1)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Deborah] Hey Jolene, I'm so excited to tell you! Yesterday, me and my neighbor ran a free gardening class for the community, it was awesome! People of any age joined in and it was such a great thing to see.",
+        "is_supporting": true,
+        "idx": 629
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_185",
+    "question": "What was Deborah's mom passionate about?",
+    "answer": [
+      "Cooking"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_635 (D29:7)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Deborah] [Image: a photo of a bowl of food with a spoon in it] Thanks, Jolene! It was really special. My mom had a big passion for cooking. She would make amazing meals for us, each one full of love and warmth. I can still remember the smell of her special dish, it would fill the house and bring us all together.",
+        "is_supporting": true,
+        "idx": 635
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_186",
+    "question": "What food did Deborah's mom make for her on birthdays?",
+    "answer": [
+      "Pineapple cakes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_637 (D29:9)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Deborah] [Image: a photo of a pineapple cake with a smiley face on it] I loved it when she would bake pineapple birthday cakes for me when I was a kid. It always made me feel so special.",
+        "is_supporting": true,
+        "idx": 637
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_187",
+    "question": "What kind of cookies did Jolene used to bake with someone close to her?",
+    "answer": [
+      "Chocolate chip cookies"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_640 (D29:12)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Jolene] [Image: a photo of four chocolate chip cookies on a baking sheet] I used to bake cookies with someone close to me.",
+        "is_supporting": true,
+        "idx": 640
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_188",
+    "question": "What outdoor activity did Jolene suggest doing together with Deborah?",
+    "answer": [
+      "Surfing"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_655 (D29:27)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Deborah] It's okay, maybe we can try it together sometime!",
+        "is_supporting": true,
+        "idx": 655
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_189",
+    "question": "What activity did Deborah enjoy at the music festival with their pals on September 20, 2023?",
+    "answer": [
+      "Dancing and bopping around"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_663 (D30:1)",
+        "text": "[t=10:17 am on 20 September, 2023, speaker=Deborah] I had a great time at the music festival with my pals! The vibes were unreal and the music was magical. It was so freeing to dance and bop around. Music brings us together and helps us show our feelings. It reminds me of my mom and her soothing voice when she'd sing lullabies to me. Lucky to have those memories!",
+        "is_supporting": true,
+        "idx": 663
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_190",
+    "question": "What did Deborah find freeing at the music festival?",
+    "answer": [
+      "Dancing and bopping around"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_663 (D30:1)",
+        "text": "[t=10:17 am on 20 September, 2023, speaker=Deborah] I had a great time at the music festival with my pals! The vibes were unreal and the music was magical. It was so freeing to dance and bop around. Music brings us together and helps us show our feelings. It reminds me of my mom and her soothing voice when she'd sing lullabies to me. Lucky to have those memories!",
+        "is_supporting": true,
+        "idx": 663
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_7_191",
+    "question": "What are the names of Deborah's snakes?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_37 (D2:20)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] [Image: a photo of a bed with a snake head sticking out of it] I want to show you one of my snakes! They always calm me down and make me happy. This is Susie.",
+        "is_supporting": true,
+        "idx": 37
+      },
+      {
+        "title": "turn_39 (D2:22)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] [Image: a photo of a snake sticking its head out of a blanket] I was playing video games and my pet just slinked out of her cage and coiled up next to me - it was too funny! My second snake Seraphim did it. Look at her sly eyes!",
+        "is_supporting": true,
+        "idx": 39
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Susie, Seraphim"
+  },
+  {
+    "id": "locomo_7_192",
+    "question": "What are Deborah's favorite books?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_85 (D4:21)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] Thanks Deborah! I'm really into this book called \"Sapiens\" - it's a fascinating look at human history and how technology has affected us. It's giving me a lot to think about!",
+        "is_supporting": true,
+        "idx": 85
+      },
+      {
+        "title": "turn_87 (D4:23)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] Two weeks ago I read \"Avalanche\" by Neal Stephenson in one sitting!",
+        "is_supporting": true,
+        "idx": 87
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Sapiens, Avalanche by Neal Stephenson"
+  },
+  {
+    "id": "locomo_7_193",
+    "question": "Where did Deborah get her dogs?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_490 (D22:23)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] Max is my mother's cat, I took him when my mother passed away.",
+        "is_supporting": true,
+        "idx": 490
+      },
+      {
+        "title": "turn_492 (D22:25)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] I took Luna from the shelter.",
+        "is_supporting": true,
+        "idx": 492
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Luna is from the shelter and Max is her mother's cat"
+  },
+  {
+    "id": "locomo_7_194",
+    "question": "How old are Jolene's cats?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_494 (D22:27)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] Yes, I really love cats, and they also need a home, love, and care! Moreover, Max is already old, he is 8 years old.",
+        "is_supporting": true,
+        "idx": 494
+      },
+      {
+        "title": "turn_496 (D22:29)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] She is younger, she is 5 years old.",
+        "is_supporting": true,
+        "idx": 496
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Max is 8 years old and Luna is 5 years old"
+  },
+  {
+    "id": "locomo_7_195",
+    "question": "When did Deborah's parents give her first console?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_535 (D24:6)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Jolene] [Image: a photo of a nintendo game console and a game controller] Our loved ones sure are supportive! When I was 10, my parents got me that and it was the start of my passion for video games.",
+        "is_supporting": true,
+        "idx": 535
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "when she was 10"
+  },
+  {
+    "id": "locomo_7_196",
+    "question": "When did Jolene release her pet snake?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_41 (D2:24)",
+        "text": "[t=9:49 am on 27 January, 2023, speaker=Jolene] I bought it a year ago in Paris.",
+        "is_supporting": true,
+        "idx": 41
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "A year ago"
+  },
+  {
+    "id": "locomo_7_197",
+    "question": "Where did Jolene meet her new friend Anna?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_55 (D3:6)",
+        "text": "[t=7:03 pm on 1 February, 2023, speaker=Deborah] It happened at yoga in the park.",
+        "is_supporting": true,
+        "idx": 55
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "yoga in the park"
+  },
+  {
+    "id": "locomo_7_198",
+    "question": "What is Deborah's favorite book which she mentioned on 4 February, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_85 (D4:21)",
+        "text": "[t=9:48 am on 4 February, 2023, speaker=Jolene] Thanks Deborah! I'm really into this book called \"Sapiens\" - it's a fascinating look at human history and how technology has affected us. It's giving me a lot to think about!",
+        "is_supporting": true,
+        "idx": 85
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "\"Sapiens\""
+  },
+  {
+    "id": "locomo_7_199",
+    "question": "What cool stuff did Deborah accomplish at the retreat on 9 February, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_113 (D5:5)",
+        "text": "[t=9:03 pm on 9 February, 2023, speaker=Jolene] I really accomplished something with my engineering project - I came up with some neat solutions and I'm really excited about it.",
+        "is_supporting": true,
+        "idx": 113
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Came up with neat solutions for her engineering project"
+  },
+  {
+    "id": "locomo_7_200",
+    "question": "How does Deborah plan to involve local engineers in her idea of teaching STEM to underprivileged kids?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_117 (D5:9)",
+        "text": "[t=9:03 pm on 9 February, 2023, speaker=Jolene] Haven't finished planning yet but I'm thinking of teaming up with local schools/centers to do workshops. We could even invite engineers as guest speakers to show kids their career options.",
+        "is_supporting": true,
+        "idx": 117
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "As guest speakers for workshops"
+  },
+  {
+    "id": "locomo_7_201",
+    "question": "What gave Deborah anxiety in the garden she visited?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_129 (D6:4)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Deborah] The roses and dahlias bring me peace. I lost a friend last week, so I've been spending time in the garden to find some comfort.",
+        "is_supporting": true,
+        "idx": 129
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Roses and dahlias"
+  },
+  {
+    "id": "locomo_7_202",
+    "question": "Why did Jolene spend time in the garden?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_129 (D6:4)",
+        "text": "[t=4:12 pm on 22 February, 2023, speaker=Deborah] The roses and dahlias bring me peace. I lost a friend last week, so I've been spending time in the garden to find some comfort.",
+        "is_supporting": true,
+        "idx": 129
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "to find comfort after losing a friend"
+  },
+  {
+    "id": "locomo_7_203",
+    "question": "How did Jolene and her rival initially meet?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_150 (D7:9)",
+        "text": "[t=4:50 pm on 25 February, 2023, speaker=Jolene] We actually met in an engineering class in college and quickly became friends. It eventually blossomed into something more and it's been great!",
+        "is_supporting": true,
+        "idx": 150
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "In an engineering class in college"
+  },
+  {
+    "id": "locomo_7_204",
+    "question": "What activity does Jolene incorporate into her daily routine after going for a morning jog in the park?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_159 (D7:18)",
+        "text": "[t=4:50 pm on 25 February, 2023, speaker=Deborah] In the morning, I meditate, do yoga, and teach classes. And yesterday I went for a morning jog for the first time in a nearby park. I will now incorporate this into my daily routine. And in the evenings, I spend time with loved ones.",
+        "is_supporting": true,
+        "idx": 159
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "spending time with loved ones"
+  },
+  {
+    "id": "locomo_7_205",
+    "question": "What method does Jolene suggest Deborah to try for organizing tasks based on importance and urgency?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_220 (D10:13)",
+        "text": "[t=5:35 pm on 22 March, 2023, speaker=Deborah] [Image: a photo of a pair of scissors sitting on top of a piece of paper] The Eisenhower Matrix sorts tasks into four boxes, categorizing them based on their urgency and importance. It can be really useful for organizing and prioritizing. Here's a breakdown.",
+        "is_supporting": true,
+        "idx": 220
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "The Eisenhower Matrix"
+  },
+  {
+    "id": "locomo_7_206",
+    "question": "How does Jolene plan to pursue her dream of climbing mountains?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_227 (D10:20)",
+        "text": "[t=5:35 pm on 22 March, 2023, speaker=Jolene] Definitely! I've been gathering information, watching videos, and I even got a beginners' guide to surfing. Just need to find the right time and place to get a lesson.",
+        "is_supporting": true,
+        "idx": 227
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "gathering information, watching videos, getting a beginners' guide"
+  },
+  {
+    "id": "locomo_7_207",
+    "question": "Who are the authors mentioned by Jolene that she enjoys reading during her yoga practice?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_240 (D11:9)",
+        "text": "[t=4:03 pm on 28 March, 2023, speaker=Jolene] I love listening to Nils Frahm and Olafur Arnalds during my practice. Their music is so calming and puts me in a different headspace. Do you have any recommendations for other similar artists or tracks I should check out?",
+        "is_supporting": true,
+        "idx": 240
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Nils Frahm and Olafur Arnalds"
+  },
+  {
+    "id": "locomo_7_208",
+    "question": "Which show did Jolene go to with a friend on 9 April, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_246 (D12:1)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Deborah] Hey Jolene! Great to see you! Had a blast biking nearby with my neighbor last week - was so freeing and beautiful. Checked out an art show with a friend today - really cool and inspiring stuff. Reminded me of my mom.",
+        "is_supporting": true,
+        "idx": 246
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "an art show"
+  },
+  {
+    "id": "locomo_7_209",
+    "question": "What does Deborah find comforting about going to horror movie screenings?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_248 (D12:3)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Deborah] My mom was interested in art. She believed art could give out strong emotions and uniquely connect us. When I go to an art show, it's like we're still experiencing it together even though she's gone. It's hard but comforting.",
+        "is_supporting": true,
+        "idx": 248
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "It makes her feel like she's still experiencing it with her mom"
+  },
+  {
+    "id": "locomo_7_210",
+    "question": "How does Deborah describe the time spent with her snakes and partner?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_251 (D12:6)",
+        "text": "[t=4:30 pm on 9 April, 2023, speaker=Jolene] Even though my snakes can't chat or understand what I'm going through, our time together is valuable and teaches me to take time and be in tune with myself. Similarly, playing video games with my partner after a long day is a great way for me to relax.",
+        "is_supporting": true,
+        "idx": 251
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Valuable and relaxing"
+  },
+  {
+    "id": "locomo_7_211",
+    "question": "For how long has Jolene had Lucifer as a pet?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_294 (D14:6)",
+        "text": "[t=9:17 am on 26 June, 2023, speaker=Jolene] I got her last year, she's a great pet. She always cheers me up and brings a sense of peace. Spending time with her is so comforting.",
+        "is_supporting": true,
+        "idx": 294
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "one year"
+  },
+  {
+    "id": "locomo_7_212",
+    "question": "How does Deborah feel when spending time with Seraphim?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_294 (D14:6)",
+        "text": "[t=9:17 am on 26 June, 2023, speaker=Jolene] I got her last year, she's a great pet. She always cheers me up and brings a sense of peace. Spending time with her is so comforting.",
+        "is_supporting": true,
+        "idx": 294
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "comforted"
+  },
+  {
+    "id": "locomo_7_213",
+    "question": "What made being part of the running group easy for Jolene to stay motivated?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_314 (D15:3)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Deborah] [Image: a photo of a woman standing on a sidewalk with a skateboard] Oh, I'm having a blast with it! We help and push each other during our runs, which makes it so much easier to stay motivated.  I have a lot of my photos from this activity.",
+        "is_supporting": true,
+        "idx": 314
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "helping and pushing each other during runs"
+  },
+  {
+    "id": "locomo_7_214",
+    "question": "Why did Jolene decide to get a tarantula as a pet?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_329 (D15:18)",
+        "text": "[t=7:37 pm on 9 July, 2023, speaker=Jolene] I was fascinated by reptiles, and it felt like the perfect pet for me. Taking care of it has been really calming, and it's a great way to connect with nature.",
+        "is_supporting": true,
+        "idx": 329
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "fascinated by reptiles and it felt like the perfect pet"
+  },
+  {
+    "id": "locomo_7_215",
+    "question": "How did Deborah come to have her pet, Susie?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_356 (D16:6)",
+        "text": "[t=9:26 am on 1 August, 2023, speaker=Jolene] I adopted her two years ago when I was feeling lonely and wanted some company.",
+        "is_supporting": true,
+        "idx": 356
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "She adopted her two years ago when feeling lonely."
+  },
+  {
+    "id": "locomo_7_216",
+    "question": "What did Deborah design inspired by their love for space and engines?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_376 (D17:6)",
+        "text": "[t=8:50 pm on 12 August, 2023, speaker=Jolene] Thanks, Deb! I was inspired by my love for space and engines, so I designed these notebooks with elements like galaxies and circuitry. I think they turned out really cool!",
+        "is_supporting": true,
+        "idx": 376
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Notebooks"
+  },
+  {
+    "id": "locomo_7_217",
+    "question": "What journal has Deborah been using to help track tasks and stay organized?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_388 (D18:3)",
+        "text": "[t=2:58 pm on 16 August, 2023, speaker=Jolene] Thanks, Deb! I've been trying out some time management strategies recently and started using a bullet journal. It's been really helpful for tracking my tasks and staying organized.",
+        "is_supporting": true,
+        "idx": 388
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "bullet journal"
+  },
+  {
+    "id": "locomo_7_218",
+    "question": "What game did Jolene recommend to Deborah for being thrilling and intense?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_408 (D19:8)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] I have a few game recommendations. Zelda BOTW for Switch is an awesome open-world game. Animal Crossing: New Horizons is really calming and cute. As for my favorite game, it's hard to choose just one!",
+        "is_supporting": true,
+        "idx": 408
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Animal Crossing: New Horizons"
+  },
+  {
+    "id": "locomo_7_219",
+    "question": "What game did Deborah suggest as an awesome open-world game for the Nintendo Switch?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_408 (D19:8)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] I have a few game recommendations. Zelda BOTW for Switch is an awesome open-world game. Animal Crossing: New Horizons is really calming and cute. As for my favorite game, it's hard to choose just one!",
+        "is_supporting": true,
+        "idx": 408
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Zelda BOTW"
+  },
+  {
+    "id": "locomo_7_220",
+    "question": "What is special about the bench at the park near Jolene's house?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_418 (D19:18)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Jolene] Sounds lovely! Nature can be calming. What makes this bench special to you?",
+        "is_supporting": true,
+        "idx": 418
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "It holds special memories of conversations with her mom"
+  },
+  {
+    "id": "locomo_7_221",
+    "question": "What did Jolene and her mom chat about at their special bench in the park?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_419 (D19:19)",
+        "text": "[t=12:52 am on 19 August, 2023, speaker=Deborah] It holds a lot of special memories for me and my mom - we would come here and chat about dreams and life. It's full of good moments.",
+        "is_supporting": true,
+        "idx": 419
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "dreams and life"
+  },
+  {
+    "id": "locomo_7_222",
+    "question": "How did Deborah feel after receiving positive feedback at the virtual conference?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_458 (D21:8)",
+        "text": "[t=9:34 am on 24 August, 2023, speaker=Jolene] I was thrilled to receive such positive feedback! It felt so rewarding to know that my efforts were appreciated. Right now, I'm focusing on studying and gaining more experience. I'm even thinking about more internships to further enhance my skills. Exciting times! Hopefully, there will be more updates to share with you soon.",
+        "is_supporting": true,
+        "idx": 458
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "thrilled and rewarded"
+  },
+  {
+    "id": "locomo_7_223",
+    "question": "What kind of event did Deborah present at recently?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_456 (D21:6)",
+        "text": "[t=9:34 am on 24 August, 2023, speaker=Jolene] My goal is to be successful in my field and make a positive impact. I've been studying, attending workshops, and networking to make it happen. Recently, I had the opportunity to present at a virtual conference and received positive feedback.  It was a great experience and confirmed that I'm on the right track.",
+        "is_supporting": true,
+        "idx": 456
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "virtual conference"
+  },
+  {
+    "id": "locomo_7_224",
+    "question": "What did Deborah's mom stress the value of, which she wants to keep in mind for her engineering projects?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_473 (D22:6)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Jolene] Yeah, Deborah! We've been figuring out how to add these values into our projects. As an engineering student, I want to use my talents to do good and help solve important problems. I'm keen on coming up with new ideas and making things more efficient to make the world a better place. Going further, my mom stressed the value of helping others and that's something I want to keep in mind for my engineering projects.",
+        "is_supporting": true,
+        "idx": 473
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Helping others"
+  },
+  {
+    "id": "locomo_7_225",
+    "question": "What type of projects is Deborah interested in getting involved in the future?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_475 (D22:8)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Jolene] In the future, I'm aiming to work on projects that make a real difference to communities. I'm interested in sustainable initiatives and developing innovative solutions for environmental issues. I also want to get involved with organizations that focus on social causes, using my skills to help out. It's about connecting my passion for engineering with my commitment to making a positive impact.",
+        "is_supporting": true,
+        "idx": 475
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Sustainable initiatives and developing innovative solutions for environmental issues"
+  },
+  {
+    "id": "locomo_7_226",
+    "question": "How did Jolene get Luna, one of her cats?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_492 (D22:25)",
+        "text": "[t=5:33 pm on 26 August, 2023, speaker=Deborah] I took Luna from the shelter.",
+        "is_supporting": true,
+        "idx": 492
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "From the shelter"
+  },
+  {
+    "id": "locomo_7_227",
+    "question": "What type of classes did Deborah and her partner check out during their trip to Rio de Janeiro on 30 August, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_498 (D23:1)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] [Image: a photo of a woman doing a yoga pose in a mirror] Hey Deborah, how's it going? Guess what? Yesterday my partner and I got back from an awesome trip to Rio de Janeiro- we checked out some cool yoga classes.",
+        "is_supporting": true,
+        "idx": 498
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Yoga classes"
+  },
+  {
+    "id": "locomo_7_228",
+    "question": "Why did Deborah get the new plant on 30 August, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_526 (D23:29)",
+        "text": "[t=11:46 am on 30 August, 2023, speaker=Jolene] I got this as a reminder to nurture myself and embrace fresh starts.",
+        "is_supporting": true,
+        "idx": 526
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "As a reminder to nurture herself and embrace fresh starts"
+  },
+  {
+    "id": "locomo_7_229",
+    "question": "How did Jolene's mom support her yoga practice when she first started?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_534 (D24:5)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Deborah] [Image: a photo of a woman sitting on a yoga mat with two children] Relationships with family and friends are so vital. My yoga pals have been my second family - we've held each other up through a lot. The other day I found this old photo. That was when I first started doing yoga. My mum was my biggest fan and source of motivation. She'd often come to my classes with me.",
+        "is_supporting": true,
+        "idx": 534
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "attended classes with her"
+  },
+  {
+    "id": "locomo_7_230",
+    "question": "What was the video game console that Deborah's parents got her at age 10?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_535 (D24:6)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Jolene] [Image: a photo of a nintendo game console and a game controller] Our loved ones sure are supportive! When I was 10, my parents got me that and it was the start of my passion for video games.",
+        "is_supporting": true,
+        "idx": 535
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "nintendo game console"
+  },
+  {
+    "id": "locomo_7_231",
+    "question": "What was one of Deborah's favorite games to play with her mom on the PlayStation game system?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_539 (D24:10)",
+        "text": "[t=2:14 pm on 3 September, 2023, speaker=Jolene] One of my favorites was \"Monster Hunter: World\". The immersive story and open-world gaming are amazing!",
+        "is_supporting": true,
+        "idx": 539
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Monster Hunter: World"
+  },
+  {
+    "id": "locomo_7_232",
+    "question": "Where did Deborah and her partner travel for a few weeks in September 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_586 (D27:1)",
+        "text": "[t=2:18 pm on 12 September, 2023, speaker=Jolene] Hey Deb! So sorry for the late reply, been super busy. Last weekend my partner and I traveled to a meditation retreat for a few weeks in Phuket. Amazing experience! Nature, reflection and a break from engineering studies were awesome - it helped me find inner peace.",
+        "is_supporting": true,
+        "idx": 586
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Phuket"
+  },
+  {
+    "id": "locomo_7_233",
+    "question": "What did Jolene do with their mom's old friends?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_605 (D28:7)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Deborah] We reminisced and looked through her photos. It was really sweet.",
+        "is_supporting": true,
+        "idx": 605
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "reminisced and looked through photos"
+  },
+  {
+    "id": "locomo_7_234",
+    "question": "Where did Jolene get married?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_609 (D28:11)",
+        "text": "[t=3:09 pm on 15 September, 2023, speaker=Deborah] That beach is super special to me. It's where I got married and discovered my love for surfing. It's always filled with joy and peace.",
+        "is_supporting": true,
+        "idx": 609
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "on the beach"
+  },
+  {
+    "id": "locomo_7_235",
+    "question": "What new activity did Jolene and her neighbor organize for the community on 16 September, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_629 (D29:1)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Deborah] Hey Jolene, I'm so excited to tell you! Yesterday, me and my neighbor ran a free gardening class for the community, it was awesome! People of any age joined in and it was such a great thing to see.",
+        "is_supporting": true,
+        "idx": 629
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Free gardening class"
+  },
+  {
+    "id": "locomo_7_236",
+    "question": "What food did Jolene's mom make for her on holidays?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_637 (D29:9)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Deborah] [Image: a photo of a pineapple cake with a smiley face on it] I loved it when she would bake pineapple birthday cakes for me when I was a kid. It always made me feel so special.",
+        "is_supporting": true,
+        "idx": 637
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Pineapple cakes"
+  },
+  {
+    "id": "locomo_7_237",
+    "question": "What kind of cookies did Deborah used to bake with someone close to her?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_640 (D29:12)",
+        "text": "[t=1:24 pm on 17 September, 2023, speaker=Jolene] [Image: a photo of four chocolate chip cookies on a baking sheet] I used to bake cookies with someone close to me.",
+        "is_supporting": true,
+        "idx": 640
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Chocolate chip cookies"
+  },
+  {
+    "id": "locomo_7_238",
+    "question": "What activity did Jolene enjoy at the music festival with their pals on September 20, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_663 (D30:1)",
+        "text": "[t=10:17 am on 20 September, 2023, speaker=Deborah] I had a great time at the music festival with my pals! The vibes were unreal and the music was magical. It was so freeing to dance and bop around. Music brings us together and helps us show our feelings. It reminds me of my mom and her soothing voice when she'd sing lullabies to me. Lucky to have those memories!",
+        "is_supporting": true,
+        "idx": 663
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Dancing and bopping around"
+  }
+]

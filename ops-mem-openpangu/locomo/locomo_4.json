@@ -1,0 +1,4780 @@
+[
+  {
+    "id": "locomo_4_0",
+    "question": "what are John's goals with regards to his basketball career?",
+    "answer": [
+      "improve shooting percentage, win a championship"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_233 (D11:17)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=John] Definitely! I'm focusing on better shooting and making more of an impact on the court. I want to be known as a consistent performer and help my team. Off the court, I'm also looking into more endorsements and building my brand. It's important for me to think about life after basketball.",
+        "is_supporting": true,
+        "idx": 233
+      },
+      {
+        "title": "turn_8 (D1:9)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=John] [Image: a photo of two men standing next to a basketball machine] Yeah, my goal is to improve my shooting percentage. Been practicing hard and gonna make it happen.",
+        "is_supporting": true,
+        "idx": 8
+      },
+      {
+        "title": "turn_123 (D6:15)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] Yeah! Winning a championship is my number one goal. But I also want to make a difference away from the court, like through charity or inspiring people. Basketball has been great to me, so I want to give something back.",
+        "is_supporting": true,
+        "idx": 123
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_1",
+    "question": "What are John's goals for his career that are not related to his basketball skills?",
+    "answer": [
+      "get endorsements, build his brand, do charity work"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_233 (D11:17)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=John] Definitely! I'm focusing on better shooting and making more of an impact on the court. I want to be known as a consistent performer and help my team. Off the court, I'm also looking into more endorsements and building my brand. It's important for me to think about life after basketball.",
+        "is_supporting": true,
+        "idx": 233
+      },
+      {
+        "title": "turn_123 (D6:15)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] Yeah! Winning a championship is my number one goal. But I also want to make a difference away from the court, like through charity or inspiring people. Basketball has been great to me, so I want to give something back.",
+        "is_supporting": true,
+        "idx": 123
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_2",
+    "question": "What items does John collect?",
+    "answer": [
+      "sneakers, fantasy movie DVDs, jerseys"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_264 (D12:18)",
+        "text": "[t=3:00 pm on 2 October, 2023, speaker=John] [Image: a photo of a bunch of basketball jerseys laying on a bed] That's great Tim! Books and movies make us escape to different places. I like to collect jerseys.",
+        "is_supporting": true,
+        "idx": 264
+      },
+      {
+        "title": "turn_14 (D1:15)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=John] That's great! Loving it when people are passionate about their work. What kind of collaborations are you involved in for the fan project? I love talking to people about my sneaker collection.",
+        "is_supporting": true,
+        "idx": 14
+      },
+      {
+        "title": "turn_623 (D27:20)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] [Image: a photo of a collection of star wars movies on a table] Cool! Glad you're enjoying that book! Do you have any favorite fantasy movies as well? These are mine.",
+        "is_supporting": true,
+        "idx": 623
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_3",
+    "question": "Would Tim enjoy reading books by C. S. Lewis or John Greene?",
+    "answer": [
+      "C. S.Lewis"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_13 (D1:14)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=Tim] [Image: a photo of a table with a bunch of books on it] It's been going well! Last week I talked to my friend who is a fan of Harry Potter and we're figuring out ideas, so it's been great to get lost in that magical world!",
+        "is_supporting": true,
+        "idx": 13
+      },
+      {
+        "title": "turn_15 (D1:16)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=Tim] Thanks! We'll be discussing various aspects of the Harry Potter universe, like characters, spells, and magical creatures. It's great to see fans coming together for this.",
+        "is_supporting": true,
+        "idx": 15
+      },
+      {
+        "title": "turn_17 (D1:18)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=Tim] I went to a place in London a few years ago - it was like walking into a Harry Potter movie! I also went on a tour which was amazing. Have you been to any of the real Potter places? I'd love to explore them someday!",
+        "is_supporting": true,
+        "idx": 17
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_4",
+    "question": "What books has Tim read?",
+    "answer": [
+      "Harry Potter, Game of Thrones, the Name of the Wind, The Alchemist, The Hobbit, A Dance with Dragons, and the Wheel of Time."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_242 (D11:26)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=Tim] Great bookshelf! I saw that you had \"The Alchemist\" on there, one of my favorites. Did you enjoy it?",
+        "is_supporting": true,
+        "idx": 242
+      },
+      {
+        "title": "turn_13 (D1:14)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=Tim] [Image: a photo of a table with a bunch of books on it] It's been going well! Last week I talked to my friend who is a fan of Harry Potter and we're figuring out ideas, so it's been great to get lost in that magical world!",
+        "is_supporting": true,
+        "idx": 13
+      },
+      {
+        "title": "turn_453 (D20:21)",
+        "text": "[t=9:52 am on 1 December, 2023, speaker=Tim] Glad you like it! The Hobbit is great, but have you read that other popular fantasy series? It's also awesome!",
+        "is_supporting": true,
+        "idx": 453
+      },
+      {
+        "title": "turn_507 (D22:13)",
+        "text": "[t=7:42 pm on 8 December, 2023, speaker=Tim] [Image: a photography of a book shelf with a book and a book cover] I haven't read that yet but I've heard great things! Just finished \"A Dance with Dragons\" and it's a really good story. Highly recommend it!",
+        "is_supporting": true,
+        "idx": 507
+      },
+      {
+        "title": "turn_601 (D26:36)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=Tim] I'm really excited to watch this new show that's coming out called \"The Wheel of Time\". It's based on a book series that I love.",
+        "is_supporting": true,
+        "idx": 601
+      },
+      {
+        "title": "turn_26 (D2:7)",
+        "text": "[t=5:08 pm on 15 June, 2023, speaker=Tim] [Image: a photo of a book shelf with books and a picture on it] Yeah, John! Count on me for support. Can't wait to see what's up! This is my book collection so far.",
+        "is_supporting": true,
+        "idx": 26
+      },
+      {
+        "title": "turn_116 (D6:8)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=Tim] [Image: a photo of a book set of three books on a wooden table] Thanks! \"The Name of the Wind\" is great. It's a fantasy novel with a great magician and musician protagonist. The world-building and character development are really good. Definitely worth a read if you're looking for something captivating!",
+        "is_supporting": true,
+        "idx": 116
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_5",
+    "question": "Based on Tim's collections, what is a shop that he would enjoy visiting in New York city?",
+    "answer": [
+      "House of MinaLima"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_28 (D2:9)",
+        "text": "[t=5:08 pm on 15 June, 2023, speaker=Tim] Thanks! That picture is from MinaLima. They created all the props for the Harry Potter films, and I love their work. It's like having a piece of the wizarding world at home!",
+        "is_supporting": true,
+        "idx": 28
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_6",
+    "question": "In which month's game did John achieve a career-high score in points?",
+    "answer": [
+      "June 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_39 (D3:1)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photography of a score board with a clock and a phone] Hey Tim! Good to see you again. So much has happened in the last month - on and off the court. Last week I scored 40 points, my highest ever, and it feels like all my hard work's paying off.",
+        "is_supporting": true,
+        "idx": 39
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_7",
+    "question": "Which geographical locations has Tim been to?",
+    "answer": [
+      "California, London, the Smoky Mountains"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_313 (D14:16)",
+        "text": "[t=1:50 pm on 17 October, 2023, speaker=Tim] I snapped that pic on my trip to the Smoky Mountains last year. It was incredible seeing it in person. Nature's really something else!",
+        "is_supporting": true,
+        "idx": 313
+      },
+      {
+        "title": "turn_17 (D1:18)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=Tim] I went to a place in London a few years ago - it was like walking into a Harry Potter movie! I also went on a tour which was amazing. Have you been to any of the real Potter places? I'd love to explore them someday!",
+        "is_supporting": true,
+        "idx": 17
+      },
+      {
+        "title": "turn_40 (D3:2)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=Tim] [Image: a photography of a table with a bunch of books on it] Congrats on your achievement! I'm so proud of you. Last week, I had a nice chat with a Harry Potter fan in California. It was magical!",
+        "is_supporting": true,
+        "idx": 40
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_8",
+    "question": "Which outdoor gear company likely signed up John for an endorsement deal?",
+    "answer": [
+      "Under Armour"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_550 (D25:2)",
+        "text": "[t=10:04 am on 19 December, 2023, speaker=John] [Image: a photography of a man with a backpack and a backpack walking down a path] Yo Tim! Great to hear from you. Things have been wild! Last week I got this amazing deal with a renowned outdoor gear company. So pumped!",
+        "is_supporting": true,
+        "idx": 550
+      },
+      {
+        "title": "turn_53 (D3:15)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a mannequin in a blue suit and a chair] Thanks! The Nike and Gatorade deals have me stoked! I've always liked Under Armour, working with them would be really cool.",
+        "is_supporting": true,
+        "idx": 53
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_9",
+    "question": "Which endorsement deals has John been offered?",
+    "answer": [
+      "basketball shoes and gear deal with Nike, potential sponsorship with Gatorade, Moxie a popular beverage company, outdoor gear company"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_550 (D25:2)",
+        "text": "[t=10:04 am on 19 December, 2023, speaker=John] [Image: a photography of a man with a backpack and a backpack walking down a path] Yo Tim! Great to hear from you. Things have been wild! Last week I got this amazing deal with a renowned outdoor gear company. So pumped!",
+        "is_supporting": true,
+        "idx": 550
+      },
+      {
+        "title": "turn_668 (D29:4)",
+        "text": "[t=1:41 pm on 12 January, 2024, speaker=John] [Image: a photo of a baseball player holding a bat next to a soda] Last week was wild - something incredible happened. But it's a total dream come true - just crazy! I got an endorsement with a popular beverage company!",
+        "is_supporting": true,
+        "idx": 668
+      },
+      {
+        "title": "turn_51 (D3:13)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] I just signed up Nike for a basketball shoe and gear deal. I'm also in talks with Gatorade about a potential sponsorship. It's pretty cool to be working with such big brands!",
+        "is_supporting": true,
+        "idx": 51
+      },
+      {
+        "title": "turn_53 (D3:15)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a mannequin in a blue suit and a chair] Thanks! The Nike and Gatorade deals have me stoked! I've always liked Under Armour, working with them would be really cool.",
+        "is_supporting": true,
+        "idx": 53
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_10",
+    "question": "When was John in Seattle for a game?",
+    "answer": [
+      "early August, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_57 (D3:19)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a crowd of people watching a basketball game] It's Seattle, I'm stoked for my game there next month! It's one of my favorite cities to explore - super vibrant!",
+        "is_supporting": true,
+        "idx": 57
+      },
+      {
+        "title": "turn_90 (D5:2)",
+        "text": "[t=10:29 am on 9 August, 2023, speaker=John] [Image: a photo of a basketball game being played in a large arena] Hi Tim! Nice to hear from you. Glad you could reconnect. As for me, lots of stuff happened since we last talked. Last week I had a crazy game - crazy intense! We won it by a tight score. Scoring that last basket and hearing the crowd cheer was awesome!",
+        "is_supporting": true,
+        "idx": 90
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_11",
+    "question": "What sports does John like besides basketball?",
+    "answer": [
+      "surfing"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_6 (D1:7)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=John] [Image: a photo of a bunch of basketball jerseys laying on a bed] I'm a shooting guard for the team and our season opener is next week - so excited!",
+        "is_supporting": true,
+        "idx": 6
+      },
+      {
+        "title": "turn_33 (D2:14)",
+        "text": "[t=5:08 pm on 15 June, 2023, speaker=John] [Image: a photo of a basketball game being played in a gym] That sounds awesome! So cool that you get to immerse yourself in that world. So glad you found something that brings you so much joy. Keep diving in and enjoying it! Here's a pic from a recent game.",
+        "is_supporting": true,
+        "idx": 33
+      },
+      {
+        "title": "turn_39 (D3:1)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photography of a score board with a clock and a phone] Hey Tim! Good to see you again. So much has happened in the last month - on and off the court. Last week I scored 40 points, my highest ever, and it feels like all my hard work's paying off.",
+        "is_supporting": true,
+        "idx": 39
+      },
+      {
+        "title": "turn_63 (D3:25)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a man holding a surfboard on a beach] I had an awesome summer with my friends, surfing and riding the waves. The feeling was unreal!",
+        "is_supporting": true,
+        "idx": 63
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_12",
+    "question": "What year did John start surfing?",
+    "answer": [
+      "2018"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_65 (D3:27)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] I started surfing five years ago and it's been great. I love the connection to nature.",
+        "is_supporting": true,
+        "idx": 65
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_13",
+    "question": "What does Tim do to escape reality?",
+    "answer": [
+      "Read fantasy books."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_30 (D2:11)",
+        "text": "[t=5:08 pm on 15 June, 2023, speaker=Tim] Thanks! I have lots of reminders of it - kind of a way to escape reality.",
+        "is_supporting": true,
+        "idx": 30
+      },
+      {
+        "title": "turn_68 (D3:30)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=Tim] [Image: a photo of a book with a harry potter cover] That's awesome! I don't surf, but reading a great fantasy book helps me escape and feel free.",
+        "is_supporting": true,
+        "idx": 68
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_14",
+    "question": "What kind of writing does Tim do?",
+    "answer": [
+      "comments on favorite books in a fantasy literature forum, articles on fantasy novels, studying characters, themes, and making book recommendations, writing a fantasy novel"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_323 (D15:3)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=Tim] That castle looks amazing! I hope I get to visit it someday. My writing is going well: I'm in the middle of fantasy novel and it's a bit nerve-wracking but so exciting! All my hard work is paying off. Writing brings such joy and it's incredible how it can create a whole new world. Thanks so much for believing in me!",
+        "is_supporting": true,
+        "idx": 323
+      },
+      {
+        "title": "turn_20 (D2:1)",
+        "text": "[t=5:08 pm on 15 June, 2023, speaker=Tim] Last night I joined a fantasy literature forum and had a great talk about my fave books. It was so enriching!",
+        "is_supporting": true,
+        "idx": 20
+      },
+      {
+        "title": "turn_76 (D4:3)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=Tim] Thanks! I found this opportunity on a fantasy lit forum and thought it'd be perfect since I love fantasy. I shared my ideas with the magazine and they liked them! It's been awesome to spread my love of fantasy.",
+        "is_supporting": true,
+        "idx": 76
+      },
+      {
+        "title": "turn_78 (D4:5)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=Tim] Thanks! I've been writing about different fantasy novels, studying characters, themes, and making book recommendations.",
+        "is_supporting": true,
+        "idx": 78
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_15",
+    "question": "Who is Anthony?",
+    "answer": [
+      "likely John's friend, colleague or family"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_81 (D4:8)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=John] [Image: a photo of a book with a picture of a person holding a bookmark] Oh yeah, I remember you telling me about Harry Potter! I've got a funny story. Anthony and I went to this charity thing and ended up in this intense Harry Potter trivia contest. We did alright, but there was this one super-nerd there that took home this as a prize.",
+        "is_supporting": true,
+        "idx": 81
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_16",
+    "question": "After how many weeks did Tim reconnect with the fellow Harry Potter fan from California?",
+    "answer": [
+      "three weeks"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_40 (D3:2)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=Tim] [Image: a photography of a table with a bunch of books on it] Congrats on your achievement! I'm so proud of you. Last week, I had a nice chat with a Harry Potter fan in California. It was magical!",
+        "is_supporting": true,
+        "idx": 40
+      },
+      {
+        "title": "turn_89 (D5:1)",
+        "text": "[t=10:29 am on 9 August, 2023, speaker=Tim] Hey John! Long time no see! Been super busy lately. Guess what? Just skyped with that Harry Potter fan I met in CA and had a great time. We talked characters and maybe collab-ing - so cool to talk to someone who gets it. You? Anything new going on?",
+        "is_supporting": true,
+        "idx": 89
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_17",
+    "question": "How many games has John mentioned winning?",
+    "answer": [
+      "6"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_498 (D22:4)",
+        "text": "[t=7:42 pm on 8 December, 2023, speaker=John] [Image: a photo of a group of people riding on top of a fire truck] That frog looks yummy! I haven't had one in ages. Been having some wild games lately, we played a top team and it was tough, but we fought hard and got the win! It's awesome having my team to push us all.",
+        "is_supporting": true,
+        "idx": 498
+      },
+      {
+        "title": "turn_519 (D23:7)",
+        "text": "[t=8:28 pm on 11 December, 2023, speaker=John] I've had some thrilling games in my career. My favorite was when we were down 10 in the 4th and I hit the buzzer-beater shot to win. The atmosphere was incredible and it was such a thrilling experience. Those moments make me love basketball so much.",
+        "is_supporting": true,
+        "idx": 519
+      },
+      {
+        "title": "turn_530 (D24:2)",
+        "text": "[t=3:37 pm on 16 December, 2023, speaker=John] [Image: a photo of a group of women's basketball players holding up a trophy] Hey Tim! Nice to talk again. The b-ball games have been crazy. We had a real battle against another team last week. It was close until the final buzzer but we got the win.",
+        "is_supporting": true,
+        "idx": 530
+      },
+      {
+        "title": "turn_41 (D3:3)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a group of men sitting on top of a basketball court] Thank you! Scoring those points was an incredible experience. The atmosphere was electric, and my teammates and I were thrilled. We pulled off a tough win!",
+        "is_supporting": true,
+        "idx": 41
+      },
+      {
+        "title": "turn_90 (D5:2)",
+        "text": "[t=10:29 am on 9 August, 2023, speaker=John] [Image: a photo of a basketball game being played in a large arena] Hi Tim! Nice to hear from you. Glad you could reconnect. As for me, lots of stuff happened since we last talked. Last week I had a crazy game - crazy intense! We won it by a tight score. Scoring that last basket and hearing the crowd cheer was awesome!",
+        "is_supporting": true,
+        "idx": 90
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_18",
+    "question": "What authors has Tim read books from?",
+    "answer": [
+      "J.K. Rowling, R.R. Martin, Patrick Rothfuss, Paulo Coelho, and J. R. R. Tolkien."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_13 (D1:14)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=Tim] [Image: a photo of a table with a bunch of books on it] It's been going well! Last week I talked to my friend who is a fan of Harry Potter and we're figuring out ideas, so it's been great to get lost in that magical world!",
+        "is_supporting": true,
+        "idx": 13
+      },
+      {
+        "title": "turn_453 (D20:21)",
+        "text": "[t=9:52 am on 1 December, 2023, speaker=Tim] Glad you like it! The Hobbit is great, but have you read that other popular fantasy series? It's also awesome!",
+        "is_supporting": true,
+        "idx": 453
+      },
+      {
+        "title": "turn_601 (D26:36)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=Tim] I'm really excited to watch this new show that's coming out called \"The Wheel of Time\". It's based on a book series that I love.",
+        "is_supporting": true,
+        "idx": 601
+      },
+      {
+        "title": "turn_26 (D2:7)",
+        "text": "[t=5:08 pm on 15 June, 2023, speaker=Tim] [Image: a photo of a book shelf with books and a picture on it] Yeah, John! Count on me for support. Can't wait to see what's up! This is my book collection so far.",
+        "is_supporting": true,
+        "idx": 26
+      },
+      {
+        "title": "turn_80 (D4:7)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=Tim] For sure! Harry Potter and Game of Thrones are amazing - I'm totally hooked! I could chat about them forever!",
+        "is_supporting": true,
+        "idx": 80
+      },
+      {
+        "title": "turn_103 (D5:15)",
+        "text": "[t=10:29 am on 9 August, 2023, speaker=Tim] It's a book by Patrick Rothfuss and it's awesome! The way the author builds the world and characters is amazing. You should read it!",
+        "is_supporting": true,
+        "idx": 103
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_19",
+    "question": "What is a prominent charity organization that John might want to work with and why?",
+    "answer": [
+      "Good Sports, because they work with Nike, Gatorade, and Under Armour and they aim toprovide youth sports opportunities for kids ages 3-18 in high-need communities."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_51 (D3:13)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] I just signed up Nike for a basketball shoe and gear deal. I'm also in talks with Gatorade about a potential sponsorship. It's pretty cool to be working with such big brands!",
+        "is_supporting": true,
+        "idx": 51
+      },
+      {
+        "title": "turn_53 (D3:15)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a mannequin in a blue suit and a chair] Thanks! The Nike and Gatorade deals have me stoked! I've always liked Under Armour, working with them would be really cool.",
+        "is_supporting": true,
+        "idx": 53
+      },
+      {
+        "title": "turn_123 (D6:15)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] Yeah! Winning a championship is my number one goal. But I also want to make a difference away from the court, like through charity or inspiring people. Basketball has been great to me, so I want to give something back.",
+        "is_supporting": true,
+        "idx": 123
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_20",
+    "question": "Which city was John in before traveling to Chicago?",
+    "answer": [
+      "Seattle"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_57 (D3:19)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a crowd of people watching a basketball game] It's Seattle, I'm stoked for my game there next month! It's one of my favorite cities to explore - super vibrant!",
+        "is_supporting": true,
+        "idx": 57
+      },
+      {
+        "title": "turn_90 (D5:2)",
+        "text": "[t=10:29 am on 9 August, 2023, speaker=John] [Image: a photo of a basketball game being played in a large arena] Hi Tim! Nice to hear from you. Glad you could reconnect. As for me, lots of stuff happened since we last talked. Last week I had a crazy game - crazy intense! We won it by a tight score. Scoring that last basket and hearing the crowd cheer was awesome!",
+        "is_supporting": true,
+        "idx": 90
+      },
+      {
+        "title": "turn_109 (D6:1)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] Hey Tim, sorry I missed you. Been a crazy few days. Took a trip to a new place - it's been amazing. Love the energy there.",
+        "is_supporting": true,
+        "idx": 109
+      },
+      {
+        "title": "turn_111 (D6:3)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] I was in Chicago, it was awesome! It had so much energy and the locals were really friendly. It's great to experience other cultures and connect with new folks.",
+        "is_supporting": true,
+        "idx": 111
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_21",
+    "question": "Which US cities does John mention visiting to Tim?",
+    "answer": [
+      "Seattle, Chicago, New York"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_57 (D3:19)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a crowd of people watching a basketball game] It's Seattle, I'm stoked for my game there next month! It's one of my favorite cities to explore - super vibrant!",
+        "is_supporting": true,
+        "idx": 57
+      },
+      {
+        "title": "turn_111 (D6:3)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] I was in Chicago, it was awesome! It had so much energy and the locals were really friendly. It's great to experience other cultures and connect with new folks.",
+        "is_supporting": true,
+        "idx": 111
+      },
+      {
+        "title": "turn_190 (D9:6)",
+        "text": "[t=6:59 pm on 26 August, 2023, speaker=John] [Image: a photo of a cityscape with a view of a skyscraper] Wow, Tim, that's an awesome book collection! It's cool to escape to different worlds with a hobby. By the way, I love discovering new cities - check out this pic from one of my trips to New York City!",
+        "is_supporting": true,
+        "idx": 190
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_22",
+    "question": "When did John meet with his teammates after returning from Chicago?",
+    "answer": [
+      "August 15, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_132 (D7:1)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=John] Hey Tim! We had a wild few days since we talked. I met back up with my teammates on the 15th after my trip and it was amazing! Everyone missed me. The atmosphere was electric and I felt so welcome being back with them. I'm so lucky to be a part of this team!",
+        "is_supporting": true,
+        "idx": 132
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_23",
+    "question": "When is Tim attending a book conference?",
+    "answer": [
+      "September 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_137 (D7:6)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=Tim] I have no big events coming up, but I'm hoping to attend a book conference next month. It's an interesting gathering of authors, publishers and book lovers where we talk about our favorite novels and new releases. I'm excited to go because it'll help me learn more about literature and create a stronger bond to it.",
+        "is_supporting": true,
+        "idx": 137
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_24",
+    "question": "Where was John between August 11 and August 15 2023?",
+    "answer": [
+      "Chicago"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_109 (D6:1)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] Hey Tim, sorry I missed you. Been a crazy few days. Took a trip to a new place - it's been amazing. Love the energy there.",
+        "is_supporting": true,
+        "idx": 109
+      },
+      {
+        "title": "turn_111 (D6:3)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] I was in Chicago, it was awesome! It had so much energy and the locals were really friendly. It's great to experience other cultures and connect with new folks.",
+        "is_supporting": true,
+        "idx": 111
+      },
+      {
+        "title": "turn_132 (D7:1)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=John] Hey Tim! We had a wild few days since we talked. I met back up with my teammates on the 15th after my trip and it was amazing! Everyone missed me. The atmosphere was electric and I felt so welcome being back with them. I'm so lucky to be a part of this team!",
+        "is_supporting": true,
+        "idx": 132
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_25",
+    "question": "What similar sports collectible do Tim and John own?",
+    "answer": [
+      "signed basketball"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_365 (D16:7)",
+        "text": "[t=11:41 am on 6 November, 2023, speaker=Tim] [Image: a photo of a basketball in a case with a signed ball] Wow, that must have been an incredible feeling! You really showed determination and perseverance. Do you have any photos or keepsakes from the game? I'd love to see them! By the way, I have something special too - this is my prized possession, a basketball signed by my favorite player. It serves as a reminder of all the hard work.",
+        "is_supporting": true,
+        "idx": 365
+      },
+      {
+        "title": "turn_367 (D16:9)",
+        "text": "[t=11:41 am on 6 November, 2023, speaker=Tim] I just love watching LeBron. There was this Finals game a few years back with an epic block that totally changed the game and ended up winning it. Seeing him go for it like that was such an inspiration - never give up, you know?",
+        "is_supporting": true,
+        "idx": 367
+      },
+      {
+        "title": "turn_138 (D7:7)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=John] [Image: a photography of a basketball with autographs on it sitting on a table] You're a real bookworm! It would be awesome to go to a book conference with you. Check out this photo of what my teammates gave me when we met. It's a sign of our friendship and all the love we have for each other.",
+        "is_supporting": true,
+        "idx": 138
+      },
+      {
+        "title": "turn_140 (D7:9)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=John] Thanks! They signed it to show our friendship and appreciation. It's a great reminder of our bond.",
+        "is_supporting": true,
+        "idx": 140
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_26",
+    "question": "Which TV series does Tim mention watching?",
+    "answer": [
+      "That, Wheel of Time"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_376 (D17:1)",
+        "text": "[t=3:36 pm on 11 November, 2023, speaker=John] Hey Tim! Great to chat again. So much has happened!",
+        "is_supporting": true,
+        "idx": 376
+      },
+      {
+        "title": "turn_386 (D17:11)",
+        "text": "[t=3:36 pm on 11 November, 2023, speaker=John] Yeah, I saw \"That\"! It's amazing to see those worlds and characters come alive. It's a great way to escape reality!",
+        "is_supporting": true,
+        "idx": 386
+      },
+      {
+        "title": "turn_601 (D26:36)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=Tim] I'm really excited to watch this new show that's coming out called \"The Wheel of Time\". It's based on a book series that I love.",
+        "is_supporting": true,
+        "idx": 601
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_27",
+    "question": "Which popular time management technique does Tim use to prepare for exams?",
+    "answer": [
+      "Pomodoro technique"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_397 (D18:3)",
+        "text": "[t=3:59 pm on 16 November, 2023, speaker=Tim] Ouch, bummer about the injury. Hang tight. This week has been swamped with exams for me but I'm plowing through.",
+        "is_supporting": true,
+        "idx": 397
+      },
+      {
+        "title": "turn_401 (D18:7)",
+        "text": "[t=3:59 pm on 16 November, 2023, speaker=Tim] That's cool! I like breaking up my studying into smaller parts. 25 minutes on, then 5 minutes off for something fun. It's less overwhelming and keeps me on track.",
+        "is_supporting": true,
+        "idx": 401
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_28",
+    "question": "Which popular music composer's tunes does Tim enjoy playing on the piano?",
+    "answer": [
+      "John Williams"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_161 (D8:14)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Thanks! I love playing different songs on the piano, but my favorite one to jam to is a theme from a movie I really enjoy. It brings back lots of great memories.",
+        "is_supporting": true,
+        "idx": 161
+      },
+      {
+        "title": "turn_163 (D8:16)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Yeah, \"Harry Potter and the Philosopher's Stone\" is special to me. It was the first movie from the series and brings back some great memories. Watching it with my family was amazing. It was so magical!",
+        "is_supporting": true,
+        "idx": 163
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_29",
+    "question": "What schools did John play basketball in and how many years was he with his team during high school?",
+    "answer": [
+      "Middle school, high school, and college and he was with his high school team for 4 years."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_121 (D6:13)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] Thanks! Basketball has been a part of my life ever since I was a kid. I'd watch NBA games with my dad and dream of playing on those big courts. When I turned ten, dad signed me up for a local league, and I've been playing ever since. I kept playing through middle and high school before earning a college scholarship. And after college, I was drafted by a team – my dream come true!",
+        "is_supporting": true,
+        "idx": 121
+      },
+      {
+        "title": "turn_188 (D9:4)",
+        "text": "[t=6:59 pm on 26 August, 2023, speaker=John] We were teammates for four years in high school, so we've played together for quite some time. Have you ever been part of a sports team?",
+        "is_supporting": true,
+        "idx": 188
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_30",
+    "question": "Which cities has John been to?",
+    "answer": [
+      "Seattle, Chicago, New York, and Paris."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_639 (D27:36)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] [Image: a photo of a person walking down a path in front of the eiffel tower] Yeah! That's why I love traveling - it's a way to learn about different cultures and places.",
+        "is_supporting": true,
+        "idx": 639
+      },
+      {
+        "title": "turn_57 (D3:19)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a crowd of people watching a basketball game] It's Seattle, I'm stoked for my game there next month! It's one of my favorite cities to explore - super vibrant!",
+        "is_supporting": true,
+        "idx": 57
+      },
+      {
+        "title": "turn_111 (D6:3)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] I was in Chicago, it was awesome! It had so much energy and the locals were really friendly. It's great to experience other cultures and connect with new folks.",
+        "is_supporting": true,
+        "idx": 111
+      },
+      {
+        "title": "turn_190 (D9:6)",
+        "text": "[t=6:59 pm on 26 August, 2023, speaker=John] [Image: a photo of a cityscape with a view of a skyscraper] Wow, Tim, that's an awesome book collection! It's cool to escape to different worlds with a hobby. By the way, I love discovering new cities - check out this pic from one of my trips to New York City!",
+        "is_supporting": true,
+        "idx": 190
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_31",
+    "question": "What month did Tim plan on going to Universal Studios?",
+    "answer": [
+      "September, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_208 (D10:9)",
+        "text": "[t=2:52 pm on 31 August, 2023, speaker=Tim] Thanks! Excited to try this. Love experimenting with spices. By the way, have you been to Universal Studios? Planning a trip there next month.",
+        "is_supporting": true,
+        "idx": 208
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_32",
+    "question": "Which US states might Tim be in during September 2023 based on his plans of visiting Universal Studios?",
+    "answer": [
+      "California or Florida"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_208 (D10:9)",
+        "text": "[t=2:52 pm on 31 August, 2023, speaker=Tim] Thanks! Excited to try this. Love experimenting with spices. By the way, have you been to Universal Studios? Planning a trip there next month.",
+        "is_supporting": true,
+        "idx": 208
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_33",
+    "question": "When does John plan on traveling with his team on a team trip?",
+    "answer": [
+      "October, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_223 (D11:7)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=John] We're planning to take a team trip next month to explore a new city and have some fun. Can't wait!",
+        "is_supporting": true,
+        "idx": 223
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_34",
+    "question": "What could John do after his basketball career?",
+    "answer": [
+      "become a basketball coach since he likes giving back and leadership"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_235 (D11:19)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=John] I've thought about it a lot. I want to use my platform to make a positive difference and inspire others - maybe even start a foundation and do charity work. It's important to me to make the most of the chances I get and leave a meaningful legacy.",
+        "is_supporting": true,
+        "idx": 235
+      },
+      {
+        "title": "turn_566 (D26:1)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=John] [Image: a photo of a basketball court with a crowd of people watching] Hey Tim! Great to hear from you. My week's been busy - I started doing seminars, helping people with their sports and marketing. It's been awesome!",
+        "is_supporting": true,
+        "idx": 566
+      },
+      {
+        "title": "turn_629 (D27:26)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] He's a great leader and puts others first - that's why he eventually becomes king.",
+        "is_supporting": true,
+        "idx": 629
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_35",
+    "question": "What outdoor activities does John enjoy?",
+    "answer": [
+      "Hiking, surfing"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_252 (D12:6)",
+        "text": "[t=3:00 pm on 2 October, 2023, speaker=John] Yeah! Such a great day! It was so beautiful having everyone celebrating with us. I'd never felt so much love and happiness before. Some of my hiking club friends came even though I just joined!",
+        "is_supporting": true,
+        "idx": 252
+      },
+      {
+        "title": "turn_65 (D3:27)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] I started surfing five years ago and it's been great. I love the connection to nature.",
+        "is_supporting": true,
+        "idx": 65
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_36",
+    "question": "Who is Tim and John's favorite basketball player?",
+    "answer": [
+      "LeBron James"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_266 (D12:20)",
+        "text": "[t=3:00 pm on 2 October, 2023, speaker=John] Thanks! The Wolves are my team for sure. And LeBron is the man - love his skills and leadership.",
+        "is_supporting": true,
+        "idx": 266
+      },
+      {
+        "title": "turn_268 (D12:22)",
+        "text": "[t=3:00 pm on 2 October, 2023, speaker=John] I really admire his work ethic and dedication to the game, such an inspiration.",
+        "is_supporting": true,
+        "idx": 268
+      },
+      {
+        "title": "turn_367 (D16:9)",
+        "text": "[t=11:41 am on 6 November, 2023, speaker=Tim] I just love watching LeBron. There was this Finals game a few years back with an epic block that totally changed the game and ended up winning it. Seeing him go for it like that was such an inspiration - never give up, you know?",
+        "is_supporting": true,
+        "idx": 367
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_37",
+    "question": "Which week did Tim visit the UK for the Harry Potter Conference?",
+    "answer": [
+      "The week before October 13th, 2023."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_276 (D13:1)",
+        "text": "[t=1:50 pm on 13 October, 2023, speaker=Tim] Hey John! It's been ages since we last talked. Guess what? Last week I went to a Harry Potter conference in the UK - it was incredible! There were so many people who shared the same love of HP as me, it was like a magical family. I felt so inspired and like I got a new lease of life. I love how my passion for fantasy stuff brings me closer to people from all over the world, it's pretty cool.",
+        "is_supporting": true,
+        "idx": 276
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_38",
+    "question": "which country has Tim visited most frequently in his travels?",
+    "answer": [
+      "UK"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_276 (D13:1)",
+        "text": "[t=1:50 pm on 13 October, 2023, speaker=Tim] Hey John! It's been ages since we last talked. Guess what? Last week I went to a Harry Potter conference in the UK - it was incredible! There were so many people who shared the same love of HP as me, it was like a magical family. I felt so inspired and like I got a new lease of life. I love how my passion for fantasy stuff brings me closer to people from all over the world, it's pretty cool.",
+        "is_supporting": true,
+        "idx": 276
+      },
+      {
+        "title": "turn_395 (D18:1)",
+        "text": "[t=3:59 pm on 16 November, 2023, speaker=Tim] [Image: a photo of a castle with a river running through it] Hey John! Hope you're doing good. Guess what? I went to a castle during my trip to the UK last Friday and it was unbelievable! The architecture and the history were amazing!",
+        "is_supporting": true,
+        "idx": 395
+      },
+      {
+        "title": "turn_17 (D1:18)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=Tim] I went to a place in London a few years ago - it was like walking into a Harry Potter movie! I also went on a tour which was amazing. Have you been to any of the real Potter places? I'd love to explore them someday!",
+        "is_supporting": true,
+        "idx": 17
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_39",
+    "question": "What year did Tim go to the Smoky Mountains?",
+    "answer": [
+      "2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_313 (D14:16)",
+        "text": "[t=1:50 pm on 17 October, 2023, speaker=Tim] I snapped that pic on my trip to the Smoky Mountains last year. It was incredible seeing it in person. Nature's really something else!",
+        "is_supporting": true,
+        "idx": 313
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_40",
+    "question": "Has Tim been to North Carolina and/or Tennesee states in the US?",
+    "answer": [
+      "Yes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_313 (D14:16)",
+        "text": "[t=1:50 pm on 17 October, 2023, speaker=Tim] I snapped that pic on my trip to the Smoky Mountains last year. It was incredible seeing it in person. Nature's really something else!",
+        "is_supporting": true,
+        "idx": 313
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_41",
+    "question": "What kind of fiction stories does Tim write?",
+    "answer": [
+      "Fantasy stories with plot twists"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_323 (D15:3)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=Tim] That castle looks amazing! I hope I get to visit it someday. My writing is going well: I'm in the middle of fantasy novel and it's a bit nerve-wracking but so exciting! All my hard work is paying off. Writing brings such joy and it's incredible how it can create a whole new world. Thanks so much for believing in me!",
+        "is_supporting": true,
+        "idx": 323
+      },
+      {
+        "title": "turn_359 (D16:1)",
+        "text": "[t=11:41 am on 6 November, 2023, speaker=Tim] Hey John, long time no see! Hope you've been doing well. Since we last chat, some stuff's happened. Last week, I had a huge writing issue - got stuck on a plot twist and couldn't find my way out. It was crazy frustrating, but I kept pushing and eventually got the ideas flowing again.",
+        "is_supporting": true,
+        "idx": 359
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_42",
+    "question": "What has John cooked?",
+    "answer": [
+      "Soup, a slow cooker meal, and honey garlic chicken with roasted veg."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_203 (D10:4)",
+        "text": "[t=2:52 pm on 31 August, 2023, speaker=John] [Image: a photo of a bowl of soup with a spoon and a butternut on a cutting board] Cool, Tim! Taking the plunge and presenting can be tough, but awesome work! Progress is progress, keep it up. By the way, I've been trying out cooking recipes. Made this tasty soup recently - it was real good!",
+        "is_supporting": true,
+        "idx": 203
+      },
+      {
+        "title": "turn_350 (D15:30)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=John] [Image: a photo of a slow cooker filled with a mixture of food] Yep, I totally get it! Cuddling up with a book is my chill time. And when I'm away from the court, cooking is therapy for me. It's a good way to be creative and experiment with flavors while taking a break. Here's a photo of me cooking a meal.",
+        "is_supporting": true,
+        "idx": 350
+      },
+      {
+        "title": "turn_351 (D15:31)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=Tim] That slow cooker meal looks yum! Cooking is a great way to chill and be creative. Do you have any favorite recipes you can show me?",
+        "is_supporting": true,
+        "idx": 351
+      },
+      {
+        "title": "turn_352 (D15:32)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=John] Definitely! I make this yummy honey garlic chicken with roasted veg a lot. It's one of my favorites. I'm always trying out new recipes, so let me know if you want suggestions!",
+        "is_supporting": true,
+        "idx": 352
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_43",
+    "question": "What does John like about Lebron James?",
+    "answer": [
+      "His heart, determination, skills, and leadership."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_266 (D12:20)",
+        "text": "[t=3:00 pm on 2 October, 2023, speaker=John] Thanks! The Wolves are my team for sure. And LeBron is the man - love his skills and leadership.",
+        "is_supporting": true,
+        "idx": 266
+      },
+      {
+        "title": "turn_370 (D16:12)",
+        "text": "[t=11:41 am on 6 November, 2023, speaker=John] LeBron's moments of determination and heart are incredible. It's why I enjoy playing and pushing myself. You never know when those special moments might occur, but it's always fun to be part of it.",
+        "is_supporting": true,
+        "idx": 370
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_44",
+    "question": "When did John and his wife go on a European vacation?",
+    "answer": [
+      "November, 2023."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_372 (D16:14)",
+        "text": "[t=11:41 am on 6 November, 2023, speaker=John] Speaking of special moments, my wife and I just left for our European vacation! It will be short but sweet. You've been before, any recommendations?",
+        "is_supporting": true,
+        "idx": 372
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_45",
+    "question": "Which country was Tim visiting in the second week of November?",
+    "answer": [
+      "UK"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_395 (D18:1)",
+        "text": "[t=3:59 pm on 16 November, 2023, speaker=Tim] [Image: a photo of a castle with a river running through it] Hey John! Hope you're doing good. Guess what? I went to a castle during my trip to the UK last Friday and it was unbelievable! The architecture and the history were amazing!",
+        "is_supporting": true,
+        "idx": 395
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_46",
+    "question": "Where was Tim in the week before 16 November 2023?",
+    "answer": [
+      "UK"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_395 (D18:1)",
+        "text": "[t=3:59 pm on 16 November, 2023, speaker=Tim] [Image: a photo of a castle with a river running through it] Hey John! Hope you're doing good. Guess what? I went to a castle during my trip to the UK last Friday and it was unbelievable! The architecture and the history were amazing!",
+        "is_supporting": true,
+        "idx": 395
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_47",
+    "question": "When did John get married at a greenhouse?",
+    "answer": [
+      "last week of September 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_248 (D12:2)",
+        "text": "[t=3:00 pm on 2 October, 2023, speaker=John] [Image: a photo of a wedding ceremony in a greenhouse with people taking pictures] Hey, Tim! Good to hear from you. Anyway, a lot has been going on with me. My girlfriend and I had an amazing and emotional wedding ceremony last week.",
+        "is_supporting": true,
+        "idx": 248
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_48",
+    "question": "When did John get an ankle injury in 2023?",
+    "answer": [
+      "around November 16, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_396 (D18:2)",
+        "text": "[t=3:59 pm on 16 November, 2023, speaker=John] [Image: a photo of a person with a bandage on their leg] Hey Tim! That's awesome! Yeah, it was really cool. Oh man, it's been a tough week for me with this injury. But I'm staying positive. How about you? How's your week been?",
+        "is_supporting": true,
+        "idx": 396
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_49",
+    "question": "How many times has John injured his ankle?",
+    "answer": [
+      "two times"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_396 (D18:2)",
+        "text": "[t=3:59 pm on 16 November, 2023, speaker=John] [Image: a photo of a person with a bandage on their leg] Hey Tim! That's awesome! Yeah, it was really cool. Oh man, it's been a tough week for me with this injury. But I'm staying positive. How about you? How's your week been?",
+        "is_supporting": true,
+        "idx": 396
+      },
+      {
+        "title": "turn_415 (D19:6)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=John] Last season, I had a major challenge when I hurt my ankle. It required some time off and physical therapy. It was frustrating because I couldn't play or help the team. I stayed focused on my recovery and worked hard to strengthen my body. It was a tough mental and physical challenge, but it made me realize the importance of patience and perseverance. I'm grateful that I was able to overcome it.",
+        "is_supporting": true,
+        "idx": 415
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_50",
+    "question": "Which book was John reading during his recovery from an ankle injury?",
+    "answer": [
+      "The Alchemist"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_396 (D18:2)",
+        "text": "[t=3:59 pm on 16 November, 2023, speaker=John] [Image: a photo of a person with a bandage on their leg] Hey Tim! That's awesome! Yeah, it was really cool. Oh man, it's been a tough week for me with this injury. But I'm staying positive. How about you? How's your week been?",
+        "is_supporting": true,
+        "idx": 396
+      },
+      {
+        "title": "turn_429 (D19:20)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=John] I recently finished rereading \"The Alchemist\" - it was really inspiring. It made me think again about following dreams and searching for our own personal legends. I felt really motivated and hopeful after reading it.",
+        "is_supporting": true,
+        "idx": 429
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_51",
+    "question": "What kind of yoga for building core strength might John benefit from?",
+    "answer": [
+      "Hatha Yoga"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_434 (D20:2)",
+        "text": "[t=9:52 am on 1 December, 2023, speaker=John] Hi Tim! Congrats on your success! Keep it up, you're doing great! I'm also trying out yoga to get a little extra strength and flexibility. It's challenging but worth it.",
+        "is_supporting": true,
+        "idx": 434
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_52",
+    "question": "What does John do to supplement his basketball training?",
+    "answer": [
+      "Yoga, strength training"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_434 (D20:2)",
+        "text": "[t=9:52 am on 1 December, 2023, speaker=John] Hi Tim! Congrats on your success! Keep it up, you're doing great! I'm also trying out yoga to get a little extra strength and flexibility. It's challenging but worth it.",
+        "is_supporting": true,
+        "idx": 434
+      },
+      {
+        "title": "turn_152 (D8:5)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=John] [Image: a photo of a notebook with a list of items on it] Thanks! Took some trial and error but I figured out a schedule with both basketball stuff and strength training to balance it out. Listening to my body and giving it enough rest made it easier to push myself during practice but also look after me. Here's my workout plan. It helps a lot with staying on track.",
+        "is_supporting": true,
+        "idx": 152
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_53",
+    "question": "What other exercises can help John with his basketball performance?",
+    "answer": [
+      "Sprinting, long-distance running, and boxing."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_434 (D20:2)",
+        "text": "[t=9:52 am on 1 December, 2023, speaker=John] Hi Tim! Congrats on your success! Keep it up, you're doing great! I'm also trying out yoga to get a little extra strength and flexibility. It's challenging but worth it.",
+        "is_supporting": true,
+        "idx": 434
+      },
+      {
+        "title": "turn_152 (D8:5)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=John] [Image: a photo of a notebook with a list of items on it] Thanks! Took some trial and error but I figured out a schedule with both basketball stuff and strength training to balance it out. Listening to my body and giving it enough rest made it easier to push myself during practice but also look after me. Here's my workout plan. It helps a lot with staying on track.",
+        "is_supporting": true,
+        "idx": 152
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_54",
+    "question": "When did John take a trip to the Rocky Mountains?",
+    "answer": [
+      "2022"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_472 (D20:40)",
+        "text": "[t=9:52 am on 1 December, 2023, speaker=John] [Image: a photo of a mountain with a snow covered peak in the distance] Yeah, nature's great for clearing the mind and calming the soul. This was my Rocky Mountains trip last year and it was stunning. Seeing those mountains, fresh air - it makes you realize how incredible the world is.",
+        "is_supporting": true,
+        "idx": 472
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_55",
+    "question": "When did John start playing professionally?",
+    "answer": [
+      "May, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_2 (D1:3)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=John] That's great! I just signed with a new team - excited for the season!",
+        "is_supporting": true,
+        "idx": 2
+      },
+      {
+        "title": "turn_479 (D21:4)",
+        "text": "[t=5:34 pm on 6 December, 2023, speaker=John] I've been playing professionally for just under a year now. It's been a wild ride.",
+        "is_supporting": true,
+        "idx": 479
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_56",
+    "question": "When did Tim start playing the violin?",
+    "answer": [
+      "August 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_488 (D21:13)",
+        "text": "[t=5:34 pm on 6 December, 2023, speaker=Tim] I've been playing for about four months now and it's been an amazing adventure. I'm really enjoying the progress I've been making.",
+        "is_supporting": true,
+        "idx": 488
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_57",
+    "question": "What instruments does Tim play?",
+    "answer": [
+      "piano, violin"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_486 (D21:11)",
+        "text": "[t=5:34 pm on 6 December, 2023, speaker=Tim] [Image: a photography of a violin and a violin stick on a sheet of music] I'm learning how to play the violin now. I'm mostly into classical music but I'm keen to try out jazz and film scores too. It's a great way to chill and get creative.",
+        "is_supporting": true,
+        "idx": 486
+      },
+      {
+        "title": "turn_159 (D8:12)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Things have been great since we last talked - I've been focusing on school and reading a bunch of fantasy books. It's a nice way to take a break from all the stress. I've also started learning how to play the piano - it's a learning curve, but it's so satisfying seeing the progress I make! Life's good.",
+        "is_supporting": true,
+        "idx": 159
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_58",
+    "question": "When did John attend the Harry Potter trivia?",
+    "answer": [
+      "August 2023."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_496 (D22:2)",
+        "text": "[t=7:42 pm on 8 December, 2023, speaker=John] Hey Tim! Sounds awesome! So glad you had a blast at the Harry Potter party. Last August I told you about my fun time at a charity event with Harry Potter trivia. Love being with people who are as passionate about Harry Potter as us! Did you dress up as any character?",
+        "is_supporting": true,
+        "idx": 496
+      },
+      {
+        "title": "turn_81 (D4:8)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=John] [Image: a photo of a book with a picture of a person holding a bookmark] Oh yeah, I remember you telling me about Harry Potter! I've got a funny story. Anthony and I went to this charity thing and ended up in this intense Harry Potter trivia contest. We did alright, but there was this one super-nerd there that took home this as a prize.",
+        "is_supporting": true,
+        "idx": 81
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_59",
+    "question": "Which career-high performances did John achieve in 2023?",
+    "answer": [
+      "highest point score, highest assist"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_514 (D23:2)",
+        "text": "[t=8:28 pm on 11 December, 2023, speaker=Tim] Hey John, I had a tough time with my English lit class. Did an analysis on this series and I think it went ok!",
+        "is_supporting": true,
+        "idx": 514
+      },
+      {
+        "title": "turn_39 (D3:1)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photography of a score board with a clock and a phone] Hey Tim! Good to see you again. So much has happened in the last month - on and off the court. Last week I scored 40 points, my highest ever, and it feels like all my hard work's paying off.",
+        "is_supporting": true,
+        "idx": 39
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_60",
+    "question": "When did John achieve a career-high assist performance?",
+    "answer": [
+      "December 11, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_514 (D23:2)",
+        "text": "[t=8:28 pm on 11 December, 2023, speaker=Tim] Hey John, I had a tough time with my English lit class. Did an analysis on this series and I think it went ok!",
+        "is_supporting": true,
+        "idx": 514
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_61",
+    "question": "What books has John read?",
+    "answer": [
+      "inpsiring book on dreaming big, The Alchemist, fantasy series, non-fiction books on personal development, Dune"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_242 (D11:26)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=Tim] Great bookshelf! I saw that you had \"The Alchemist\" on there, one of my favorites. Did you enjoy it?",
+        "is_supporting": true,
+        "idx": 242
+      },
+      {
+        "title": "turn_384 (D17:9)",
+        "text": "[t=3:36 pm on 11 November, 2023, speaker=John] Yep, I just finished this amazing fantasy series. It was a wild ride with so many twists. The author is amazing at creating awesome storylines and characters - I love getting lost in those fantasy worlds.",
+        "is_supporting": true,
+        "idx": 384
+      },
+      {
+        "title": "turn_425 (D19:16)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=John] I love non-fiction books about personal development and mindset. They help me know myself better. Do you enjoy reading other types of books as well?",
+        "is_supporting": true,
+        "idx": 425
+      },
+      {
+        "title": "turn_429 (D19:20)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=John] I recently finished rereading \"The Alchemist\" - it was really inspiring. It made me think again about following dreams and searching for our own personal legends. I felt really motivated and hopeful after reading it.",
+        "is_supporting": true,
+        "idx": 429
+      },
+      {
+        "title": "turn_506 (D22:12)",
+        "text": "[t=7:42 pm on 8 December, 2023, speaker=John] I'm reading \"Dune\" by Frank Herbert. It's a great story about religion and human control over ecology. What about you? What's the last book that moved you?",
+        "is_supporting": true,
+        "idx": 506
+      },
+      {
+        "title": "turn_83 (D4:10)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=John] I've been reading this inspiring book, it reminds me to keep dreaming.",
+        "is_supporting": true,
+        "idx": 83
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_62",
+    "question": "What does John do to share his knowledge?",
+    "answer": [
+      "gives seminars, mentors younger players."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_300 (D14:3)",
+        "text": "[t=1:50 pm on 17 October, 2023, speaker=John] Seems like forever since we caught up! I'm now mentoring the younger players on my team. It's super rewarding and I'm loving sharing my skills and knowledge with them. It's also a great way for me to stay involved in the game during the off-season.",
+        "is_supporting": true,
+        "idx": 300
+      },
+      {
+        "title": "turn_566 (D26:1)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=John] [Image: a photo of a basketball court with a crowd of people watching] Hey Tim! Great to hear from you. My week's been busy - I started doing seminars, helping people with their sports and marketing. It's been awesome!",
+        "is_supporting": true,
+        "idx": 566
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_63",
+    "question": "When did John organize a basketball camp for kids?",
+    "answer": [
+      "summer 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_588 (D26:23)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=John] Organizing a basketball camp for kids in my hometown last summer was an awesome experience! Seeing their faces light up when they hit the court was priceless. It was a week full of laughs, high-fives, and personal growth for us all. That opportunity to inspire those kids and show them just how much potential they have was truly incredible.",
+        "is_supporting": true,
+        "idx": 588
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_64",
+    "question": "Which month was John in Italy?",
+    "answer": [
+      "December, 2023"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_605 (D27:2)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] Hey Tim! Cool to hear about your globetrotting group! Must be great connecting with other traveling buffs. By the way, have you been to Italy? I had a blast there last month.",
+        "is_supporting": true,
+        "idx": 605
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_65",
+    "question": "What fantasy movies does Tim like?",
+    "answer": [
+      "Lord of the Rings, Harry Potter, and Star Wars."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_593 (D26:28)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=Tim] Yeah, I have! Watching them and seeing how they compare to the books is awesome. It's amazing to watch the story come alive. Have you seen all of them?",
+        "is_supporting": true,
+        "idx": 593
+      },
+      {
+        "title": "turn_597 (D26:32)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=Tim] [Image: a photo of a poster of a group of people with a sword] I'm a huge fan of this genre! Epic adventures and magical worlds are my thing. Here's a pic of my favorite, Lord of the Rings!",
+        "is_supporting": true,
+        "idx": 597
+      },
+      {
+        "title": "turn_624 (D27:21)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=Tim] Definitely Star Wars! It's my favorite and never gets old. What about you, do you have any favorite fantasy films?",
+        "is_supporting": true,
+        "idx": 624
+      },
+      {
+        "title": "turn_163 (D8:16)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Yeah, \"Harry Potter and the Philosopher's Stone\" is special to me. It was the first movie from the series and brings back some great memories. Watching it with my family was amazing. It was so magical!",
+        "is_supporting": true,
+        "idx": 163
+      },
+      {
+        "title": "turn_165 (D8:18)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] It was really a dream come true! Watching that movie with my family was awesome, we'd all get comfy with snacks and a blanket and be totally absorbed. Such a special memory!",
+        "is_supporting": true,
+        "idx": 165
+      }
+    ],
+    "category": 1
+  },
+  {
+    "id": "locomo_4_66",
+    "question": "What is a Star Wars book that Tim might enjoy?",
+    "answer": [
+      "Star Wars: Jedi Apprentice by Judy Blundell and David Farland. It is a highly rated and immersive series about his favorite movies."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_622 (D27:19)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=Tim] Harry Potter is my favorite book. It's so immersive!",
+        "is_supporting": true,
+        "idx": 622
+      },
+      {
+        "title": "turn_624 (D27:21)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=Tim] Definitely Star Wars! It's my favorite and never gets old. What about you, do you have any favorite fantasy films?",
+        "is_supporting": true,
+        "idx": 624
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_67",
+    "question": "What would be a good hobby related to his travel dreams for Tim to pick up?",
+    "answer": [
+      "Writing a travel blog."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_323 (D15:3)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=Tim] That castle looks amazing! I hope I get to visit it someday. My writing is going well: I'm in the middle of fantasy novel and it's a bit nerve-wracking but so exciting! All my hard work is paying off. Writing brings such joy and it's incredible how it can create a whole new world. Thanks so much for believing in me!",
+        "is_supporting": true,
+        "idx": 323
+      },
+      {
+        "title": "turn_640 (D27:37)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=Tim] I love traveling too. That picture is awesome. Have you been to Paris? The Eiffel Tower is so cool!",
+        "is_supporting": true,
+        "idx": 640
+      },
+      {
+        "title": "turn_74 (D4:1)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=Tim] Hey John! How've you been? Something awesome happened - I'm writing articles about fantasy novels for an online mag. It's so rewarding!",
+        "is_supporting": true,
+        "idx": 74
+      },
+      {
+        "title": "turn_114 (D6:6)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=Tim] [Image: a photography of a book opened to a page with a picture of a man] I can just imagine the thrill of being in that kind of atmosphere. Must've been an amazing experience for you! BTW, I have been writing more articles - it lets me combine my love for reading and the joy of sharing great stories. Here's my latest one!",
+        "is_supporting": true,
+        "idx": 114
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_68",
+    "question": "What day did Tim get into his study abroad program?",
+    "answer": [
+      "Januarty 5, 2024"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_644 (D28:1)",
+        "text": "[t=5:24 pm on 7 January, 2024, speaker=Tim] Hey John, long time no talk. On Friday, I got great news - I'm finally in the study abroad program I applied for! Next month, I'm off to Ireland for a semester.",
+        "is_supporting": true,
+        "idx": 644
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_69",
+    "question": "When will Tim leave for Ireland?",
+    "answer": [
+      "February, 2024"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_644 (D28:1)",
+        "text": "[t=5:24 pm on 7 January, 2024, speaker=Tim] Hey John, long time no talk. On Friday, I got great news - I'm finally in the study abroad program I applied for! Next month, I'm off to Ireland for a semester.",
+        "is_supporting": true,
+        "idx": 644
+      }
+    ],
+    "category": 2
+  },
+  {
+    "id": "locomo_4_70",
+    "question": "Which Star Wars-related locations would Tim enjoy during his visit to Ireland?",
+    "answer": [
+      "Skellig Michael, Malin Head, Loop Head, Ceann Sibéal, and Brow Head because they are Star Wars filming locations."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_17 (D1:18)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=Tim] I went to a place in London a few years ago - it was like walking into a Harry Potter movie! I also went on a tour which was amazing. Have you been to any of the real Potter places? I'd love to explore them someday!",
+        "is_supporting": true,
+        "idx": 17
+      },
+      {
+        "title": "turn_624 (D27:21)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=Tim] Definitely Star Wars! It's my favorite and never gets old. What about you, do you have any favorite fantasy films?",
+        "is_supporting": true,
+        "idx": 624
+      },
+      {
+        "title": "turn_644 (D28:1)",
+        "text": "[t=5:24 pm on 7 January, 2024, speaker=Tim] Hey John, long time no talk. On Friday, I got great news - I'm finally in the study abroad program I applied for! Next month, I'm off to Ireland for a semester.",
+        "is_supporting": true,
+        "idx": 644
+      }
+    ],
+    "category": 3
+  },
+  {
+    "id": "locomo_4_71",
+    "question": "Which team did John sign with on 21 May, 2023?",
+    "answer": [
+      "The Minnesota Wolves"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_4 (D1:5)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=John] The Minnesota Wolves! I can't wait to play with them!",
+        "is_supporting": true,
+        "idx": 4
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_72",
+    "question": "What is John's position on the team he signed with?",
+    "answer": [
+      "shooting guard"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_6 (D1:7)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=John] [Image: a photo of a bunch of basketball jerseys laying on a bed] I'm a shooting guard for the team and our season opener is next week - so excited!",
+        "is_supporting": true,
+        "idx": 6
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_73",
+    "question": "What challenge did John encounter during pre-season training?",
+    "answer": [
+      "fitting into the new team's style of play"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_10 (D1:11)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=John] Fitting into the new team's style of play was a challenge during pre-season.",
+        "is_supporting": true,
+        "idx": 10
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_74",
+    "question": "What aspects of the Harry Potter universe will be discussed in John's fan project collaborations?",
+    "answer": [
+      "characters, spells, magical creatures"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_15 (D1:16)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=Tim] Thanks! We'll be discussing various aspects of the Harry Potter universe, like characters, spells, and magical creatures. It's great to see fans coming together for this.",
+        "is_supporting": true,
+        "idx": 15
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_75",
+    "question": "What forum did Tim join recently?",
+    "answer": [
+      "fantasy literature forum"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_20 (D2:1)",
+        "text": "[t=5:08 pm on 15 June, 2023, speaker=Tim] Last night I joined a fantasy literature forum and had a great talk about my fave books. It was so enriching!",
+        "is_supporting": true,
+        "idx": 20
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_76",
+    "question": "What kind of picture did Tim share as part of their Harry Potter book collection?",
+    "answer": [
+      "MinaLima's creation from the Harry Potter films"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_28 (D2:9)",
+        "text": "[t=5:08 pm on 15 June, 2023, speaker=Tim] Thanks! That picture is from MinaLima. They created all the props for the Harry Potter films, and I love their work. It's like having a piece of the wizarding world at home!",
+        "is_supporting": true,
+        "idx": 28
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_77",
+    "question": "What was the highest number of points John scored in a game recently?",
+    "answer": [
+      "40 points"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_39 (D3:1)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photography of a score board with a clock and a phone] Hey Tim! Good to see you again. So much has happened in the last month - on and off the court. Last week I scored 40 points, my highest ever, and it feels like all my hard work's paying off.",
+        "is_supporting": true,
+        "idx": 39
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_78",
+    "question": "What did John celebrate at a restaurant with teammates?",
+    "answer": [
+      "a tough win"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_43 (D3:5)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] We were all exhausted but so happy. After that, we celebrated at a restaurant, laughing and reliving the intense moments - it felt amazing!",
+        "is_supporting": true,
+        "idx": 43
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_79",
+    "question": "What kind of deals did John sign with Nike and Gatorade?",
+    "answer": [
+      "basketball shoe and gear deal with Nike, potential sponsorship deal with Gatorade"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_51 (D3:13)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] I just signed up Nike for a basketball shoe and gear deal. I'm also in talks with Gatorade about a potential sponsorship. It's pretty cool to be working with such big brands!",
+        "is_supporting": true,
+        "idx": 51
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_80",
+    "question": "Which city is John excited to have a game at?",
+    "answer": [
+      "Seattle"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_57 (D3:19)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a crowd of people watching a basketball game] It's Seattle, I'm stoked for my game there next month! It's one of my favorite cities to explore - super vibrant!",
+        "is_supporting": true,
+        "idx": 57
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_81",
+    "question": "How long has John been surfing?",
+    "answer": [
+      "five years"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_65 (D3:27)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] I started surfing five years ago and it's been great. I love the connection to nature.",
+        "is_supporting": true,
+        "idx": 65
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_82",
+    "question": "How does John feel while surfing?",
+    "answer": [
+      "super exciting and free-feeling"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_67 (D3:29)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a person walking on the beach with a surfboard] Yup! Being out in the water can be amazing. The waves, the wind, it's super exciting and free-feeling. Nature's pretty special.",
+        "is_supporting": true,
+        "idx": 67
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_83",
+    "question": "What kind of articles has Tim been writing about for the online magazine?",
+    "answer": [
+      "different fantasy novels, characters, themes, and book recommendations"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_78 (D4:5)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=Tim] Thanks! I've been writing about different fantasy novels, studying characters, themes, and making book recommendations.",
+        "is_supporting": true,
+        "idx": 78
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_84",
+    "question": "Which two fantasy novels does Tim particularly enjoy writing about?",
+    "answer": [
+      "Harry Potter and Game of Thrones"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_80 (D4:7)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=Tim] For sure! Harry Potter and Game of Thrones are amazing - I'm totally hooked! I could chat about them forever!",
+        "is_supporting": true,
+        "idx": 80
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_85",
+    "question": "What did Anthony and John end up playing during the charity event?",
+    "answer": [
+      "an intense Harry Potter trivia contest"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_81 (D4:8)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=John] [Image: a photo of a book with a picture of a person holding a bookmark] Oh yeah, I remember you telling me about Harry Potter! I've got a funny story. Anthony and I went to this charity thing and ended up in this intense Harry Potter trivia contest. We did alright, but there was this one super-nerd there that took home this as a prize.",
+        "is_supporting": true,
+        "idx": 81
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_86",
+    "question": "What did John share with the person he skyped about?",
+    "answer": [
+      "Characters from Harry Potter"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_89 (D5:1)",
+        "text": "[t=10:29 am on 9 August, 2023, speaker=Tim] Hey John! Long time no see! Been super busy lately. Guess what? Just skyped with that Harry Potter fan I met in CA and had a great time. We talked characters and maybe collab-ing - so cool to talk to someone who gets it. You? Anything new going on?",
+        "is_supporting": true,
+        "idx": 89
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_87",
+    "question": "How did John describe the team bond?",
+    "answer": [
+      "Awesome"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_94 (D5:6)",
+        "text": "[t=10:29 am on 9 August, 2023, speaker=John] Our team bond is awesome and it makes all the hard work worth it.",
+        "is_supporting": true,
+        "idx": 94
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_88",
+    "question": "How did John get introduced to basketball?",
+    "answer": [
+      "Dad signed him up for a local league"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_121 (D6:13)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] Thanks! Basketball has been a part of my life ever since I was a kid. I'd watch NBA games with my dad and dream of playing on those big courts. When I turned ten, dad signed me up for a local league, and I've been playing ever since. I kept playing through middle and high school before earning a college scholarship. And after college, I was drafted by a team – my dream come true!",
+        "is_supporting": true,
+        "idx": 121
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_89",
+    "question": "What is John's number one goal in his basketball career?",
+    "answer": [
+      "Winning a championship"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_123 (D6:15)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] Yeah! Winning a championship is my number one goal. But I also want to make a difference away from the court, like through charity or inspiring people. Basketball has been great to me, so I want to give something back.",
+        "is_supporting": true,
+        "idx": 123
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_90",
+    "question": "What organization is John teaming up with for his charity work?",
+    "answer": [
+      "A local organization helping disadvantaged kids with sports and school"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_125 (D6:17)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] I'm teaming up with a local organization that helps disadvantaged kids with sports and school. I'm hoping to use my platform to have a positive impact on the community and inspire others as well.",
+        "is_supporting": true,
+        "idx": 125
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_91",
+    "question": "When did John meet back up with his teammates after his trip in August 2023?",
+    "answer": [
+      "Aug 15th"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_132 (D7:1)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=John] Hey Tim! We had a wild few days since we talked. I met back up with my teammates on the 15th after my trip and it was amazing! Everyone missed me. The atmosphere was electric and I felt so welcome being back with them. I'm so lucky to be a part of this team!",
+        "is_supporting": true,
+        "idx": 132
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_92",
+    "question": "What did John's teammates give him when they met on Aug 15th?",
+    "answer": [
+      "a basketball with autographs on it"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_138 (D7:7)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=John] [Image: a photography of a basketball with autographs on it sitting on a table] You're a real bookworm! It would be awesome to go to a book conference with you. Check out this photo of what my teammates gave me when we met. It's a sign of our friendship and all the love we have for each other.",
+        "is_supporting": true,
+        "idx": 138
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_93",
+    "question": "Why did John's teammates sign the basketball they gave him?",
+    "answer": [
+      "to show their friendship and appreciation"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_140 (D7:9)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=John] Thanks! They signed it to show our friendship and appreciation. It's a great reminder of our bond.",
+        "is_supporting": true,
+        "idx": 140
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_94",
+    "question": "What is the main intention behind Tim wanting to attend the book conference?",
+    "answer": [
+      "to learn more about literature and create a stronger bond to it"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_137 (D7:6)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=Tim] I have no big events coming up, but I'm hoping to attend a book conference next month. It's an interesting gathering of authors, publishers and book lovers where we talk about our favorite novels and new releases. I'm excited to go because it'll help me learn more about literature and create a stronger bond to it.",
+        "is_supporting": true,
+        "idx": 137
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_95",
+    "question": "What new activity has Tim started learning in August 2023?",
+    "answer": [
+      "play the piano"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_159 (D8:12)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Things have been great since we last talked - I've been focusing on school and reading a bunch of fantasy books. It's a nice way to take a break from all the stress. I've also started learning how to play the piano - it's a learning curve, but it's so satisfying seeing the progress I make! Life's good.",
+        "is_supporting": true,
+        "idx": 159
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_96",
+    "question": "Which movie's theme is Tim's favorite to play on the piano?",
+    "answer": [
+      "\"Harry Potter and the Philosopher's Stone\""
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_161 (D8:14)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Thanks! I love playing different songs on the piano, but my favorite one to jam to is a theme from a movie I really enjoy. It brings back lots of great memories.",
+        "is_supporting": true,
+        "idx": 161
+      },
+      {
+        "title": "turn_163 (D8:16)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Yeah, \"Harry Potter and the Philosopher's Stone\" is special to me. It was the first movie from the series and brings back some great memories. Watching it with my family was amazing. It was so magical!",
+        "is_supporting": true,
+        "idx": 163
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_97",
+    "question": "What special memory does \"Harry Potter and the Philosopher's Stone\" bring to Tim?",
+    "answer": [
+      "Watching it with his family"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_163 (D8:16)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Yeah, \"Harry Potter and the Philosopher's Stone\" is special to me. It was the first movie from the series and brings back some great memories. Watching it with my family was amazing. It was so magical!",
+        "is_supporting": true,
+        "idx": 163
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_98",
+    "question": "Which movie does Tim mention they enjoy watching during Thanksgiving?",
+    "answer": [
+      "\"Home Alone\""
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_171 (D8:24)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] [Image: a photo of a dvd cover with a child in a house] During Thanksgiving, we usually watch a few movies. We love \"Home Alone\" - it always brings lots of laughs!",
+        "is_supporting": true,
+        "idx": 171
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_99",
+    "question": "What tradition does Tim mention they love during Thanksgiving?",
+    "answer": [
+      "Prepping the feast and talking about what they're thankful for"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_169 (D8:22)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Thanksgiving's always special for us. We love prepping the feast and talking about what we're thankful for. Plus, watching some movies afterwards - the best!",
+        "is_supporting": true,
+        "idx": 169
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_100",
+    "question": "How long did John and his high school basketball teammates play together?",
+    "answer": [
+      "Four years"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_188 (D9:4)",
+        "text": "[t=6:59 pm on 26 August, 2023, speaker=John] We were teammates for four years in high school, so we've played together for quite some time. Have you ever been part of a sports team?",
+        "is_supporting": true,
+        "idx": 188
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_101",
+    "question": "How was John's experience in New York City?",
+    "answer": [
+      "Amazing"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_192 (D9:8)",
+        "text": "[t=6:59 pm on 26 August, 2023, speaker=John] Thanks! It was amazing. Everywhere you go there's something new and exciting. Exploring the city and trying all the restaurants was awesome. It's a must-visit!",
+        "is_supporting": true,
+        "idx": 192
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_102",
+    "question": "What did John say about NYC, enticing Tim to visit?",
+    "answer": [
+      "It's got so much to check out - the culture, food - you won't regret it."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_194 (D9:10)",
+        "text": "[t=6:59 pm on 26 August, 2023, speaker=John] Trust me, NYC is amazing! It's got so much to check out - the culture, food - you won't regret it. It's an adventure you'll never forget!",
+        "is_supporting": true,
+        "idx": 194
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_103",
+    "question": "What kind of soup did John make recently?",
+    "answer": [
+      "tasty soup with sage"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_203 (D10:4)",
+        "text": "[t=2:52 pm on 31 August, 2023, speaker=John] [Image: a photo of a bowl of soup with a spoon and a butternut on a cutting board] Cool, Tim! Taking the plunge and presenting can be tough, but awesome work! Progress is progress, keep it up. By the way, I've been trying out cooking recipes. Made this tasty soup recently - it was real good!",
+        "is_supporting": true,
+        "idx": 203
+      },
+      {
+        "title": "turn_207 (D10:8)",
+        "text": "[t=2:52 pm on 31 August, 2023, speaker=John] I added some sage for a nice flavor. Enjoy!",
+        "is_supporting": true,
+        "idx": 207
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_104",
+    "question": "What spice did John add to the soup for flavor?",
+    "answer": [
+      "sage"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_207 (D10:8)",
+        "text": "[t=2:52 pm on 31 August, 2023, speaker=John] I added some sage for a nice flavor. Enjoy!",
+        "is_supporting": true,
+        "idx": 207
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_105",
+    "question": "What is Tim excited to see at Universal Studios?",
+    "answer": [
+      "The Harry Potter stuff"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_210 (D10:11)",
+        "text": "[t=2:52 pm on 31 August, 2023, speaker=Tim] Nope, but it's my first time going. I'm super stoked for the Harry Potter stuff. Can't wait!",
+        "is_supporting": true,
+        "idx": 210
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_106",
+    "question": "Where are John and his teammates planning to explore on a team trip?",
+    "answer": [
+      "a new city"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_223 (D11:7)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=John] We're planning to take a team trip next month to explore a new city and have some fun. Can't wait!",
+        "is_supporting": true,
+        "idx": 223
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_107",
+    "question": "What city did Tim suggest to John for the team trip next month?",
+    "answer": [
+      "Edinburgh, Scotland"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_226 (D11:10)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=Tim] [Image: a photo of a city with a clock tower and a sun setting] Edinburgh, Scotland would be great for a magical vibe. It's the birthplace of Harry Potter and has awesome history and architecture. Plus, it's a beautiful city. What do you think?",
+        "is_supporting": true,
+        "idx": 226
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_108",
+    "question": "What does John want to do after his basketball career?",
+    "answer": [
+      "positively influence and inspire others, potentially start a foundation and engage in charity work"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_235 (D11:19)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=John] I've thought about it a lot. I want to use my platform to make a positive difference and inspire others - maybe even start a foundation and do charity work. It's important to me to make the most of the chances I get and leave a meaningful legacy.",
+        "is_supporting": true,
+        "idx": 235
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_109",
+    "question": "What advice did Tim give John about picking endorsements?",
+    "answer": [
+      "Ensure they align with values and brand, look for companies that share the desire to make a change and help others, make sure the endorsement feels authentic"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_238 (D11:22)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=Tim] When picking endorsements, make sure they align with your values and brand. Look for a company that shares your desire to make a change and help others. It's important that the endorsement feels authentic to your followers.",
+        "is_supporting": true,
+        "idx": 238
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_110",
+    "question": "What book recommendation did Tim give to John for the trip?",
+    "answer": [
+      "A fantasy novel by Patrick Rothfuss"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_240 (D11:24)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=Tim] [Image: a photography of a book cover with a man in a hooded jacket] Yeah! I think you'd love this fantasy novel by Patrick Rothfuss. It's a book that'll take you to a different world. Great for you when you're traveling. Have fun!",
+        "is_supporting": true,
+        "idx": 240
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_111",
+    "question": "What type of venue did John and his girlfriend choose for their wedding ceremony?",
+    "answer": [
+      "Greenhouse"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_250 (D12:4)",
+        "text": "[t=3:00 pm on 2 October, 2023, speaker=John] Thanks! We were lucky to find a lovely greenhouse venue for a smaller, more intimate gathering. We made sure to follow the necessary safety protocols and ensure that everyone felt safe. It was wonderful to have our loved ones celebrate with us.",
+        "is_supporting": true,
+        "idx": 250
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_112",
+    "question": "What was the setting for John and his wife's first dance?",
+    "answer": [
+      "Cozy restaurant"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_256 (D12:10)",
+        "text": "[t=3:00 pm on 2 October, 2023, speaker=John] That dance was great! We had our first dance at a cozy restaurant. It was so dreamy with the music and candlelight. We were so lucky to have everyone with us!",
+        "is_supporting": true,
+        "idx": 256
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_113",
+    "question": "Which basketball team does Tim support?",
+    "answer": [
+      "The Wolves"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_267 (D12:21)",
+        "text": "[t=3:00 pm on 2 October, 2023, speaker=Tim] The Wolves are solid and LeBron's skills and leadership are amazing.",
+        "is_supporting": true,
+        "idx": 267
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_114",
+    "question": "What passion does Tim mention connects him with people from all over the world?",
+    "answer": [
+      "passion for fantasy stuff"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_276 (D13:1)",
+        "text": "[t=1:50 pm on 13 October, 2023, speaker=Tim] Hey John! It's been ages since we last talked. Guess what? Last week I went to a Harry Potter conference in the UK - it was incredible! There were so many people who shared the same love of HP as me, it was like a magical family. I felt so inspired and like I got a new lease of life. I love how my passion for fantasy stuff brings me closer to people from all over the world, it's pretty cool.",
+        "is_supporting": true,
+        "idx": 276
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_115",
+    "question": "How does John describe the game season for his team?",
+    "answer": [
+      "intense with tough losses and great wins"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_279 (D13:4)",
+        "text": "[t=1:50 pm on 13 October, 2023, speaker=John] It was an intense season with both tough losses and great wins. Overall, I'd say we did pretty well.",
+        "is_supporting": true,
+        "idx": 279
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_116",
+    "question": "How does John say his team handles tough opponents?",
+    "answer": [
+      "by backing each other up and not quitting"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_281 (D13:6)",
+        "text": "[t=1:50 pm on 13 October, 2023, speaker=John] [Image: a photo of a soccer team posing for a picture with a trophy] Thanks! We faced tough opponents but that's what drives us to get better. We back each other up and won't quit.",
+        "is_supporting": true,
+        "idx": 281
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_117",
+    "question": "What motivates John's team to get better, according to John?",
+    "answer": [
+      "facing tough opponents"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_281 (D13:6)",
+        "text": "[t=1:50 pm on 13 October, 2023, speaker=John] [Image: a photo of a soccer team posing for a picture with a trophy] Thanks! We faced tough opponents but that's what drives us to get better. We back each other up and won't quit.",
+        "is_supporting": true,
+        "idx": 281
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_118",
+    "question": "What did John's team win at the end of the season?",
+    "answer": [
+      "a trophy"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_283 (D13:8)",
+        "text": "[t=1:50 pm on 13 October, 2023, speaker=John] [Image: a photo of a man holding a trophy in front of a crowd] Yeah, it feels great! All that hard work and effort was totally worth it. We even won a trophy!",
+        "is_supporting": true,
+        "idx": 283
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_119",
+    "question": "Where did Tim capture the photography of the sunset over the mountain range?",
+    "answer": [
+      "Smoky Mountains"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_313 (D14:16)",
+        "text": "[t=1:50 pm on 17 October, 2023, speaker=Tim] I snapped that pic on my trip to the Smoky Mountains last year. It was incredible seeing it in person. Nature's really something else!",
+        "is_supporting": true,
+        "idx": 313
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_120",
+    "question": "How does John feel about being seen as a mentor by some of the younger players?",
+    "answer": [
+      "It feels great"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_308 (D14:11)",
+        "text": "[t=1:50 pm on 17 October, 2023, speaker=John] It feels great to have their trust and admiration. Being a role model for these young athletes is so fulfilling. I'm glad my experiences can help shape their future and inspire them to go after their dreams.",
+        "is_supporting": true,
+        "idx": 308
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_121",
+    "question": "What does John find rewarding about mentoring the younger players?",
+    "answer": [
+      "Seeing their growth, improvement, and confidence"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_304 (D14:7)",
+        "text": "[t=1:50 pm on 17 October, 2023, speaker=John] [Image: a photography of a basketball player standing in a gym with his hands on his hips] Mentoring them has been awesome! Seeing their growth, improvement, and confidence is so fulfilling. I'm glad I could make a positive impact on their lives. Here's a pic of me and some of the younger players at a recent practice.",
+        "is_supporting": true,
+        "idx": 304
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_122",
+    "question": "What has John been able to help the younger players achieve?",
+    "answer": [
+      "reach their goals"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_302 (D14:5)",
+        "text": "[t=1:50 pm on 17 October, 2023, speaker=John] There are challenges, since everyone is so different. But it's been awesome gaining experience and adapting, motivating and encouraging everyone. It's been great to watch each of them develop and reach their goals - such a reward!",
+        "is_supporting": true,
+        "idx": 302
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_123",
+    "question": "What genre is the novel that Tim is writing?",
+    "answer": [
+      "Fantasy"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_323 (D15:3)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=Tim] That castle looks amazing! I hope I get to visit it someday. My writing is going well: I'm in the middle of fantasy novel and it's a bit nerve-wracking but so exciting! All my hard work is paying off. Writing brings such joy and it's incredible how it can create a whole new world. Thanks so much for believing in me!",
+        "is_supporting": true,
+        "idx": 323
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_124",
+    "question": "Who is one of Tim's sources of inspiration for writing?",
+    "answer": [
+      "J.K. Rowling"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_327 (D15:7)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=Tim] [Image: a photo of a book with a page in it on a table] J.K. Rowling is such an inspiring writer. Her books are so captivating with their detail and creative storytelling. She can definitely transport readers into another world and make them feel so much. I'm always taking notes on her style for my own writing.",
+        "is_supporting": true,
+        "idx": 327
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_125",
+    "question": "What J.K. Rowling quote does Tim resonate with?",
+    "answer": [
+      "\"Turn on the light - happiness hides in the darkest of times.\""
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_331 (D15:11)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=Tim] Yeah! There's a quote by J.K. Rowling that I really like: \"Turn on the light - happiness hides in the darkest of times.\" That's how I keep hope alive during tough times.",
+        "is_supporting": true,
+        "idx": 331
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_126",
+    "question": "What does John write on the whiteboard to help him stay motivated?",
+    "answer": [
+      "motivational quotes and strategies"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_334 (D15:14)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=John] On that whiteboard, I wrote down some motivational quotes and strategies to help me stay focused and push through tough workouts. It really helps me stay motivated and keep improving.",
+        "is_supporting": true,
+        "idx": 334
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_127",
+    "question": "What hobby is a therapy for John when away from the court?",
+    "answer": [
+      "Cooking"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_350 (D15:30)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=John] [Image: a photo of a slow cooker filled with a mixture of food] Yep, I totally get it! Cuddling up with a book is my chill time. And when I'm away from the court, cooking is therapy for me. It's a good way to be creative and experiment with flavors while taking a break. Here's a photo of me cooking a meal.",
+        "is_supporting": true,
+        "idx": 350
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_128",
+    "question": "What type of meal does John often cook using a slow cooker?",
+    "answer": [
+      "honey garlic chicken with roasted veg"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_352 (D15:32)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=John] Definitely! I make this yummy honey garlic chicken with roasted veg a lot. It's one of my favorites. I'm always trying out new recipes, so let me know if you want suggestions!",
+        "is_supporting": true,
+        "idx": 352
+      },
+      {
+        "title": "turn_353 (D15:33)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=Tim] Mmm, that sounds delicious, John! Can I get the recipe for it?",
+        "is_supporting": true,
+        "idx": 353
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_129",
+    "question": "How will John share the honey garlic chicken recipe with the other person?",
+    "answer": [
+      "write it down and mail it"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_354 (D15:34)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=John] Sure thing! I can write it down for you and mail it to you.",
+        "is_supporting": true,
+        "idx": 354
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_130",
+    "question": "What was Tim's huge writing issue last week,as mentioned on November 6, 2023?",
+    "answer": [
+      "He got stuck on a plot twist"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_359 (D16:1)",
+        "text": "[t=11:41 am on 6 November, 2023, speaker=Tim] Hey John, long time no see! Hope you've been doing well. Since we last chat, some stuff's happened. Last week, I had a huge writing issue - got stuck on a plot twist and couldn't find my way out. It was crazy frustrating, but I kept pushing and eventually got the ideas flowing again.",
+        "is_supporting": true,
+        "idx": 359
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_131",
+    "question": "What does Tim have that serves as a reminder of hard work and is his prized possession?",
+    "answer": [
+      "a basketball signed by his favorite player"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_365 (D16:7)",
+        "text": "[t=11:41 am on 6 November, 2023, speaker=Tim] [Image: a photo of a basketball in a case with a signed ball] Wow, that must have been an incredible feeling! You really showed determination and perseverance. Do you have any photos or keepsakes from the game? I'd love to see them! By the way, I have something special too - this is my prized possession, a basketball signed by my favorite player. It serves as a reminder of all the hard work.",
+        "is_supporting": true,
+        "idx": 365
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_132",
+    "question": "Why do Tim and John find LeBron inspiring?",
+    "answer": [
+      "LeBron's determination and the epic block in Game 7 of the '16 Finals"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_367 (D16:9)",
+        "text": "[t=11:41 am on 6 November, 2023, speaker=Tim] I just love watching LeBron. There was this Finals game a few years back with an epic block that totally changed the game and ended up winning it. Seeing him go for it like that was such an inspiration - never give up, you know?",
+        "is_supporting": true,
+        "idx": 367
+      },
+      {
+        "title": "turn_368 (D16:10)",
+        "text": "[t=11:41 am on 6 November, 2023, speaker=John] Remember that epic block in Game 7 of the '16 Finals? He chased down Iguodala and pinned the ball against the backboard. That kind of determination and heart is why I love basketball.",
+        "is_supporting": true,
+        "idx": 368
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_133",
+    "question": "How did John describe the views during their road trip out on the European coastline?",
+    "answer": [
+      "Spectacular"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_378 (D17:3)",
+        "text": "[t=3:36 pm on 11 November, 2023, speaker=John] [Image: a photo of a group of people sitting on top of a mountain] My wife and I were road tripping out on the European coastline, and it was amazing! The views were spectacular, and we had lots of fun bonding and creating amazing memories. It was such a nice change to my regular life.",
+        "is_supporting": true,
+        "idx": 378
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_134",
+    "question": "What is one of Tim's favorite fantasy TV shows, as mentioned on November 11, 2023?",
+    "answer": [
+      "\"That\""
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_385 (D17:10)",
+        "text": "[t=3:36 pm on 11 November, 2023, speaker=Tim] That's amazing! Same here. There's something special about being lost in an awesome fantasy realm and seeing what happens. It's like an escape. \"That\" is one of my favorite fantasy shows. Have you seen it?",
+        "is_supporting": true,
+        "idx": 385
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_135",
+    "question": "How does Tim stay motivated during difficult study sessions?",
+    "answer": [
+      "Visualizing goals and success"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_400 (D18:6)",
+        "text": "[t=3:59 pm on 16 November, 2023, speaker=John] I visualize my goals and success for focus and motivation. It really helps me stay motivated during tough studying. Do you have any study tricks?",
+        "is_supporting": true,
+        "idx": 400
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_136",
+    "question": "What did Tim say about his injury on 16 November, 2023?",
+    "answer": [
+      "The doctor said it's not too serious"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_404 (D18:10)",
+        "text": "[t=3:59 pm on 16 November, 2023, speaker=John] Sure thing, Tim! Got your back. I hope so too. The doctor said it's not too serious.",
+        "is_supporting": true,
+        "idx": 404
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_137",
+    "question": "What was the setback Tim faced in his writing project on 21 November, 2023?",
+    "answer": [
+      "Story based on experiences in the UK didn't go as planned"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_412 (D19:3)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=Tim] I've been swamped with studies and projects, but last week I had a setback. I tried writing a story based on my experiences in the UK, but it didn't go the way I wanted. It's been tough, do you have any advice for getting better with storytelling?",
+        "is_supporting": true,
+        "idx": 412
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_138",
+    "question": "How did John overcome his ankle injury from last season?",
+    "answer": [
+      "stayed focused on recovery and worked hard to strengthen his body"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_415 (D19:6)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=John] Last season, I had a major challenge when I hurt my ankle. It required some time off and physical therapy. It was frustrating because I couldn't play or help the team. I stayed focused on my recovery and worked hard to strengthen my body. It was a tough mental and physical challenge, but it made me realize the importance of patience and perseverance. I'm grateful that I was able to overcome it.",
+        "is_supporting": true,
+        "idx": 415
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_139",
+    "question": "What motivated Tim to keep pushing himself to get better in writing and reading?",
+    "answer": [
+      "Love for writing and reading"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_418 (D19:9)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=Tim] When things get tough, it's so important to remember why we love what we do. For me, it's writing and reading. That's what helps me stay motivated and push myself to get better. Has anything similar happened with basketball for you? Tell me about it!",
+        "is_supporting": true,
+        "idx": 418
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_140",
+    "question": "How did John overcome a mistake he made during a big game in basketball?",
+    "answer": [
+      "Worked hard to get better and focused on growth"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_419 (D19:10)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=John] I faced some tough times while playing basketball. I messed up during a big game, and it was really hard to accept. Instead of getting stuck in that moment, I worked hard to get better. It taught me that resilience is key and owning up to mistakes is important. Gotta keep growing and striving to be a strong player and teammate. So grateful.",
+        "is_supporting": true,
+        "idx": 419
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_141",
+    "question": "What book did John recently finish rereading that left him feeling inspired and hopeful about following dreams?",
+    "answer": [
+      "The Alchemist"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_429 (D19:20)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=John] I recently finished rereading \"The Alchemist\" - it was really inspiring. It made me think again about following dreams and searching for our own personal legends. I felt really motivated and hopeful after reading it.",
+        "is_supporting": true,
+        "idx": 429
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_142",
+    "question": "How did \"The Alchemist\" impact John's perspective on following dreams?",
+    "answer": [
+      "made him think again about following dreams and searching for personal legends"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_429 (D19:20)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=John] I recently finished rereading \"The Alchemist\" - it was really inspiring. It made me think again about following dreams and searching for our own personal legends. I felt really motivated and hopeful after reading it.",
+        "is_supporting": true,
+        "idx": 429
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_143",
+    "question": "What is John trying out to improve his strength and flexibility after recovery from ankle injury?",
+    "answer": [
+      "yoga"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_434 (D20:2)",
+        "text": "[t=9:52 am on 1 December, 2023, speaker=John] Hi Tim! Congrats on your success! Keep it up, you're doing great! I'm also trying out yoga to get a little extra strength and flexibility. It's challenging but worth it.",
+        "is_supporting": true,
+        "idx": 434
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_144",
+    "question": "How long does John usually hold the yoga pose he shared with Tim?",
+    "answer": [
+      "30-60 seconds"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_442 (D20:10)",
+        "text": "[t=9:52 am on 1 December, 2023, speaker=John] I typically hold it for 30-60 seconds. It really helps with building strength and stability!",
+        "is_supporting": true,
+        "idx": 442
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_145",
+    "question": "Where was the forest picture shared by John on December 1,2023 taken?",
+    "answer": [
+      "near his hometown"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_460 (D20:28)",
+        "text": "[t=9:52 am on 1 December, 2023, speaker=John] The photo is from a forest near my hometown. It's so tranquil.",
+        "is_supporting": true,
+        "idx": 460
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_146",
+    "question": "What did Tim recently start learning in addition to being part of a travel club and working on studies?",
+    "answer": [
+      "an instrument"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_484 (D21:9)",
+        "text": "[t=5:34 pm on 6 December, 2023, speaker=Tim] Joined a travel club and, like I said, working on studies. Also picked up new skills. Recently started learning an instrument. Challenging but fun, always admired musicians. Finally giving it a go.",
+        "is_supporting": true,
+        "idx": 484
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_147",
+    "question": "What instrument is Tim learning to play in December 2023?",
+    "answer": [
+      "violin"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_486 (D21:11)",
+        "text": "[t=5:34 pm on 6 December, 2023, speaker=Tim] [Image: a photography of a violin and a violin stick on a sheet of music] I'm learning how to play the violin now. I'm mostly into classical music but I'm keen to try out jazz and film scores too. It's a great way to chill and get creative.",
+        "is_supporting": true,
+        "idx": 486
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_148",
+    "question": "How long has Tim been playing the piano for, as of December 2023?",
+    "answer": [
+      "about four months"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_488 (D21:13)",
+        "text": "[t=5:34 pm on 6 December, 2023, speaker=Tim] I've been playing for about four months now and it's been an amazing adventure. I'm really enjoying the progress I've been making.",
+        "is_supporting": true,
+        "idx": 488
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_149",
+    "question": "What book did Tim just finish reading on 8th December, 2023?",
+    "answer": [
+      "\"A Dance with Dragons\""
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_507 (D22:13)",
+        "text": "[t=7:42 pm on 8 December, 2023, speaker=Tim] [Image: a photography of a book shelf with a book and a book cover] I haven't read that yet but I've heard great things! Just finished \"A Dance with Dragons\" and it's a really good story. Highly recommend it!",
+        "is_supporting": true,
+        "idx": 507
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_150",
+    "question": "Which book did Tim recommend to John as a good story on 8th December, 2023?",
+    "answer": [
+      "\"A Dance with Dragons\""
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_507 (D22:13)",
+        "text": "[t=7:42 pm on 8 December, 2023, speaker=Tim] [Image: a photography of a book shelf with a book and a book cover] I haven't read that yet but I've heard great things! Just finished \"A Dance with Dragons\" and it's a really good story. Highly recommend it!",
+        "is_supporting": true,
+        "idx": 507
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_151",
+    "question": "What is the topic of discussion between John and Tim on 11 December, 2023?",
+    "answer": [
+      "Academic achievements and sports successes"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_513 (D23:1)",
+        "text": "[t=8:28 pm on 11 December, 2023, speaker=John] [Image: a photo of two women standing next to a banner with sales pros written on it] Hey Tim, great to see you! Any new success stories?",
+        "is_supporting": true,
+        "idx": 513
+      },
+      {
+        "title": "turn_514 (D23:2)",
+        "text": "[t=8:28 pm on 11 December, 2023, speaker=Tim] Hey John, I had a tough time with my English lit class. Did an analysis on this series and I think it went ok!",
+        "is_supporting": true,
+        "idx": 514
+      },
+      {
+        "title": "turn_515 (D23:3)",
+        "text": "[t=8:28 pm on 11 December, 2023, speaker=John] [Image: a photo of a basketball game being played in a large arena] Thanks! It's a bummer about your English lit class, but you did your best. By the way, I had a career-high in assists last Friday in our big game against our rival. Yay!",
+        "is_supporting": true,
+        "idx": 515
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_152",
+    "question": "What kind of game did John have a career-high in assists in?",
+    "answer": [
+      "basketball"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_515 (D23:3)",
+        "text": "[t=8:28 pm on 11 December, 2023, speaker=John] [Image: a photo of a basketball game being played in a large arena] Thanks! It's a bummer about your English lit class, but you did your best. By the way, I had a career-high in assists last Friday in our big game against our rival. Yay!",
+        "is_supporting": true,
+        "idx": 515
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_153",
+    "question": "What was John's way of dealing with doubts and stress when he was younger?",
+    "answer": [
+      "practicing basketball outside for hours"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_521 (D23:9)",
+        "text": "[t=8:28 pm on 11 December, 2023, speaker=John] Yeah, that pic reminds me of when I was younger. I'd practice basketball outside for hours, dreaming of playing in big games. It was my way of dealing with doubts and stress. It's amazing how a ball and hoop can be so powerful, right?",
+        "is_supporting": true,
+        "idx": 521
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_154",
+    "question": "How did John feel about the atmosphere during the big game against the rival team?",
+    "answer": [
+      "electric and intense"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_517 (D23:5)",
+        "text": "[t=8:28 pm on 11 December, 2023, speaker=John] Thanks! It felt great being out there, making plays for my team. I love seeing my teammates succeed because of the opportunities I create for them. The atmosphere in the arena was really electric and playing against our rivals added an extra level of intensity. It was a memorable night!",
+        "is_supporting": true,
+        "idx": 517
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_155",
+    "question": "How did John feel after being able to jog without pain?",
+    "answer": [
+      "It was a huge success."
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_544 (D24:16)",
+        "text": "[t=3:37 pm on 16 December, 2023, speaker=John] It was great! After being out for so long, jogging without any pain was a huge success. My wife and I hosted a small get-together with friends and family to celebrate.",
+        "is_supporting": true,
+        "idx": 544
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_156",
+    "question": "What kind of deal did John get in December?",
+    "answer": [
+      "Deal with a renowned outdoor gear company"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_550 (D25:2)",
+        "text": "[t=10:04 am on 19 December, 2023, speaker=John] [Image: a photography of a man with a backpack and a backpack walking down a path] Yo Tim! Great to hear from you. Things have been wild! Last week I got this amazing deal with a renowned outdoor gear company. So pumped!",
+        "is_supporting": true,
+        "idx": 550
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_157",
+    "question": "Where was the photoshoot done for John's gear deal?",
+    "answer": [
+      "In a gorgeous forest"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_552 (D25:4)",
+        "text": "[t=10:04 am on 19 December, 2023, speaker=John] Cheers! Got some awesome hiking stuff and outdoor gear - all top-notch. The photoshoot went really well too. We did it in a gorgeous forest and the photographer got some epic shots of me doing my thing - it was amazing!",
+        "is_supporting": true,
+        "idx": 552
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_158",
+    "question": "In which area has John's team seen the most growth during training?",
+    "answer": [
+      "Communication and bonding"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_562 (D25:14)",
+        "text": "[t=10:04 am on 19 December, 2023, speaker=John] Our team has seen the most growth in communication and bonding. It has really helped our performances by allowing us to understand each other's strengths and weaknesses.",
+        "is_supporting": true,
+        "idx": 562
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_159",
+    "question": "What type of seminars is John conducting?",
+    "answer": [
+      "Sports and marketing seminars"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_566 (D26:1)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=John] [Image: a photo of a basketball court with a crowd of people watching] Hey Tim! Great to hear from you. My week's been busy - I started doing seminars, helping people with their sports and marketing. It's been awesome!",
+        "is_supporting": true,
+        "idx": 566
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_160",
+    "question": "What activity did Tim do after reading the stories about the Himalayan trek?",
+    "answer": [
+      "visited a travel agency"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_577 (D26:12)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=Tim] It's true. Facing challenges can be tough, but it can make us stronger. I just visited a travel agency to see what the requirements would be for my next dream trip.",
+        "is_supporting": true,
+        "idx": 577
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_161",
+    "question": "What is one cause that John supports with his influence and resources?",
+    "answer": [
+      "youth sports and fair chances in sports"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_586 (D26:21)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=John] [Image: a photo of a group of kids playing basketball in a gym] I've been working on supporting youth sports and fighting for fair chances in sports for underserved communities. It's important to me that every kid has access to good sports programs. I've been collaborating with organizations to create more opportunities for young athletes and help them succeed. It's amazing to see the difference sports make in people's lives.",
+        "is_supporting": true,
+        "idx": 586
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_162",
+    "question": "What new fantasy TV series is Tim excited about?",
+    "answer": [
+      "\"The Wheel of Time\""
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_601 (D26:36)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=Tim] I'm really excited to watch this new show that's coming out called \"The Wheel of Time\". It's based on a book series that I love.",
+        "is_supporting": true,
+        "idx": 601
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_163",
+    "question": "Which language is Tim learning?",
+    "answer": [
+      "German"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_608 (D27:5)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=Tim] Wow, traveling is amazing, isn't it? I'm learning German now - tough but fun. Do you know any other languages?",
+        "is_supporting": true,
+        "idx": 608
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_164",
+    "question": "What language does Tim know besides German?",
+    "answer": [
+      "Spanish"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_609 (D27:6)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] Wow! Impressive you're learning German. I know a bit of it myself and Spanish, it makes travel so much easier. How's it going with your language studies?",
+        "is_supporting": true,
+        "idx": 609
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_165",
+    "question": "What book did Tim get in Italy that inspired him to cook?",
+    "answer": [
+      "a cooking book"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_607 (D27:4)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] Italy was awesome! Everything from the food to the history and architecture was amazing. I even got this awesome book while I was there and it's been giving me some cooking inspiration.",
+        "is_supporting": true,
+        "idx": 607
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_166",
+    "question": "What is John's favorite book series?",
+    "answer": [
+      "Harry Potter"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_622 (D27:19)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=Tim] Harry Potter is my favorite book. It's so immersive!",
+        "is_supporting": true,
+        "idx": 622
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_167",
+    "question": "According to John, who is his favorite character from Lord of the Rings?",
+    "answer": [
+      "Aragorn"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_627 (D27:24)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] Thanks! I've watched a bunch of them and they're inspiring. My favorite character is Aragorn, he grows so much throughout the story.",
+        "is_supporting": true,
+        "idx": 627
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_168",
+    "question": "Why does John like Aragorn from Lord of the Rings?",
+    "answer": [
+      "brave, selfless, down-to-earth attitude"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_633 (D27:30)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] Aragorn's brave, selfless, down-to-earth attitude is what inspired me. He never gives up and always stands up for justice.",
+        "is_supporting": true,
+        "idx": 633
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_169",
+    "question": "What kind of painting does John have in his room as a reminder?",
+    "answer": [
+      "a painting of Aragorn"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_631 (D27:28)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] [Image: a photo of a painting of a man smoking a cigarette] Yeah. His journey is really inspiring. I have a painting in my room to remind me to stay true and be a leader in everything I do.",
+        "is_supporting": true,
+        "idx": 631
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_170",
+    "question": "What is the painting of Aragorn a reminder for John to be in everything he does?",
+    "answer": [
+      "be a leader"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_631 (D27:28)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] [Image: a photo of a painting of a man smoking a cigarette] Yeah. His journey is really inspiring. I have a painting in my room to remind me to stay true and be a leader in everything I do.",
+        "is_supporting": true,
+        "idx": 631
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_171",
+    "question": "What map does Tim show to his friend John?",
+    "answer": [
+      "a map of Middle-earth from LOTR"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_636 (D27:33)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=Tim] It's a map of Middle-earth from LOTR - it's really cool to see all the different realms and regions.",
+        "is_supporting": true,
+        "idx": 636
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_172",
+    "question": "Where will Tim be going for a semester abroad?",
+    "answer": [
+      "Ireland"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_644 (D28:1)",
+        "text": "[t=5:24 pm on 7 January, 2024, speaker=Tim] Hey John, long time no talk. On Friday, I got great news - I'm finally in the study abroad program I applied for! Next month, I'm off to Ireland for a semester.",
+        "is_supporting": true,
+        "idx": 644
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_173",
+    "question": "Which city in Ireland will Tim be staying in during his semester abroad?",
+    "answer": [
+      "Galway"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_646 (D28:3)",
+        "text": "[t=5:24 pm on 7 January, 2024, speaker=Tim] [Image: a photo of a woman standing on the side of a street] Thanks! I'm gonna stay in Galway, it's great for its arts and Irish music. This place has such a vibrant atmosphere.",
+        "is_supporting": true,
+        "idx": 646
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_174",
+    "question": "What charity event did John organize recently in 2024?",
+    "answer": [
+      "benefit basketball game"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_653 (D28:10)",
+        "text": "[t=5:24 pm on 7 January, 2024, speaker=John] [Image: a photo of a boy dribbling a basketball on a court] Yep, I'll let you know. Oh, I held a benefit basketball game last week.",
+        "is_supporting": true,
+        "idx": 653
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_175",
+    "question": "What achievement did John share with Tim in January 2024?",
+    "answer": [
+      "endorsement with a popular beverage company"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_668 (D29:4)",
+        "text": "[t=1:41 pm on 12 January, 2024, speaker=John] [Image: a photo of a baseball player holding a bat next to a soda] Last week was wild - something incredible happened. But it's a total dream come true - just crazy! I got an endorsement with a popular beverage company!",
+        "is_supporting": true,
+        "idx": 668
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_176",
+    "question": "What was Johns's reaction to sealing the deal with the beverage company?",
+    "answer": [
+      "crazy feeling, sense of accomplishment"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_670 (D29:6)",
+        "text": "[t=1:41 pm on 12 January, 2024, speaker=John] Thanks! It felt crazy. It's not just about the signing, but it's about feeling like all the hard work paid off - like all those training hours weren't for nothing.",
+        "is_supporting": true,
+        "idx": 670
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_177",
+    "question": "Which city did John recommend to Tim in January 2024?",
+    "answer": [
+      "Barcelona"
+    ],
+    "answerable": true,
+    "paragraphs": [
+      {
+        "title": "turn_676 (D29:12)",
+        "text": "[t=1:41 pm on 12 January, 2024, speaker=John] Barcelona is a must-visit city! You'll love exploring the culture, admiring the architecture, and tasting the amazing food in each neighborhood. Plus, the nearby beaches are great for soaking up the sun. Definitely add it to your travel list!",
+        "is_supporting": true,
+        "idx": 676
+      }
+    ],
+    "category": 4
+  },
+  {
+    "id": "locomo_4_178",
+    "question": "Which team did Tim sign with on 21 May, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_4 (D1:5)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=John] The Minnesota Wolves! I can't wait to play with them!",
+        "is_supporting": true,
+        "idx": 4
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "The Minnesota Wolves"
+  },
+  {
+    "id": "locomo_4_179",
+    "question": "What is Tim's position on the team he signed with?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_6 (D1:7)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=John] [Image: a photo of a bunch of basketball jerseys laying on a bed] I'm a shooting guard for the team and our season opener is next week - so excited!",
+        "is_supporting": true,
+        "idx": 6
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "shooting guard"
+  },
+  {
+    "id": "locomo_4_180",
+    "question": "What challenge did Tim encounter during pre-season training?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_10 (D1:11)",
+        "text": "[t=7:48 pm on 21 May, 2023, speaker=John] Fitting into the new team's style of play was a challenge during pre-season.",
+        "is_supporting": true,
+        "idx": 10
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "fitting into the new team's style of play"
+  },
+  {
+    "id": "locomo_4_181",
+    "question": "What cult did Tim join recently?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_20 (D2:1)",
+        "text": "[t=5:08 pm on 15 June, 2023, speaker=Tim] Last night I joined a fantasy literature forum and had a great talk about my fave books. It was so enriching!",
+        "is_supporting": true,
+        "idx": 20
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "fantasy literature forum"
+  },
+  {
+    "id": "locomo_4_182",
+    "question": "What was the highest number of points Tim scored in a game recently?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_39 (D3:1)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photography of a score board with a clock and a phone] Hey Tim! Good to see you again. So much has happened in the last month - on and off the court. Last week I scored 40 points, my highest ever, and it feels like all my hard work's paying off.",
+        "is_supporting": true,
+        "idx": 39
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "40 points"
+  },
+  {
+    "id": "locomo_4_183",
+    "question": "What did Tim celebrate at a restaurant with teammates?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_43 (D3:5)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] We were all exhausted but so happy. After that, we celebrated at a restaurant, laughing and reliving the intense moments - it felt amazing!",
+        "is_supporting": true,
+        "idx": 43
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "a tough win"
+  },
+  {
+    "id": "locomo_4_184",
+    "question": "What kind of deals did Tim sign with Nike and Gatorade?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_51 (D3:13)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] I just signed up Nike for a basketball shoe and gear deal. I'm also in talks with Gatorade about a potential sponsorship. It's pretty cool to be working with such big brands!",
+        "is_supporting": true,
+        "idx": 51
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "basketball shoe and gear deal with Nike, potential sponsorship deal with Gatorade"
+  },
+  {
+    "id": "locomo_4_185",
+    "question": "How does Tim feel while surfing?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_67 (D3:29)",
+        "text": "[t=4:21 pm on 16 July, 2023, speaker=John] [Image: a photo of a person walking on the beach with a surfboard] Yup! Being out in the water can be amazing. The waves, the wind, it's super exciting and free-feeling. Nature's pretty special.",
+        "is_supporting": true,
+        "idx": 67
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "super exciting and free-feeling"
+  },
+  {
+    "id": "locomo_4_186",
+    "question": "What kind of articles has John been writing about for the online magazine?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_78 (D4:5)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=Tim] Thanks! I've been writing about different fantasy novels, studying characters, themes, and making book recommendations.",
+        "is_supporting": true,
+        "idx": 78
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "different fantasy novels, characters, themes, and book recommendations"
+  },
+  {
+    "id": "locomo_4_187",
+    "question": "Which two mystery novels does Tim particularly enjoy writing about?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_80 (D4:7)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=Tim] For sure! Harry Potter and Game of Thrones are amazing - I'm totally hooked! I could chat about them forever!",
+        "is_supporting": true,
+        "idx": 80
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Harry Potter and Game of Thrones"
+  },
+  {
+    "id": "locomo_4_188",
+    "question": "What did Anthony and Tim end up playing during the charity event?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_81 (D4:8)",
+        "text": "[t=4:17 pm on 2 August, 2023, speaker=John] [Image: a photo of a book with a picture of a person holding a bookmark] Oh yeah, I remember you telling me about Harry Potter! I've got a funny story. Anthony and I went to this charity thing and ended up in this intense Harry Potter trivia contest. We did alright, but there was this one super-nerd there that took home this as a prize.",
+        "is_supporting": true,
+        "idx": 81
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "an intense Harry Potter trivia contest"
+  },
+  {
+    "id": "locomo_4_189",
+    "question": "How did Tim get introduced to basketball?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_121 (D6:13)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] Thanks! Basketball has been a part of my life ever since I was a kid. I'd watch NBA games with my dad and dream of playing on those big courts. When I turned ten, dad signed me up for a local league, and I've been playing ever since. I kept playing through middle and high school before earning a college scholarship. And after college, I was drafted by a team – my dream come true!",
+        "is_supporting": true,
+        "idx": 121
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Dad signed him up for a local league"
+  },
+  {
+    "id": "locomo_4_190",
+    "question": "What is Tim's number one goal in his basketball career?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_123 (D6:15)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] Yeah! Winning a championship is my number one goal. But I also want to make a difference away from the court, like through charity or inspiring people. Basketball has been great to me, so I want to give something back.",
+        "is_supporting": true,
+        "idx": 123
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Winning a championship"
+  },
+  {
+    "id": "locomo_4_191",
+    "question": "What organization is Tim teaming up with for his charity work?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_125 (D6:17)",
+        "text": "[t=1:08 pm on 11 August, 2023, speaker=John] I'm teaming up with a local organization that helps disadvantaged kids with sports and school. I'm hoping to use my platform to have a positive impact on the community and inspire others as well.",
+        "is_supporting": true,
+        "idx": 125
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "A local organization helping disadvantaged kids with sports and school"
+  },
+  {
+    "id": "locomo_4_192",
+    "question": "What did Tim's teammates give him when they met on Aug 15th?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_138 (D7:7)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=John] [Image: a photography of a basketball with autographs on it sitting on a table] You're a real bookworm! It would be awesome to go to a book conference with you. Check out this photo of what my teammates gave me when we met. It's a sign of our friendship and all the love we have for each other.",
+        "is_supporting": true,
+        "idx": 138
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "a basketball with autographs on it"
+  },
+  {
+    "id": "locomo_4_193",
+    "question": "Why did John's teammates sign the football they gave him?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_140 (D7:9)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=John] Thanks! They signed it to show our friendship and appreciation. It's a great reminder of our bond.",
+        "is_supporting": true,
+        "idx": 140
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "to show their friendship and appreciation"
+  },
+  {
+    "id": "locomo_4_194",
+    "question": "What is the main intention behind John wanting to attend the book conference?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_137 (D7:6)",
+        "text": "[t=7:54 pm on 17 August, 2023, speaker=Tim] I have no big events coming up, but I'm hoping to attend a book conference next month. It's an interesting gathering of authors, publishers and book lovers where we talk about our favorite novels and new releases. I'm excited to go because it'll help me learn more about literature and create a stronger bond to it.",
+        "is_supporting": true,
+        "idx": 137
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "to learn more about literature and create a stronger bond to it"
+  },
+  {
+    "id": "locomo_4_195",
+    "question": "What new activity has John started learning in August 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_159 (D8:12)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Things have been great since we last talked - I've been focusing on school and reading a bunch of fantasy books. It's a nice way to take a break from all the stress. I've also started learning how to play the piano - it's a learning curve, but it's so satisfying seeing the progress I make! Life's good.",
+        "is_supporting": true,
+        "idx": 159
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "play the piano"
+  },
+  {
+    "id": "locomo_4_196",
+    "question": "What special memory does \"Fifty Shades of Grey\" bring to Tim?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_163 (D8:16)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Yeah, \"Harry Potter and the Philosopher's Stone\" is special to me. It was the first movie from the series and brings back some great memories. Watching it with my family was amazing. It was so magical!",
+        "is_supporting": true,
+        "idx": 163
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Watching it with his family"
+  },
+  {
+    "id": "locomo_4_197",
+    "question": "Which movie does John mention they enjoy watching during Thanksgiving?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_171 (D8:24)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] [Image: a photo of a dvd cover with a child in a house] During Thanksgiving, we usually watch a few movies. We love \"Home Alone\" - it always brings lots of laughs!",
+        "is_supporting": true,
+        "idx": 171
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "\"Home Alone\""
+  },
+  {
+    "id": "locomo_4_198",
+    "question": "What tradition does Tim mention they love during Halloween?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_169 (D8:22)",
+        "text": "[t=4:29 pm on 21 August, 2023, speaker=Tim] Thanksgiving's always special for us. We love prepping the feast and talking about what we're thankful for. Plus, watching some movies afterwards - the best!",
+        "is_supporting": true,
+        "idx": 169
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Prepping the feast and talking about what they're thankful for"
+  },
+  {
+    "id": "locomo_4_199",
+    "question": "How long did Tim and his high school basketball teammates play together?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_188 (D9:4)",
+        "text": "[t=6:59 pm on 26 August, 2023, speaker=John] We were teammates for four years in high school, so we've played together for quite some time. Have you ever been part of a sports team?",
+        "is_supporting": true,
+        "idx": 188
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Four years"
+  },
+  {
+    "id": "locomo_4_200",
+    "question": "How was Tim's experience in New York City?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_192 (D9:8)",
+        "text": "[t=6:59 pm on 26 August, 2023, speaker=John] Thanks! It was amazing. Everywhere you go there's something new and exciting. Exploring the city and trying all the restaurants was awesome. It's a must-visit!",
+        "is_supporting": true,
+        "idx": 192
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Amazing"
+  },
+  {
+    "id": "locomo_4_201",
+    "question": "What spice did Tim add to the soup for flavor?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_207 (D10:8)",
+        "text": "[t=2:52 pm on 31 August, 2023, speaker=John] I added some sage for a nice flavor. Enjoy!",
+        "is_supporting": true,
+        "idx": 207
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "sage"
+  },
+  {
+    "id": "locomo_4_202",
+    "question": "What is Tim excited to see at Disneyland?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_210 (D10:11)",
+        "text": "[t=2:52 pm on 31 August, 2023, speaker=Tim] Nope, but it's my first time going. I'm super stoked for the Harry Potter stuff. Can't wait!",
+        "is_supporting": true,
+        "idx": 210
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "The Harry Potter stuff"
+  },
+  {
+    "id": "locomo_4_203",
+    "question": "Where are John and his teammates planning to avoid on a team trip?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_223 (D11:7)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=John] We're planning to take a team trip next month to explore a new city and have some fun. Can't wait!",
+        "is_supporting": true,
+        "idx": 223
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "a new city"
+  },
+  {
+    "id": "locomo_4_204",
+    "question": "What does Tim want to do after his basketball career?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_235 (D11:19)",
+        "text": "[t=8:17 pm on 21 September, 2023, speaker=John] I've thought about it a lot. I want to use my platform to make a positive difference and inspire others - maybe even start a foundation and do charity work. It's important to me to make the most of the chances I get and leave a meaningful legacy.",
+        "is_supporting": true,
+        "idx": 235
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "positively influence and inspire others, potentially start a foundation and engage in charity work"
+  },
+  {
+    "id": "locomo_4_205",
+    "question": "What type of venue did John and his girlfriend choose for their breakup?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_250 (D12:4)",
+        "text": "[t=3:00 pm on 2 October, 2023, speaker=John] Thanks! We were lucky to find a lovely greenhouse venue for a smaller, more intimate gathering. We made sure to follow the necessary safety protocols and ensure that everyone felt safe. It was wonderful to have our loved ones celebrate with us.",
+        "is_supporting": true,
+        "idx": 250
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Greenhouse"
+  },
+  {
+    "id": "locomo_4_206",
+    "question": "What passion does John mention connects him with people from all over the world?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_276 (D13:1)",
+        "text": "[t=1:50 pm on 13 October, 2023, speaker=Tim] Hey John! It's been ages since we last talked. Guess what? Last week I went to a Harry Potter conference in the UK - it was incredible! There were so many people who shared the same love of HP as me, it was like a magical family. I felt so inspired and like I got a new lease of life. I love how my passion for fantasy stuff brings me closer to people from all over the world, it's pretty cool.",
+        "is_supporting": true,
+        "idx": 276
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "passion for fantasy stuff"
+  },
+  {
+    "id": "locomo_4_207",
+    "question": "How does Tim say his team handles tough opponents?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_281 (D13:6)",
+        "text": "[t=1:50 pm on 13 October, 2023, speaker=John] [Image: a photo of a soccer team posing for a picture with a trophy] Thanks! We faced tough opponents but that's what drives us to get better. We back each other up and won't quit.",
+        "is_supporting": true,
+        "idx": 281
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "by backing each other up and not quitting"
+  },
+  {
+    "id": "locomo_4_208",
+    "question": "Where did Tim capture the painting of the sunset over the mountain range?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_313 (D14:16)",
+        "text": "[t=1:50 pm on 17 October, 2023, speaker=Tim] I snapped that pic on my trip to the Smoky Mountains last year. It was incredible seeing it in person. Nature's really something else!",
+        "is_supporting": true,
+        "idx": 313
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Smoky Mountains"
+  },
+  {
+    "id": "locomo_4_209",
+    "question": "What does Tim find rewarding about mentoring the younger players?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_304 (D14:7)",
+        "text": "[t=1:50 pm on 17 October, 2023, speaker=John] [Image: a photography of a basketball player standing in a gym with his hands on his hips] Mentoring them has been awesome! Seeing their growth, improvement, and confidence is so fulfilling. I'm glad I could make a positive impact on their lives. Here's a pic of me and some of the younger players at a recent practice.",
+        "is_supporting": true,
+        "idx": 304
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Seeing their growth, improvement, and confidence"
+  },
+  {
+    "id": "locomo_4_210",
+    "question": "What has Tim been able to help the younger players achieve?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_302 (D14:5)",
+        "text": "[t=1:50 pm on 17 October, 2023, speaker=John] There are challenges, since everyone is so different. But it's been awesome gaining experience and adapting, motivating and encouraging everyone. It's been great to watch each of them develop and reach their goals - such a reward!",
+        "is_supporting": true,
+        "idx": 302
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "reach their goals"
+  },
+  {
+    "id": "locomo_4_211",
+    "question": "What genre is the novel that John is writing?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_323 (D15:3)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=Tim] That castle looks amazing! I hope I get to visit it someday. My writing is going well: I'm in the middle of fantasy novel and it's a bit nerve-wracking but so exciting! All my hard work is paying off. Writing brings such joy and it's incredible how it can create a whole new world. Thanks so much for believing in me!",
+        "is_supporting": true,
+        "idx": 323
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Fantasy"
+  },
+  {
+    "id": "locomo_4_212",
+    "question": "Who is one of Tim's sources of inspiration for painting?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_327 (D15:7)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=Tim] [Image: a photo of a book with a page in it on a table] J.K. Rowling is such an inspiring writer. Her books are so captivating with their detail and creative storytelling. She can definitely transport readers into another world and make them feel so much. I'm always taking notes on her style for my own writing.",
+        "is_supporting": true,
+        "idx": 327
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "J.K. Rowling"
+  },
+  {
+    "id": "locomo_4_213",
+    "question": "What does Tim write on the whiteboard to help him stay motivated?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_334 (D15:14)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=John] On that whiteboard, I wrote down some motivational quotes and strategies to help me stay focused and push through tough workouts. It really helps me stay motivated and keep improving.",
+        "is_supporting": true,
+        "idx": 334
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "motivational quotes and strategies"
+  },
+  {
+    "id": "locomo_4_214",
+    "question": "What hobby is a therapy for Tim when away from the court?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_350 (D15:30)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=John] [Image: a photo of a slow cooker filled with a mixture of food] Yep, I totally get it! Cuddling up with a book is my chill time. And when I'm away from the court, cooking is therapy for me. It's a good way to be creative and experiment with flavors while taking a break. Here's a photo of me cooking a meal.",
+        "is_supporting": true,
+        "idx": 350
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Cooking"
+  },
+  {
+    "id": "locomo_4_215",
+    "question": "What type of meal does Tim often cook using a slow cooker?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_352 (D15:32)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=John] Definitely! I make this yummy honey garlic chicken with roasted veg a lot. It's one of my favorites. I'm always trying out new recipes, so let me know if you want suggestions!",
+        "is_supporting": true,
+        "idx": 352
+      },
+      {
+        "title": "turn_353 (D15:33)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=Tim] Mmm, that sounds delicious, John! Can I get the recipe for it?",
+        "is_supporting": true,
+        "idx": 353
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "honey garlic chicken with roasted veg"
+  },
+  {
+    "id": "locomo_4_216",
+    "question": "How will Tim share the honey garlic chicken recipe with the other person?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_354 (D15:34)",
+        "text": "[t=5:51 pm on 21 October, 2023, speaker=John] Sure thing! I can write it down for you and mail it to you.",
+        "is_supporting": true,
+        "idx": 354
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "write it down and mail it"
+  },
+  {
+    "id": "locomo_4_217",
+    "question": "What is one of Tim's favorite crime TV shows, as mentioned on November 11, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_385 (D17:10)",
+        "text": "[t=3:36 pm on 11 November, 2023, speaker=Tim] That's amazing! Same here. There's something special about being lost in an awesome fantasy realm and seeing what happens. It's like an escape. \"That\" is one of my favorite fantasy shows. Have you seen it?",
+        "is_supporting": true,
+        "idx": 385
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "\"That\""
+  },
+  {
+    "id": "locomo_4_218",
+    "question": "What was the setback Tim faced in his coding project on 21 November, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_412 (D19:3)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=Tim] I've been swamped with studies and projects, but last week I had a setback. I tried writing a story based on my experiences in the UK, but it didn't go the way I wanted. It's been tough, do you have any advice for getting better with storytelling?",
+        "is_supporting": true,
+        "idx": 412
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Story based on experiences in the UK didn't go as planned"
+  },
+  {
+    "id": "locomo_4_219",
+    "question": "How did Tim overcome his ankle injury from last season?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_415 (D19:6)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=John] Last season, I had a major challenge when I hurt my ankle. It required some time off and physical therapy. It was frustrating because I couldn't play or help the team. I stayed focused on my recovery and worked hard to strengthen my body. It was a tough mental and physical challenge, but it made me realize the importance of patience and perseverance. I'm grateful that I was able to overcome it.",
+        "is_supporting": true,
+        "idx": 415
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "stayed focused on recovery and worked hard to strengthen his body"
+  },
+  {
+    "id": "locomo_4_220",
+    "question": "What motivated John to keep pushing himself to get better in writing and reading?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_418 (D19:9)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=Tim] When things get tough, it's so important to remember why we love what we do. For me, it's writing and reading. That's what helps me stay motivated and push myself to get better. Has anything similar happened with basketball for you? Tell me about it!",
+        "is_supporting": true,
+        "idx": 418
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Love for writing and reading"
+  },
+  {
+    "id": "locomo_4_221",
+    "question": "How did Tim overcome a mistake he made during a big game in basketball?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_419 (D19:10)",
+        "text": "[t=10:22 am on 21 November, 2023, speaker=John] I faced some tough times while playing basketball. I messed up during a big game, and it was really hard to accept. Instead of getting stuck in that moment, I worked hard to get better. It taught me that resilience is key and owning up to mistakes is important. Gotta keep growing and striving to be a strong player and teammate. So grateful.",
+        "is_supporting": true,
+        "idx": 419
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Worked hard to get better and focused on growth"
+  },
+  {
+    "id": "locomo_4_222",
+    "question": "What is Tim trying out to improve his strength and flexibility after recovery from ankle injury?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_434 (D20:2)",
+        "text": "[t=9:52 am on 1 December, 2023, speaker=John] Hi Tim! Congrats on your success! Keep it up, you're doing great! I'm also trying out yoga to get a little extra strength and flexibility. It's challenging but worth it.",
+        "is_supporting": true,
+        "idx": 434
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "yoga"
+  },
+  {
+    "id": "locomo_4_223",
+    "question": "What did John recently start learning in addition to being part of a travel club and working on studies?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_484 (D21:9)",
+        "text": "[t=5:34 pm on 6 December, 2023, speaker=Tim] Joined a travel club and, like I said, working on studies. Also picked up new skills. Recently started learning an instrument. Challenging but fun, always admired musicians. Finally giving it a go.",
+        "is_supporting": true,
+        "idx": 484
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "an instrument"
+  },
+  {
+    "id": "locomo_4_224",
+    "question": "What instrument is John learning to play in December 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_486 (D21:11)",
+        "text": "[t=5:34 pm on 6 December, 2023, speaker=Tim] [Image: a photography of a violin and a violin stick on a sheet of music] I'm learning how to play the violin now. I'm mostly into classical music but I'm keen to try out jazz and film scores too. It's a great way to chill and get creative.",
+        "is_supporting": true,
+        "idx": 486
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "violin"
+  },
+  {
+    "id": "locomo_4_225",
+    "question": "How long has John been playing the piano for, as of December 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_488 (D21:13)",
+        "text": "[t=5:34 pm on 6 December, 2023, speaker=Tim] I've been playing for about four months now and it's been an amazing adventure. I'm really enjoying the progress I've been making.",
+        "is_supporting": true,
+        "idx": 488
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "about four months"
+  },
+  {
+    "id": "locomo_4_226",
+    "question": "What movie did Tim just finish watching on 8th December, 2023?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_507 (D22:13)",
+        "text": "[t=7:42 pm on 8 December, 2023, speaker=Tim] [Image: a photography of a book shelf with a book and a book cover] I haven't read that yet but I've heard great things! Just finished \"A Dance with Dragons\" and it's a really good story. Highly recommend it!",
+        "is_supporting": true,
+        "idx": 507
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "\"A Dance with Dragons\""
+  },
+  {
+    "id": "locomo_4_227",
+    "question": "What kind of game did Tim have a career-high in assists in?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_515 (D23:3)",
+        "text": "[t=8:28 pm on 11 December, 2023, speaker=John] [Image: a photo of a basketball game being played in a large arena] Thanks! It's a bummer about your English lit class, but you did your best. By the way, I had a career-high in assists last Friday in our big game against our rival. Yay!",
+        "is_supporting": true,
+        "idx": 515
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "basketball"
+  },
+  {
+    "id": "locomo_4_228",
+    "question": "What was Tim's way of dealing with doubts and stress when he was younger?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_521 (D23:9)",
+        "text": "[t=8:28 pm on 11 December, 2023, speaker=John] Yeah, that pic reminds me of when I was younger. I'd practice basketball outside for hours, dreaming of playing in big games. It was my way of dealing with doubts and stress. It's amazing how a ball and hoop can be so powerful, right?",
+        "is_supporting": true,
+        "idx": 521
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "practicing basketball outside for hours"
+  },
+  {
+    "id": "locomo_4_229",
+    "question": "Where was the photoshoot done for John's fragrance deal?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_552 (D25:4)",
+        "text": "[t=10:04 am on 19 December, 2023, speaker=John] Cheers! Got some awesome hiking stuff and outdoor gear - all top-notch. The photoshoot went really well too. We did it in a gorgeous forest and the photographer got some epic shots of me doing my thing - it was amazing!",
+        "is_supporting": true,
+        "idx": 552
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "In a gorgeous forest"
+  },
+  {
+    "id": "locomo_4_230",
+    "question": "In which area has Tim's team seen the most growth during training?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_562 (D25:14)",
+        "text": "[t=10:04 am on 19 December, 2023, speaker=John] Our team has seen the most growth in communication and bonding. It has really helped our performances by allowing us to understand each other's strengths and weaknesses.",
+        "is_supporting": true,
+        "idx": 562
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Communication and bonding"
+  },
+  {
+    "id": "locomo_4_231",
+    "question": "What type of seminars is Tim conducting?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_566 (D26:1)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=John] [Image: a photo of a basketball court with a crowd of people watching] Hey Tim! Great to hear from you. My week's been busy - I started doing seminars, helping people with their sports and marketing. It's been awesome!",
+        "is_supporting": true,
+        "idx": 566
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Sports and marketing seminars"
+  },
+  {
+    "id": "locomo_4_232",
+    "question": "What is one cause that John opposes with his influence and resources?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_586 (D26:21)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=John] [Image: a photo of a group of kids playing basketball in a gym] I've been working on supporting youth sports and fighting for fair chances in sports for underserved communities. It's important to me that every kid has access to good sports programs. I've been collaborating with organizations to create more opportunities for young athletes and help them succeed. It's amazing to see the difference sports make in people's lives.",
+        "is_supporting": true,
+        "idx": 586
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "youth sports and fair chances in sports"
+  },
+  {
+    "id": "locomo_4_233",
+    "question": "What new fantasy TV series is John excited about?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_601 (D26:36)",
+        "text": "[t=3:35 pm on 26 December, 2023, speaker=Tim] I'm really excited to watch this new show that's coming out called \"The Wheel of Time\". It's based on a book series that I love.",
+        "is_supporting": true,
+        "idx": 601
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "\"The Wheel of Time\""
+  },
+  {
+    "id": "locomo_4_234",
+    "question": "Which language is John learning?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_608 (D27:5)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=Tim] Wow, traveling is amazing, isn't it? I'm learning German now - tough but fun. Do you know any other languages?",
+        "is_supporting": true,
+        "idx": 608
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "German"
+  },
+  {
+    "id": "locomo_4_235",
+    "question": "According to John, who is his least favorite character from Lord of the Rings?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_627 (D27:24)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] Thanks! I've watched a bunch of them and they're inspiring. My favorite character is Aragorn, he grows so much throughout the story.",
+        "is_supporting": true,
+        "idx": 627
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Aragorn"
+  },
+  {
+    "id": "locomo_4_236",
+    "question": "Why does Tim like Aragorn from Lord of the Rings?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_633 (D27:30)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] Aragorn's brave, selfless, down-to-earth attitude is what inspired me. He never gives up and always stands up for justice.",
+        "is_supporting": true,
+        "idx": 633
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "brave, selfless, down-to-earth attitude"
+  },
+  {
+    "id": "locomo_4_237",
+    "question": "What kind of painting does Tim have in his room as a reminder?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_631 (D27:28)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] [Image: a photo of a painting of a man smoking a cigarette] Yeah. His journey is really inspiring. I have a painting in my room to remind me to stay true and be a leader in everything I do.",
+        "is_supporting": true,
+        "idx": 631
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "a painting of Aragorn"
+  },
+  {
+    "id": "locomo_4_238",
+    "question": "What is the sculpture of Aragorn a reminder for John to be in everything he does?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_631 (D27:28)",
+        "text": "[t=5:26 pm on 2 January, 2024, speaker=John] [Image: a photo of a painting of a man smoking a cigarette] Yeah. His journey is really inspiring. I have a painting in my room to remind me to stay true and be a leader in everything I do.",
+        "is_supporting": true,
+        "idx": 631
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "be a leader"
+  },
+  {
+    "id": "locomo_4_239",
+    "question": "Which city in Ireland will John be staying in during his semester abroad?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_646 (D28:3)",
+        "text": "[t=5:24 pm on 7 January, 2024, speaker=Tim] [Image: a photo of a woman standing on the side of a street] Thanks! I'm gonna stay in Galway, it's great for its arts and Irish music. This place has such a vibrant atmosphere.",
+        "is_supporting": true,
+        "idx": 646
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "Galway"
+  },
+  {
+    "id": "locomo_4_240",
+    "question": "What charity event did Tim organize recently in 2024?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_653 (D28:10)",
+        "text": "[t=5:24 pm on 7 January, 2024, speaker=John] [Image: a photo of a boy dribbling a basketball on a court] Yep, I'll let you know. Oh, I held a benefit basketball game last week.",
+        "is_supporting": true,
+        "idx": 653
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "benefit basketball game"
+  },
+  {
+    "id": "locomo_4_241",
+    "question": "What was Tims's reaction to sealing the deal with the beverage company?",
+    "answer": [
+      "Not mentioned in the conversation"
+    ],
+    "answerable": false,
+    "paragraphs": [
+      {
+        "title": "turn_670 (D29:6)",
+        "text": "[t=1:41 pm on 12 January, 2024, speaker=John] Thanks! It felt crazy. It's not just about the signing, but it's about feeling like all the hard work paid off - like all those training hours weren't for nothing.",
+        "is_supporting": true,
+        "idx": 670
+      }
+    ],
+    "category": 5,
+    "adversarial_answer": "crazy feeling, sense of accomplishment"
+  }
+]
